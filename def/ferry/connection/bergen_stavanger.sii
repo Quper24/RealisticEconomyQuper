@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.bergen.stavanger {
+	price: 57
+	time: 431
+	distance: 206
+}
+}

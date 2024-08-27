@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.mersing.kawthaung {
+	price: 276
+	time: 1922
+	distance: 1589
+}
+}
+

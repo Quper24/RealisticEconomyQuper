@@ -1,0 +1,7 @@
+ferry_data: ferry.algeciras
+{
+	ferry_name: "Port Algeciras"
+	ferry_name_localized: "@@Port Algeciras@@"
+}
+
+

@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.ceuta.fnideq {
+	price: 9
+	time: 90
+	distance: 100
+}
+}

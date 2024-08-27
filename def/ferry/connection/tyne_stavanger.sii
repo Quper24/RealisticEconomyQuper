@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.tyne.stavanger {
+	price: 128
+	time: 1045
+	distance: 559
+}
+}

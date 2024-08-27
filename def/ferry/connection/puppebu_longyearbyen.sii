@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.puppebu.longyearbyen{
+	price: 120
+	time: 1828
+	distance: 1700
+}
+}
+

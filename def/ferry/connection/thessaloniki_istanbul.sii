@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.thessaloniki.istanbul{
+	price: 105
+	time: 575
+	distance: 350
+}
+}
+

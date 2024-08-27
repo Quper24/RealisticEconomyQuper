@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.capetown.male {
+	price: 376
+	time: 8702
+	distance: 5989
+}
+}

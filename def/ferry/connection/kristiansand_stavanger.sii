@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.kristiansand.stavanger {
+	price: 48
+	time: 483
+	distance: 228
+}
+}

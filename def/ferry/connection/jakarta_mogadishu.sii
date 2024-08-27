@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.jakarta.mogadishu{
+	price: 376
+	time: 5272
+	distance: 3589
+}
+}
+

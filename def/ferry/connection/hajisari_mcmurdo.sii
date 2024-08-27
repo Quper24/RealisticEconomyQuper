@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.hajisari.mcmurdo {
+	price: 2000
+	time: 6292
+	distance: 7424
+}
+}
+

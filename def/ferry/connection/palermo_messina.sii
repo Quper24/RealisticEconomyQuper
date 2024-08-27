@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.palermo.messina{
+	price: 150
+	time: 299
+	distance: 200
+}
+}
+

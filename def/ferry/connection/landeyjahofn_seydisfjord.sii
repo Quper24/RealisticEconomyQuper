@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.landeyjahofn.seydisfjord{
+	price: 190
+	time: 980
+	distance: 780
+}
+}
+

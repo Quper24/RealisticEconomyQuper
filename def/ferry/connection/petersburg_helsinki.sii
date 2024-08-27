@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.petersburg.helsinki {
+	price: 70
+	time: 340
+	distance: 190
+}
+}

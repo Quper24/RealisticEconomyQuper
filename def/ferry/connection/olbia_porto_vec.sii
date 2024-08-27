@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.olbia.porto_vec {
+	price: 54
+	time: 175
+	distance: 97
+}
+}

@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.durres.tripoli{
+	price: 215
+	time: 2160
+	distance: 1080
+}
+}

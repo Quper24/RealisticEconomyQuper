@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.cagliari.algiers{
+	price: 150
+	time: 1000
+	distance: 520
+}
+}
+

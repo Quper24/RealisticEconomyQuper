@@ -1,0 +1,10 @@
+SiiNunit
+{
+ferry_connection : conn.grutness.bergen{
+	price: 355
+	time: 170
+	distance: 245
+
+}
+}
+

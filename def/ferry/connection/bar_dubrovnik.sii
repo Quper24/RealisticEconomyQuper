@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.bar.dubrovnik {
+	price: 50
+	time: 280
+	distance: 100
+}
+}
+

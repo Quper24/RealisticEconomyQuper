@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.puppebu.olonkinbyen{
+	price: 75
+	time: 428
+	distance: 300
+}
+}
+

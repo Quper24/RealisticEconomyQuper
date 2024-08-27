@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.fnideq.algiers {
+	price: 104
+	time: 776
+	distance: 477
+}
+}

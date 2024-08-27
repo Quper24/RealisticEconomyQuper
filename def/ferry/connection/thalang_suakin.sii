@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.thalang.suakin {
+	price: 404
+	time: 5668
+	distance: 3026
+}
+}

@@ -1,0 +1,7 @@
+ferry_data: ferry.stahlbrode
+{
+	ferry_name: "Stahlbrode"
+	ferry_name_localized: "@@Stahlbrode@@"
+}
+
+

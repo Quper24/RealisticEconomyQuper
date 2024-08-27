@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.ancona.koper2{
+	price: 150
+	time: 400
+	distance: 200
+}
+}
+

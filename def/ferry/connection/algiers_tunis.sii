@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.algiers.tunis{
+	price: 110
+	time: 1270
+	distance: 720
+}
+}

@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.trelleborg.frederikshv {
+	price: 162
+	time: 775
+	distance: 361
+}
+}

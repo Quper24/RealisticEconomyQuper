@@ -1,0 +1,11 @@
+
+###
+# WARNING: Map must be rebuilt when anything is changed here!
+###
+ferry_data: ferry.bechet
+{
+	ferry_name: "Bechet"
+    ferry_name_localized: "@@Bechet@@"
+
+}
+

@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.heraklion.messina {
+	price: 112
+	time: 1307
+	distance: 980
+}
+}

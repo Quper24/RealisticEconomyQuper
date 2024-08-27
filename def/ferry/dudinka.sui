@@ -1,0 +1,6 @@
+ferry_data: ferry.dudinka
+{
+	ferry_name: "Дудинка"
+	ferry_name_localized: "@@Dudinka@@"
+}
+

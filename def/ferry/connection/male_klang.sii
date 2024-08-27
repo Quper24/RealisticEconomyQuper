@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.male.klang{
+	price: 276
+	time: 3072
+	distance: 2589
+}
+}
+

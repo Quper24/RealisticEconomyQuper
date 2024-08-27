@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.male.jakarta {
+    price: 300
+    time: 10800
+    distance: 5350
+}
+}

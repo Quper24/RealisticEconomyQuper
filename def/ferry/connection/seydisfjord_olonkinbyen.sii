@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.seydisfjord.olonkinbyen {
+	price: 162
+	time: 1507
+	distance: 1080
+}
+}

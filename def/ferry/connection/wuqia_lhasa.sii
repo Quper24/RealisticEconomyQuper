@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.wuqia.lhasa {
+	price: 190
+	time: 2100
+	distance: 2007
+}
+}
+

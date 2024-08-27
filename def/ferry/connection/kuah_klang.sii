@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.kuah.klang {
+	price: 75
+	time: 735
+	distance: 435
+}
+}

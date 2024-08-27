@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.malabo.mcmurdo {
+	price: 1500
+	time: 5804
+	distance: 4711
+}
+}
+

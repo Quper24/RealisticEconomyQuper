@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.samsun.trabzon{
+	price: 75
+	time: 460
+	distance: 350
+}
+}
+

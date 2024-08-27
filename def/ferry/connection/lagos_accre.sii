@@ -1,0 +1,10 @@
+SiiNunit
+{
+ferry_connection : conn.lagos.accre{
+	price: 22
+	time: 366
+	distance: 150
+}
+
+}
+

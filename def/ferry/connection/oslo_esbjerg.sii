@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.oslo.esbjerg {
+	price: 162
+	time: 875
+	distance: 461
+}
+}

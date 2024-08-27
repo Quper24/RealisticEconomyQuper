@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.hainan1.sematan {
+	price: 276
+	time: 2342
+	distance: 2189
+}
+}
+

@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.thessaloniki.rhodes {
+	price: 49
+	time: 725
+	distance: 400
+}
+}

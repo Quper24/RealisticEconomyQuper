@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.korsakov.vanimo {
+	price: 404
+	time: 5098
+	distance: 3126
+}
+}

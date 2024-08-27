@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.douglas.warrenpnt {
+	price: 110
+	time: 350
+	distance: 200
+}
+}
+

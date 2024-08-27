@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.nynashamn.mariehamn{
+	price: 56
+	time: 292
+	distance: 189
+}
+}

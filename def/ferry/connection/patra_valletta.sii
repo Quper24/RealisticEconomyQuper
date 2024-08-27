@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.patra.valletta {
+	price: 141
+	time: 1461
+	distance: 936
+}
+}
+

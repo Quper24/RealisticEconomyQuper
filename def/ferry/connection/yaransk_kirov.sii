@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.yaransk.kirov {
+	price: 50
+	time: 740
+	distance: 299
+		
+}
+}

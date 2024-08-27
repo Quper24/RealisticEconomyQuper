@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.cagliari.marseille{
+	price: 150
+	time: 1100
+	distance: 550
+}
+}
+

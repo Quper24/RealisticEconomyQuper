@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.banjul.plymouth {
+	price: 280
+	time: 4390
+	distance: 3000
+}
+}
+

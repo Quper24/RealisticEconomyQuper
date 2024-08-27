@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.ashdod.mersin{
+	price: 144
+	time: 975
+	distance: 520
+}
+}
+

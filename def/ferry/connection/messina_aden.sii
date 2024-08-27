@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.messina.aden {
+	price: 250
+	time: 4200
+	distance: 2600
+}
+}
+

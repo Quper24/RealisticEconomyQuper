@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.ashdod.lemesos{
+	price: 111
+	time: 720
+	distance: 400
+}
+}
+

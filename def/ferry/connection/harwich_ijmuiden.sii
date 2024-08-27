@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.harwich.ijmuiden{
+	price: 150
+	time: 499
+	distance: 270
+}
+}

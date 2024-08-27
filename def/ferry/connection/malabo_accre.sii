@@ -1,0 +1,10 @@
+SiiNunit
+{
+ferry_connection : conn.malabo.accre{
+	price: 105
+	time: 1060
+	distance: 3000
+
+}
+}
+

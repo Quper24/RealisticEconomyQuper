@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.faarosund.ventspils {
+	price: 20
+	time: 200
+	distance: 200
+}
+}
+

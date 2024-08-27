@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.plymouth.cherbourg {
+	price: 112
+	time: 676
+	distance: 305
+}
+}
+

@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.tunnel_db.varna{
+	price: 276
+	time: 2172
+	distance: 1489
+}
+}
+

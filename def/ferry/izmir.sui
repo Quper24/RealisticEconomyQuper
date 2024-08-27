@@ -1,0 +1,7 @@
+ferry_data: ferry.izmir
+{
+	ferry_name: "Izmir"
+    ferry_name_localized: "@@Izmir@@"
+
+}
+

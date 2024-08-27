@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.nouakchott.plymouth{
+	price: 336
+	time: 3516
+	distance: 2296
+}
+}
+

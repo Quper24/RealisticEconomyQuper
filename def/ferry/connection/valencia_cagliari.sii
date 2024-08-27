@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.valencia.cagliari{
+	price: 150
+	time: 1088
+	distance: 520
+}
+}

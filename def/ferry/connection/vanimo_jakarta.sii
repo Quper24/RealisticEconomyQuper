@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.vanimo.jakarta {
+	price: 404
+	time: 3698
+	distance: 3126
+}
+}

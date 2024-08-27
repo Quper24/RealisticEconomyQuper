@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.holmsund.naantali{
+	price: 1500
+	time: 719
+	distance: 400
+}
+}
+

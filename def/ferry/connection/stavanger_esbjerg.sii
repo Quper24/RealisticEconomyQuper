@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.stavanger.esbjerg{
+	price: 150
+	time: 898
+	distance: 520
+}
+}
+

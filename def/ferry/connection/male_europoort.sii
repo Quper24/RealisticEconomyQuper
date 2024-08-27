@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.male.europoort {
+	price: 576
+	time: 16800
+	distance: 11180
+}
+}

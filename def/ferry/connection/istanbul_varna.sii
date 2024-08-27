@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.istanbul.varna{
+	price: 102
+	time: 726
+	distance: 350
+}
+}

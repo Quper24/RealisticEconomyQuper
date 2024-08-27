@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.goteborg.tyne{
+	price: 150
+	time: 1299
+	distance: 670
+}
+}
+

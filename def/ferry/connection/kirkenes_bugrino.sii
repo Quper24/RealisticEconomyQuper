@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.kirkenes.bugrino{
+	price: 126
+	time: 772
+	distance: 389
+}
+}
+

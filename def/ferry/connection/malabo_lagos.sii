@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.malabo.lagos {
+	price: 46
+	time: 722
+	distance: 389
+}
+}

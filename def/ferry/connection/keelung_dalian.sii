@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.keelung.dalian{
+	price: 276
+	time: 2272
+	distance: 2189
+}
+}
+

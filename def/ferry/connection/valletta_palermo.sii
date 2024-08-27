@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.valletta.palermo{
+	price: 150
+	time: 600
+	distance: 360
+}
+}

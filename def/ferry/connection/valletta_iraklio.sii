@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.valletta.iraklio {
+	price: 152
+	time: 1677
+	distance: 965
+}
+}

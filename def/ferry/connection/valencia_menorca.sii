@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.valencia.menorca{
+	price: 100
+	time: 585
+	distance: 310
+}
+}
+

@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.barcelona.algiers{
+	price: 150
+	time: 888
+	distance: 520
+}
+}

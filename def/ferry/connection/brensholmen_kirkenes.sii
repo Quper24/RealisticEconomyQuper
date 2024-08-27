@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.brensholmen.kirkenes {
+	price: 106
+	time: 872
+	distance: 389
+}
+}

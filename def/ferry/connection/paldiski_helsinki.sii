@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.paldiski.helsinki {
+	price: 37
+	time: 250
+	distance: 197
+}
+}

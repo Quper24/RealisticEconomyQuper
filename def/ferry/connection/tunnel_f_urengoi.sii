@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.tunnel_f.urengoi {
+	price: 1000
+	time: 5700
+	distance: 3000
+}
+}
+

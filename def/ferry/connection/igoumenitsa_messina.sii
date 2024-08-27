@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.igoumenitsa.messina {
+	price: 150
+	time: 750
+	distance: 400
+}
+}

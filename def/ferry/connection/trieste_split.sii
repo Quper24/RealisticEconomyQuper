@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.trieste.split{
+	price: 150
+	time: 720
+	distance: 330
+}
+}
+

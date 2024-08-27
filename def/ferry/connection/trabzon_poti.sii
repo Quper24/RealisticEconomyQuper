@@ -1,0 +1,10 @@
+SiiNunit
+{
+ferry_connection : conn.trabzon.poti{
+	price: 75
+	time: 660
+	distance: 350
+
+}
+}
+

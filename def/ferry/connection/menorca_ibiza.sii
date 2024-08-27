@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.menorca.ibiza{
+	price: 73
+	time: 385
+	distance: 210
+}
+}
+

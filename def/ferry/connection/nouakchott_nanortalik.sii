@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.nouakchott.nanortalik{
+	price: 246
+	time: 4752
+	distance: 3089
+}
+}
+

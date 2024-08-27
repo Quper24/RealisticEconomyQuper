@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.marseille.livorno{
+	price: 150
+	time: 666
+	distance: 350
+}
+}
+

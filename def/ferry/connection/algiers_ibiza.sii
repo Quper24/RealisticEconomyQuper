@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.algiers.ibiza {
+	price: 37
+	time: 510
+	distance: 197
+}
+}

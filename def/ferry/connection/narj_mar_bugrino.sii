@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.narj_mar.bugrino {
+	price: 105
+	time: 660
+	distance: 360
+}
+}
+

@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.calais.capetown {
+	price: 426
+	time: 10000
+	distance: 4969
+}
+}
+

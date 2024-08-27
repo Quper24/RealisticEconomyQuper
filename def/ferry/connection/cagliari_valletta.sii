@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.cagliari.valletta{
+	price: 150
+	time: 840
+	distance: 400
+}
+}
+

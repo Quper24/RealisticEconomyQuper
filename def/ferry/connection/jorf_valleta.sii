@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.jorf.valletta{
+	price: 150
+	time: 750
+	distance: 360
+}
+}
+

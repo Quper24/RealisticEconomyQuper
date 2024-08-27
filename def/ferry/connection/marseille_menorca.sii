@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.marseille.menorca{
+	price: 130
+	time: 725
+	distance: 350
+}
+}
+
