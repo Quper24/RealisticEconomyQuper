@@ -1,0 +1,17 @@
+SiiNunit
+{
+ferry_connection : conn.vanimo.bangao {
+	price: 895
+	time: 2400
+	distance: 2560
+
+	# NODE POSITIONS #######     x*256  , 0,   z*256
+	connection_positions[0]:  (146688000, 0,  -58752000)
+	connection_positions[1]:  (143027200, 0,  -47976960)
+
+	# NODE ROTATIONS #######   -sin(jaw), 0, -cos(jaw)
+	connection_directions[0]:  (0, 0, 0)
+	connection_directions[1]:  (0, 0, 0)
+}
+}
+

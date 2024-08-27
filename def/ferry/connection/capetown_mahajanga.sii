@@ -1,0 +1,10 @@
+SiiNunit
+{
+ferry_connection : conn.capetown.mahajanga{
+	price: 11
+	time: 250
+	distance: 900
+
+}
+}
+

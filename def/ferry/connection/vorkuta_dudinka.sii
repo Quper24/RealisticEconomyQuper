@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.vorkuta.dudinka {
+	price: 320
+	time: 5000
+	distance: 2420
+}
+}
+

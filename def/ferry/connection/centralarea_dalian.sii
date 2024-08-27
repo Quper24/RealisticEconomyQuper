@@ -1,0 +1,30 @@
+SiiNunit
+{
+ferry_connection : conn.centralarea.dalian{
+	price: 156
+	time: 6030
+	distance: 5030
+
+	# NODE POSITIONS #######     x*256  , 0,   z*256
+	connection_positions[0]:  (142986240, 0,  -15848960)
+	connection_positions[1]:  (143224320, 0,  -15923200)
+	connection_positions[2]:  (143795200, 0,  -17536000)
+	connection_positions[3]:  (140800000, 0,  -27648000)
+	connection_positions[4]:  (130560000, 0,  -35840000)
+	connection_positions[5]:  (104960000, 0,  -56893696)
+	connection_positions[6]:  (91008000, 0,  -58752000)
+	connection_positions[7]:  (87923200, 0,  -57702400)
+
+	# NODE ROTATIONS #######   -sin(jaw), 0, -cos(jaw)
+	connection_directions[0]:  (0.64279, 0,  0.64279)
+	connection_directions[1]:  (-0.10756, 0,  0.10756)
+	connection_directions[2]:  (-0.05, 0, -0.99756)
+	connection_directions[3]:  (-1, 0, -1)
+	connection_directions[4]:  (0, 0,  0)
+	connection_directions[5]:  (-0.64279, 0, -0.76604)
+	connection_directions[6]:  (-0.64279, 0, -0.76604)
+	connection_directions[7]:  (-0.98481, 0,  -0.00081)
+
+}
+}
+

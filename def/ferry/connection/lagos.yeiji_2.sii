@@ -1,0 +1,10 @@
+SiiNunit
+{
+ferry_connection : conn.lagos.yeiji_2{
+	price: 2
+	time: 2560
+	distance: 4000
+}
+
+}
+

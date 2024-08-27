@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.heraklion.larnaka1 {
+	price: 51
+	time: 181
+	distance: 102
+}
+}
+

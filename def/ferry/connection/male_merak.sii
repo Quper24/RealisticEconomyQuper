@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.male.merak {
+	price: 35
+	time: 1850
+	distance: 3500
+}
+}
+

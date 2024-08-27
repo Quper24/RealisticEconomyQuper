@@ -1,0 +1,10 @@
+SiiNunit
+{
+ferry_connection : conn.bodo.torshavn{
+	price: 129
+	time: 1100
+	distance: 680
+	
+}
+}
+

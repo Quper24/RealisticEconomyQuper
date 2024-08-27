@@ -1,0 +1,24 @@
+SiiNunit
+{
+ferry_connection : conn.bangao.daru {
+	price: 900
+	time: 3000
+	distance: 3600
+
+	# NODE POSITIONS #######     x*256  , 0,   z*256
+	connection_positions[0]:  (143027200, 0,  -47976960)
+	connection_positions[1]:  (146688000, 0,  -58752000)
+	connection_positions[2]:  (148631040, 0,  -60032000)
+	connection_positions[3]:  (162304000, 0,  -64000000)
+	connection_positions[4]:  (172800000, 0,  -83002880)
+	connection_positions[5]:  (172800000, 0,  -96256000)
+
+	# NODE ROTATIONS #######   -sin(jaw), 0, -cos(jaw)
+	connection_directions[0]:  (0, 0, 0)
+	connection_directions[1]:  (0, 0, 0)
+	connection_directions[2]:  (0.64279, 0, -0.25882)
+	connection_directions[3]:  (0.25882, 0, -0.81915)
+	connection_directions[4]:  (0, 0, -1)
+	connection_directions[5]:  (0, 0, -1)
+}
+}

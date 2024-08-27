@@ -1,0 +1,21 @@
+SiiNunit
+{
+ferry_connection : conn.sematan.bangao {
+	price: 250
+	time: 1500
+	distance: 1178
+
+	# NODE POSITIONS #######     x*256  , 0,   z*256
+	connection_positions[0]:  (137600000, 0,  -44032000)
+	connection_positions[1]:  (141952000, 0,  -47232000)
+	connection_positions[2]:  (143232000, 0,  -47846400)
+	connection_positions[3]:  (143027200, 0,  -47976960)
+
+	# NODE ROTATIONS #######   -sin(jaw), 0, -cos(jaw)
+	connection_directions[0]:  (0.5, 0, -0.5)
+	connection_directions[1]:  (0.64279, 0, -0.76604)
+	connection_directions[2]:  (0.99144, 0, -0.83053)
+	connection_directions[3]:  (-0.99619, 0, 0)
+
+}
+}
