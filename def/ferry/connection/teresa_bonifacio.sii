@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.teresa.bonifacio {
+	price: 20
+	time: 120
+	distance: 60
+}
+}
