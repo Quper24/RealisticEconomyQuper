@@ -1,0 +1,6 @@
+ferry_data: ferry.magadan
+{
+	ferry_name: "Магадан"
+	ferry_name_localized: "@@Magadan@@"
+}
+
