@@ -67,12 +67,12 @@ economy_data : economy.data.storage
 #
 # AI driver related configuration
 #
-	fuel_cost_per_km: (0.15, 0.2)			# for driver simulation 
-	driver_max_cargo_damage: 2.0			# in %, decrease with skill 
-	driver_maintenance_cost: (0.18, 0.3) 		# maintenance + insurance, base range in E/km 
-	minimal_driver_salary:	35			# fixed part of driver's pay 
-	driver_revenue_coef_per_km: 0.067		# Revenue coefficient used during quick job and drivers jobs. 
-	driver_cargo_market_revenue_coef_per_km: 0.070 	# Revenue coefficient used during cargo market jobs for drivers. 
+	fuel_cost_per_km: (0.15, 0.2)										# for driver simulation 
+	driver_max_cargo_damage: 2.0										# in %, decrease with skill 
+	driver_maintenance_cost: (0.18, 0.3) 						# maintenance + insurance, base range in E/km 
+	minimal_driver_salary:	5												# fixed part of driver's pay 
+	driver_revenue_coef_per_km: 0.08								# Revenue coefficient used during quick job and drivers jobs. 
+	driver_cargo_market_revenue_coef_per_km: 0.085 	# Revenue coefficient used during cargo market jobs for drivers. 
 
 	driver_hire_cost: 1500				# Euro 
 
@@ -288,7 +288,7 @@ economy_data : economy.data.storage
 	currency_sign3[]: " kr"
 
 	currency_code[]: "RUB"
-	currency_ratio[]: 150
+	currency_ratio[]: 130
 	currency_sign1[]: ""
 	currency_sign2[]: "₽"
 	currency_sign3[]: ""
