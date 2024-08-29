@@ -72,21 +72,21 @@ economy_data : economy.data.storage
 #
 # AI driver related configuration
 #
-	fuel_cost_per_km: (0.15, 0.2)										# for driver simulation 
-	driver_max_cargo_damage: 2.0										# in %, decrease with skill 
-	driver_maintenance_cost: (0.18, 0.3) 						# maintenance + insurance, base range in E/km 
-	minimal_driver_salary:	5												# fixed part of driver's pay 
-	driver_revenue_coef_per_km: 0.08								# Revenue coefficient used during quick job and drivers jobs. 
-	driver_cargo_market_revenue_coef_per_km: 0.085 	# Revenue coefficient used during cargo market jobs for drivers. 
+	fuel_cost_per_km: (1.0, 1.2)		# for driver simulation
+	driver_max_cargo_damage: 2.0		# in %, decrease with skill
+	driver_maintenance_cost: (1.0, 2.0) 	# maintenance + insurance, base range in E/km
+	minimal_driver_salary:	10		# fixed part of driver's pay
+	driver_revenue_coef_per_km: 0.04		# Revenue coefficient used during quick job and drivers jobs.
+	driver_cargo_market_revenue_coef_per_km: 0.06 # Revenue coefficient used during cargo market jobs for drivers.
 
-	driver_hire_cost: 500				# Euro 
+	driver_hire_cost: 200		# Euro
 
-	free_driver_level_cap: 30			# don't grow offered drivers higher than this level
+	free_driver_level_cap: 30	# don't grow offered drivers higher than this level
 	driver_offer_scrap_prob: 0.5
 
-	driver_quitwarn_time: 3				# days
-	driver_quit_time: 5				# days
-	driver_no_return_job_prob: 0.1			# 10% of no return job, decrease with skill
+	driver_quitwarn_time: 3		# days
+	driver_quit_time: 5		# days
+	driver_no_return_job_prob: 0.1	# 10% of no return job, decrease with skill
 
 	driver_skilled_job_prob: 0.8
 
@@ -94,16 +94,16 @@ economy_data : economy.data.storage
 ## Skill job filtering
 ##  Job distance limit (in km of real world)
 ##
-	skill_distance[0]:	250 			
-	skill_distance[1]:	400 			
-	skill_distance[2]:	700 			
-	skill_distance[3]:	1000 			
-	skill_distance[4]:	1300 			
-	skill_distance[5]:	1750		
+	skill_distance[0]:	250
+	skill_distance[1]:	400
+	skill_distance[2]:	700
+	skill_distance[3]:	1000
+	skill_distance[4]:	1300
+	skill_distance[5]:	1750
 
-	fixed_revenue: 50
-	revenue_coef_per_km: 0.15 			# Revenue coefficient per km used during freight market jobs. 
-	cargo_market_revenue_coef_per_km: 0.25 		# Revenue coefficient per km used during cargo market jobs. 
+	fixed_revenue: 100
+	revenue_coef_per_km: 0.08 			# Revenue coefficient per km used during freight market jobs. 
+	cargo_market_revenue_coef_per_km: 0.12 		# Revenue coefficient per km used during cargo market jobs. 
 	
 	max_eco_consumption_drop[0]: (0.1, 0.1)		# consumption decreased by 40% (or 60% if driving with trailer) 
 							# for ecodriving skill maximum
@@ -113,35 +113,35 @@ economy_data : economy.data.storage
 	max_eco_consumption_drop[4]: (0.3, 0.3)	
 	max_eco_consumption_drop[5]: (0.35, 0.35)	# Maximum consumption drop is 0.99.
 
-	reward_bonus_long_dist[0]: 0.01 
-	reward_bonus_long_dist[1]: 0.02 
-	reward_bonus_long_dist[2]: 0.03 
-	reward_bonus_long_dist[3]: 0.05 
-	reward_bonus_long_dist[4]: 0.06 
-	reward_bonus_long_dist[5]: 0.08 
+	reward_bonus_long_dist[0]: 0.03
+	reward_bonus_long_dist[1]: 0.04
+	reward_bonus_long_dist[2]: 0.05
+	reward_bonus_long_dist[3]: 0.06
+	reward_bonus_long_dist[4]: 0.07
+	reward_bonus_long_dist[5]: 0.08
 
-	reward_bonus_valuable[0]: 0.01
-	reward_bonus_valuable[1]: 0.02
-	reward_bonus_valuable[2]: 0.03
-	reward_bonus_valuable[3]: 0.05
-	reward_bonus_valuable[4]: 0.06
+	reward_bonus_valuable[0]: 0.03
+	reward_bonus_valuable[1]: 0.04
+	reward_bonus_valuable[2]: 0.05
+	reward_bonus_valuable[3]: 0.06
+	reward_bonus_valuable[4]: 0.07
 	reward_bonus_valuable[5]: 0.08
 
-	reward_bonus_fragile[0]: 0.01
-	reward_bonus_fragile[1]: 0.02
-	reward_bonus_fragile[2]: 0.03
-	reward_bonus_fragile[3]: 0.05
-	reward_bonus_fragile[4]: 0.06
+	reward_bonus_fragile[0]: 0.03
+	reward_bonus_fragile[1]: 0.04
+	reward_bonus_fragile[2]: 0.05
+	reward_bonus_fragile[3]: 0.06
+	reward_bonus_fragile[4]: 0.07
 	reward_bonus_fragile[5]: 0.08
 
-	reward_bonus_urgent[0]: 0.01
-	reward_bonus_urgent[1]: 0.02
-	reward_bonus_urgent[2]: 0.03
-	reward_bonus_urgent[3]: 0.05
-	reward_bonus_urgent[4]: 0.06
+	reward_bonus_urgent[0]: 0.03
+	reward_bonus_urgent[1]: 0.04
+	reward_bonus_urgent[2]: 0.05
+	reward_bonus_urgent[3]: 0.06
+	reward_bonus_urgent[4]: 0.07
 	reward_bonus_urgent[5]: 0.08
 
-	reward_bonus_level: 0.02 			
+	reward_bonus_level: 0.015 			
 
 #  Experience points
 	free_roam_report_limit: 100
