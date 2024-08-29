@@ -1,8 +1,21 @@
-[blue]Quper Realistic Economy[blue]
-[green]Реалистичная экономика[green]
+[blue]Realistic Economy & Ferry by Quper[blue]
+[green]Realistic Economy[green]
 
 [normal]
-* Изменена оплата за доставку
-* Настроены кредиты
-* Скорректированы штрафы
-* Настроены переправы
+
+Delivery payments have been adjusted to better reflect real-world costs.
+Loans have been configured with lower interest rates and extended repayment periods, making them accessible to all players.
+Penalties for damages and delays have been revised to provide a more balanced economic model.
+Ferry parameters and costs have been adjusted for improved game balance.
+In version 1.1.0
+Significant enhancements have been made to the earning and banking systems, making them more realistic and balanced.
+
+
+[green]Реалистичная экономика[green]
+[normal]
+Изменена оплата за доставку, чтобы лучше отражать реальные затраты.
+Настроены кредиты: снижены процентные ставки и увеличены сроки погашения, что делает их доступными для всех игроков.
+Скорректированы штрафы за повреждения и просрочки, чтобы обеспечить более сбалансированную экономическую модель.
+Настроены переправы: обновлены параметры и стоимости переправ для улучшения баланса в игре.
+В версии 1.1.0
+Значительно доработана система заработка и банковская система, что сделало их более реалистичными и сбалансированными.
