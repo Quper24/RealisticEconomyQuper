@@ -20,7 +20,7 @@ economy_data : economy.data.storage
 
 	abandoned_job_fine: 1000			
 
-	cargo_damage_cost: 25.0 			# -25 for 1% of damage 
+	cargo_damage_cost: 15.0 			# -25 for 1% of damage 
 	cargo_damage_cost_factor: 0.1 			# -10% total cost penalty per 1% of damage
 
 	late_delivery_max_overtime[0]: 1440		# 1 days for "easy" deliveries
@@ -51,8 +51,8 @@ economy_data : economy.data.storage
 
 	# assistance service
 
-	tow_price_base: 150
-	tow_price_factor: 0.4				# cost per meter (as crow flies)
+	tow_price_base: 80
+	tow_price_factor: 0.2				# cost per meter (as crow flies)
 	tow_time_base: 1800				# 30 min
 	tow_time_factor: 3				# time per meter (as crow flies)
 	tow_fuel_ratio: 0.1				# emergecy refuel upon tow (tank %)
@@ -60,9 +60,14 @@ economy_data : economy.data.storage
 	# emergency refuel
 
 	refuel_fuel: 50
-	refuel_price_base: 150
-	refuel_price_factor: 3				# 3x regular fuel cost
-	refuel_time_base: 1800				# 30 min
+	refuel_price_base: 80
+	refuel_price_factor: 2	# 2x regular fuel cost
+	refuel_time_base: 1800	# 30 min
+
+	recharge_energy: 100
+	recharge_price_base: 80
+	recharge_price: 2		# 2E per kwh
+	recharge_time_base: 7200	# 2 hours
 
 #
 # AI driver related configuration
@@ -74,7 +79,7 @@ economy_data : economy.data.storage
 	driver_revenue_coef_per_km: 0.08								# Revenue coefficient used during quick job and drivers jobs. 
 	driver_cargo_market_revenue_coef_per_km: 0.085 	# Revenue coefficient used during cargo market jobs for drivers. 
 
-	driver_hire_cost: 1500				# Euro 
+	driver_hire_cost: 500				# Euro 
 
 	free_driver_level_cap: 30			# don't grow offered drivers higher than this level
 	driver_offer_scrap_prob: 0.5
@@ -90,15 +95,16 @@ economy_data : economy.data.storage
 ##  Job distance limit (in km of real world)
 ##
 	skill_distance[0]:	250 			
-	skill_distance[1]:	500 			
-	skill_distance[2]:	750 			
+	skill_distance[1]:	400 			
+	skill_distance[2]:	700 			
 	skill_distance[3]:	1000 			
-	skill_distance[4]:	1500 			
-	skill_distance[5]:	2000 			
+	skill_distance[4]:	1300 			
+	skill_distance[5]:	1750		
 
-	fixed_revenue: 100 				#
-	revenue_coef_per_km: 0.09 			# Revenue coefficient per km used during freight market jobs. 
-	cargo_market_revenue_coef_per_km: 0.2 		# Revenue coefficient per km used during cargo market jobs. 
+	fixed_revenue: 50
+	revenue_coef_per_km: 0.15 			# Revenue coefficient per km used during freight market jobs. 
+	cargo_market_revenue_coef_per_km: 0.25 		# Revenue coefficient per km used during cargo market jobs. 
+	
 	max_eco_consumption_drop[0]: (0.1, 0.1)		# consumption decreased by 40% (or 60% if driving with trailer) 
 							# for ecodriving skill maximum
 	max_eco_consumption_drop[1]: (0.15, 0.15)	
@@ -107,33 +113,33 @@ economy_data : economy.data.storage
 	max_eco_consumption_drop[4]: (0.3, 0.3)	
 	max_eco_consumption_drop[5]: (0.35, 0.35)	# Maximum consumption drop is 0.99.
 
-	reward_bonus_long_dist[0]: 0.03 
-	reward_bonus_long_dist[1]: 0.04 
-	reward_bonus_long_dist[2]: 0.05 
-	reward_bonus_long_dist[3]: 0.06 
-	reward_bonus_long_dist[4]: 0.08 
-	reward_bonus_long_dist[5]: 0.1 
+	reward_bonus_long_dist[0]: 0.01 
+	reward_bonus_long_dist[1]: 0.02 
+	reward_bonus_long_dist[2]: 0.03 
+	reward_bonus_long_dist[3]: 0.05 
+	reward_bonus_long_dist[4]: 0.06 
+	reward_bonus_long_dist[5]: 0.08 
 
-	reward_bonus_valuable[0]: 0.03 
-	reward_bonus_valuable[1]: 0.04 
-	reward_bonus_valuable[2]: 0.05 
-	reward_bonus_valuable[3]: 0.06 
-	reward_bonus_valuable[4]: 0.08 
-	reward_bonus_valuable[5]: 0.1 
+	reward_bonus_valuable[0]: 0.01
+	reward_bonus_valuable[1]: 0.02
+	reward_bonus_valuable[2]: 0.03
+	reward_bonus_valuable[3]: 0.05
+	reward_bonus_valuable[4]: 0.06
+	reward_bonus_valuable[5]: 0.08
 
-	reward_bonus_fragile[0]: 0.03 
-	reward_bonus_fragile[1]: 0.04 
-	reward_bonus_fragile[2]: 0.05 
-	reward_bonus_fragile[3]: 0.06 
-	reward_bonus_fragile[4]: 0.08 
-	reward_bonus_fragile[5]: 0.1 
+	reward_bonus_fragile[0]: 0.01
+	reward_bonus_fragile[1]: 0.02
+	reward_bonus_fragile[2]: 0.03
+	reward_bonus_fragile[3]: 0.05
+	reward_bonus_fragile[4]: 0.06
+	reward_bonus_fragile[5]: 0.08
 
-	reward_bonus_urgent[0]: 0.03 
-	reward_bonus_urgent[1]: 0.04 
-	reward_bonus_urgent[2]: 0.05 
-	reward_bonus_urgent[3]: 0.06 
-	reward_bonus_urgent[4]: 0.08 
-	reward_bonus_urgent[5]: 0.1 
+	reward_bonus_urgent[0]: 0.01
+	reward_bonus_urgent[1]: 0.02
+	reward_bonus_urgent[2]: 0.03
+	reward_bonus_urgent[3]: 0.05
+	reward_bonus_urgent[4]: 0.06
+	reward_bonus_urgent[5]: 0.08
 
 	reward_bonus_level: 0.02 			
 
@@ -288,7 +294,7 @@ economy_data : economy.data.storage
 	currency_sign3[]: " kr"
 
 	currency_code[]: "RUB"
-	currency_ratio[]: 130
+	currency_ratio[]: 140
 	currency_sign1[]: ""
 	currency_sign2[]: "₽"
 	currency_sign3[]: ""
