@@ -10,9 +10,9 @@ economy_data : economy.data.storage
 	price_small_garage: 150000 			
 	price_garage_upgrade: 100000 			
 
-	garage_prod_plan_tiny: 12500 			
-	garage_prod_plan_small: 70000 			
-	garage_prod_plan_large: 140000 			
+	garage_prod_plan_tiny: 25000 			
+	garage_prod_plan_small: 60000 			
+	garage_prod_plan_large: 120000 			
 
 	fuel_discount_in_garage: 0.30 			# 30%
 
@@ -72,9 +72,9 @@ economy_data : economy.data.storage
 #
 # AI driver related configuration
 #
-	fuel_cost_per_km: (1.0, 1.2)		# for driver simulation
-	driver_max_cargo_damage: 2.0		# in %, decrease with skill
-	driver_maintenance_cost: (1.0, 2.0) 	# maintenance + insurance, base range in E/km
+	fuel_cost_per_km: (0.5, 0.8)		# for driver simulation
+	driver_max_cargo_damage: 0.4		# in %, decrease with skill
+	driver_maintenance_cost: (0.6, 0.8) 	# maintenance + insurance, base range in E/km
 	minimal_driver_salary:	10		# fixed part of driver's pay
 	driver_revenue_coef_per_km: 0.04		# Revenue coefficient used during quick job and drivers jobs.
 	driver_cargo_market_revenue_coef_per_km: 0.06 # Revenue coefficient used during cargo market jobs for drivers.

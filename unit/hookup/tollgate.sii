@@ -8,7 +8,6 @@ tollgate: tollgate.custom
 	animation: "/model/activation/tollgate.pma"
 
 	trigger_distance: 3.0
-	reset_distance: 5.0
 }
 
 tollgate: tollgate.autopass.custom
@@ -18,7 +17,6 @@ tollgate: tollgate.autopass.custom
 	max_activation_speed: 200.0
 
 	trigger_distance: 3.0
-	reset_distance: 5.0
 	trigger_offset: -15.0
 }
 
@@ -29,7 +27,6 @@ tollgate: tollgate.autopass.custom.wide
 	max_activation_speed: 200.0
 
 	trigger_distance: 4.5
-	reset_distance: 5.0
 	trigger_offset: -15.0
 }
 
@@ -38,7 +35,6 @@ tollgate: tollgate.autopass.oversize
 	max_activation_speed: 200.0
 	type: oversize
 	trigger_distance: 20.0
-	reset_distance: 5.0
 	trigger_offset: -20.0
 }
 
@@ -48,7 +44,6 @@ tollgate: tollgate.onetime
 	animation: "/model/activation/tollgate.pma"
 	type: one_time
 	trigger_distance: 3.0
-	reset_distance: 5.0
 
 	# overal price in euro
 	toll: 3
@@ -60,7 +55,6 @@ tollgate: tollgate.start
 	animation: "/model/activation/tollgate.pma"
 	type: start
 	trigger_distance: 3.0
-	reset_distance: 5.0
 
 	# no price
 }
@@ -71,7 +65,6 @@ tollgate: tollgate.end
 	animation: "/model/activation/tollgate.pma"
 	type: end
 	trigger_distance: 3.0
-	reset_distance: 5.0
 
 	# price in euro per km
 	toll: 0.1
@@ -83,7 +76,6 @@ tollgate: tollgate.onetime.it
 	animation: "/model/activation/tollgate.pma"
 	type: one_time
 	trigger_distance: 3.0
-	reset_distance: 5.0
 	# overal price in euro
 	toll: 1.4
 }
@@ -94,7 +86,6 @@ tollgate: tollgate.end.it
 	animation: "/model/activation/tollgate.pma"
 	type: end
 	trigger_distance: 3.0
-	reset_distance: 5.0
 	# price in euro per km
 	toll: 0.08
 }
@@ -104,7 +95,6 @@ tollgate: tollgate.end.it_fr
 	animation: "/model/activation/tollgate.pma"
 	type: end
 	trigger_distance: 3.0
-	reset_distance: 5.0
 	# price in euro per km
 	toll: 0.08
 }
@@ -114,7 +104,6 @@ tollgate: tollgate.end.fr_alps
 	animation: "/model/activation/tollgate.pma"
 	type: end
 	trigger_distance: 3.0
-	reset_distance: 5.0
 	# price in euro per km
 	toll: 0.08
 }
@@ -124,7 +113,6 @@ tollgate: tollgate.end.fr
 	animation: "/model/activation/tollgate.pma"
 	type: end
 	trigger_distance: 3.0
-	reset_distance: 5.0
 	# price in euro per km
 	toll: 0.08
 }
@@ -134,7 +122,6 @@ tollgate: tollgate.end.fr.metz_reims
 	animation: "/model/activation/tollgate.pma"
 	type: end
 	trigger_distance: 3.0
-	reset_distance: 5.0
 	# price in euro per km
 	toll: 0.08
 }
@@ -144,7 +131,6 @@ tollgate: tollgate.end.fr.reims_paris
 	animation: "/model/activation/tollgate.pma"
 	type: end
 	trigger_distance: 3.0
-	reset_distance: 5.0
 	# price in euro per km
 	toll: 0.08
 }
@@ -154,7 +140,6 @@ tollgate: tollgate.onetime.pl
 	animation: "/model/activation/tollgate.pma"
 	type: one_time
 	trigger_distance: 3.0
-	reset_distance: 5.0
 	# overal price in euro
 	toll: 2.5
 }
@@ -164,7 +149,6 @@ tollgate: tollgate.onetime.au
 	animation: "/model/activation/tollgate.pma"
 	type: one_time
 	trigger_distance: 3.0
-	reset_distance: 5.0
 	# overal price in euro
 	toll: 2
 }
@@ -174,7 +158,6 @@ tollgate: tollgate.onetime.arlberg
 	animation: "/model/activation/tollgate.pma"
 	type: one_time
 	trigger_distance: 3.0
-	reset_distance: 5.0
 	# overal price in euro
 	toll: 2
 }
@@ -184,7 +167,6 @@ tollgate: tollgate.end.pl.a1
 	animation: "/model/activation/tollgate.pma"
 	type: end
 	trigger_distance: 3.0
-	reset_distance: 5.0
 	# price in euro per km
 	toll: 0.08
 }
@@ -195,7 +177,6 @@ tollgate: tollgate.end.pl.a2_1
 	animation: "/model/activation/tollgate.pma"
 	type: end
 	trigger_distance: 3.0
-	reset_distance: 5.0
 	# price in euro per km
 	toll: 0.08
 }
@@ -206,7 +187,6 @@ tollgate: tollgate.end.pl.a2_2
 	animation: "/model/activation/tollgate.pma"
 	type: end
 	trigger_distance: 3.0
-	reset_distance: 5.0
 	# price in euro per km
 	toll: 0.08
 }
@@ -217,7 +197,6 @@ tollgate: tollgate.end.pl.a2_3
 	animation: "/model/activation/tollgate.pma"
 	type: end
 	trigger_distance: 3.0
-	reset_distance: 5.0
 	# price in euro per km
 	toll: 0.08
 }
@@ -228,7 +207,6 @@ tollgate: tollgate.end.pl.a4_1
 	animation: "/model/activation/tollgate.pma"
 	type: end
 	trigger_distance: 3.0
-	reset_distance: 5.0
 	# price in euro per km
 	toll: 0.06
 }
@@ -239,7 +217,6 @@ tollgate: tollgate.end.pl.a4_2
 	animation: "/model/activation/tollgate.pma"
 	type: end
 	trigger_distance: 3.0
-	reset_distance: 5.0
 	# price in euro per km
 	toll: 0.08
 }
@@ -250,7 +227,6 @@ tollgate: tollgate.ube
 	animation: "/model/activation/tollgate.pma"
 	type: one_time
 	trigger_distance: 3.0
-	reset_distance: 5.0
 	toll: 2.50
 }
 
@@ -260,7 +236,6 @@ tollgate: tollgate.bos
 	animation: "/model/activation/tollgate.pma"
 	type: one_time
 	trigger_distance: 3.0
-	reset_distance: 5.0
 	toll: 1.5
 }
 
@@ -270,7 +245,6 @@ tollgate: tollgate.v1_s1_b1_i1
 	animation: "/model/activation/tollgate.pma"
 	type: one_time
 	trigger_distance: 3.0
-	reset_distance: 5.0
 	toll: 1.5
 }
 
@@ -280,7 +254,6 @@ tollgate: tollgate.v2_s2_b1_i1
 	animation: "/model/activation/tollgate.pma"
 	type: one_time
 	trigger_distance: 3.0
-	reset_distance: 5.0
 	toll: 3
 }
 
@@ -290,7 +263,6 @@ tollgate: tollgate.v3_s1_b2_i2
 	animation: "/model/activation/tollgate.pma"
 	type: one_time
 	trigger_distance: 3.0
-	reset_distance: 5.0
 	toll: 1.5
 }
 
@@ -300,7 +272,6 @@ tollgate: tollgate.v4_s2_b2_i2
 	animation: "/model/activation/tollgate.pma"
 	type: one_time
 	trigger_distance: 3.0
-	reset_distance: 5.0
 	toll: 1.8
 }
 
@@ -310,7 +281,6 @@ tollgate: tollgate.onetime_19
 	animation: "/model/activation/tollgate.pma"
 	type: one_time
 	trigger_distance: 3.0
-	reset_distance: 5.0
 	toll: 2
 }
 
@@ -320,7 +290,6 @@ tollgate: tollgate.onetime_7
 	animation: "/model/activation/tollgate.pma"
 	type: one_time
 	trigger_distance: 3.0
-	reset_distance: 5.0
 	toll: 1.2
 }
 
@@ -330,7 +299,6 @@ tollgate: tollgate.onetime_7_5
 	animation: "/model/activation/tollgate.pma"
 	type: one_time
 	trigger_distance: 3.0
-	reset_distance: 5.0
 	toll: 1.2
 }
 
@@ -340,7 +308,6 @@ tollgate: tollgate.onetime_246
 	animation: "/model/activation/tollgate.pma"
 	type: one_time
 	trigger_distance: 3.0
-	reset_distance: 5.0
 	toll: 3
 }
 
@@ -350,7 +317,6 @@ tollgate: tollgate.onetime_234
 	animation: "/model/activation/tollgate.pma"
 	type: one_time
 	trigger_distance: 3.0
-	reset_distance: 5.0
 	toll: 2
 }
 
@@ -360,7 +326,6 @@ tollgate: tollgate.onetime_12
 	animation: "/model/activation/tollgate.pma"
 	type: one_time
 	trigger_distance: 3.0
-	reset_distance: 5.0
 	toll: 1
 }
 lod_model_hookup : g_four_x_ibe
