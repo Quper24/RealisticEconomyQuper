@@ -8,6 +8,6 @@ cargo_data: cargo.m_59_80_r63
 
 	volume: 100
 	mass: 20000
-	unit_reward_per_km: 31.5
+	unit_reward_per_km: 47.25
 	body_types[]: _oversize
 }

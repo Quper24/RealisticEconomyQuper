@@ -7,7 +7,7 @@ cargo_data: cargo.locomotive
 	group[]: machinery
 	volume: 90
 	mass: 61750
-	unit_reward_per_km: 25.68
+	unit_reward_per_km: 38.52
 	unit_load_time: 2100
 	body_types[]: lowboy
 	body_types[]: lowbed
