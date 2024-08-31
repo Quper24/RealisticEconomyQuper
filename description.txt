@@ -1,6 +1,7 @@
 [blue]Realistic Economy & Ferry by Quper[blue]
 [green]Realistic Economy[green]
 
+[normal]
 English:
 This mod enhances the economy in Euro Truck Simulator 2, making it more realistic. It adjusts delivery payments, loans, and currency rates. The ferry system has been optimized with new routes added, prices adjusted, and unnecessary routes removed. Compatibility with map mods has been improved, and port localization issues have been fixed.
 

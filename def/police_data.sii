@@ -53,7 +53,7 @@ police_data : police.data
 	offence_police_check_delay[7]: 0	# avoid weighing
 	offence_police_check_delay[8]: 0	# illegal trailer
 
-	offence_probabilty[0]: 0.7	# car crash
+	offence_probabilty[0]: 0.9	# car crash
 	offence_probabilty[1]: 0.3	# avoid sleeping
 	offence_probabilty[2]: 0.6	# wrong way
 	offence_probabilty[3]: 1.0	# speeding (camera)
@@ -69,11 +69,11 @@ police_data : police.data
 
 	offence_police_probabilty[0]: 1.0	# car crash
 	offence_police_probabilty[1]: 0.3	# avoid sleeping
-	offence_police_probabilty[2]: 0.7	# wrong way
+	offence_police_probabilty[2]: 0.9	# wrong way
 	offence_police_probabilty[3]: 1.0	# speeding (camera)
-	offence_police_probabilty[4]: 0.8	# no lights during night
+	offence_police_probabilty[4]: 1.0	# no lights during night
 	offence_police_probabilty[5]: 1.0	# red lights
-	offence_police_probabilty[6]: 0.8	# speeding
+	offence_police_probabilty[6]: 0.9	# speeding
 	offence_police_probabilty[7]: 1.0	# avoid weighing
 	offence_police_probabilty[8]: 1.0	# illegal trailer
 	offence_police_probabilty[9]: 1.0	# avoid inspection
