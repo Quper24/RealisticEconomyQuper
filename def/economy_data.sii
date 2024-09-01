@@ -10,15 +10,15 @@ economy_data : economy.data.storage
 	price_small_garage: 150000 			
 	price_garage_upgrade: 100000 			
 
-	garage_prod_plan_tiny: 25000 			
-	garage_prod_plan_small: 60000 			
-	garage_prod_plan_large: 120000 			
+	garage_prod_plan_tiny: 15000 			
+	garage_prod_plan_small: 50000 			
+	garage_prod_plan_large: 100000 			
 
 	fuel_discount_in_garage: 0.30 			# 30%
 
 	truck_count_for_online:	5			# number of owned trucks to unlock buying online feature
 
-	abandoned_job_fine: 1000			
+	abandoned_job_fine: 300			
 
 	cargo_damage_cost: 15.0 			# -25 for 1% of damage 
 	cargo_damage_cost_factor: 0.1 			# -10% total cost penalty per 1% of damage
