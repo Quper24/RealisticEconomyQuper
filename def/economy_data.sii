@@ -156,7 +156,7 @@ economy_data : economy.data.storage
 	exp_important_bonus:	0.2			# +20%
 	exp_urgent_bonus:	0.3			# +20%
 	exp_fragile_bonus:	0.25			# +22%
-	exp_long_dist_bonus:	0.25			# +25%
+	exp_long_dist_bonus:	0.35			# +35%
 	exp_valuable_bonus:	0.20			# +25%
 
 	exp_park_bonus: 10 	    			# bonus for not using the autopark feature on EASY parking spot 
