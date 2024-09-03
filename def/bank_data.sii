@@ -9,35 +9,35 @@ SiiNunit
         loan_offers[]: bank.data.loan3
         loan_offers[]: bank.data.loan4
 
-        overdraft_duration: 5    # days
+        overdraft_duration: 30    # days
         overdraft_warn_day: 2    # starting on 3rd day
     }
 
     bank_loan_data: bank.data.loan1
     {
-        amount: 25000 
+        amount: 10000 
         interest_rate: 0.10    # 12 % 
-        duration: 12            # in weeks 
+        duration: 24            # in weeks 
     }
 
     bank_loan_data: bank.data.loan2
     {
-        amount: 75000        
+        amount: 50000        
         interest_rate: 0.08    # 10 % 
-        duration: 24           # in weeks 
+        duration: 48           # in weeks 
     }
 
     bank_loan_data: bank.data.loan3
     {
-        amount: 150000        
+        amount: 100000        
         interest_rate: 0.06    # 8 % 
-        duration: 48           # in weeks 
+        duration: 96           # in weeks 
     }
 
     bank_loan_data: bank.data.loan4
     {
         amount: 300000        
-        interest_rate: 0.04    # 6 % 
-        duration: 48           # in weeks 
+        interest_rate: 0.05    # 6 % 
+        duration: 192           # in weeks 
     }
 }

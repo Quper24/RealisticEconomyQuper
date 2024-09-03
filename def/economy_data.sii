@@ -16,7 +16,7 @@ economy_data : economy.data.storage
 
 	fuel_discount_in_garage: 0.30 			# 30%
 
-	truck_count_for_online:	5			# number of owned trucks to unlock buying online feature
+	truck_count_for_online:	1			# number of owned trucks to unlock buying online feature
 
 	abandoned_job_fine: 300			
 
@@ -113,61 +113,61 @@ economy_data : economy.data.storage
 	max_eco_consumption_drop[4]: (0.3, 0.3)	
 	max_eco_consumption_drop[5]: (0.35, 0.35)	# Maximum consumption drop is 0.99.
 
-	reward_bonus_long_dist[0]: 0.03
-	reward_bonus_long_dist[1]: 0.04
-	reward_bonus_long_dist[2]: 0.05
-	reward_bonus_long_dist[3]: 0.06
-	reward_bonus_long_dist[4]: 0.07
-	reward_bonus_long_dist[5]: 0.08
+	reward_bonus_long_dist[0]: 0.01
+	reward_bonus_long_dist[1]: 0.01
+	reward_bonus_long_dist[2]: 0.02
+	reward_bonus_long_dist[3]: 0.03
+	reward_bonus_long_dist[4]: 0.04
+	reward_bonus_long_dist[5]: 0.05
 
-	reward_bonus_valuable[0]: 0.03
-	reward_bonus_valuable[1]: 0.04
-	reward_bonus_valuable[2]: 0.05
-	reward_bonus_valuable[3]: 0.06
-	reward_bonus_valuable[4]: 0.07
-	reward_bonus_valuable[5]: 0.08
+	reward_bonus_valuable[0]: 0.01
+	reward_bonus_valuable[1]: 0.01
+	reward_bonus_valuable[2]: 0.02
+	reward_bonus_valuable[3]: 0.03
+	reward_bonus_valuable[4]: 0.04
+	reward_bonus_valuable[5]: 0.05
 
-	reward_bonus_fragile[0]: 0.03
-	reward_bonus_fragile[1]: 0.04
-	reward_bonus_fragile[2]: 0.05
-	reward_bonus_fragile[3]: 0.06
-	reward_bonus_fragile[4]: 0.07
-	reward_bonus_fragile[5]: 0.08
+	reward_bonus_fragile[0]: 0.01
+	reward_bonus_fragile[1]: 0.01
+	reward_bonus_fragile[2]: 0.02
+	reward_bonus_fragile[3]: 0.03
+	reward_bonus_fragile[4]: 0.04
+	reward_bonus_fragile[5]: 0.05
 
-	reward_bonus_urgent[0]: 0.03
-	reward_bonus_urgent[1]: 0.04
-	reward_bonus_urgent[2]: 0.05
-	reward_bonus_urgent[3]: 0.06
-	reward_bonus_urgent[4]: 0.07
-	reward_bonus_urgent[5]: 0.08
+	reward_bonus_urgent[0]: 0.01
+	reward_bonus_urgent[1]: 0.01
+	reward_bonus_urgent[2]: 0.02
+	reward_bonus_urgent[3]: 0.03
+	reward_bonus_urgent[4]: 0.04
+	reward_bonus_urgent[5]: 0.05
 
-	reward_bonus_level: 0.015 			
+	reward_bonus_level: 0.01 			
 
 #  Experience points
 	free_roam_report_limit: 100
 
-	exp_cargo_delivery: 	0.3 			# per km of real world 
+	exp_cargo_delivery: 	0.1			# per km of real world 
 	exp_free_roam: 		0.05			# per km of real world 
 	exp_road_discovery:	0.08			# per km of real world 
 
 //	exp_late_delivery: 	0.4			# -40% 	
-	exp_perfect_delivery: 	0.3			# +24% 	
-	exp_adr_bonus:		0.3			# +21%	of total cargo delivery exp. points
+	exp_perfect_delivery: 	0.24			# +24% 	
+	exp_adr_bonus:		0.21			# +21%	of total cargo delivery exp. points
 	exp_important_bonus:	0.2			# +20%
-	exp_urgent_bonus:	0.2			# +20%
+	exp_urgent_bonus:	0.3			# +20%
 	exp_fragile_bonus:	0.25			# +22%
 	exp_long_dist_bonus:	0.25			# +25%
-	exp_valuable_bonus:	0.25			# +25%
+	exp_valuable_bonus:	0.20			# +25%
 
-	exp_park_bonus: 50     	    			# bonus for not using the autopark feature on EASY parking spot 
-	exp_park_bonus_medium: 100      			# bonus for not using the autopark feature on MEDIUM parking spot 
-	exp_park_bonus_hard: 200        		# bonus for not using the autopark feature on HARD parking spot 
+	exp_park_bonus: 10 	    			# bonus for not using the autopark feature on EASY parking spot 
+	exp_park_bonus_medium: 30   			# bonus for not using the autopark feature on MEDIUM parking spot 
+	exp_park_bonus_hard: 60       		# bonus for not using the autopark feature on HARD parking spot 
 
-	exp_park_double_bonus: 60			# bonus for not using the autopark feature on EASY parking spot with double 
-	exp_park_double_bonus_medium: 150		# bonus for not using the autopark feature on MEDIUM parking spot with double 
-	exp_park_double_bonus_hard: 350			# bonus for not using the autopark feature on HARD parking spot with double 
+	exp_park_double_bonus: 15			# bonus for not using the autopark feature on EASY parking spot with double 
+	exp_park_double_bonus_medium: 50		# bonus for not using the autopark feature on MEDIUM parking spot with double 
+	exp_park_double_bonus_hard: 100			# bonus for not using the autopark feature on HARD parking spot with double 
 
-	exp_park_load_bonus: 50			# exp bonus for manually parking trailer during loading phase of the job 
+	exp_park_load_bonus: 20			# exp bonus for manually parking trailer during loading phase of the job 
 
 	exp_damaged_cargo:	5			# -5 XP per 1% of cargo damage
 	exp_damaged_cargo_factor: 0.05			# -5% of total XP per 1% of cargo damage

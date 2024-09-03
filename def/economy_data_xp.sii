@@ -1,0 +1,55 @@
+﻿SiiNunit
+{
+xp_level_data : economy.data.xp_levels
+{
+#
+#	Level names  "level_limit|level name"
+#
+	level_names[]: "0|@@lvl_name0@@"
+	level_names[]: "5|@@lvl_name1@@"
+	level_names[]: "10|@@lvl_name2@@"
+	level_names[]: "15|@@lvl_name3@@"
+	level_names[]: "20|@@lvl_name4@@"
+	level_names[]: "25|@@lvl_name5@@"
+	level_names[]: "30|@@lvl_name6@@"
+	level_names[]: "40|@@lvl_name7@@"
+	level_names[]: "50|@@lvl_name8@@"
+	level_names[]: "100|@@lvl_name9@@"
+
+#
+#	experience points to the next level
+#
+	level_xp[0]: 200
+	level_xp[1]: 500
+	level_xp[2]: 700
+	level_xp[3]: 900
+	level_xp[4]: 1000
+	level_xp[5]: 1100
+	level_xp[6]: 1300
+	level_xp[7]: 1600
+	level_xp[8]: 1700	
+	level_xp[9]: 1900	
+	level_xp[10]: 2000	
+	level_xp[11]: 2000	
+	level_xp[12]: 2000
+	level_xp[13]: 2000
+	level_xp[14]: 2000
+	level_xp[15]: 2000
+	level_xp[16]: 2000
+	level_xp[17]: 2000	
+	level_xp[18]: 2000	
+	level_xp[19]: 2000	
+	level_xp[20]: 2100	
+	level_xp[21]: 2200
+	level_xp[22]: 2300
+	level_xp[23]: 2400
+	level_xp[24]: 2500
+	level_xp[25]: 2600
+	level_xp[26]: 2700	
+	level_xp[27]: 2800	
+	level_xp[28]: 2900	
+	level_xp[29]: 3000		
+
+	driver_xp_scale: 1.0
+}
+}

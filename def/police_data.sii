@@ -13,9 +13,9 @@ police_data : police.data
 	fine_overspeed_step_multiplier: 1.5
 	fine_overspeed_multiplier_limit: 10
 
-	fine_amounts[0]: 75		  # car crash
-	fine_amounts[1]: 50		  # avoid sleeping
-	fine_amounts[2]: 50	  	# wrong way
+	fine_amounts[0]: 100		  # car crash
+	fine_amounts[1]: 70		  # avoid sleeping
+	fine_amounts[2]: 70	  	# wrong way
 	fine_amounts[3]: 100	  # speeding (camera)
 	fine_amounts[4]: 50     # no lights during night
 	fine_amounts[5]: 150		# red lights
@@ -56,7 +56,7 @@ police_data : police.data
 	offence_probabilty[0]: 0.9	# car crash
 	offence_probabilty[1]: 0.3	# avoid sleeping
 	offence_probabilty[2]: 0.6	# wrong way
-	offence_probabilty[3]: 1.0	# speeding (camera)
+	offence_probabilty[3]: 0.95	# speeding (camera)
 	offence_probabilty[4]: 0.3	# no lights during night
 	offence_probabilty[5]: 0.7	# red lights
 	offence_probabilty[6]: 0.0	# speeding
@@ -70,7 +70,7 @@ police_data : police.data
 	offence_police_probabilty[0]: 1.0	# car crash
 	offence_police_probabilty[1]: 0.3	# avoid sleeping
 	offence_police_probabilty[2]: 0.9	# wrong way
-	offence_police_probabilty[3]: 1.0	# speeding (camera)
+	offence_police_probabilty[3]: 0.95	# speeding (camera)
 	offence_police_probabilty[4]: 1.0	# no lights during night
 	offence_police_probabilty[5]: 1.0	# red lights
 	offence_police_probabilty[6]: 0.9	# speeding

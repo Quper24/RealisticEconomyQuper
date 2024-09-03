@@ -5,13 +5,13 @@ SiiNunit
         jobs_before_first_loan: 25
         jobs_before_company_invitation:20
         
-        level_for_credit_raise[]: 7
-        credit_limit[]: 25000
-        level_for_credit_raise[]: 10
+        level_for_credit_raise[]: 0
+        credit_limit[]: 10000
+        level_for_credit_raise[]: 8
         credit_limit[]: 100000
-        level_for_credit_raise[]: 15
+        level_for_credit_raise[]: 16
         credit_limit[]: 250000
-        level_for_credit_raise[]: 20
+        level_for_credit_raise[]: 24
         credit_limit[]: 500000
         
         first_dealer_unlock_delay: 21600 # seconds
@@ -24,6 +24,6 @@ SiiNunit
 
         first_job_preferred_radius: 0
         
-        trailers_unlock_level: 15 # [def 5]
+        trailers_unlock_level: 10 # [def 5]
     }
 }
