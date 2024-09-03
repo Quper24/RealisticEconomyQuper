@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.glueckstadt.wischhafen {
+	price: 22
+	time: 20
+	distance: 11
+}
+}
+
