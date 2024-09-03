@@ -146,7 +146,7 @@ economy_data : economy.data.storage
 #  Experience points
 	free_roam_report_limit: 100
 
-	exp_cargo_delivery: 	0.1			# per km of real world 
+	exp_cargo_delivery: 	0.5			# per km of real world 
 	exp_free_roam: 		0.05			# per km of real world 
 	exp_road_discovery:	0.08			# per km of real world 
 
