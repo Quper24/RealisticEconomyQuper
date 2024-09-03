@@ -1,8 +1,3 @@
 SiiNunit
 {
-ferry_connection : conn.oslo.trelleborg {
-	price: 162
-	time: 1175
-	distance: 661
-}
 }

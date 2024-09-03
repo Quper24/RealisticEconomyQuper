@@ -1,9 +1,4 @@
 SiiNunit
 {
-ferry_connection : conn.ijmuiden.harwich{
-	price: 150
-	time: 499
-	distance: 270
-}
 }
 

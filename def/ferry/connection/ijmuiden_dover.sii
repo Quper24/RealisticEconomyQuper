@@ -1,9 +1,4 @@
 SiiNunit
 {
-ferry_connection : conn.ijmuiden.dover {
-	price: 112
-	time: 750
-	distance: 425
-}
 }
 

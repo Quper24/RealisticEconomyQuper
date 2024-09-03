@@ -1,9 +1,4 @@
 SiiNunit
 {
-ferry_connection : conn.harwich.calais {
-	price: 112
-	time: 366
-	distance: 285
-}
 }
 

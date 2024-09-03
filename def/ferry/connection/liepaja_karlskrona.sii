@@ -1,9 +1,4 @@
 SiiNunit
 {
-ferry_connection : conn.liepaja.karlskrona {
-	price: 120
-	time: 800
-	distance: 400
-}
 }
 

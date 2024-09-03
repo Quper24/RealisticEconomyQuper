@@ -1,6 +1,6 @@
 SiiNunit
 {
-ferry_connection : conn.keelung.dover {
+ferry_connection : conn.dover.keelung {
 	price: 1018
 	time: 10220	
 	distance: 5549

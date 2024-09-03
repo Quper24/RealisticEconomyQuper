@@ -1,9 +1,4 @@
 SiiNunit
 {
-ferry_connection : conn.liepaja.ventspils{
-	price: 116
-	time: 422
-	distance: 320
-}
 }
 

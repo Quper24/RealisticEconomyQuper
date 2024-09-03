@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.swinoujscie.oslo {
-	price: 162
+	price: 186
 	time: 1475
 	distance: 861
 }

@@ -1,9 +1,4 @@
 SiiNunit
 {
-ferry_connection : conn.roscoff.dover {
-	price: 112
-	time: 850
-	distance: 455
-}
 }
 
