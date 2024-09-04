@@ -41,7 +41,7 @@ economy_data : economy.data.storage
 
 	delivery_window_coef[0]: 1.0			# easy 
 	delivery_window_coef[1]: 1.2			# medium  revenue coef
-	delivery_window_coef[2]: 1.5			# hard
+	delivery_window_coef[2]: 1.4			# hard
 
 	hurry_up_timer: 114				# how long the hurry up music will play (in game minutes)
 
@@ -76,8 +76,8 @@ economy_data : economy.data.storage
 	driver_max_cargo_damage: 0.4		# in %, decrease with skill
 	driver_maintenance_cost: (0.6, 0.8) 	# maintenance + insurance, base range in E/km
 	minimal_driver_salary:	10		# fixed part of driver's pay
-	driver_revenue_coef_per_km: 0.06		# Revenue coefficient used during quick job and drivers jobs.
-	driver_cargo_market_revenue_coef_per_km: 0.06 # Revenue coefficient used during cargo market jobs for drivers.
+	driver_revenue_coef_per_km: 0.04		# Revenue coefficient used during quick job and drivers jobs. Заказы агенств
+	driver_cargo_market_revenue_coef_per_km: 0.07 # Revenue coefficient used during cargo market jobs for drivers.
 
 	driver_hire_cost: 200		# Euro
 
@@ -102,8 +102,8 @@ economy_data : economy.data.storage
 	skill_distance[5]:	1750
 
 	fixed_revenue: 100
-	revenue_coef_per_km: 0.08 			# Revenue coefficient per km used during freight market jobs. 
-	cargo_market_revenue_coef_per_km: 0.12 		# Revenue coefficient per km used during cargo market jobs. 
+	revenue_coef_per_km: 0.07 			# Revenue coefficient per km used during freight market jobs. 
+	cargo_market_revenue_coef_per_km: 0.085 		# Revenue coefficient per km used during cargo market jobs. 
 	
 	max_eco_consumption_drop[0]: (0.1, 0.1)		# consumption decreased by 40% (or 60% if driving with trailer) 
 							# for ecodriving skill maximum
@@ -150,20 +150,20 @@ economy_data : economy.data.storage
 	exp_free_roam: 		0.05			# per km of real world 
 	exp_road_discovery:	0.08			# per km of real world 
 
-//	exp_late_delivery: 	0.4			# -40% 	
-	exp_perfect_delivery: 	0.24			# +24% 	
-	exp_adr_bonus:		0.21			# +21%	of total cargo delivery exp. points
-	exp_important_bonus:	0.2			# +20%
-	exp_urgent_bonus:	0.3			# +20%
-	exp_fragile_bonus:	0.25			# +22%
+  exp_late_delivery: 	0.2			# -40% 	
+	exp_perfect_delivery: 	0.3			# +24% 	
+	exp_adr_bonus:		0.33						# +21%	of total cargo delivery exp. points
+	exp_important_bonus:	0.32			# +20%
+	exp_urgent_bonus:	0.27			# +20%
+	exp_fragile_bonus:	0.29			# +22%
 	exp_long_dist_bonus:	0.35			# +35%
-	exp_valuable_bonus:	0.20			# +25%
+	exp_valuable_bonus:	0.31			# +25%
 
-	exp_park_bonus: 10 	    			# bonus for not using the autopark feature on EASY parking spot 
+	exp_park_bonus: 10 	    					# bonus for not using the autopark feature on EASY parking spot 
 	exp_park_bonus_medium: 30   			# bonus for not using the autopark feature on MEDIUM parking spot 
 	exp_park_bonus_hard: 60       		# bonus for not using the autopark feature on HARD parking spot 
 
-	exp_park_double_bonus: 15			# bonus for not using the autopark feature on EASY parking spot with double 
+	exp_park_double_bonus: 15						# bonus for not using the autopark feature on EASY parking spot with double 
 	exp_park_double_bonus_medium: 50		# bonus for not using the autopark feature on MEDIUM parking spot with double 
 	exp_park_double_bonus_hard: 100			# bonus for not using the autopark feature on HARD parking spot with double 
 

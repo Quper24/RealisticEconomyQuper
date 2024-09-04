@@ -1,5 +1,0 @@
-ferry_data: ferry.ancona
-{
-	ferry_name: "Ancona"
-	ferry_name_localized: "@@ancona@@"
-}
