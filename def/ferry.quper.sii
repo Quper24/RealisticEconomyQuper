@@ -19,6 +19,7 @@ SiiNunit
 @include "ferry/faarosund.benganj.sii"
 @include "ferry/festoya.sii"
 @include "ferry/genova.sii"
+@include "ferry/girne.sui"
 @include "ferry/glewitz.sui"
 @include "ferry/glueckstadt.sii"
 @include "ferry/holm.sui"

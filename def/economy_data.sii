@@ -94,8 +94,8 @@ economy_data : economy.data.storage
 ## Skill job filtering
 ##  Job distance limit (in km of real world)
 ##
-	skill_distance[0]:	250
-	skill_distance[1]:	400
+	skill_distance[0]:	300
+	skill_distance[1]:	450
 	skill_distance[2]:	700
 	skill_distance[3]:	1000
 	skill_distance[4]:	1300
@@ -146,7 +146,7 @@ economy_data : economy.data.storage
 #  Experience points
 	free_roam_report_limit: 100
 
-	exp_cargo_delivery: 	0.5			# per km of real world 
+	exp_cargo_delivery: 	0.6			# per km of real world 
 	exp_free_roam: 		0.05			# per km of real world 
 	exp_road_discovery:	0.08			# per km of real world 
 
