@@ -150,7 +150,6 @@ economy_data : economy.data.storage
 	exp_free_roam: 		0.05			# per km of real world 
 	exp_road_discovery:	0.08			# per km of real world 
 
-  exp_late_delivery: 	0.2			# -40% 	
 	exp_perfect_delivery: 	0.3			# +24% 	
 	exp_adr_bonus:		0.33						# +21%	of total cargo delivery exp. points
 	exp_important_bonus:	0.32			# +20%
