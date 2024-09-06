@@ -4,10 +4,10 @@ mod_package : .package_name
 {
 
 	# Package version can be any string with any length.
-	package_version: "1.2.2"
+	package_version: "1.3.0"
 
 	# Display name can be any string with any length.
-	display_name: "Realistic Economy & Ferry by Quper"
+	display_name: "Realistic Economy, XP & Ferry by Quper"
 
 	# Author can be any string with any length.
 	author: "Quper"
