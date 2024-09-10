@@ -10,7 +10,7 @@ country_data : country.data.luxembourg
 
 	pos: (-17090, 0, 2880)
 
-	fuel_price: 1.49
+	fuel_price: 1.41
 
 	lights_mandatory: false
 	driving_tired_offence: true
