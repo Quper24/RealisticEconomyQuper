@@ -1,39 +1,88 @@
+aland - "Åland" - 1.80
+albania - "Shqipëria" - 1.77
+algeria - "Algeria" - 0.20
+andorra - "Andorra" - 1.27
+armenia - "Hayastan" - 1.21
 austria - "Österreich" - 1.53
-belarus - "Беларусь" - 0.54
-belgium - "België" - 1.65
-bosnia - "Bosna i Hercegovina" - 1.26
+azerbaijan - "Azərbaycan" - 0.53
+belarus - "Беларусь" - 0.48
+belgium - "België" - 1.63
+bosnia - "Bosna i Hercegovina" - 1.23
+botswana - "Botswana" - 1.07
+bulgaria - "България" - 1.28
+burkinafaso - "Burkina Faso" - 1.03
+car - "Central African Republic" - 2.06
+chad - "Tchad" - 0.83
+china - "中华人民共和国" - 0.94
 croatia - "Hrvatska" - 1.55
-cyprus - "Κύπρος" - 1.50
+cyprus - "Κύπρος" - 1.48
 czech - "Česká Republika" - 1.42
-denmark - "Danmark" - 1.64
-estonia - "Eesti" - 1.50
-ethiopia - "Ethiopia" - 1.29
+denmark - "Danmark" - 1.71
+egypt - "Masr" - 0.21
+estonia - "Eesti" - 1.47
+ethiopia - "Ethiopia" - 1.68
+faroe - "Føroyar" - 1.67
 finland - "Suomi" - 1.67
-france - "France" - 1.63
-germany - "Deutschland" - 1.57
-greece - "Ελλάδα" - 1.58
-hungary - "Magyarország" - 1.53
-iceland - "Ísland" - 2.17
-ireland - "Ireland" - 1.69
+france - "France" - 1.61
+gambia - "Gambia" - 0.91
+georgia - "საქართველო" - 1.11
+germany - "Deutschland" - 1.56
+greece - "Ελλάδα" - 1.56
+greenland - "Kalaallit Nunaat" - 1.47
+guernsey - "Guernsey" - 1.80
+hungary - "Magyarország" - 1.54
+iceland - "Ísland" - 2.04
+iom - "Isle of Man" - 1.66
+iraq - "Al-'Irāq" - 0.5
+ireland - "Ireland" - 1.67
+israel - "Israel" - 1.77
 italy - "Italia" - 1.68
-kenya - "Kenya" - 1.35
-latvia - "Latvija" - 1.54
+jersey - "Jersey" - 1.67
+jordan - "Al-'Urdunn" - 1.00
+kazakhstan - "Kazakhstan" - 0.54
+kenya - "Kenya" - 1.19
+kosovo - "Kosovo" - 1.30
+latvia - "Latvija" - 1.48
+lebanon - "Lubnān" - 0.63
+libya - "Lībiyā" - 0.02
+liecht - "Liechtenstein" - 2.07
 lithuania - "Lietuva" - 1.39
 luxembourg - "Lëtzebuerg" - 1.41
 macedonia - "Северна Македонија" - 1.14
+mali - "Mali" - 1.22
 malta - "Malta" - 1.21
-moldova - "Moldova" - 1.06
-netherlands - "Nederland" - 1.65
-norway - "Norge" - 1.75
-poland - "Polska" - 1.48
+moldova - "Moldova" - 1.05
+monaco - "Monaco" - 2.11
+mongolia - "Монгол Улс" - 1.23
+montenegro - "Црна Гора" - 1.41
+morocco - "Morocco" - 1.20
+netherlands - "Nederland" - 1.68
+niger - "Niger" - 1.78
+nireland - "Northern-Ireland" - 1.69
+norway - "Norge" - 1.65
+poland - "Polska" - 1.49
 portugal - "Portugal" - 1.53
 romania - "România" - 1.45
 russia - "Россия" - 0.48
+sanmarino - "San Marino" - 1.55
+saudia - "Al-'Arabīyah As-Sa'ūdīyah" - 0.28
+saudia1 - "Saudi Arabia" - 0.28
+senegal - "Senegal" - 1.15
+serbia - "Србија" - 1.66
 slovakia - "Slovensko" - 1.46
-slovenia - "Slovenija" - 1.56
-spain - "España" - 1.44
-sweden - "Sverige" - 1.49
-switzerland - "Schweiz" - 1.88
-tanzania - "Tanzania" - 1.18
-turkey - "Türkiye" - 1.52
-uk - "United Kingdom" - 1.45
+slovenia - "Slovenija" - 1.52
+southsudan - "South Sudan" - 0.59
+south_africa - "south_africa" - 1.12
+spain - "España" - 1.41
+svalbard - "Svalbard" - 2.00
+sweden - "Sverige" - 1.52
+switzerland - "Schweiz" - 2.01
+syria - "Sūriyā" - 0.74
+tanzania - "Tanzania" - 1.00
+tunisia - "Tunisia" - 0.65
+turkey - "Türkiye" - 1.15
+uganda - "Uganda" - 1.27
+uk - "United Kingdom" - 1.72
+ukraine - "Україна" - 1.21
+westbank - "West Bank" - 1.46
+zambia - "Zambia" - 1.04
