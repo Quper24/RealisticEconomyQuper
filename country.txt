@@ -1,0 +1,39 @@
+austria - "Österreich" - 1.53
+belarus - "Беларусь" - 0.54
+belgium - "België" - 1.65
+bosnia - "Bosna i Hercegovina" - 1.26
+croatia - "Hrvatska" - 1.55
+cyprus - "Κύπρος" - 1.50
+czech - "Česká Republika" - 1.42
+denmark - "Danmark" - 1.64
+estonia - "Eesti" - 1.50
+ethiopia - "Ethiopia" - 1.29
+finland - "Suomi" - 1.67
+france - "France" - 1.63
+germany - "Deutschland" - 1.57
+greece - "Ελλάδα" - 1.58
+hungary - "Magyarország" - 1.53
+iceland - "Ísland" - 2.17
+ireland - "Ireland" - 1.69
+italy - "Italia" - 1.68
+kenya - "Kenya" - 1.35
+latvia - "Latvija" - 1.54
+lithuania - "Lietuva" - 1.39
+luxembourg - "Lëtzebuerg" - 1.41
+macedonia - "Северна Македонија" - 1.14
+malta - "Malta" - 1.21
+moldova - "Moldova" - 1.06
+netherlands - "Nederland" - 1.65
+norway - "Norge" - 1.75
+poland - "Polska" - 1.48
+portugal - "Portugal" - 1.53
+romania - "România" - 1.45
+russia - "Россия" - 0.48
+slovakia - "Slovensko" - 1.46
+slovenia - "Slovenija" - 1.56
+spain - "España" - 1.44
+sweden - "Sverige" - 1.49
+switzerland - "Schweiz" - 1.88
+tanzania - "Tanzania" - 1.18
+turkey - "Türkiye" - 1.52
+uk - "United Kingdom" - 1.45
