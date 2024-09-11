@@ -10,9 +10,9 @@ economy_data : economy.data.storage
 	price_small_garage: 150000 			
 	price_garage_upgrade: 100000 			
 
-	garage_prod_plan_tiny: 15000 			
-	garage_prod_plan_small: 50000 			
-	garage_prod_plan_large: 100000 			
+	garage_prod_plan_tiny: 5000 			
+	garage_prod_plan_small: 15000 			
+	garage_prod_plan_large: 30000 			
 
 	fuel_discount_in_garage: 0.30 			# 30%
 
@@ -72,12 +72,12 @@ economy_data : economy.data.storage
 #
 # AI driver related configuration
 #
-	fuel_cost_per_km: (0.5, 0.8)		# for driver simulation
-	driver_max_cargo_damage: 0.4		# in %, decrease with skill
-	driver_maintenance_cost: (0.6, 0.8) 	# maintenance + insurance, base range in E/km
-	minimal_driver_salary:	10		# fixed part of driver's pay
-	driver_revenue_coef_per_km: 0.04		# Revenue coefficient used during quick job and drivers jobs. Заказы агенств
-	driver_cargo_market_revenue_coef_per_km: 0.07 # Revenue coefficient used during cargo market jobs for drivers.
+	fuel_cost_per_km: (0.2, 0.3)		# for driver simulation
+	driver_max_cargo_damage: 0.3		# in %, decrease with skill
+	driver_maintenance_cost: (0.3, 0.5) 	# maintenance + insurance, base range in E/km
+	minimal_driver_salary:	6		# fixed part of driver's pay
+	driver_revenue_coef_per_km: 0.03		# Revenue coefficient used during quick job and drivers jobs. Заказы агенств
+	driver_cargo_market_revenue_coef_per_km: 0.035 # Revenue coefficient used during cargo market jobs for drivers.
 
 	driver_hire_cost: 200		# Euro
 
@@ -102,8 +102,8 @@ economy_data : economy.data.storage
 	skill_distance[5]:	1750
 
 	fixed_revenue: 100
-	revenue_coef_per_km: 0.07 			# Revenue coefficient per km used during freight market jobs. 
-	cargo_market_revenue_coef_per_km: 0.085 		# Revenue coefficient per km used during cargo market jobs. 
+	revenue_coef_per_km: 0.055 			# Revenue coefficient per km used during freight market jobs. 
+	cargo_market_revenue_coef_per_km: 0.075 		# Revenue coefficient per km used during cargo market jobs. 
 	
 	max_eco_consumption_drop[0]: (0.1, 0.1)		# consumption decreased by 40% (or 60% if driving with trailer) 
 							# for ecodriving skill maximum
