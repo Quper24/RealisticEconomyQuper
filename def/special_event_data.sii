@@ -6,13 +6,13 @@ SiiNunit
         jobs_before_company_invitation:20
         
         level_for_credit_raise[]: 0
-        credit_limit[]: 10000
+        credit_limit[]: 50000
         level_for_credit_raise[]: 10
-        credit_limit[]: 100000
+        credit_limit[]: 150000
         level_for_credit_raise[]: 15
-        credit_limit[]: 250000
+        credit_limit[]: 350000
         level_for_credit_raise[]: 20
-        credit_limit[]: 500000
+        credit_limit[]: 800000
         
         first_dealer_unlock_delay: 21600 # seconds
 
