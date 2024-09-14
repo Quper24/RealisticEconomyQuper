@@ -10,7 +10,7 @@ economy_data : economy.data.storage
 	price_small_garage: 140000 			
 	price_garage_upgrade: 75000 			
 
-	garage_prod_plan_tiny: 5000 			
+	garage_prod_plan_tiny: 4000 			
 	garage_prod_plan_small: 15000 			
 	garage_prod_plan_large: 30000 			
 
