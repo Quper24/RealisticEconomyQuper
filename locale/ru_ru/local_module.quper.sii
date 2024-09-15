@@ -80,103 +80,103 @@ localization_db : .localization
 	key[]: "Zarinsk"
 	val[]: "Заринск"
 
-    key[]: "benesov"
+  key[]: "Benešov"
 	val[]: "Бенешов"
 
-	key[]: "mboleslav"
+	key[]: "Mladá Boleslav"
 	val[]: "Млада-Болеслав"
 
-	key[]: "budejovice"
+	key[]: "České Budějovice"
 	val[]: "Ческе-Будеёвице"
 
-	key[]: "truckpark"
-	val[]: "Тракпарк"
+	key[]: "D-1 Truckpark"
+	val[]: "Д-1 Тракпарк"
 
-	key[]: "harrachov"
+	key[]: "Harrachov"
 	val[]: "Гаррахов"
 
-	key[]: "holice"
+	key[]: "Holice"
 	val[]: "Голице"
 
-	key[]: "hradec"
-	val[]: "Градец"
+	key[]: "Hradec Králové"
+	val[]: "Градец-Кралове"
 
-	key[]: "jablonec"
-	val[]: "Яблонец"
+	key[]: "Jablonec nad Nisou"
+	val[]: "Яблонец-над-Нисоу"
 
-	key[]: "jicin"
+	key[]: "Jičín"
 	val[]: "Йичин"
 
-	key[]: "jihlava_vys"
+	key[]: "Jihlava"
 	val[]: "Йиглава"
 
-	key[]: "kudowa"
+	key[]: "Kudowa-Słone"
 	val[]: "Кудова-Здруй"
 
-	key[]: "liberec_lk"
+	key[]: "Liberec"
 	val[]: "Либерец"
 
-	key[]: "litovel"
+	key[]: "Litovel"
 	val[]: "Литовель"
 
-	key[]: "mikulov"
+	key[]: "Mikulov"
 	val[]: "Микулов"
 
-	key[]: "mtrebova"
+	key[]: "Moravská Třebová"
 	val[]: "Моравска-Тршебова"
 
-	key[]: "nachod"
+	key[]: "Náchod"
 	val[]: "Нахо́д"
 
-	key[]: "pardubice"
+	key[]: "Pardubice"
 	val[]: "Пардубице"
 
-	key[]: "policka"
+	key[]: "Polička"
 	val[]: "Поличка"
 
-	key[]: "prerov"
+	key[]: "Přerov"
 	val[]: "Пршеров"
 
-	key[]: "schandau"
+	key[]: "Bad Schandau"
 	val[]: "Бад-Шандау"
 
-	key[]: "svitavy"
+	key[]: "Svitavy"
 	val[]: "Свитавы"
 
-	key[]: "tabor"
+	key[]: "Tábor"
 	val[]: "Табор"
 
-	key[]: "turnov"
+	key[]: "Turnov"
 	val[]: "Турнов"
 
-	key[]: "unicov"
+	key[]: "Uničov"
 	val[]: "Уничов"
 
-	key[]: "chocerady"
+	key[]: "Chocerady"
 	val[]: "Хоцерады"
 
-	key[]: "vmyto"
+	key[]: "Vysoké Mýto"
 	val[]: "Високе-Мито"
 
-	key[]: "vosek"
-	val[]: "Восек"
+	key[]: "Velký Osek"
+	val[]: "Великий Осек"
 
-	key[]: "strakonice"
+	key[]: "Strakonice"
 	val[]: "Страконице"
 
-	key[]: "lipno"
-	val[]: "Липно"
+	key[]: "Lipno nad Vltavou"
+	val[]: "Липно-над-Влтавой"
 
-	key[]: "cimelice"
+	key[]: "Čimelice"
 	val[]: "Чимелице"
 
-	key[]: "orlik"
-	val[]: "Орлик"
+	key[]: "Orlík nad Vltavou"
+	val[]: "Орлик-над-Влтавой"
 
-	key[]: "volary"
+	key[]: "Volary"
 	val[]: "Волары"
 
-	key[]: "novapec"
+	key[]: "Nová Pec"
 	val[]: "Нова-Печ"
 }
 }
