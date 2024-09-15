@@ -102,8 +102,8 @@ economy_data : economy.data.storage
 	skill_distance[5]:	1750
 
 	fixed_revenue: 100
-	revenue_coef_per_km: 0.06 			# Revenue coefficient per km used during freight market jobs. 
-	cargo_market_revenue_coef_per_km: 0.06 		# Revenue coefficient per km used during cargo market jobs. 
+	revenue_coef_per_km: 0.07			# Revenue coefficient per km used during freight market jobs. 
+	cargo_market_revenue_coef_per_km: 0.07 		# Revenue coefficient per km used during cargo market jobs. 
 	
 	max_eco_consumption_drop[0]: (0.1, 0.1)		# consumption decreased by 40% (or 60% if driving with trailer) 
 							# for ecodriving skill maximum
