@@ -18,7 +18,7 @@ economy_data : economy.data.storage
 
 	truck_count_for_online:	1			# number of owned trucks to unlock buying online feature
 
-	abandoned_job_fine: 300			
+	abandoned_job_fine: 200			
 
 	cargo_damage_cost: 15.0 			# -25 for 1% of damage 
 	cargo_damage_cost_factor: 0.1 			# -10% total cost penalty per 1% of damage
@@ -79,16 +79,16 @@ economy_data : economy.data.storage
 	driver_revenue_coef_per_km: 0.03		# Revenue coefficient used during quick job and drivers jobs. Заказы агенств
 	driver_cargo_market_revenue_coef_per_km: 0.035 # Revenue coefficient used during cargo market jobs for drivers.
 
-	driver_hire_cost: 200		# Euro
+	driver_hire_cost: 100		# Euro
 
-	free_driver_level_cap: 30	# don't grow offered drivers higher than this level
+	free_driver_level_cap: 50	# don't grow offered drivers higher than this level
 	driver_offer_scrap_prob: 0.5
 
 	driver_quitwarn_time: 3		# days
 	driver_quit_time: 5		# days
 	driver_no_return_job_prob: 0.1	# 10% of no return job, decrease with skill
 
-	driver_skilled_job_prob: 0.8
+	driver_skilled_job_prob: 0.9
 
 ##
 ## Skill job filtering
