@@ -80,5 +80,103 @@ localization_db : .localization
 	key[]: "Zarinsk"
 	val[]: "Заринск"
 
+    key[]: "benesov"
+	val[]: "Бенешов"
+
+	key[]: "mboleslav"
+	val[]: "Млада-Болеслав"
+
+	key[]: "budejovice"
+	val[]: "Ческе-Будеёвице"
+
+	key[]: "truckpark"
+	val[]: "Тракпарк"
+
+	key[]: "harrachov"
+	val[]: "Гаррахов"
+
+	key[]: "holice"
+	val[]: "Голице"
+
+	key[]: "hradec"
+	val[]: "Градец"
+
+	key[]: "jablonec"
+	val[]: "Яблонец"
+
+	key[]: "jicin"
+	val[]: "Йичин"
+
+	key[]: "jihlava_vys"
+	val[]: "Йиглава"
+
+	key[]: "kudowa"
+	val[]: "Кудова-Здруй"
+
+	key[]: "liberec_lk"
+	val[]: "Либерец"
+
+	key[]: "litovel"
+	val[]: "Литовель"
+
+	key[]: "mikulov"
+	val[]: "Микулов"
+
+	key[]: "mtrebova"
+	val[]: "Моравска-Тршебова"
+
+	key[]: "nachod"
+	val[]: "Нахо́д"
+
+	key[]: "pardubice"
+	val[]: "Пардубице"
+
+	key[]: "policka"
+	val[]: "Поличка"
+
+	key[]: "prerov"
+	val[]: "Пршеров"
+
+	key[]: "schandau"
+	val[]: "Бад-Шандау"
+
+	key[]: "svitavy"
+	val[]: "Свитавы"
+
+	key[]: "tabor"
+	val[]: "Табор"
+
+	key[]: "turnov"
+	val[]: "Турнов"
+
+	key[]: "unicov"
+	val[]: "Уничов"
+
+	key[]: "chocerady"
+	val[]: "Хоцерады"
+
+	key[]: "vmyto"
+	val[]: "Високе-Мито"
+
+	key[]: "vosek"
+	val[]: "Восек"
+
+	key[]: "strakonice"
+	val[]: "Страконице"
+
+	key[]: "lipno"
+	val[]: "Липно"
+
+	key[]: "cimelice"
+	val[]: "Чимелице"
+
+	key[]: "orlik"
+	val[]: "Орлик"
+
+	key[]: "volary"
+	val[]: "Волары"
+
+	key[]: "novapec"
+	val[]: "Нова-Печ"
 }
 }
