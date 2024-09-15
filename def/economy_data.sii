@@ -76,7 +76,7 @@ economy_data : economy.data.storage
 	driver_max_cargo_damage: 0.3		# in %, decrease with skill
 	driver_maintenance_cost: (0.3, 0.5) 	# maintenance + insurance, base range in E/km
 	minimal_driver_salary:	6		# fixed part of driver's pay
-	driver_revenue_coef_per_km: 0.03		# Revenue coefficient used during quick job and drivers jobs. Заказы агенств
+	driver_revenue_coef_per_km: 0.03		# Revenue coefficient used during quick job and drivers jobs.
 	driver_cargo_market_revenue_coef_per_km: 0.035 # Revenue coefficient used during cargo market jobs for drivers.
 
 	driver_hire_cost: 100		# Euro
