@@ -51,8 +51,8 @@ economy_data : economy.data.storage
 
 	# assistance service
 
-	tow_price_base: 80
-	tow_price_factor: 0.2				# cost per meter (as crow flies)
+	tow_price_base: 4
+	tow_price_factor: 0.02				# cost per meter (as crow flies)
 	tow_time_base: 1800				# 30 min
 	tow_time_factor: 3				# time per meter (as crow flies)
 	tow_fuel_ratio: 0.1				# emergecy refuel upon tow (tank %)
