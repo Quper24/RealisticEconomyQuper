@@ -20,8 +20,8 @@ economy_data : economy.data.storage
 
 	abandoned_job_fine: 200			
 
-	cargo_damage_cost: 10.0 			# -25 for 1% of damage 
-	cargo_damage_cost_factor: 0.1 			# -10% total cost penalty per 1% of damage
+	cargo_damage_cost: 2.0 			# -25 for 1% of damage 
+	cargo_damage_cost_factor: 0.04 			# -10% total cost penalty per 1% of damage
 
 	late_delivery_max_overtime[0]: 1440		# 1 days for "easy" deliveries
 	late_delivery_max_overtime[1]: 360		# 6 hours for "normal" deliveries
@@ -60,7 +60,7 @@ economy_data : economy.data.storage
 	# emergency refuel
 
 	refuel_fuel: 50
-	refuel_price_base: 80
+	refuel_price_base: 120
 	refuel_price_factor: 2	# 2x regular fuel cost
 	refuel_time_base: 1800	# 30 min
 
