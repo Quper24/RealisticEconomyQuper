@@ -21,7 +21,7 @@ economy: .economy
 
 bank: .bank
 {
-	money_account: 714
+	money_account: 250
 	app_enabled: false
 }
 
