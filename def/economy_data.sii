@@ -251,7 +251,7 @@ economy_data : economy.data.storage
 	currency_sign3[]: " CHF"
 
 	currency_code[]: "CZK"
-	currency_ratio[]: 25.56
+	currency_ratio[]: 25.77
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " Kč"
@@ -263,13 +263,13 @@ economy_data : economy.data.storage
 	currency_sign3[]: ""
 
 	currency_code[]: "PLN"
-	currency_ratio[]: 4.29
+	currency_ratio[]: 4.27
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " zł"
 
 	currency_code[]: "HUF"
-	currency_ratio[]: 366.05
+	currency_ratio[]: 366.12
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " Ft"
@@ -281,13 +281,13 @@ economy_data : economy.data.storage
 	currency_sign3[]: " kr"
 
 	currency_code[]: "SEK"
-	currency_ratio[]: 11.64
+	currency_ratio[]: 11.67
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " kr"
 
 	currency_code[]: "NOK"
-	currency_ratio[]: 11.86
+	currency_ratio[]: 11.85
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " kr"
@@ -305,19 +305,19 @@ economy_data : economy.data.storage
 	currency_sign3[]: ""
 
 	currency_code[]: "RON"
-	currency_ratio[]: 4.96
+	currency_ratio[]: 4.97
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " lei"
 
 	currency_code[]: "TRY"
-	currency_ratio[]: 28.93
+	currency_ratio[]: 29.49
 	currency_sign1[]: ""
 	currency_sign2[]: "₺"
 	currency_sign3[]: ""
 
 	currency_code[]: "ALL"
-	currency_ratio[]: 106.56
+	currency_ratio[]: 106.22
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " lek"
@@ -329,13 +329,13 @@ economy_data : economy.data.storage
 	currency_sign3[]: ""
 
 	currency_code[]: "MKD"
-	currency_ratio[]: 61.58
+	currency_ratio[]: 61.73
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " ден"
 
 	currency_code[]: "RSD"
-	currency_ratio[]: 117.22
+	currency_ratio[]: 117.64
 	currency_sign1[]: ""
 	currency_sign2[]: "дин "
 	currency_sign3[]: ""

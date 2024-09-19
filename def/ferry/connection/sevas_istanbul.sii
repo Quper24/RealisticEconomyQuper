@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.sevas.istanbul{
-	price: 126
+	price: 76
 	time: 1160
 	distance: 626
 }

@@ -1,8 +1,4 @@
 SiiNunit
 {
-ferry_connection : conn.istanbul.tripoli{
-	price: 415
-	time: 3260
-	distance: 2080
-}
+
 }

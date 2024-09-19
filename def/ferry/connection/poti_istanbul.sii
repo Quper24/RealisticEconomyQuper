@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.poti.istanbul{
-	price: 176
+	price: 112
 	time: 1472
 	distance: 889
 }

@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.bari.split{
-	price: 150
+	price: 73
 	time: 660
 	distance: 320
 }
