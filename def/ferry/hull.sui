@@ -1,7 +1,0 @@
-ferry_data: ferry.hull
-{
-	ferry_name: "Hull"
-	ferry_name_localized: "@@hull@@"
-}
-
-
