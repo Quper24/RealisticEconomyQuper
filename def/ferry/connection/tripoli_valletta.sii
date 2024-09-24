@@ -1,8 +1,3 @@
 SiiNunit
 {
-ferry_connection : conn.tripoli.valletta{
-	price: 115
-	time: 760
-	distance: 480
-}
 }

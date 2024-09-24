@@ -1,6 +1,11 @@
-﻿ferry_data: ferry.varna
-{
-	ferry_name: "@@varna@@"
-}
 
+###
+# WARNING: Map must be rebuilt when anything is changed here!
+###
+ferry_data: ferry.varna
+{
+	ferry_name: "Варна"
+    ferry_name_localized: "@@Варна@@"
+
+}
 

@@ -1,9 +1,4 @@
 SiiNunit
 {
-ferry_connection : conn.vardo.kirkenes{
-	price: 56
-	time: 192
-	distance: 189
-}
 }
 
