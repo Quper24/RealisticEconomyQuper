@@ -1,0 +1,9 @@
+
+ferry_data: ferry.dalianrail
+{
+	ferry_name: "Dalian Railway Station, China"
+	ferry_name_localized: "@@Dalian Railway Station, China@@"
+	transport_type: "train"
+}
+
+

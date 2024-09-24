@@ -1,4 +1,9 @@
 SiiNunit
 {
-
+ferry_connection : conn.jakarta.dalian{
+	price: 189
+	time: 6240
+	distance: 5240
 }
+}
+

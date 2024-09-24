@@ -1,0 +1,9 @@
+
+ferry_data: ferry.wuqia
+{
+	ferry_name: "Wuqia Train Station, China"
+	ferry_name_localized: "@@Wuqia Train Station, China@@"
+	transport_type: "train"
+}
+
+

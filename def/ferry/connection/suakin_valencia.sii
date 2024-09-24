@@ -1,4 +1,9 @@
 SiiNunit
 {
-
+ferry_connection : conn.suakin.valencia {
+	price: 199
+	time: 6950
+	distance: 7015
 }
+}
+
