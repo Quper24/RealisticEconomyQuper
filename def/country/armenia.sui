@@ -1,4 +1,3 @@
-
 country_data : country.data.armenia
 {
 	country_id: 47
@@ -7,17 +6,16 @@ country_data : country.data.armenia
 	name_localized: "@@armenia@@"
 	country_code: "AM"
 	iso_country_code: arm
-
+	
 	pos: (148000, 0, 32000)
 
 	fuel_price: 1.19 
 
 	lights_mandatory: false
-	leftside_traffic: true
 	driving_tired_offence: true
 
 	time_zone: 240		# +4 hours in minutes
-	time_zone_name: "GET"
+	time_zone_name: "AMT"
 
 	mass_limit_per_axle_count[]: 22500	# 2-axle vehicle
 	mass_limit_per_axle_count[]: 32500

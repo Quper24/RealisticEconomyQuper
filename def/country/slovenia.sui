@@ -1,4 +1,3 @@
-
 country_data : country.data.slovenia
 {
 	country_id: 41
@@ -18,7 +17,7 @@ country_data : country.data.slovenia
 	time_zone: 120		# +2 hours in minutes
 	time_zone_name: "@@tz_cest@@"
 
-	mass_limit_per_axle_count[]: 19000	# 2-axle vehicle
+	mass_limit_per_axle_count[]: 18000	# 2-axle vehicle
 	mass_limit_per_axle_count[]: 26000
 	mass_limit_per_axle_count[]: 36000
 	mass_limit_per_axle_count[]: 40000

@@ -1,4 +1,3 @@
-
 country_data : country.data.iom
 {
 	country_id: 236
@@ -19,7 +18,7 @@ country_data : country.data.iom
 	trailer_standalone: true
 	
 	time_zone: 60		# +1 hours in minutes
-	time_zone_name: "BST"
+	time_zone_name: "@@tz_bst@@"
 	
 	mass_limit_per_axle_count[]: 18000	# 2-axle vehicle
 	mass_limit_per_axle_count[]: 26000

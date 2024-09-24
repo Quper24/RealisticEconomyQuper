@@ -1,4 +1,3 @@
-
 country_data : country.data.liecht
 {
 	country_id: 29

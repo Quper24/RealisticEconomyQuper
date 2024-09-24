@@ -1,4 +1,3 @@
-
 country_data : country.data.andorra
 {
 	country_id: 15

@@ -1,4 +1,3 @@
-
 country_data : country.data.netherlands
 {
 	country_id: 7
@@ -8,7 +7,7 @@ country_data : country.data.netherlands
 	country_code: "NL"
 	iso_country_code: nld
 
-	pos: (-15575, 0, -9660)
+	pos: (-16500, 0, -10200)
 
 	fuel_price: 1.62 
 

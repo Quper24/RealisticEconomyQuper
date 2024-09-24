@@ -1,11 +1,10 @@
-
 country_data : country.data.svalbard
 {
 	country_id: 254
 
 	name: "Svalbard"
 	name_localized: "@@svalbard@@"
-	country_code: "SJ"
+	country_code: "N"
 	iso_country_code: sjm
 
 	pos: (20700, 0, -167000)
@@ -14,7 +13,7 @@ country_data : country.data.svalbard
 
 	lights_mandatory: true
 	driving_tired_offence: true
-
+		
 	time_zone: 120		# +2 hours in minutes
 	time_zone_name: "@@tz_cest@@"
 

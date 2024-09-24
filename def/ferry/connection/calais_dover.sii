@@ -4,6 +4,20 @@ ferry_connection : conn.calais.dover {
 	price: 38
 	time: 91
 	distance: 49
+
+	# NODE POSITIONS #######    x*256 , 0,   z*256
+	connection_positions[0]: (-8008524, 0, -1487006)
+	connection_positions[1]: (-8059162, 0, -1477318)
+	connection_positions[2]: (-8096358, 0, -1510874)
+	connection_positions[3]: (-8216244, 0, -1772336)
+	connection_positions[4]: (-8307584, 0, -1801638)
+
+	# NODE ROTATIONS #######  -sin(jaw), 0, -cos(jaw)
+	connection_directions[0]: (-0.96593, 0, -0.25882)
+	connection_directions[1]: (-1,       0,  0      )
+	connection_directions[2]: (-0.38268, 0, -0.92388)
+	connection_directions[3]: (-0.38268, 0, -0.92388)
+	connection_directions[4]: (-0.25882, 0, -0.96593)
 }
 }
 

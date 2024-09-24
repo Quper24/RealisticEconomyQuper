@@ -1,5 +1,4 @@
-
-country_data: country.data.portugal
+country_data : country.data.portugal
 {
 	country_id: 36
 

@@ -1,14 +1,13 @@
-
 country_data : country.data.russia
 {
 	country_id: 38
 
 	name: "Россия"
 	name_localized: "@@russia@@"
-	country_code: "RU"
+	country_code: "RUS"
 	iso_country_code: rus
 
-	pos: (59500, 0, -51500)
+	pos: (59500, 0, -52000)
 
 	fuel_price: 0.47
 
@@ -28,7 +27,7 @@ country_data : country.data.russia
 	# saratov area, MSK+1, +4 hours
 	secondary_time_zone_area[]: (116000.0, 140000.0, -33000.0, -24300.0)
 	secondary_time_zone[]: 240
-	secondary_time_zone_name[]: "MSK+1"
+	secondary_time_zone_name[]: "@@tz_msk@@+1"
 
 	# Ulyanovsk, Samara area, SAMT (MSK+1), +4 hours
 	secondary_time_zone_area[]: (129000.0, 139500.0, -55000.0, -35000.0)

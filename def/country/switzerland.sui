@@ -1,4 +1,3 @@
-
 country_data : country.data.switzerland
 {
 	country_id: 9
@@ -8,7 +7,7 @@ country_data : country.data.switzerland
 	country_code: "CH"
 	iso_country_code: che
 
-	pos: (-9369, 0, 21470)
+	pos: (-8500, 0, 22000)
 
 	fuel_price: 1.95
 

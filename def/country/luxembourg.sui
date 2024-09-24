@@ -1,4 +1,3 @@
-
 country_data : country.data.luxembourg
 {
 	country_id: 12

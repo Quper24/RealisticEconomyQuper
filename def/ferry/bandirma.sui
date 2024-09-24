@@ -1,11 +1,9 @@
-
-###
+﻿###
 # WARNING: Map must be rebuilt when anything is changed here!
 ###
 ferry_data: ferry.bandirma
 {
-	ferry_name: "Bandırma"
-    ferry_name_localized: "@@Bandırma@@"
+	ferry_name: "@@bandirma@@"
+} 
 
-}
 

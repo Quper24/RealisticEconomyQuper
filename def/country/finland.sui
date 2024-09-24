@@ -1,11 +1,10 @@
-
 country_data : country.data.finland
 {
 	country_id: 23
 
 	name: "Suomi"
 	name_localized: "@@finland@@"
-	country_code: "FI"
+	country_code: "FIN"
 	iso_country_code: fin
 
 	pos: (42000, 0, -65000)

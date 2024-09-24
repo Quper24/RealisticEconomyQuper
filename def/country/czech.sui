@@ -1,4 +1,3 @@
-
 country_data : country.data.czech
 {
 	country_id: 3

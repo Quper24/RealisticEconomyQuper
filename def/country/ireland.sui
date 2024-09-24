@@ -1,4 +1,3 @@
-
 country_data : country.data.ireland
 {
 	country_id: 27
@@ -17,10 +16,10 @@ country_data : country.data.ireland
 	leftside_traffic: true
 	driving_tired_offence: true
 	trailer_standalone: false
-
+	
 	time_zone: 60		# +1 hours in minutes
 	time_zone_name: "IST"
-
+	
 	mass_limit_per_axle_count[]: 18000	# 2-axle vehicle
 	mass_limit_per_axle_count[]: 26000
 	mass_limit_per_axle_count[]: 36000
