@@ -36,6 +36,8 @@ Routes: New ferry routes have been added, providing additional opportunities for
 Prices: Recalculated and adjusted to reflect actual ferry costs, impacting trip expenses and overall costs.
 Removal of Unnecessary Routes: Removed routes that had minimal impact on gameplay to improve the overall experience and optimize navigation.
 (new) Added support for modded maps (ferry connections):
+*Beyond
+*ProMods (Europe, Middle East, Great Steppe)
 *ROEX + ROEX Premium
 *Bengan's Swedish Islands Map
 *KirovMap 1.4 and 1.6
