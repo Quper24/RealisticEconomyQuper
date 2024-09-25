@@ -9,7 +9,7 @@ country_data : country.data.netherlands
 
 	pos: (-16500, 0, -10200)
 
-	fuel_price: 1.62 
+	fuel_price: 1.606 
 
 	lights_mandatory: true
 	driving_tired_offence: true
