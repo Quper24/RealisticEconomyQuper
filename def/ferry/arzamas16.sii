@@ -1,0 +1,11 @@
+###
+# WARNING: Map must be rebuilt when anything is changed here!
+###
+ferry_data: ferry.arzamas16
+{
+	ferry_name: "РЖД-Терминал Арзамас16"
+	transport_type: "train"
+
+}
+
+

@@ -1,4 +1,9 @@
 SiiNunit
 {
-
+ferry_connection : conn.arzamas16.vorkuta {
+	price: 3000
+	time: 7200
+	distance: 3000
 }
+}
+

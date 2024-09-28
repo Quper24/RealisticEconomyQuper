@@ -1,0 +1,11 @@
+###
+# WARNING: Map must be rebuilt when anything is changed here!
+###
+ferry_data: ferry.v4
+{
+	ferry_name: "АЭРОПОРТ В/Ч-1014"
+	transport_type: "train"
+
+}
+
+
