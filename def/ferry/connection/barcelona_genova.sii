@@ -1,5 +1,9 @@
 SiiNunit
 {
-
+ferry_connection : conn.barcelona.genova {
+	price: 86
+	time: 1270
+	distance: 670
+}
 }
 

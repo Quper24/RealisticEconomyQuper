@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.bastia.genova {
+	price: 45
+	time: 498
+	distance: 241
+}
+}
+

@@ -1,5 +1,6 @@
 ferry_data: ferry.bjfaaro
 {
 	ferry_name: "Fårö"
-	ferry_name_localized: "@@Fårö@@"
 }
+
+

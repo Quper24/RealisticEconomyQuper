@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.bastia.portoferraio {
+	price: 38
+	time: 180
+	distance: 82
+}
+}
+

@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.livorno.bastia {
+	price: 41
+	time: 258
+	distance: 128
+}
+}
+
