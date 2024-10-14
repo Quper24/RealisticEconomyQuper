@@ -13,12 +13,12 @@ police_data : police.data
 	fine_overspeed_step_multiplier: 1.5
 	fine_overspeed_multiplier_limit: 10
 
-	fine_amounts[0]: 100		  # car crash
-	fine_amounts[1]: 70		  # avoid sleeping
+	fine_amounts[0]: 120		  # car crash
+	fine_amounts[1]: 50		  # avoid sleeping
 	fine_amounts[2]: 70	  	# wrong way
 	fine_amounts[3]: 100	  # speeding (camera)
 	fine_amounts[4]: 50     # no lights during night
-	fine_amounts[5]: 150		# red lights
+	fine_amounts[5]: 120		# red lights
 	fine_amounts[6]: 100		# speeding
 	fine_amounts[7]: 200		# avoid weighing
 	fine_amounts[8]: 500		# illegal trailer
