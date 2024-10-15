@@ -245,49 +245,49 @@ economy_data : economy.data.storage
 	currency_sign3[]: ""
 
 	currency_code[]: "CHF"
-	currency_ratio[]: 0.96
+	currency_ratio[]: 0.9401
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " CHF"
 
 	currency_code[]: "CZK"
-	currency_ratio[]: 25.77
+	currency_ratio[]: 25.24
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " Kč"
 
 	currency_code[]: "GBP"
-	currency_ratio[]: 0.85
+	currency_ratio[]: 0.8336
 	currency_sign1[]: ""
 	currency_sign2[]: "£"
 	currency_sign3[]: ""
 
 	currency_code[]: "PLN"
-	currency_ratio[]: 4.27
+	currency_ratio[]: 4.2938
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " zł"
 
 	currency_code[]: "HUF"
-	currency_ratio[]: 366.12
+	currency_ratio[]: 400.48
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " Ft"
 
 	currency_code[]: "DKK"
-	currency_ratio[]: 7.46
+	currency_ratio[]: 7.4610
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " kr"
 
 	currency_code[]: "SEK"
-	currency_ratio[]: 11.67
+	currency_ratio[]: 11.01
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " kr"
 
 	currency_code[]: "NOK"
-	currency_ratio[]: 11.85
+	currency_ratio[]: 11.66
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " kr"
@@ -299,19 +299,19 @@ economy_data : economy.data.storage
 	currency_sign3[]: ""
 
 	currency_code[]: "BGN"
-	currency_ratio[]: 1.95
+	currency_ratio[]: 1.9558
 	currency_sign1[]: ""
 	currency_sign2[]: "лв"
 	currency_sign3[]: ""
 
 	currency_code[]: "RON"
-	currency_ratio[]: 4.97
+	currency_ratio[]: 4.9758
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " lei"
 
 	currency_code[]: "TRY"
-	currency_ratio[]: 29.49
+	currency_ratio[]: 37.37
 	currency_sign1[]: ""
 	currency_sign2[]: "₺"
 	currency_sign3[]: ""
@@ -323,13 +323,13 @@ economy_data : economy.data.storage
 	currency_sign3[]: " lek"
 
 	currency_code[]: "BAM"
-	currency_ratio[]: 1.95
+	currency_ratio[]: 1.9558
 	currency_sign1[]: ""
 	currency_sign2[]: "KM "
 	currency_sign3[]: ""
 
 	currency_code[]: "MKD"
-	currency_ratio[]: 61.73
+	currency_ratio[]: 61.7
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " ден"
@@ -341,7 +341,7 @@ economy_data : economy.data.storage
 	currency_sign3[]: ""
 
 	currency_code[]: "UAH"
-	currency_ratio[]: 39.82
+	currency_ratio[]: 39.8
 	currency_sign1[]: ""
 	currency_sign2[]: "грн "
 	currency_sign3[]: ""
