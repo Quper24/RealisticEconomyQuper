@@ -226,4 +226,5 @@ SiiNunit
 @include "ferry/travemunde.sui"
 @include "ferry/trieste.sui"
 @include "ferry/tunnel_a.sui"
+@include "ferry/oshtrowrus.sui"
 }
