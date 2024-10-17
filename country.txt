@@ -12,6 +12,7 @@ botswana - "Botswana" - 1.028
 bulgaria - "България" - 1.215
 burkinafaso - "Burkina Faso" - 1.035
 car - "Central African Republic" - 2.060
+chad - "Tchad" - 1.23
 china - "中华人民共和国" - 0.920
 croatia - "Hrvatska" - 1.478
 cyprus - "Κύπρος" - 1.444
@@ -73,6 +74,7 @@ slovenia - "Slovenija" - 1.479
 southsudan - "South Sudan" - 0.602
 south_africa - "south_africa" - 1.091
 spain - "España" - 1.369
+sudan - "Sūdān" - 0.65
 svalbard - "Svalbard" - 1.67 # https://www.globalpetrolprices.com/Norway/diesel_prices/
 sweden - "Sverige" - 1.564
 switzerland - "Schweiz" - 1.927
