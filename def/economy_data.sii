@@ -14,13 +14,13 @@ economy_data : economy.data.storage
 	garage_prod_plan_small: 15000 			
 	garage_prod_plan_large: 30000 			
 
-	fuel_discount_in_garage: 0.35 			# 30%
+	fuel_discount_in_garage: 0.30 			# 30%
 
-	truck_count_for_online:	1			# number of owned trucks to unlock buying online feature
+	truck_count_for_online:	0			# number of owned trucks to unlock buying online feature
 
-	abandoned_job_fine: 200			
+	abandoned_job_fine: 250			
 
-	cargo_damage_cost: 2.0 			# -25 for 1% of damage 
+	cargo_damage_cost: 10.0 			# -25 for 1% of damage 
 	cargo_damage_cost_factor: 0.04 			# -10% total cost penalty per 1% of damage
 
 	late_delivery_max_overtime[0]: 1440		# 1 days for "easy" deliveries
@@ -45,24 +45,24 @@ economy_data : economy.data.storage
 
 	hurry_up_timer: 114				# how long the hurry up music will play (in game minutes)
 
-	no_cargo_prob:	0.05				# 20% prob. of empty cargo slot
-	cargo_validity_min: 360				# 3 hours
-	cargo_validity_max: 1800			# 30 hours
+	no_cargo_prob:	0.20				# 20% prob. of empty cargo slot
+	cargo_validity_min: 180				# 3 hours
+	cargo_validity_max: 7200			
 
 	# assistance service
 
 	tow_price_base: 4
-	tow_price_factor: 0.02				# cost per meter (as crow flies)
+	tow_price_factor: 0.04				# cost per meter (as crow flies)
 	tow_time_base: 1800				# 30 min
 	tow_time_factor: 3				# time per meter (as crow flies)
-	tow_fuel_ratio: 0.1				# emergecy refuel upon tow (tank %)
+	tow_fuel_ratio: 0.0				# emergecy refuel upon tow (tank %)
 
 	# emergency refuel
 
 	refuel_fuel: 50
 	refuel_price_base: 120
 	refuel_price_factor: 2	# 2x regular fuel cost
-	refuel_time_base: 1800	# 30 min
+	refuel_time_base: 4500	# 2 hours 30 min
 
 	recharge_energy: 100
 	recharge_price_base: 80
@@ -72,14 +72,14 @@ economy_data : economy.data.storage
 #
 # AI driver related configuration
 #
-	fuel_cost_per_km: (0.2, 0.3)		# for driver simulation
-	driver_max_cargo_damage: 0.3		# in %, decrease with skill
-	driver_maintenance_cost: (0.3, 0.5) 	# maintenance + insurance, base range in E/km
-	minimal_driver_salary:	6		# fixed part of driver's pay
+	fuel_cost_per_km: (0.02, 0.03)		# for driver simulation
+	driver_max_cargo_damage: 0.30		# in %, decrease with skill
+	driver_maintenance_cost: (0.01, 0.02) 	# maintenance + insurance, base range in E/km
+	minimal_driver_salary:	35		# fixed part of driver's pay
 	driver_revenue_coef_per_km: 0.03		# Revenue coefficient used during quick job and drivers jobs.
 	driver_cargo_market_revenue_coef_per_km: 0.035 # Revenue coefficient used during cargo market jobs for drivers.
 
-	driver_hire_cost: 100		# Euro
+	driver_hire_cost: 2800		# Euro
 
 	free_driver_level_cap: 30	# don't grow offered drivers higher than this level
 	driver_offer_scrap_prob: 0.5
@@ -88,7 +88,7 @@ economy_data : economy.data.storage
 	driver_quit_time: 5		# days
 	driver_no_return_job_prob: 0.1	# 10% of no return job, decrease with skill
 
-	driver_skilled_job_prob: 0.9
+	driver_skilled_job_prob: 0.8
 
 ##
 ## Skill job filtering
@@ -102,8 +102,8 @@ economy_data : economy.data.storage
 	skill_distance[5]:	1750
 
 	fixed_revenue: 100
-	revenue_coef_per_km: 0.06			# Revenue coefficient per km used during freight market jobs. 
-	cargo_market_revenue_coef_per_km: 0.08 		# Revenue coefficient per km used during cargo market jobs. 
+	revenue_coef_per_km: 0.067			# Revenue coefficient per km used during freight market jobs. 
+	cargo_market_revenue_coef_per_km: 0.075 		# Revenue coefficient per km used during cargo market jobs. 
 	
 	max_eco_consumption_drop[0]: (0.1, 0.1)		# consumption decreased by 40% (or 60% if driving with trailer) 
 							# for ecodriving skill maximum
@@ -141,22 +141,22 @@ economy_data : economy.data.storage
 	reward_bonus_urgent[4]: 0.04
 	reward_bonus_urgent[5]: 0.05
 
-	reward_bonus_level: 0.01 			
+	reward_bonus_level: 0.015 			
 
 #  Experience points
 	free_roam_report_limit: 100
 
-	exp_cargo_delivery: 	0.6			# per km of real world 
-	exp_free_roam: 		0.05			# per km of real world 
-	exp_road_discovery:	0.08			# per km of real world 
+	exp_cargo_delivery: 	1			# per km of real world 
+	exp_free_roam: 		0.5			# per km of real world 
+	exp_road_discovery:	0.8			# per km of real world 
 
-	exp_perfect_delivery: 	0.3			# +24% 	
-	exp_adr_bonus:		0.33						# +21%	of total cargo delivery exp. points
-	exp_important_bonus:	0.32			# +20%
-	exp_urgent_bonus:	0.27			# +20%
-	exp_fragile_bonus:	0.29			# +22%
-	exp_long_dist_bonus:	0.35			# +35%
-	exp_valuable_bonus:	0.31			# +25%
+	exp_perfect_delivery: 	0.4			# +24% 	
+	exp_adr_bonus:		0.24						# +21%	of total cargo delivery exp. points
+	exp_important_bonus:	0.21			# +20%
+	exp_urgent_bonus:	0.22			# +20%
+	exp_fragile_bonus:	0.23			# +22%
+	exp_long_dist_bonus:	0.24			# +35%
+	exp_valuable_bonus:	0.25			# +25%
 
 	exp_park_bonus: 10 	    					# bonus for not using the autopark feature on EASY parking spot 
 	exp_park_bonus_medium: 30   			# bonus for not using the autopark feature on MEDIUM parking spot 
@@ -168,7 +168,7 @@ economy_data : economy.data.storage
 
 	exp_park_load_bonus: 20			# exp bonus for manually parking trailer during loading phase of the job 
 
-	exp_damaged_cargo:	5			# -5 XP per 1% of cargo damage
+	exp_damaged_cargo:	-15			# -5 XP per 1% of cargo damage
 	exp_damaged_cargo_factor: 0.05			# -5% of total XP per 1% of cargo damage
 
 

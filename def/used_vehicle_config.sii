@@ -11,9 +11,9 @@ used_vehicle_assortment_config : .config
 	truck_expiration_game_time_max: 4320
 
 	truck_count_min: 12
-	truck_count_max: 36
+	truck_count_max: 96
 
-	dealer_truck_offer_ratios[]: 0.7
+	dealer_truck_offer_ratios[]: 0.5
 	dealer_truck_offer_levels[]: nil
 
 	truck_odometer_limit_values[]: 1000000
@@ -39,30 +39,30 @@ used_vehicle_assortment_config : .config
 	truck_cabin_wear_min: 0.0
 	truck_cabin_wear_max: 0.0
 
-	truck_wear_unfixable_limit_values[]: 0.05
-	truck_wear_unfixable_limit_levels[]: 3
+	truck_wear_unfixable_limit_values[]: 0.15
+	truck_wear_unfixable_limit_levels[]: 1
 
 	truck_chassis_wear_unfixable_min: 0.0
-	truck_chassis_wear_unfixable_max: 0.1
+	truck_chassis_wear_unfixable_max: 0.3
 
 	truck_wheels_wear_unfixable_min: 0.0
-	truck_wheels_wear_unfixable_max: 0.1
+	truck_wheels_wear_unfixable_max: 0.3
 
 	truck_engine_wear_unfixable_min: 0.0
-	truck_engine_wear_unfixable_max: 0.1
+	truck_engine_wear_unfixable_max: 0.3
 
 	truck_transmission_wear_unfixable_min: 0.0
-	truck_transmission_wear_unfixable_max: 0.1
+	truck_transmission_wear_unfixable_max: 0.3
 
 	truck_cabin_wear_unfixable_min: 0.0
-	truck_cabin_wear_unfixable_max: 0.1
+	truck_cabin_wear_unfixable_max: 0.3
 
 	truck_price_factor_integrity_wear: 3.0
-	truck_price_factor_wear_unfixable: 3.0
+	truck_price_factor_wear_unfixable: 2.0
 	truck_price_factor_wear: 1.0
 
-	truck_price_minimum_accessory_price_coef: 0.4
+	truck_price_minimum_accessory_price_coef: 0.2
 
-	truck_price_range_coef: 0.3
+	truck_price_range_coef: 0.0
 }
 }
