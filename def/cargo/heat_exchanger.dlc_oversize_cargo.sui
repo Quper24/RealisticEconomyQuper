@@ -8,6 +8,6 @@ cargo_data: cargo.heat_exch
 
 	volume: 100
 	mass: 70000
-	unit_reward_per_km: 54.67
+	unit_reward_per_km: 71.07
 	body_types[]: _oversize
 }

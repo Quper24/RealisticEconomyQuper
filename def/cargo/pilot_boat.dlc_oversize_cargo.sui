@@ -8,6 +8,6 @@ cargo_data: cargo.pilot_boat
 
 	volume: 100
 	mass: 25000
-	unit_reward_per_km: 50.62
+	unit_reward_per_km: 65.80
 	body_types[]: _oversize
 }

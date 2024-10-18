@@ -8,6 +8,6 @@ cargo_data: cargo.silo
 
 	volume: 100
 	mass: 40000
-	unit_reward_per_km: 46.57
+	unit_reward_per_km: 60.54
 	body_types[]: _oversize
 }

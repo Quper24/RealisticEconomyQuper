@@ -8,7 +8,7 @@ cargo_data: cargo.mobile_crane
 	prob_coef: 0.3
 	volume: 70
 	mass: 36150
-	unit_reward_per_km: 34.46
+	unit_reward_per_km: 44.79
 	unit_load_time: 2100
 	body_types[]: lowboy
 	body_types[]: lowbed
