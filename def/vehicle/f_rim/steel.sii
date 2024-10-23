@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_rim_data : steel.frim
+{
+	name: "@@standard@@"
+	price: 1440
+      unlock: 0
+	model: "/vehicle/truck/upgrade/wheel/rim/front_steel.pmd"
+	icon: "f_rim_steel"
+	part_type: aftermarket
+	tire_shift: 0.025
+}
+}

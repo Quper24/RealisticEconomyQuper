@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : shape2.renault.t.mirror
+{
+	name: "@@paint@@"
+	price: 4500
+      unlock: 0
+	icon: "mirror_02_renault_t"
+	part_type: factory
+
+	exterior_model: "/vehicle/truck/renault_t/accessory/mirror/mirror_02.pmd"
+	exterior_model_uk: "/vehicle/truck/renault_t/accessory/mirror/mirror_02_uk.pmd"
+	interior_model: "/vehicle/truck/renault_t/accessory/mirror/mirror_02_interior.pmd"
+	interior_model_uk: "/vehicle/truck/renault_t/accessory/mirror/mirror_02_interior_uk.pmd"
+}
+}

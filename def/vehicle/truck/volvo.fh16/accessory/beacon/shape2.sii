@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : shape2.volvo.fh16.beacon
+{
+	name: "Space"
+	price: 3900
+      unlock: 0
+	icon: "beacon_03"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/upgrade/beacon/beacon_03.pmd"
+}
+}

@@ -1,0 +1,43 @@
+	wheel_updown_anim: "/vehicle/truck/iveco_stralis/interior/st_col_rot.pma"
+	wheel_frontback_anim: "/vehicle/truck/iveco_stralis/interior/st_col_ext.pma"
+	wheel_updown_anim_default: 0.4
+	wheel_frontback_anim_default: 0.5
+
+	wiper_anim: "/vehicle/truck/iveco_stralis/interior/wipers.pma"
+	wiper_duration_and_delay[]: (2.0, 2.0)
+	wiper_duration_and_delay[]: (2.0, 0.0)
+	wiper_duration_and_delay[]: (1.0, 0.0)
+	
+	parking_stick_anim: "/vehicle/truck/iveco_stralis/interior/parking_st.pma"
+	blinker_delay: 0.417
+	blinker_anim: "/vehicle/truck/iveco_stralis/interior/turn_st.pma"
+	lights_anim: "/vehicle/truck/iveco_stralis/interior/cl_light.pma"
+	high_beam_anim: "/vehicle/truck/iveco_stralis/interior/f_light.pma"
+	wiper_stick_anim: "/vehicle/truck/iveco_stralis/interior/wiper_st.pma"
+	retarder_stick_anim: "/vehicle/truck/iveco_stralis/interior/retarder_st.pma"
+	
+	left_window_stick_anim: "/vehicle/truck/iveco_stralis/interior/win_btn_l_eu.pma"
+	right_window_stick_anim: "/vehicle/truck/iveco_stralis/interior/win_btn_r_eu.pma"
+	left_window_anim: "/vehicle/truck/iveco_stralis/interior/win_open_l.pma"
+	right_window_anim: "/vehicle/truck/iveco_stralis/interior/win_open_r.pma"
+
+	differential_lock_stick_anim: "/vehicle/truck/iveco_stralis/interior/st_diff.pma"
+	indicator_differential_lock: "/vehicle/truck/iveco_stralis/interior/i_diff.pma"
+
+	tachometer_anim: "/vehicle/truck/iveco_stralis/interior/rpm.pma"
+	tachometer_anim_max: 3000
+	speedometer_anim: "/vehicle/truck/iveco_stralis/interior/speed.pma"
+	speedometer_anim_max: 120
+	fuel_anim: "/vehicle/truck/iveco_stralis/interior/fuel.pma"
+	water_temp_anim: "/vehicle/truck/iveco_stralis/interior/water.pma"
+	water_temp_anim_min: 30
+	water_temp_anim_max: 110
+
+	button_left_blinker: "/vehicle/truck/iveco_stralis/interior/blinker_l.pma"
+	button_right_blinker: "/vehicle/truck/iveco_stralis/interior/blinker_r.pma"
+	button_lights: "/vehicle/truck/iveco_stralis/interior/cl_light_s.pma"
+	button_high_beam_lights: "/vehicle/truck/iveco_stralis/interior/f_light_s.pma"
+	button_low_fuel: "/vehicle/truck/iveco_stralis/interior/fuel_s.pma"
+	button_parking_brake: "/vehicle/truck/iveco_stralis/interior/parking_s.pma"
+	indicator_low_air_pressure: "/vehicle/truck/iveco_stralis/interior/psi_s.pma"
+	indicator_retarder: "/vehicle/truck/iveco_stralis/interior/ret_s.pma"

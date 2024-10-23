@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : shape3.renault.premium.b_grill
+{
+	name: "Momentum"
+	price: 1050
+      unlock: 0
+	icon: "b_grill_03"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/upgrade/bottomgrill/renault_premium/bottomgrill_03.pmd"
+}
+}

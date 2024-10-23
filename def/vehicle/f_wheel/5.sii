@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_wheel_data : 5.fwheel
+{
+	name: "Majestic Special"
+	price: 8700
+      unlock: 0
+	model: "/vehicle/truck/upgrade/wheel/front_5.pmd"
+	icon: "f_wheel_05"
+	part_type: aftermarket
+}
+}

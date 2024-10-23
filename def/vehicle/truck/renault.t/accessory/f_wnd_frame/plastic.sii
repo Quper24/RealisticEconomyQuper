@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : plastic.renault.t.f_wnd_frame
+{
+	name: "@@plastic@@"
+	price: 720
+      unlock: 0
+	icon: "f_wnd_frame/renault_t/plastic"
+	part_type: factory
+
+	exterior_model: "/vehicle/truck/renault_t/accessory/f_wnd_frame/plastic.pmd"
+	variant: default
+}
+}

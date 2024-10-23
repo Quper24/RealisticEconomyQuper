@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : pnt_hi_evo.renault.t.f_fender_cab
+{
+	name: "@@plastic_paint@@ Evolution"
+	price: 2000
+      unlock: 0
+	icon: "f_fender_cab/renault_t/paint_hi_evo"
+	part_type: factory
+
+	exterior_model: "/vehicle/truck/renault_t/accessory/f_fender_cab/paint_hi_evo.pmd"
+	variant: default
+
+	suitable_for[]: "high_sleeper.renault.t.cabin"
+}
+}

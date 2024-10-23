@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : shape11.man.tgx.exhaust_l
+{
+	name: "Volcano I"
+	price: 4680
+      unlock: 0
+	icon: "exhaust_11"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/upgrade/exhaust/man_tgx/exhaust_11_l.pmd"
+	suitable_for[]: "shape1.man.tgx.sideskirt"
+}
+}

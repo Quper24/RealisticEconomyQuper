@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : strobe.scs.log.rear_body
+{
+	name: "@@strobe@@"
+	price: 200
+      unlock: 0
+	icon: "rear_body/scs_flatbed/strobe"
+
+	exterior_model: "/vehicle/trailer_owned/scs_log/accessory/rear_body/strobe.pmd"
+
+	suitable_for[]: "steel_136.scs.log.body"
+	suitable_for[]: "wood_136.scs.log.body"
+}
+}

@@ -1,0 +1,15 @@
+SiiNunit
+{
+accessory_addon_data : shape2.daf.xf_euro6.sideskirt
+{
+	name: "@@stock_plates@@"
+	price: 14000
+      unlock: 0
+	icon: "sideskirt_02_daf_xf_euro6"
+	part_type: factory
+
+	exterior_model: "/vehicle/truck/upgrade/sideskirts/daf_xf_euro6/sideskirt_plate.pmd"
+
+	suitable_for[]: "4x2.daf.xf_euro6.chassis"
+}
+}

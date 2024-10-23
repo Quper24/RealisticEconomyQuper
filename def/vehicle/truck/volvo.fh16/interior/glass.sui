@@ -1,0 +1,49 @@
+glass_pane_data : .volvo.fh16.pane.front
+{
+	locator: f_glasspane
+	size: (2.8, 1.0)
+	edge_angle: 20
+	wipers[]: .volvo.fh16.pane.wiper1
+	wipers[]: .volvo.fh16.pane.wiper2
+	
+  	drop_size_minimum: 0.008
+	drop_size_maximum: 0.020
+}
+
+wiper_data : .volvo.fh16.pane.wiper1
+{
+	center_bone: joint2
+	length: 0.68
+}
+
+wiper_data : .volvo.fh16.pane.wiper2
+{
+	center_bone: joint4 
+	length: 0.68
+}
+
+
+glass_pane_data : .volvo.fh16.pane.left
+{
+	locator: l_glasspane
+	size: (0.95, 0.72)
+
+	openable_window_bone: win_open_l1
+	openable_window_mask: "/vehicle/truck/volvo_fh16_2009/interior/win_mask_l.mask"
+	
+  	drop_size_minimum: 0.008
+	drop_size_maximum: 0.020
+}
+
+glass_pane_data : .volvo.fh16.pane.right
+{
+	locator: r_glasspane
+	size: (0.95, 0.72)
+	
+	openable_window_bone: win_open_r1
+	openable_window_mask: "/vehicle/truck/volvo_fh16_2009/interior/win_mask_r.mask"
+
+  	drop_size_minimum: 0.008
+	drop_size_maximum: 0.020
+}
+

@@ -1,0 +1,23 @@
+SiiNunit
+{
+accessory_addon_data : strobe.scs.flatbed.rear_body
+{
+	name: "@@strobe@@"
+	price: 200
+      unlock: 0
+	icon: "rear_body/scs_flatbed/strobe"
+
+	exterior_model: "/vehicle/trailer_owned/scs_flatbed/accessory/rear_body/strobe.pmd"
+
+	suitable_for[]: "flatbed.scs.flatbed.body"
+	suitable_for[]: "flatbed_1.scs.flatbed.body"
+	suitable_for[]: "flatbed_c.scs.flatbed.body"
+	suitable_for[]: "brick_c.scs.flatbed.body"
+	suitable_for[]: "brick.scs.flatbed.body"
+
+	suitable_for[]: "flatbed_78.scs.flatbed.body"
+	suitable_for[]: "flatbed_1_78.scs.flatbed.body"
+	suitable_for[]: "flatbed_c_78.scs.flatbed.body"
+	suitable_for[]: "brick_78.scs.flatbed.body"
+}
+}

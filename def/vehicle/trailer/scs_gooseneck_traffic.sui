@@ -1,0 +1,412 @@
+traffic_trailer : traffic.trailer.scs_gosck20
+{
+	accessories[]: .scs_gosck20.tchassis
+	accessories[]: .scs_gosck20.trwheel0
+	accessories[]: .scs_gosck20.trwheel1
+	accessories[]: .scs_gosck20.trwheel2
+	accessories[]: .scs_gosck20.cargo
+	accessories[]: .scs_gosck20.paint_job
+	cargo_mass: 8000
+
+	tags[]: high
+	tags[]: gooseneck
+	tags[]: container
+	tags[]: short
+	tags[]: cargo
+	tags[]: basic
+
+	spawn_ratio: 0.5
+
+	variant[]: traffic.trailer.scs_gosckadr
+	variant[]: traffic.trailer.scs_gosck_e
+}
+
+vehicle_accessory: .scs_gosck20.tchassis
+{
+	data_path: "/def/vehicle/trailer/scs_gooseneck/red20.sii"
+}
+
+vehicle_wheel_accessory: .scs_gosck20.trwheel0
+{
+	offset: 0
+	data_path: "/def/vehicle/t_wheel/single_385_55_steel.sii"
+}
+
+vehicle_wheel_accessory: .scs_gosck20.trwheel1
+{
+	offset: 2
+	data_path: "/def/vehicle/t_wheel/single_385_55_steel.sii"
+}
+
+vehicle_wheel_accessory: .scs_gosck20.trwheel2
+{
+	offset: 4
+	data_path: "/def/vehicle/t_wheel/single_385_55_steel.sii"
+}
+vehicle_accessory: .scs_gosck20.cargo
+{
+	data_path: "/def/vehicle/trailer_cargo/scs_container/container_20_green.sii"
+}
+vehicle_paint_job_accessory: .scs_gosck20.paint_job
+{
+    	data_path: "/def/vehicle/trailer/scs_gooseneck/custom_paint_job/red.sii"
+}
+# XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+traffic_trailer : traffic.trailer.scs_gosck220
+{
+	accessories[]: .scs_gosck220.tchassis
+	accessories[]: .scs_gosck220.trwheel0
+	accessories[]: .scs_gosck220.trwheel1
+	accessories[]: .scs_gosck220.trwheel2
+	accessories[]: .scs_gosck220.cargo
+	accessories[]: .scs_gosck220.paint_job
+	cargo_mass: 16000
+
+	tags[]: high
+	tags[]: gooseneck
+	tags[]: container
+	tags[]: medium
+	tags[]: cargo
+	tags[]: basic
+}
+
+vehicle_accessory: .scs_gosck220.tchassis
+{
+	data_path: "/def/vehicle/trailer/scs_gooseneck/black220.sii"
+}
+
+vehicle_wheel_accessory: .scs_gosck220.trwheel0
+{
+	offset: 0
+	data_path: "/def/vehicle/t_wheel/single_385_55_steel.sii"
+}
+
+vehicle_wheel_accessory: .scs_gosck220.trwheel1
+{
+	offset: 2
+	data_path: "/def/vehicle/t_wheel/single_385_55_steel.sii"
+}
+
+vehicle_wheel_accessory: .scs_gosck220.trwheel2
+{
+	offset: 4
+	data_path: "/def/vehicle/t_wheel/single_385_55_steel.sii"
+}
+vehicle_accessory: .scs_gosck220.cargo
+{
+	data_path: "/def/vehicle/trailer_cargo/scs_container/container_2x20_blue.sii"
+}
+vehicle_paint_job_accessory: .scs_gosck220.paint_job
+{
+    	data_path: "/def/vehicle/trailer/scs_gooseneck/custom_paint_job/black.sii"
+}
+
+# XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+traffic_trailer : traffic.trailer.scs_gosck40
+{
+	accessories[]: .scs_gosck40.tchassis
+	accessories[]: .scs_gosck40.trwheel0
+	accessories[]: .scs_gosck40.trwheel1
+	accessories[]: .scs_gosck40.trwheel2
+	accessories[]: .scs_gosck40.cargo
+	accessories[]: .scs_gosck40.paint_job
+	cargo_mass: 16000
+
+	tags[]: high
+	tags[]: gooseneck
+	tags[]: container
+	tags[]: medium
+	tags[]: cargo
+	tags[]: basic
+
+	variant[]: traffic.trailer.scs_gosck40.silver
+	variant[]: traffic.trailer.scs_gosck40.blue
+}
+
+vehicle_accessory: .scs_gosck40.tchassis
+{
+	data_path: "/def/vehicle/trailer/scs_gooseneck/blue40.sii"
+}
+
+vehicle_wheel_accessory: .scs_gosck40.trwheel0
+{
+	offset: 0
+	data_path: "/def/vehicle/t_wheel/single_385_55_steel.sii"
+}
+
+vehicle_wheel_accessory: .scs_gosck40.trwheel1
+{
+	offset: 2
+	data_path: "/def/vehicle/t_wheel/single_385_55_steel.sii"
+}
+
+vehicle_wheel_accessory: .scs_gosck40.trwheel2
+{
+	offset: 4
+	data_path: "/def/vehicle/t_wheel/single_385_55_steel.sii"
+}
+vehicle_accessory: .scs_gosck40.cargo
+{
+	data_path: "/def/vehicle/trailer_cargo/scs_container/container_40.sii"
+}
+vehicle_paint_job_accessory: .scs_gosck40.paint_job
+{
+    	data_path: "/def/vehicle/trailer/scs_gooseneck/custom_paint_job/blue.sii"
+}
+
+# XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+traffic_trailer : traffic.trailer.scs_gosck40.blue
+{
+	accessories[]: .scs_gosck40.blue.tchassis
+	accessories[]: .scs_gosck40.blue.trwheel0
+	accessories[]: .scs_gosck40.blue.trwheel1
+	accessories[]: .scs_gosck40.blue.trwheel2
+	accessories[]: .scs_gosck40.blue.cargo
+	accessories[]: .scs_gosck40.blue.paint_job
+	cargo_mass: 16000
+
+	tags[]: high
+	tags[]: gooseneck
+	tags[]: container
+	tags[]: medium
+	tags[]: cargo
+	tags[]: basic
+}
+
+vehicle_accessory: .scs_gosck40.blue.tchassis
+{
+	data_path: "/def/vehicle/trailer/scs_gooseneck/blue40.sii"
+}
+
+vehicle_wheel_accessory: .scs_gosck40.blue.trwheel0
+{
+	offset: 0
+	data_path: "/def/vehicle/t_wheel/single_385_55_steel.sii"
+}
+
+vehicle_wheel_accessory: .scs_gosck40.blue.trwheel1
+{
+	offset: 2
+	data_path: "/def/vehicle/t_wheel/single_385_55_steel.sii"
+}
+
+vehicle_wheel_accessory: .scs_gosck40.blue.trwheel2
+{
+	offset: 4
+	data_path: "/def/vehicle/t_wheel/single_385_55_steel.sii"
+}
+vehicle_accessory: .scs_gosck40.blue.cargo
+{
+	data_path: "/def/vehicle/trailer_cargo/scs_container/container_40_blue.sii"
+}
+vehicle_paint_job_accessory: .scs_gosck40.blue.paint_job
+{
+    	data_path: "/def/vehicle/trailer/scs_gooseneck/custom_paint_job/blue.sii"
+}
+
+# XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+traffic_trailer : traffic.trailer.scs_gosck40.silver
+{
+	accessories[]: .scs_gosck40.silver.tchassis
+	accessories[]: .scs_gosck40.silver.trwheel0
+	accessories[]: .scs_gosck40.silver.trwheel1
+	accessories[]: .scs_gosck40.silver.trwheel2
+	accessories[]: .scs_gosck40.silver.cargo
+	accessories[]: .scs_gosck40.silver.paint_job
+	cargo_mass: 16000
+
+	tags[]: high
+	tags[]: gooseneck
+	tags[]: container
+	tags[]: medium
+	tags[]: cargo
+	tags[]: basic
+}
+
+vehicle_accessory: .scs_gosck40.silver.tchassis
+{
+	data_path: "/def/vehicle/trailer/scs_gooseneck/blue40.sii"
+}
+
+vehicle_wheel_accessory: .scs_gosck40.silver.trwheel0
+{
+	offset: 0
+	data_path: "/def/vehicle/t_wheel/single_385_55_steel.sii"
+}
+
+vehicle_wheel_accessory: .scs_gosck40.silver.trwheel1
+{
+	offset: 2
+	data_path: "/def/vehicle/t_wheel/single_385_55_steel.sii"
+}
+
+vehicle_wheel_accessory: .scs_gosck40.silver.trwheel2
+{
+	offset: 4
+	data_path: "/def/vehicle/t_wheel/single_385_55_steel.sii"
+}
+vehicle_accessory: .scs_gosck40.silver.cargo
+{
+	data_path: "/def/vehicle/trailer_cargo/scs_container/container_40_silver.sii"
+}
+vehicle_paint_job_accessory: .scs_gosck40.silver.paint_job
+{
+    	data_path: "/def/vehicle/trailer/scs_gooseneck/custom_paint_job/blue.sii"
+}
+
+# XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+traffic_trailer : traffic.trailer.scs_gosckadr
+{
+	accessories[]: .scs_gosckadr.tchassis
+	accessories[]: .scs_gosckadr.trwheel0
+	accessories[]: .scs_gosckadr.trwheel1
+	accessories[]: .scs_gosckadr.trwheel2
+	accessories[]: .scs_gosckadr.cargo
+	accessories[]: .scs_gosckadr.paint_job
+	cargo_mass: 8000
+
+	tags[]: low
+	tags[]: high
+	tags[]: gooseneck
+	tags[]: adr
+	tags[]: chemical
+	tags[]: medium
+	tags[]: cargo
+
+}
+
+vehicle_accessory: .scs_gosckadr.tchassis
+{
+	data_path: "/def/vehicle/trailer/scs_gooseneck/red20.sii"
+}
+
+vehicle_wheel_accessory: .scs_gosckadr.trwheel0
+{
+	offset: 0
+	data_path: "/def/vehicle/t_wheel/single_385_55_steel.sii"
+}
+
+vehicle_wheel_accessory: .scs_gosckadr.trwheel1
+{
+	offset: 2
+	data_path: "/def/vehicle/t_wheel/single_385_55_steel.sii"
+}
+
+vehicle_wheel_accessory: .scs_gosckadr.trwheel2
+{
+	offset: 4
+	data_path: "/def/vehicle/t_wheel/single_385_55_steel.sii"
+}
+vehicle_accessory: .scs_gosckadr.cargo
+{
+	data_path: "/def/vehicle/trailer_cargo/scs_container/container_t14_diesel.sii"
+}
+vehicle_paint_job_accessory: .scs_gosckadr.paint_job
+{
+    	data_path: "/def/vehicle/trailer/scs_gooseneck/custom_paint_job/red.sii"
+}
+
+#XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+traffic_trailer : traffic.trailer.scs_gosck_e
+{
+	accessories[]: .scs_gosck_e.tchassis
+	accessories[]: .scs_gosck_e.trwheel0
+	accessories[]: .scs_gosck_e.trwheel1
+	accessories[]: .scs_gosck_e.trwheel2
+	accessories[]: .scs_gosck_e.paint_job
+	cargo_mass: 8000
+
+	tags[]: low
+	tags[]: high
+	tags[]: gooseneck
+	tags[]: short
+	tags[]: empty
+
+
+	spawn_ratio: 0.1
+
+	variant[]: traffic.trailer.scs_gosck_e.red
+
+}
+
+vehicle_accessory: .scs_gosck_e.tchassis
+{
+	data_path: "/def/vehicle/trailer/scs_gooseneck/blue20.sii"
+}
+
+vehicle_wheel_accessory: .scs_gosck_e.trwheel0
+{
+	offset: 0
+	data_path: "/def/vehicle/t_wheel/single_385_55_steel.sii"
+}
+
+vehicle_wheel_accessory: .scs_gosck_e.trwheel1
+{
+	offset: 2
+	data_path: "/def/vehicle/t_wheel/single_385_55_steel.sii"
+}
+
+vehicle_wheel_accessory: .scs_gosck_e.trwheel2
+{
+	offset: 4
+	data_path: "/def/vehicle/t_wheel/single_385_55_steel.sii"
+}
+vehicle_paint_job_accessory: .scs_gosck_e.paint_job
+{
+    	data_path: "/def/vehicle/trailer/scs_gooseneck/custom_paint_job/blue.sii"
+}
+
+# XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+traffic_trailer : traffic.trailer.scs_gosck_e.red
+{
+	accessories[]: .scs_gosck_e.red.tchassis
+	accessories[]: .scs_gosck_e.red.trwheel0
+	accessories[]: .scs_gosck_e.red.trwheel1
+	accessories[]: .scs_gosck_e.red.trwheel2
+	accessories[]: .scs_gosck_e.red.paint_job
+	cargo_mass: 8000
+
+	tags[]: low
+	tags[]: high
+	tags[]: gooseneck
+	tags[]: short
+	tags[]: empty
+
+
+	spawn_ratio: 0.1
+
+}
+
+vehicle_accessory: .scs_gosck_e.red.tchassis
+{
+	data_path: "/def/vehicle/trailer/scs_gooseneck/red20.sii"
+}
+
+vehicle_wheel_accessory: .scs_gosck_e.red.trwheel0
+{
+	offset: 0
+	data_path: "/def/vehicle/t_wheel/single_385_55_steel.sii"
+}
+
+vehicle_wheel_accessory: .scs_gosck_e.red.trwheel1
+{
+	offset: 2
+	data_path: "/def/vehicle/t_wheel/single_385_55_steel.sii"
+}
+
+vehicle_wheel_accessory: .scs_gosck_e.red.trwheel2
+{
+	offset: 4
+	data_path: "/def/vehicle/t_wheel/single_385_55_steel.sii"
+}
+vehicle_paint_job_accessory: .scs_gosck_e.red.paint_job
+{
+    	data_path: "/def/vehicle/trailer/scs_gooseneck/custom_paint_job/red.sii"
+}

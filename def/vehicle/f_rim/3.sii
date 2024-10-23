@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_rim_data : 3.frim
+{
+	name: "Absolute Fury"
+	price: 6300
+      unlock: 0
+	model: "/vehicle/truck/upgrade/wheel/rim/front_3.pmd"
+	icon: "f_rim_03"
+	part_type: aftermarket
+	tire_shift: 0.025	
+}
+}

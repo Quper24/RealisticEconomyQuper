@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : shape5_iveco.iveco.hiway.doorstep
+{
+	name: "Ninja"
+	price: 2400
+      unlock: 0
+	icon: "doorstep_05_hiway"
+
+	exterior_model: "/vehicle/truck/upgrade/doorstep/iveco_hiway/doorstep_05.pmd"
+}
+}

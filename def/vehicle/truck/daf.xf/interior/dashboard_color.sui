@@ -1,0 +1,12 @@
+
+	dashboard_color: 5
+	dashboard_color[]: (1.00, 1.00, 1.00)		# uv(0, 0) # Default white color / Standart behavior
+	dashboard_color[]: (1.00, 0.10, 0.03)		# uv(1, 0) # DAF red-orange back light
+	dashboard_color[]: (2.20, 0.10, 0.05)		# uv(2, 0) # rpm REED
+	dashboard_color[]: (0.40, 1.20, 0.30)		# uv(3, 0) # rpm GREEN
+
+	dashboard_color[]: (0.30, 0.40, 1.20)		# uv(0,-1) # rpm BLUE
+
+	# Dashboard backlight color
+	# Red Green Blue (linear color space)
+	# Use 'Sgfx presets' tool to grab them.
