@@ -1,7 +1,8 @@
-SiiNunit{
-  ferry_connection : conn.urjum.barnaul {
+SiiNunit
+{
+ferry_connection : conn.urjum.barnaul {
 	price: 150
-	time: 2040
-	distance: 2779
+	time: 1500
+	distance: 2222
 }
 }
