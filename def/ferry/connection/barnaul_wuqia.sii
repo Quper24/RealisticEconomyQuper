@@ -1,8 +1,9 @@
 SiiNunit
 {
-ferry_connection : conn.barnaul.wuqia {
-	price: 150
-	time: 1500
-	distance: 2222
+ferry_connection : conn.barnaul.wuqia{
+	price: 55
+	time: 2058
+	distance: 4858
 }
 }
+

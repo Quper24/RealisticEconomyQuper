@@ -1,8 +1,10 @@
 SiiNunit
 {
-ferry_connection : conn.menorca.cagliari {
-	price: 26
-	time: 919
-	distance: 787
+ferry_connection : conn.menorca.cagliari{
+	price: 65
+	time: 145
+	distance: 260
+
 }
 }
+

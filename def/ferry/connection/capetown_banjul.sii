@@ -1,9 +1,9 @@
 SiiNunit
 {
 ferry_connection : conn.capetown.banjul {
-	price: 326
-	time: 7500
-	distance: 4569
+	price: 270
+	time: 50000
+	distance: 20000
 }
 }
 

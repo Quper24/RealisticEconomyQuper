@@ -1,9 +1,9 @@
 SiiNunit
 {
 ferry_connection : conn.banjul.nouakchott{
-	price: 105
-	time: 1060
-	distance: 3000
+	price: 56
+	time: 700
+	distance: 2596
 
 }
 }
