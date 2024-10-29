@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.smiltyne.klaipeda{
-	price: 4
+	price: 3
 	time: 15
 	distance: 1
 }

@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.linosa.lampedusa{
+	price: 37
+	time: 105
+	distance: 110
+}
+}
+

@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.aktau.bari {
-	price: 200
+	price: 290
 	time: 1350
 	distance: 2850
 }
