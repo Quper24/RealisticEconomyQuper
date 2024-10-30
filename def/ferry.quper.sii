@@ -214,4 +214,12 @@ SiiNunit
 @include "ferry/ystadr.sui"
 @include "ferry/tunnel_a.sui"
 @include "ferry/oshtrowrus.sui"
+@include "city/cala_en_b.sui"
+@include "city/ceuta.sui"
+@include "city/mahon.sui"
+@include "city/melilla.sui"
+@include "city/menorca.sui"
+@include "city/mercedal.sui"
+@include "city/arta.sui"
+@include "city/manacor.sui"
 }
