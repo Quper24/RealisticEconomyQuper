@@ -1,0 +1,7 @@
+ferry_data: ferry.barra
+{
+	ferry_name: "Barra"
+	ferry_name_localized: "@@Barra@@"
+}
+
+

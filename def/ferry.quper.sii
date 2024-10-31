@@ -222,4 +222,10 @@ SiiNunit
 @include "city/mercedal.sui"
 @include "city/arta.sui"
 @include "city/manacor.sui"
+@include "ferry/bata.sui"
+@include "ferry/dakar.sui"
+@include "ferry/banjul.sui"
+@include "ferry/barra.sui"
+@include "ferry/monrovia.sui"
+@include "ferry/saotome.sui"
 }

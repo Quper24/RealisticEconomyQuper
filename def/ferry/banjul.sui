@@ -1,0 +1,7 @@
+ferry_data: ferry.banjul
+{
+	ferry_name: "Banjul"
+	ferry_name_localized: "@@Banjul@@"
+}
+
+
