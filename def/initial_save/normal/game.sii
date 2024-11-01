@@ -16,12 +16,12 @@ economy: .economy
 @include "locked_screens.sui"
 
 	#Starting time in minutes.
-	game_time: 600
+	game_time: 480
 }
 
 bank: .bank
 {
-	money_account: 250
+	money_account: 0
 	app_enabled: false
 }
 

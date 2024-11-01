@@ -1,11 +1,7 @@
-###
-# WARNING: Map must be rebuilt when anything is changed here!
-###
 ferry_data: ferry.vorkuta
 {
-	ferry_name: "РЖД-Терминал ВОРКУТА"
+	ferry_name: "Воркута"
+    ferry_name_localized: "@@Воркута@@"
 	transport_type: "train"
-
 }
-
 

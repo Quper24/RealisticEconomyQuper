@@ -1,11 +1,7 @@
-###
-# WARNING: Map must be rebuilt when anything is changed here!
-###
 ferry_data: ferry.urengoi
 {
-	ferry_name: "РЖД-Терминал НОВЫЙ УРЕНГОЙ"
+	ferry_name: "Новый Уренгой"
+    ferry_name_localized: "@@Новый Уренгой@@"
 	transport_type: "train"
-
 }
-
 

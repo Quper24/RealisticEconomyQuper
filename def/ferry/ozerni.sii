@@ -1,10 +1,6 @@
-###
-# WARNING: Map must be rebuilt when anything is changed here!
-###
 ferry_data: ferry.ozerni
 {
-	ferry_name: "поселок Озерный"
-
+	ferry_name: "Озёрный"
+    ferry_name_localized: "@@Озёрный@@"
 }
-
 

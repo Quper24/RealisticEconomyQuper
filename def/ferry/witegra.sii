@@ -1,10 +1,6 @@
-###
-# WARNING: Map must be rebuilt when anything is changed here!
-###
 ferry_data: ferry.witegra
 {
 	ferry_name: "Вытегра"
-
+    ferry_name_localized: "@@Вытегра@@"
 }
-
 

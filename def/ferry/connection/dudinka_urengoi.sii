@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.dudinka.urengoi {
-	price: 200
-	time: 1450
-	distance: 880
-}
-}
-

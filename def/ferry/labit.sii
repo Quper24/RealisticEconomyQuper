@@ -1,10 +1,6 @@
-###
-# WARNING: Map must be rebuilt when anything is changed here!
-###
 ferry_data: ferry.labit
 {
-	ferry_name: "ЛАБЫТНАНГИ"
-
+	ferry_name: "Лабытнанги"
+    ferry_name_localized: "@@Лабытнанги@@"
 }
-
 

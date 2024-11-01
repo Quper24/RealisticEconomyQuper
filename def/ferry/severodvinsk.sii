@@ -1,10 +1,6 @@
-###
-# WARNING: Map must be rebuilt when anything is changed here!
-###
 ferry_data: ferry.severodvinsk
 {
 	ferry_name: "Северодвинск"
-
+    ferry_name_localized: "@@Северодвинск@@"
 }
-
 

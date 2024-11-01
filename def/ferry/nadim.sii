@@ -1,10 +1,7 @@
-###
-# WARNING: Map must be rebuilt when anything is changed here!
-###
 ferry_data: ferry.nadim
 {
-	ferry_name: "АЭРОПОРТ НАДЫМ"
+	ferry_name: "Надым"
+	ferry_name_localized: "@@Надым@@"
 	transport_type: "train"
 }
-
 

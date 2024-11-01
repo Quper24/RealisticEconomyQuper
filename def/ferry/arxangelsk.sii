@@ -1,10 +1,6 @@
-###
-# WARNING: Map must be rebuilt when anything is changed here!
-###
 ferry_data: ferry.arxangelsk
 {
 	ferry_name: "Архангельск"
-	
+    ferry_name_localized: "@@Архангельск@@"
 }
-
 

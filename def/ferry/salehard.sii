@@ -1,10 +1,6 @@
-###
-# WARNING: Map must be rebuilt when anything is changed here!
-###
 ferry_data: ferry.salehard
 {
-	ferry_name: "САЛЕХАРД"
-
+	ferry_name: "Салехард"
+    ferry_name_localized: "@@Салехард@@"
 }
-
 
