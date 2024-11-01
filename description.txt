@@ -32,28 +32,12 @@ Order Refusal: The fine for refusing a delivery has been recalculated to increas
 Rates: Increased rates for transporting oversized and heavy cargo, making these missions more profitable and challenging, and adding new strategic elements to cargo management.
 
 [orange]Ferry System:[normal]
-Routes: New ferry routes have been added, providing additional opportunities for transport and map exploration.
 Prices: Recalculated and adjusted to reflect actual ferry costs, impacting trip expenses and overall costs.
 Removal of Unnecessary Routes: Removed routes that had minimal impact on gameplay to improve the overall experience and optimize navigation.
-Added support for modded maps (ferry connections):
-*[orange][normal] Beyond
-*[orange][normal] ProMods (Europe, Middle East, Great Steppe)
-*ROEX + ROEX Premium
-*Bengan's Swedish Islands Map
-*KirovMap 1.4 and 1.6
-*Off the grid - Russia
-*BXP Tyrrhenia
-*Jan Mayen
-*EuRoadNet
-*Tunnsia
-*Road into wilderness
-*Heart of Africa
-*Western Africa
-*Trans-Siberian Truckway
-*Altai Map
-*JRR
-*Maledives
-*2k24 TURKEY MAP
+Added support for modded maps
+
+[orange]Unlock:[normal]
+All components and painting are unlocked
 
 [normal]
 
@@ -88,25 +72,9 @@ Added support for modded maps (ferry connections):
 Ставки: Повышены ставки на перевозку негабаритных и сверхтяжелых грузов, что делает эти задания более прибыльными и сложными, добавляя новые элементы стратегии в управление грузоперевозками.
 
 [orange]Система паромов:[normal]
-Маршруты: Добавлены новые маршруты паромов, которые обеспечивают дополнительные возможности для транспортировки и исследования карт.
 Цены: Пересчитаны и скорректированы, чтобы отразить реальные затраты на переправу, что влияет на стоимость поездок и общие расходы.
 Удаление ненужных маршрутов: Убраны маршруты, которые не имели большого значения для игрового процесса, чтобы улучшить общий опыт и оптимизировать навигацию.
-Добавлена поддержка модифицированных карт (паромные соединения):
-*[orange][normal] Beyond
-*[orange][normal] ProMods (Europe, Middle East, Great Steppe)
-*ROEX + ROEX Premium
-*Bengan's Swedish Islands Map
-*KirovMap 1.4 and 1.6
-*Off the grid - Russia
-*BXP Tyrrhenia
-*Jan Mayen
-*EuRoadNet
-*Tunnsia
-*Road into wilderness
-*Heart of Africa
-*Western Africa
-*Trans-Siberian Truckway
-*Altai Map
-*JRR
-*Maledives
-*2k24 TURKEY MAP
+Добавлена поддержка модифицированных карт
+
+[orange] Разблокировка: [normal]
+Все компоненты и покраски разблокированы
