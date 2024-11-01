@@ -245,103 +245,103 @@ economy_data : economy.data.storage
 	currency_sign3[]: ""
 
 	currency_code[]: "CHF"
-	currency_ratio[]: 0.9401
+	currency_ratio[]: 0.94
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " CHF"
 
 	currency_code[]: "CZK"
-	currency_ratio[]: 25.24
+	currency_ratio[]: 25.32
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " Kč"
 
 	currency_code[]: "GBP"
-	currency_ratio[]: 0.8336
+	currency_ratio[]: 0.84
 	currency_sign1[]: ""
 	currency_sign2[]: "£"
 	currency_sign3[]: ""
 
 	currency_code[]: "PLN"
-	currency_ratio[]: 4.2938
+	currency_ratio[]: 4.35
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " zł"
 
 	currency_code[]: "HUF"
-	currency_ratio[]: 400.48
+	currency_ratio[]: 408.44
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " Ft"
 
 	currency_code[]: "DKK"
-	currency_ratio[]: 7.4610
+	currency_ratio[]: 7.46
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " kr"
 
 	currency_code[]: "SEK"
-	currency_ratio[]: 11.01
+	currency_ratio[]: 11.59
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " kr"
 
 	currency_code[]: "NOK"
-	currency_ratio[]: 11.66
+	currency_ratio[]: 11.98
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " kr"
 
 	currency_code[]: "RUB"
-	currency_ratio[]: 140
+	currency_ratio[]: 100
 	currency_sign1[]: ""
 	currency_sign2[]: "₽"
 	currency_sign3[]: ""
 
 	currency_code[]: "BGN"
-	currency_ratio[]: 1.9558
+	currency_ratio[]: 1.96
 	currency_sign1[]: ""
 	currency_sign2[]: "лв"
 	currency_sign3[]: ""
 
 	currency_code[]: "RON"
-	currency_ratio[]: 4.9758
+	currency_ratio[]: 4.98
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " lei"
 
 	currency_code[]: "TRY"
-	currency_ratio[]: 37.37
+	currency_ratio[]: 37.32
 	currency_sign1[]: ""
 	currency_sign2[]: "₺"
 	currency_sign3[]: ""
 
 	currency_code[]: "ALL"
-	currency_ratio[]: 106.22
+	currency_ratio[]: 98.30
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " lek"
 
 	currency_code[]: "BAM"
-	currency_ratio[]: 1.9558
+	currency_ratio[]: 1.96
 	currency_sign1[]: ""
 	currency_sign2[]: "KM "
 	currency_sign3[]: ""
 
 	currency_code[]: "MKD"
-	currency_ratio[]: 61.7
+	currency_ratio[]: 61.53
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " ден"
 
 	currency_code[]: "RSD"
-	currency_ratio[]: 117.64
+	currency_ratio[]: 117.04
 	currency_sign1[]: ""
 	currency_sign2[]: "дин "
 	currency_sign3[]: ""
 
 	currency_code[]: "UAH"
-	currency_ratio[]: 39.8
+	currency_ratio[]: 44.79
 	currency_sign1[]: ""
 	currency_sign2[]: "грн "
 	currency_sign3[]: ""
