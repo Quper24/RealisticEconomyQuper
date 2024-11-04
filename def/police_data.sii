@@ -13,19 +13,19 @@ police_data : police.data
 	fine_overspeed_step_multiplier: 1.5
 	fine_overspeed_multiplier_limit: 10
 
-	fine_amounts[0]: 120		  # car crash
-	fine_amounts[1]: 50		  # avoid sleeping
-	fine_amounts[2]: 70	  	# wrong way
-	fine_amounts[3]: 100	  # speeding (camera)
-	fine_amounts[4]: 50     # no lights during night
-	fine_amounts[5]: 120		# red lights
-	fine_amounts[6]: 100		# speeding
-	fine_amounts[7]: 200		# avoid weighing
-	fine_amounts[8]: 500		# illegal trailer
-	fine_amounts[9]: 200		# avoid inspection
-	fine_amounts[10]: 500		# illegal border crossing
-	fine_amounts[11]: 50		# hard shoulder violation
-	fine_amounts[12]: 100		# damaged vehicle usage
+	fine_amounts[0]: 40		# car crash
+	fine_amounts[1]: 40		# avoid sleeping
+	fine_amounts[2]: 40	  # wrong way
+	fine_amounts[3]: 50	  # speeding (camera)
+	fine_amounts[4]: 30   # no lights during night
+	fine_amounts[5]: 60		# red lights
+	fine_amounts[6]: 60		# speeding
+	fine_amounts[7]: 100	# avoid weighing
+	fine_amounts[8]: 400	# illegal trailer
+	fine_amounts[9]: 180	# avoid inspection
+	fine_amounts[10]: 400	# illegal border crossing
+	fine_amounts[11]: 50	# hard shoulder violation
+	fine_amounts[12]: 80	# damaged vehicle usage
 
 	#
 	# in seconds of real time
@@ -127,7 +127,7 @@ police_data : police.data
 	message_delay: 4.0
 
 	# increase fine if there is some police car nearby
-	police_nearby_fine_rate: 2
+	police_nearby_fine_rate: 1.5
 
 	# how often can nearby police car impose a fine
 	police_nearby_offence_timer: 15.0
