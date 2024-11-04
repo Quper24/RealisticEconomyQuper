@@ -22,7 +22,7 @@ Wear and Price Differences: Made more noticeable, allowing players to better ass
 [orange]Garage and Fuel Prices:[normal]
 Garages: Garage purchase prices have been recalculated to better reflect real-world market conditions.
 Gas: Diesel prices are updated weekly to match current market prices, adding realism to managing expenses.
-update price 10 september 2024
+
 
 [orange]Fines:[normal]
 Traffic Violations: Fines for traffic violations have been updated to better reflect real-world penalties and add a layer of economic strategy.
