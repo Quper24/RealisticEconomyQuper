@@ -46,7 +46,7 @@ economy_data : economy.data.storage
 	hurry_up_timer: 114				# how long the hurry up music will play (in game minutes)
 
 	no_cargo_prob:	0.20				# 20% prob. of empty cargo slot
-	cargo_validity_min: 180				# 3 hours
+	cargo_validity_min: 3600				# 3 hours
 	cargo_validity_max: 7200			
 
 	# assistance service
