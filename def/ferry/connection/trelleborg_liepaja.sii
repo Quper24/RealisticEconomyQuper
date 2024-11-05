@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.trelleborg.liepaja {
-	price: 156
+	price: 88
 	time: 1075
 	distance: 561
 }

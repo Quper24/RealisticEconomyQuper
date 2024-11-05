@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.phongsali.kawthaung {
-	price: 144
+	price: 83
 	time: 1480
 	distance: 1822
 }

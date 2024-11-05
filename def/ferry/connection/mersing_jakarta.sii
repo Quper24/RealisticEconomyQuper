@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.mersing.jakarta {
-	price: 100
+	price: 65
 	time: 1100
 	distance: 887
 }

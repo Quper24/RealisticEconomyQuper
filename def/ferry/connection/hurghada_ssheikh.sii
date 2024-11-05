@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.hurghada.ssheikh{
-	price: 25
+	price: 15
 	time: 90
 	distance: 82
 }

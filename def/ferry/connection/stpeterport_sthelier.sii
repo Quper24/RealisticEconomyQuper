@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.stpeterport.sthelier{
-	price: 24
+	price: 15
 	time: 108
 	distance: 54
 

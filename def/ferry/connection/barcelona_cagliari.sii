@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.barcelona.cagliari{
-	price: 150
+	price: 85
 	time: 1000
 	distance: 520
 }

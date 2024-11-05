@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.fnideq.nouakchott{
-	price: 136
+	price: 80
 	time: 2168
 	distance: 1296
 

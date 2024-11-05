@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.thessaloniki.lemesos{
-	price: 198
+	price: 105
 	time: 1860
 	distance: 1240
 

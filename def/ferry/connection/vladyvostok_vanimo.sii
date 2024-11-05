@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.vladyvostok.vanimo {
-	price: 404
+	price: 222
 	time: 7198
 	distance: 4126
 }

@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.corfu.igoumenitsa {
-	price: 12
+	price: 8
 	time: 120
 	distance: 120
 }

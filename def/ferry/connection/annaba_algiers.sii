@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.annaba.algiers {
-	price: 62
+	price: 41
 	time: 650
 	distance: 425
 }

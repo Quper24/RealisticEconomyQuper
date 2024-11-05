@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.malabo.nouakchott{
-	price: 156
+	price: 88
 	time: 2888
 	distance: 2596
 

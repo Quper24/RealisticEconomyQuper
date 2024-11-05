@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.dalian.centralarea{
-	price: 156
+	price: 88
 	time: 6030
 	distance: 5030
 

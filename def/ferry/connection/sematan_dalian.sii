@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.sematan.dalian{
-	price: 276
+	price: 133
 	time: 3372
 	distance: 1889
 }

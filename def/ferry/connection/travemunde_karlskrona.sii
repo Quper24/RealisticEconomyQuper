@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.travemunde.karlskrona {
-	price: 90
+	price: 55
 	time: 740
 	distance: 361
 }

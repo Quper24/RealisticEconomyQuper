@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.jorf.djerba {
-	price: 20
+	price: 12
 	time: 40
 	distance: 50
 

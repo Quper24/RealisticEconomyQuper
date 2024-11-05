@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.brensholmen.thurso {
-	price: 277
+	price: 134
 	time: 3074
 	distance: 1813
 }

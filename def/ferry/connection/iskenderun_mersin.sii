@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.iskenderun.mersin{
-	price: 25
+	price: 15
 	time: 300
 	distance: 165
 

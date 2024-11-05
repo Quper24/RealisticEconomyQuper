@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.portsaid.jorf {
-	price: 151
+	price: 86
 	time: 2181
 	distance: 1302
 }

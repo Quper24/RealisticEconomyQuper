@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.ancona.koper2{
-	price: 150
+	price: 85
 	time: 400
 	distance: 200
 }

@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.holm.molde{
-	price: 111
+	price: 70
 	time: 428
 	distance: 280
 }

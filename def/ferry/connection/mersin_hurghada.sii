@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.mersin.hurghada{
-	price: 156
+	price: 88
 	time: 1562
 	distance: 820
 }

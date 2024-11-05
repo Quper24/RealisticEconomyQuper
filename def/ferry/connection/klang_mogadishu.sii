@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.klang.mogadishu{
-	price: 276
+	price: 133
 	time: 4772
 	distance: 2589
 }

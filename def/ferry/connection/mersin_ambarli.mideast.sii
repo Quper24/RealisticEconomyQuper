@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.mersin.ambarli{
-	price: 296
+	price: 139
 	time: 2750
 	distance: 1840
 

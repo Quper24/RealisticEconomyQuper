@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.mcmurdo.jakarta {
-	price: 2530
+	price: 759
 	time: 6948
 	distance: 7616
 }

@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.arzamas16.ferry_kazan {
-	price: 150
+	price: 85
 	time: 786
 	distance: 420
 }

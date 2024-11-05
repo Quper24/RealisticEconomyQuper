@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.marseille.ajaccio {
-	price: 25
+	price: 15
 	time: 615
 	distance: 361
 }

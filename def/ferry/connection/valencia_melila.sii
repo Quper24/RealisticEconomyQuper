@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.valencia.melila{
-	price: 123
+	price: 75
 	time: 785
 	distance: 410
 }

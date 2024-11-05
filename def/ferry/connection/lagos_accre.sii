@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.lagos.accre{
-	price: 22
+	price: 14
 	time: 366
 	distance: 150
 }

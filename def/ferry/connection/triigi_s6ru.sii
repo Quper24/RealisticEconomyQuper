@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.triigi.s6ru{
-	price: 4
+	price: 3
 	time: 60
 	distance: 17
 

@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.poti.trabzon{
-	price: 75
+	price: 48
 	time: 660
 	distance: 350
 

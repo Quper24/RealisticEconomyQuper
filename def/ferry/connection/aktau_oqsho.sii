@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.aktau.oqsho {
-	price: 75
+	price: 48
 	time: 305
 	distance: 600
 }

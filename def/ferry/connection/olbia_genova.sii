@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.olbia.genova {
-	price: 50
+	price: 35
 	time: 780
 	distance: 810
 }

@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.bata.saotome {
-	price: 24
+	price: 15
 	time: 24
 	distance: 512
 }

@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.telukmuara.ssheikh{
-	price: 276
+	price: 133
 	time: 5455
 	distance: 2489
 }

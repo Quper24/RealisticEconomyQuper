@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.algiers.valencia {
-	price: 105
+	price: 67
 	time: 713
 	distance: 458
 }

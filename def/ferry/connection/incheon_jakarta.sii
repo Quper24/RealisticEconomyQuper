@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.incheon.jakarta {
-	price: 404
+	price: 222
 	time: 3668
 	distance: 3126
 }

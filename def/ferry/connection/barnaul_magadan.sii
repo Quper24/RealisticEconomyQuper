@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.barnaul.magadan {
-	price: 427
+	price: 229
 	time: 2000
 	distance: 6986
 }

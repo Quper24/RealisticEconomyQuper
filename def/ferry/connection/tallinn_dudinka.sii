@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.tallinn.dudinka {
-	price: 212
+	price: 114
 	time: 2452
 	distance: 3275
 }

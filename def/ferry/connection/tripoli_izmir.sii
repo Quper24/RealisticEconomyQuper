@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.tripoli.izmir{
-	price: 315
+	price: 195
 	time: 2360
 	distance: 1580
 }

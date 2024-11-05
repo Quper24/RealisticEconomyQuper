@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.odessa.varna{
-	price: 102
+	price: 66
 	time: 766
 	distance: 350
 }

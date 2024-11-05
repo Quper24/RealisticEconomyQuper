@@ -4,7 +4,7 @@ SiiNunit
 
 ferry_connection : conn.centralarea.sematan {
 
-	price: 50
+	price: 35
 
 	time: 960
 

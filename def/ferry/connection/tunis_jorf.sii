@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.tunis.jorf {
-	price: 87
+	price: 54
 	time: 790
 	distance: 435
 

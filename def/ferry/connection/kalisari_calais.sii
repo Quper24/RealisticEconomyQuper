@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.kalisari.calais {
-	price: 1118
+	price: 336
 	time: 10520	
 	distance: 5549
 	

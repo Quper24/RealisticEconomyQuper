@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.rhodes.mersin{
-	price: 76
+	price: 48
 	time: 845
 	distance: 480
 	

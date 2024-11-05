@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.bugrino.severodvinsk {
-	price: 226
+	price: 118
 	time: 2160
 	distance: 1089
 }

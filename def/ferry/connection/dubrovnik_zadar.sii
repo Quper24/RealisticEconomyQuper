@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.dubrovnik.zadar{
-	price: 150
+	price: 85
 	time: 560
 	distance: 180
 }

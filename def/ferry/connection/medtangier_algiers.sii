@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.medtangier.algiers {
-	price: 204
+	price: 112
 	time: 1446
 	distance: 877
 }

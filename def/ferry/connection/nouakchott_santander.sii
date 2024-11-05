@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.nouakchott.santander{
-	price: 216
+	price: 115
 	time: 2992
 	distance: 1789
 }

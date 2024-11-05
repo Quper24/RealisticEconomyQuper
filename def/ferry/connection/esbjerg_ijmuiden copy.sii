@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.esbjerg.europoort{
-	price: 150
+	price: 85
 	time: 837
 	distance: 500
 }

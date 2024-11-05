@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.aktau.tallinn {
-	price: 180
+	price: 97
 	time: 2300
 	distance: 2500
 }

@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.mogadishu.suakin {
-	price: 189
+	price: 101
 	time: 5600
 	distance: 5000
 }

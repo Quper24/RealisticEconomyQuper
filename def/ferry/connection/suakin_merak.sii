@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.suakin.merak {
-	price: 404
+	price: 222
 	time: 5968
 	distance: 3126
 }

@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.valletta.mgarr{
-	price: 37
+	price: 23
 	time: 105
 	distance: 110
 }

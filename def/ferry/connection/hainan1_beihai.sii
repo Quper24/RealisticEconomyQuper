@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.hainan1.beihai {
-	price: 90
+	price: 55
 	time: 1444
 	distance: 907
 }

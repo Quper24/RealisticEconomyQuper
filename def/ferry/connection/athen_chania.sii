@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.athen.chania {
-	price: 40
+	price: 24
 	time: 415
 	distance: 356
 }

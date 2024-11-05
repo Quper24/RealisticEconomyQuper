@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.dudinka.narj_mar {
-	price: 365
+	price: 210
 	time: 700
 	distance: 301
 }

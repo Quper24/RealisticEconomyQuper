@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.trelleborg.travemunde {
-	price: 60
+	price: 40
 	time: 500
 	distance: 200
 }

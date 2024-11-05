@@ -3,7 +3,7 @@ SiiNunit
 {
 
 ferry_connection : conn.ashdod.portsaid{
-	          price: 90
+	          price: 55
 	time: 341
 	distance: 270
 

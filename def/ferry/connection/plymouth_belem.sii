@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.plymouth.belem{
-	price: 510
+	price: 253
 	time: 1452
 	distance: 4709
 }

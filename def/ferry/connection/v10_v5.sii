@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.v10.v5 {
-	price: 5300
+	price: 1590
 	time: 640
 	distance: 3250
 }

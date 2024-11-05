@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.beihai.guangzhou399 {
-	price: 90
+	price: 55
 	time: 1444
 	distance: 907
 }

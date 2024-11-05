@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.paldiski.nynashamn{
-	price: 114
+	price: 71
 	time: 619
 	distance: 330
 }

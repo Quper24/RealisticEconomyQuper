@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.thessaloniki.heraklion {
-	price: 151
+	price: 86
 	time: 781
 	distance: 1102
 }

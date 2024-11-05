@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.ozerni.ust_usa {
-	price: 95
+	price: 58
 	time: 300
 	distance: 150
 }

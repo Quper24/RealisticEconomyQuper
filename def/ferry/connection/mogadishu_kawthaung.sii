@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.mogadishu.kawthaung{
-	price: 326
+	price: 198
 	time: 3772
 	distance: 2589
 }

@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.nouakchott.rosslare {
-	price: 310
+	price: 193
 	time: 4200
 	distance: 2520
 }

@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.tripoli.jorf{
-	price: 50
+	price: 35
 	time: 600
 	distance: 300
 }

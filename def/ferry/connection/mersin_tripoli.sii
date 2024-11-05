@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.mersin.tripoli{
-	price: 415
+	price: 225
 	time: 3060
 	distance: 1980
 }

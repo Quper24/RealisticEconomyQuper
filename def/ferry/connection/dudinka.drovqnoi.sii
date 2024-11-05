@@ -1,6 +1,6 @@
 SiiNunit {
     ferry_connection : conn.dudinka.drovqnoi {
-        price: 21
+        price: 13
         time: 515
         distance: 906
     }

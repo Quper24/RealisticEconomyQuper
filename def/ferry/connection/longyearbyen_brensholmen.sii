@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.longyearbyen.brensholmen {
-	price: 242
+	price: 123
 	time: 1692
 	distance: 872
 }

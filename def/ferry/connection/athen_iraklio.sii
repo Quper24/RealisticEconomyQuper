@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.athen.iraklio {
-	price: 42
+	price: 26
 	time: 451
 	distance: 365
 }

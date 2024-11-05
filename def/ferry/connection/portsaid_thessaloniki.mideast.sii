@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.portsaid.thessaloniki{
-	price: 220
+	price: 116
 	time: 2040
 	distance: 1380
 

@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.karlskrona.faarosund {
-	price: 70
+	price: 45
 	time: 700
 	distance: 400
 }

@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.bilbao.plymouth {
-	price: 117
+	price: 72
 	time: 1076
 	distance: 842
 

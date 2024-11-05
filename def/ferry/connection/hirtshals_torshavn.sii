@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.hirtshals.torshavn{
-	price: 213
+	price: 114
 	time: 1800
 	distance: 1172
 

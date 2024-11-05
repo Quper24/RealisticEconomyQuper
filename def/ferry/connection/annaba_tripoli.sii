@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.annaba.tripoli{
-	price: 215
+	price: 115
 	time: 1760
 	distance: 1180
 }

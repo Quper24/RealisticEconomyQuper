@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.harwich.hull {
-	price: 102
+	price: 66
 	time: 337
 	distance: 265
 }

@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.mukran.trelleborg {
-	price: 25
+	price: 15
 	time: 240
 	distance: 90
 }

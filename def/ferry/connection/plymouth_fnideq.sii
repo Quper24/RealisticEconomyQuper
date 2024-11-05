@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.plymouth.fnideq {
-	price: 231
+	price: 120
 	time: 2780
 	distance: 2320
 }

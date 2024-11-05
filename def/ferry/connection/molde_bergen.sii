@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.molde.bergen{
-	price: 111
+	price: 70
 	time: 778
 	distance: 520
 }

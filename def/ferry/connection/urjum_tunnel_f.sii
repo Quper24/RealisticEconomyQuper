@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.urjum.tunnel_f{
-	price: 276
+	price: 133
 	time: 1472
 	distance: 989
 }

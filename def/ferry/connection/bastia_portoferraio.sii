@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.bastia.portoferraio {
-	price: 38
+	price: 23
 	time: 180
 	distance: 82
 }

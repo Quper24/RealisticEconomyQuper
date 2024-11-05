@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.tunnel_a.kirov {
-	price: 6
+	price: 4
 	time: 619
 	distance: 575
 }

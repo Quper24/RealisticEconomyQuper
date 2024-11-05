@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.anping.hainan1 {
-	price: 276
+	price: 133
 	time: 2342
 	distance: 2189
 }

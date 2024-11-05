@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.klang.calais {
-	price: 1100
+	price: 330
 	time: 9960
 	distance: 5500
 }

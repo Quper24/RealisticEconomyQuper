@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.oslo.esbjerg {
-	price: 146
+	price: 84
 	time: 875
 	distance: 461
 }

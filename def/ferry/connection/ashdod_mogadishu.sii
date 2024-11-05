@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.ashdod.mogadishu {
-	price: 150
+	price: 85
 	time: 3500
 	distance: 3500
 

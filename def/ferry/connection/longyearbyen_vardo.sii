@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.longyearbyen.vardo{
-	price: 275
+	price: 133
 	time: 1900
 	distance: 1117
 

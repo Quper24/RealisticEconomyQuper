@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.gdynia.liepaja{
-	price: 116
+	price: 72
 	time: 722
 	distance: 320
 }

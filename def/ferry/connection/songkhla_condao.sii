@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.songkhla.condao {
-	price: 100
+	price: 65
 	time: 720
 	distance: 890
 

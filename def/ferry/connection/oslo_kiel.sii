@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.oslo.kiel {
-	price: 118
+	price: 73
 	time: 1200
 	distance: 687
 

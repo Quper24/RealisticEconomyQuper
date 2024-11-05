@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.palmadem.barcelona {
-	price: 37
+	price: 23
 	time: 520
 	distance: 248
 }

@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.skopun.nanortalik {
-	price: 5
+	price: 3
 	time: 13
 	distance: 4
 
