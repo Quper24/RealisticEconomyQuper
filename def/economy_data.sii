@@ -168,7 +168,7 @@ economy_data : economy.data.storage
 
 	exp_park_load_bonus: 20			# exp bonus for manually parking trailer during loading phase of the job 
 
-	exp_damaged_cargo:	-15			# -5 XP per 1% of cargo damage
+	exp_damaged_cargo:	15			# -5 XP per 1% of cargo damage
 	exp_damaged_cargo_factor: 0.05			# -5% of total XP per 1% of cargo damage
 
 

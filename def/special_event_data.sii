@@ -22,7 +22,7 @@ SiiNunit
         level_for_credit_raise[]: 30
         credit_limit[]: 2000000
         
-        first_dealer_unlock_delay: 0 # seconds
+        first_dealer_unlock_delay: 100 # seconds
 
         cutscene_game_intro: "game_intro"
         cutscene_garage_intro: "garage_intro"
