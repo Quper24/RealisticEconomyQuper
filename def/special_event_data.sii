@@ -32,6 +32,6 @@ SiiNunit
 
         first_job_preferred_radius: 0
         
-        trailers_unlock_level: 10 # [def 5]
+        trailers_unlock_level: 1
     }
 }
