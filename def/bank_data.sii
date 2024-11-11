@@ -16,7 +16,7 @@ SiiNunit
     bank_loan_data: bank.data.loan1
     {
         amount: 10000 
-        interest_rate: 0.8    # 10 % 
+        interest_rate: 0.08    # 10 % 
         duration: 52            # in weeks 
     }
 
