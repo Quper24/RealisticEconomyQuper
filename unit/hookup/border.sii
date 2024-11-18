@@ -6,7 +6,7 @@ gate_trigger: border.default
 	model: "/model/activation/border.pmd"
 	animation: "/model/activation/border.pma"
 
-	trigger_distance: 6.0
+	trigger_distance: 3.0
 
 	max_activation_speed: 4.0
 
