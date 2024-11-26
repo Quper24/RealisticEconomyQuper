@@ -1,8 +1,0 @@
-SiiNunit
-{
-accessory_paint_job_data : chr_gif_d_b.daf.xf.paint_job
-{
-@include "chr_gif_d_settings.sui"
-	suitable_for[]: "s_cab_plus.daf.xf.cabin"
-}
-}

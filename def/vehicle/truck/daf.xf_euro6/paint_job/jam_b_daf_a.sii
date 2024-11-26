@@ -1,8 +1,0 @@
-SiiNunit
-{
-accessory_paint_job_data : jam_b_daf_a.daf.xf_euro6.paint_job
-{
-@include "jam_b_daf_settings.sui"
-	suitable_for[]: "superspace.daf.xf_euro6.cabin"
-}
-}
