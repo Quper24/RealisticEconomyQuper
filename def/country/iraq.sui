@@ -10,7 +10,7 @@ country_data: country.data.iraq
 
 	pos: (143000, 0, 80000)
 
-	fuel_price: 0.66
+	fuel_price: 0.802
 
 	lights_mandatory: false
 	leftside_traffic: false
