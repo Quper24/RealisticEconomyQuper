@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : shape1.daf.2021.beacon
+{
+	name: "Bonfire"
+	price: 3120
+	unlock: 0
+	icon: "beacon_02"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/upgrade/beacon/beacon_02.pmd"
+
+	conflict_with[]: "paint_xf.daf.2021.r_deflector"
+	conflict_with[]: "paint_xf2.daf.2021.r_deflector"
+}
+}

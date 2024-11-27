@@ -1,0 +1,47 @@
+SiiNunit
+{
+accessory_interior_data: route_66_uk.renault.magnum.interior
+{
+	name: "Route 66 Edition UK"
+	price: 32940
+	unlock: 0
+	icon: "interior_magnum_r66_uk"
+	part_type: factory
+
+	model: "/vehicle/truck/renault_magnum_2009/interior/uk/model.pmd"
+	collision: "/vehicle/truck/renault_magnum_2009/interior/uk/model.pmc"
+	animated_model: "/vehicle/truck/renault_magnum_2009/interior/uk/anim.pmd"
+	look: look1
+	variant: route_66
+
+@include "animations_uk.sui"
+@include "sound.sui"
+@include "sound_effects.sui"
+
+	dashboard_path: "/ui/dashboard/renault_magnum_2009.sii"
+
+	left_hand_traffic: true
+
+	glass_panes[]: .renault.magnum.pane.front
+	glass_panes[]: .renault.magnum.pane.left
+	glass_panes[]: .renault.magnum.pane.right
+	glass_panes[]: .renault.magnum.pane.left1
+	glass_panes[]: .renault.magnum.pane.right1
+	glass_panes[]: .renault.magnum.pane.left2
+	glass_panes[]: .renault.magnum.pane.right2
+	ext_model: "/vehicle/truck/upgrade/ext_interior/renault_magnum_2009/stock.pmd"
+	ext_variant: uk
+	ext_look: exclusive
+
+	defaults[]: "/def/vehicle/truck/renault.magnum/accessory/steering_w/standard.sii"
+
+@include "dashboard_color.sui"
+
+@include "int_shadow_cab_uk.sui"
+
+@include "seat_uk.sui"
+@include "mirrors_uk.sui"
+}
+@include "glass.dat"
+@include "sound_effects_units.sui"
+}
