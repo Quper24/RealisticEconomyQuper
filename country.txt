@@ -1,35 +1,36 @@
-aland - "Åland" - 0.943 # https://www.mypetrolprice.com/karnataka/gulbarga/Diesel-price-in-aland/630103
-albania - "Shqipëria" - 1.753
-algeria - "Algeria" - 0.205 # https://www.globalpetrolprices.com/Algeria/diesel_prices/
-andorra - "Andorra" - 1.253
-armenia - "Hayastan" - 1.245
-austria - "Österreich" - 1.542
-azerbaijan - "Azərbaycan" - 0.555
-belarus - "Беларусь" - 0.707
+aland - "Åland" - 0.96 # https://www.mypetrolprice.com/karnataka/gulbarga/Diesel-price-in-aland/630103
+albania - "Shqipëria" - 1.764
+algeria - "Algeria" - 0.21 # https://www.globalpetrolprices.com/Algeria/diesel_prices/
+andorra - "Andorra" - 1.270
+armenia - "Hayastan" - 1.197
+austria - "Österreich" - 1.553
+azerbaijan - "Azərbaycan" - 0.560
+belarus - "Беларусь" - 0.710
 belgium - "België/Belgique" - 1.694
-bosnia - "Bosna i Hercegovina" - 1.190
-botswana - "Botswana" - 1.038
-bulgaria - "България" - 1.246
-burkinafaso - "Burkina Faso" - 1.28
-car - "Central African Republic" - 2.056
-chad - "Tchad" - 0.835
-china - "中华人民共和国" - 0.925
-croatia - "Hrvatska" - 1.508
-cyprus - "Κύπρος" - 1.452
-czech - "Česká Republika" - 1.360
+bosnia - "Bosna i Hercegovina" - 1.240
+botswana - "Botswana" - 1.042
+bulgaria - "България" - 1.260
+burkinafaso - "Burkina Faso" - 1.30
+car - "Central African Republic" - 2.055
+chad - "Tchad" - 1.26
+china - "中华人民共和国" - 0.933
+croatia - "Hrvatska" - 1.518
+cyprus - "Κύπρος" - 1.460
+czech - "Česká Republika" - 1.373
 denmark - "Danmark" - 1.777
-egypt - "Masr" - 0.258
-estonia - "Eesti" - 1.476
-ethiopia - "Ethiopia" - 0.698
-faroe - "Føroyar" - 2.180
-finland - "Suomi" - 1.647
-france - "France" - 1.625
-gambia - "Gambia" - 1.09 # https://diesel-fuel-prices.com/diesel-d6_gambia-the-price.html
-georgia - "საქართველო" - 1.031
-germany - "Deutschland" - 1.589
-greece - "Ελλάδα" - 1.551
-greenland - "Kalaallit Nunaat" - 1.74 #https://www.mit.gl/en/services-en/fees-and-charges/
-guernsey - "Guernsey" - 1.90 #https://www.numbeo.com/gas-prices/country_result.jsp?country=Guernsey
+egypt - "Masr" - 0.259
+estonia - "Eesti" - 1.501
+ethiopia - "Ethiopia" - 0.697
+faroe - "Føroyar" - 1.36
+finland - "Suomi" - 1.837
+france - "France" - 1.642
+gambia - "Gambia" - 1.34 # https://diesel-fuel-prices.com/diesel-d6_gambia-the-price.html
+georgia - "საქართველო" - 1.047
+germany - "Deutschland" - 1.6
+greece - "Ελλάδα" - 1.568
+greenland - "Kalaallit Nunaat" - 1.87 # https://www.mit.gl/en/services-en/fees-and-charges/
+guernsey - "Guernsey" - 1.52 # https://www.numbeo.com/gas-prices/country_result.jsp?country=Guernsey
+--
 hungary - "Magyarország" - 1.533
 iceland - "Ísland" - 2.142
 iom - "Isle of Man" - 1.950 # https://petrolmap.co.uk/petrol-prices/isle-of-man/isle-of-man
