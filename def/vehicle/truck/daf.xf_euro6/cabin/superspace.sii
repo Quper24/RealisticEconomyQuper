@@ -1,0 +1,42 @@
+SiiNunit
+{
+accessory_cabin_data : superspace.daf.xf_euro6.cabin
+{
+	name: "Super Space"
+	price: 63240
+	unlock: 0
+	icon: "cab_daf_xf_euro6_a"
+	part_type: factory
+
+	detail_model: "/vehicle/truck/daf_xf_euro6/truck.pmd"
+	collision: "/vehicle/truck/daf_xf_euro6/truck.pmc"
+
+	variant: cabin_a
+	variant_uk: cabin_a_uk
+	look: default
+
+	wiper_model: "/vehicle/truck/daf_xf_euro6/wipers.pmd"
+	wiper_anim: "/vehicle/truck/daf_xf_euro6/wipers.pma"
+	wiper_model_uk: "/vehicle/truck/daf_xf_euro6/wipers_uk.pmd"
+	wiper_anim_uk: "/vehicle/truck/daf_xf_euro6/wipers_uk.pma"
+
+	windows_model: "/vehicle/truck/daf_xf_euro6/win_open.pmd"
+	left_window_anim: "/vehicle/truck/daf_xf_euro6/win_open_l.pma"
+	right_window_anim: "/vehicle/truck/daf_xf_euro6/win_open_r.pma"
+
+	drl_with_headlights: 0.4
+
+	defaults[]: "/def/vehicle/truck/daf.xf_euro6/paint_job/color4.sii"
+	defaults[]: "/def/vehicle/truck/daf.xf_euro6/head_light/xenon.sii"
+	defaults[]: "/def/vehicle/truck/daf.xf_euro6/interior/standard.sii"
+	defaults[]: "/def/vehicle/truck/daf.xf_euro6/accessory/doorhndl/shape1.sii"
+	defaults[]: "/def/vehicle/truck/daf.xf_euro6/accessory/mirror/shape3.sii"
+	defaults[]: "/def/vehicle/truck/daf.xf_euro6/accessory/s_mirror/shape1.sii"
+	defaults[]: "/def/vehicle/truck/daf.xf_euro6/accessory/f_intake_cab/stock.sii"
+	defaults[]: "/def/vehicle/truck/daf.xf_euro6/accessory/f_wnd_frame/stock.sii"
+	defaults[]: "/def/vehicle/truck/daf.xf_euro6/accessory/f_intake_bar/stock.sii"
+	defaults[]: "/def/vehicle/truck/daf.xf_euro6/accessory/f_inlay_cab/stock.sii"
+
+@include "sound.sui"
+}
+}

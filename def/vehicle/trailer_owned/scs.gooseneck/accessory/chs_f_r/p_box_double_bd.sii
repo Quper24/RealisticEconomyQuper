@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : p_box_doublb.scs.gooseneck.chs_f_r
+{
+	name: "@@paint_box@@, 2x"
+	price: 2800
+	unlock: 0
+	icon: "chs_f/scs_box/p_box_double"
+
+	exterior_model: "/vehicle/trailer_owned/scs_gooseneck/accessory/chs_f_r/double_p_box_bd.pmd"
+	#coll: "/vehicle/trailer_owned/scs_gooseneck/accessory/chs_f_r/coll_f.pmc"
+
+	suitable_for[]: "ch_3_bd.scs.gooseneck.chassis"
+	suitable_for[]: "ch_2_bd.scs.gooseneck.chassis"
+}
+}

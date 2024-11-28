@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : shape5.volvo.fh16.exhaust_l
+{
+	name: "Magma I"
+	price: 2580
+	unlock: 0
+	icon: "exhaust_05"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/volvo_fh16_2009/accessory/exhaust/exhaust_05_l.pmd"
+	suitable_for[]: "shape1.volvo.fh16.sideskirt"
+	suitable_for[]: "flat.volvo.fh16.sideskirt"
+	suitable_for[]: "hole.volvo.fh16.sideskirt"
+}
+}
