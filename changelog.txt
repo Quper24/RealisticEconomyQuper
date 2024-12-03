@@ -1,3 +1,33 @@
+v 1.53.4
+?
+
+v 1.53.3
+dlc Greece support
+reduced truck damage
+change system police max fine amounts 30 lvl
+
+v 1.53.2
+return unlock
+upd price diesel and currency
+
+v 1.53.1
+remove unlock bags volvo fh
+
+v 1.53.0
+supported 1.53
+upd price diesel and currency
+
+v 1.52.6
+fix ferry price
+update price diesel
+update currency
+
+v 1.52.5
+fix tollgate
+
+v 1.52.4
+fix bag credit
+
 v 1.52.3
 ENG
 Economy and Bonuses:
