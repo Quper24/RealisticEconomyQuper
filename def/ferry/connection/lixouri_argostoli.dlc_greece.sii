@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.lixouri.argostoli {
-	price: 40 # complete fantasy (5.6 euro for car)
+	price: 3 # complete fantasy (5.6 euro for car)
 	time: 30
 	distance: 6
 }
