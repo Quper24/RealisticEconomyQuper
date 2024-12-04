@@ -14,7 +14,7 @@ police_data : police.data
 	fine_overspeed_multiplier_limit: 10
 
 	fine_amounts[0]: 45		# car crash
-	fine_amounts[1]: 60		# avoid sleeping
+	fine_amounts[1]: 40		# avoid sleeping
 	fine_amounts[2]: 30		# wrong way
 	fine_amounts[3]: 50		# speeding (camera)
 	fine_amounts[4]: 30		# no lights during night
@@ -31,7 +31,7 @@ police_data : police.data
 	# in seconds of real time
 	#
 	offence_check_delay[0]: 0	# car crash
-	offence_check_delay[1]: 60	# avoid sleeping
+	offence_check_delay[1]: 180	# avoid sleeping
 	offence_check_delay[2]: 15	# wrong way
 	offence_check_delay[3]: 0	# speeding (camera)
 	offence_check_delay[4]: 70	# no lights during night
@@ -44,7 +44,7 @@ police_data : police.data
 	# in seconds of real time
 	#
 	offence_police_check_delay[0]: 0	# car crash
-	offence_police_check_delay[1]: 30	# avoid sleeping
+	offence_police_check_delay[1]: 180	# avoid sleeping
 	offence_police_check_delay[2]: 5	# wrong way
 	offence_police_check_delay[3]: 0	# speeding (camera)
 	offence_police_check_delay[4]: 7	# no lights during night
