@@ -4,16 +4,14 @@ mod_package : .package_name
 {
 
 	# Package version can be any string with any length.
-	package_version: "1.53.3"
+	package_version: "1.53.4"
 
 	# Display name can be any string with any length.
 	display_name: "Realistic Economy by Quper"
 
 	# Author can be any string with any length.
 	author: "Quper"
-	
-  compatible_versions[]: "1.51.*"
-  compatible_versions[]: "1.52.*"
+
   compatible_versions[]: "1.53.*"
 
 	# Categories is an array of strings.
