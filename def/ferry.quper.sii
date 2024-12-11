@@ -66,7 +66,6 @@ SiiNunit
 @include "ferry/ibiza.sui"
 @include "ferry/igeroy1.sui"
 @include "ferry/igeroy2.sui"
-@include "ferry/igoumenitsa.sui"
 @include "ferry/incheon.sui"
 @include "ferry/isafjordur.sui"
 @include "ferry/iskenderun.sui"
