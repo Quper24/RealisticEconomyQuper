@@ -8,6 +8,6 @@ cargo_data: cargo.lattice
 
 	volume: 100
 	mass: 50000
-	unit_reward_per_km: 57.91
+	unit_reward_per_km: 49.5
 	body_types[]: _oversize
 }

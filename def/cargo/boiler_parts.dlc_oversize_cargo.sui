@@ -8,6 +8,6 @@ cargo_data: cargo.boiler_parts
 
 	volume: 100
 	mass: 45000
-	unit_reward_per_km: 63.18
+	unit_reward_per_km: 54
 	body_types[]: _oversize
 }

@@ -6,7 +6,7 @@ cargo_data: cargo.concr_beams
 	group[]: construction
 	volume: 90
 	mass: 51030
-	unit_reward_per_km: 31.6
+	unit_reward_per_km: 27.22
 	unit_load_time: 2100
 	body_types[]: lowboy
 	body_types[]: lowbed

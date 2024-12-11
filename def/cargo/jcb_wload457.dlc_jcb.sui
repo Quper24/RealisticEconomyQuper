@@ -1,14 +1,12 @@
-cargo_data: cargo.mobile_crane
+cargo_data: cargo.jcb_wload457
 {
-	name: "@@cn_mobile_crane@@"
+	name: "@@cn_wheel_loader_jcb_457@@"
 	fragility: 0.6
 	valuable: true
-	overweight: true
 	group[]: machinery
-	prob_coef: 0.3
 	volume: 70
-	mass: 36150
-	unit_reward_per_km: 38.29
+	mass: 20500
+	unit_reward_per_km: 33.23
 	unit_load_time: 2100
 	body_types[]: lowboy
 	body_types[]: lowbed

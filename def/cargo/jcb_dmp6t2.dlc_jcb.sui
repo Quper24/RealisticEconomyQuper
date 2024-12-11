@@ -1,14 +1,13 @@
-cargo_data: cargo.dozer
+cargo_data: cargo.jcb_dmp6t2
 {
-	name: "@@cn_dozer@@"
+	name: "@@cn_site_dumper_jcb_6t2@@"
 	fragility: 0.6
 	valuable: true
 	overweight: true
 	group[]: machinery
-	prob_coef: 0.9
 	volume: 50
-	mass: 39010
-	unit_reward_per_km: 43.39
+	mass: 5000
+	unit_reward_per_km: 10.39
 	unit_load_time: 2100
 	body_types[]: lowboy
 	body_types[]: lowbed

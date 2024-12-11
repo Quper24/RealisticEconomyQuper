@@ -1,14 +1,13 @@
-cargo_data: cargo.dozer
+cargo_data: cargo.vol_ew240emh
 {
-	name: "@@cn_dozer@@"
-	fragility: 0.6
+	name: "@@cn_excavator_volvo_ew240emh@@"
+	fragility: 0.5
 	valuable: true
 	overweight: true
 	group[]: machinery
-	prob_coef: 0.9
 	volume: 50
-	mass: 39010
-	unit_reward_per_km: 43.39
+	mass: 26000
+	unit_reward_per_km: 33.12
 	unit_load_time: 2100
 	body_types[]: lowboy
 	body_types[]: lowbed

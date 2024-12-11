@@ -8,6 +8,6 @@ cargo_data: cargo.ex_bucket
 
 	volume: 100
 	mass: 25000
-	unit_reward_per_km: 55.27
+	unit_reward_per_km: 47.25
 	body_types[]: _oversize
 }
