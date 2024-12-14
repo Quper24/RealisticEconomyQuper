@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.warrenpnt.heysham{
-	price: 39
+	price: 40
 	time: 540
 	distance: 225
 
