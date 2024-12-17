@@ -1,9 +1,1 @@
-SiiNunit
-{
-ferry_connection : conn.vladyvostok.magadan {
-	price: 39
-	time: 905
-	distance: 2692
-}
-}
-
+SiiNunit{}

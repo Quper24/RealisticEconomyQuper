@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.malabo.capetown {
-	price: 16
+	price: 17
 	time: 4500
 	distance: 269
 }
