@@ -1,7 +1,0 @@
-ferry_data: ferry.torri
-{
-	ferry_name: "Barcelona"
-	ferry_name_localized: "@@Barcelona@@"
-}
-
-

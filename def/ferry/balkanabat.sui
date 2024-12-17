@@ -1,9 +1,0 @@
-
-ferry_data: ferry.balkanabat
-{
-	ferry_name: "Trans-Siberian - Balkanabat"
-	ferry_name_localized: "@@Trans-Siberian - Balkanabat@@"
-	transport_type: "train"
-}
-
-

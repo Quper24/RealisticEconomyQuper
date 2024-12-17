@@ -1,7 +1,0 @@
-ferry_data: ferry.vorkuta
-{
-	ferry_name: "Воркута"
-    ferry_name_localized: "@@Воркута@@"
-	transport_type: "train"
-}
-
