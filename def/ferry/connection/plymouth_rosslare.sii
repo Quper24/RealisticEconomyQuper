@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.plymouth.rosslare {
-	price: 78
+	price: 32
 	time: 780
 	distance: 320
 }
