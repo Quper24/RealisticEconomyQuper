@@ -1,9 +1,10 @@
 SiiNunit
 {
 ferry_connection : conn.karaganda.barnaul {
-	price: 8
-	time: 35
-	distance: 60
+	price: 9
+	time: 717
+	distance: 959
+}
 
 }
-}
+
