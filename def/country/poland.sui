@@ -9,7 +9,7 @@ country_data : country.data.poland
 
 	pos: (32130, 0, -8330)
 
-	fuel_price: 1.447
+	fuel_price: 1.448
 
 	lights_mandatory: true
 	driving_tired_offence: true

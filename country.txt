@@ -1,89 +1,89 @@
-aland - "Åland" - 0.96 # https://www.mypetrolprice.com/karnataka/gulbarga/Diesel-price-in-aland/630103
-albania - "Shqipëria" - 1.759
+aland - "Åland" - 0.99 # https://www.mypetrolprice.com/karnataka/gulbarga/Diesel-price-in-aland/630103
+albania - "Shqipëria" - 1.757
 algeria - "Algeria" - 0.22 # https://www.globalpetrolprices.com/Algeria/diesel_prices/
-andorra - "Andorra" - 1.270
-armenia - "Hayastan" - 1.214
-austria - "Österreich" - 1.545
-azerbaijan - "Azərbaycan" - 0.560
-belarus - "Беларусь" - 0.710
-belgium - "België/Belgique" - 1.669
-bosnia - "Bosna i Hercegovina" - 1.253
-botswana - "Botswana" - 1.041
-bulgaria - "България" - 1.254
-burkinafaso - "Burkina Faso" - 1.033
-car - "Central African Republic" - 2.059 #C. Afr. Rep
+andorra - "Andorra" - 1.275
+armenia - "Hayastan" - 1.233
+austria - "Österreich" - 1.563
+azerbaijan - "Azərbaycan" - 0.565
+belarus - "Беларусь" - 0.717
+belgium - "België/Belgique" - 1.679
+bosnia - "Bosna i Hercegovina" - 1.247
+botswana - "Botswana" - 1.035
+bulgaria - "България" - 1.273
+burkinafaso - "Burkina Faso" - 1.029
+car - "Central African Republic" - 2.058 #C. Afr. Rep
 chad - "Tchad" - 1.26
-china - "中华人民共和国" - 0.926
-croatia - "Hrvatska" - 1.529
-cyprus - "Κύπρος" - 1.467
-czech - "Česká Republika" - 1.395
-denmark - "Danmark" - 1.777
-egypt - "Masr" - 0.258
-estonia - "Eesti" - 1.501
-ethiopia - "Ethiopia" - 0.686
+china - "中华人民共和国" - 0.934
+croatia - "Hrvatska" - 1.543
+cyprus - "Κύπρος" - 1.468
+czech - "Česká Republika" - 1.387
+denmark - "Danmark" - 1.785
+egypt - "Masr" - 0.255
+estonia - "Eesti" - 1.541
+ethiopia - "Ethiopia" - 0.689
 faroe - "Føroyar" - 1.36
 finland - "Suomi" - 1.671
-france - "France" - 1.654
+france - "France" - 1.640
 gambia - "Gambia" - 1.34
-georgia - "საქართველო" - 0.995
-germany - "Deutschland" - 1.586
-greece - "Ελλάδα" - 1.568
-greenland - "Kalaallit Nunaat" - 1.87 # https://www.mit.gl/en/services-en/fees-and-charges/
-guernsey - "Guernsey" - 1.52 # https://www.numbeo.com/gas-prices/country_result.jsp?country=Guernsey
-hungary - "Magyarország" - 1.498
-iceland - "Ísland" - 2.123
+georgia - "საქართველო" - 1.026
+germany - "Deutschland" - 1.613
+greece - "Ελλάδα" - 1.573
+greenland - "Kalaallit Nunaat" - 0.71 # https://www.mit.gl/en/services-en/fees-and-charges/
+guernsey - "Guernsey" - 1.97 # https://www.numbeo.com/gas-prices/country_result.jsp?country=Guernsey
+hungary - "Magyarország" - 1.477
+iceland - "Ísland" - 2.127
 iom - "Isle of Man" - 1.73 # https://petrolmap.co.uk/petrol-prices/isle-of-man/isle-of-man
 iraq - "Al-'Irāq" - 0.802
-ireland - "Ireland" - 1.670
-israel - "Israel" - 1.835
-italy - "Italia" - 1.662
+ireland - "Ireland" - 1.715
+israel - "Israel" - 1.848
+italy - "Italia" - 1.664
 jersey - "Jersey" - 1.73
-jordan - "Al-'Urdunn" - 0.912
-kazakhstan - "Kazakhstan" - 0.528
-kenya - "Kenya" - 1.226
+jordan - "Al-'Urdunn" - 0.922
+kazakhstan - "Kazakhstan" - 0.539
+kenya - "Kenya" - 1.219
 kosovo - "Kosovo" - 1.34
-latvia - "Latvija" - 1.526
-lebanon - "Lubnān" - 0.648
+latvia - "Latvija" - 1.518
+lebanon - "Lubnān" - 0.640
 libya - "Lībiyā" - 0.029
-liecht - "Liechtenstein" - 2.007
-lithuania - "Lietuva" - 1.402
-luxembourg - "Lëtzebuerg" - 1.449
+liecht - "Liechtenstein" - 1.997
+lithuania - "Lietuva" - 1.420
+luxembourg - "Lëtzebuerg" - 1.468
 macedonia - "Северна Македонија" - 1.392
-mali - "Mali" - 1.147
+mali - "Mali" - 1.143
 malta - "Malta" - 1.210
-moldova - "Moldova" - 1.051
+moldova - "Moldova" - 1.044
 monaco - "Monaco" - 2.110
-mongolia - "Монгол Улс" - 1.135
-montenegro - "Црна Гора" - 1.370
-morocco - "Morocco" - 1.074
-netherlands - "Nederland" - 1.771
+mongolia - "Монгол Улс" - 1.147
+montenegro - "Црна Гора" - 1.350
+morocco - "Morocco" - 1.076
+netherlands - "Nederland" - 1.728
 niger - "Niger" - 1.75
 nireland - "Northern-Ireland" - 1.55
-norway - "Norge" - 1.735
-poland - "Polska" - 1.447
-portugal - "Portugal" - 1.60
+norway - "Norge" - 1.736
+poland - "Polska" - 1.448
+portugal - "Portugal" - 1.610
 romania - "România" - 1.454
-russia - "Россия" - 0.626
+russia - "Россия" - 0.671
 sanmarino - "San Marino" - 1.558
-saudia - "Al-'Arabīyah As-Sa'ūdīyah" - 0.291
-saudia1 - "Saudi Arabia" - 0.291
-senegal - "Senegal" - 1.155
-serbia - "Србија" - 1.685
-slovakia - "Slovensko" - 1.46
-slovenia - "Slovenija" - 1.541
+saudia - "Al-'Arabīyah As-Sa'ūdīyah" - 0.294
+saudia1 - "Saudi Arabia" - 0.294
+senegal - "Senegal" - 1.151
+serbia - "Србија" - 1.683
+slovakia - "Slovensko" - 1.459
+slovenia - "Slovenija" - 1.537
 southsudan - "South Sudan" - 0.55
-south_africa - "south_africa" - 1.147
-spain - "España" - 1.424
-sudan - "Sūdān" - 0.624
-svalbard - "Svalbard" - 1.73 # https://www.globalpetrolprices.com/Norway/diesel_prices/
-sweden - "Sverige" - 1.537
-switzerland - "Schweiz" - 1.993
-syria - "Sūriyā" - 0.728
-tanzania - "Tanzania" - 1.003
-tunisia - "Tunisia" - 0.666
-turkey - "Türkiye" - 1.211
-uganda - "Uganda" - 1.215
-uk - "United Kingdom" - 1.713
-ukraine - "Україна" - 1.253
-westbank - "West Bank" - 1.58 # https://www.thefuelprice.com/Fps/en
-zambia - "Zambia" - 1.141
+south_africa - "south_africa" - 1.123
+spain - "España" - 1.433
+sudan - "Sūdān" - 0.630
+svalbard - "Svalbard" - 1.75 # https://www.globalpetrolprices.com/Norway/diesel_prices/
+sweden - "Sverige" - 1.559
+switzerland - "Schweiz" - 1.989
+syria - "Sūriyā" - 1.059
+tanzania - "Tanzania" - 1.104
+tunisia - "Tunisia" - 0.665
+turkey - "Türkiye" - 1.203
+uganda - "Uganda" - 1.209
+uk - "United Kingdom" - 1.720
+ukraine - "Україна" - 1.271
+westbank - "West Bank" - 1.59 # https://www.thefuelprice.com/Fps/en
+zambia - "Zambia" - 1.127

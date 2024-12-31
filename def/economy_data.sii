@@ -245,13 +245,13 @@ economy_data : economy.data.storage
 	currency_sign3[]: ""
 
 	currency_code[]: "CHF"
-	currency_ratio[]: 0.93
+	currency_ratio[]: 0.94
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " CHF"
 
 	currency_code[]: "CZK"
-	currency_ratio[]: 25.12
+	currency_ratio[]: 25.20
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " Kč"
@@ -263,13 +263,13 @@ economy_data : economy.data.storage
 	currency_sign3[]: ""
 
 	currency_code[]: "PLN"
-	currency_ratio[]: 4.29
+	currency_ratio[]: 4.28
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " zł"
 
 	currency_code[]: "HUF"
-	currency_ratio[]: 414.76
+	currency_ratio[]: 411.38
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " Ft"
@@ -287,19 +287,19 @@ economy_data : economy.data.storage
 	currency_sign3[]: " kr"
 
 	currency_code[]: "NOK"
-	currency_ratio[]: 11.61
+	currency_ratio[]: 11.46
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " kr"
 
 	currency_code[]: "RUB"
-	currency_ratio[]: 110.76
+	currency_ratio[]: 117.77
 	currency_sign1[]: ""
 	currency_sign2[]: "₽"
 	currency_sign3[]: ""
 
 	currency_code[]: "BGN"
-	currency_ratio[]: 1.96
+	currency_ratio[]: 1.95
 	currency_sign1[]: ""
 	currency_sign2[]: "лв"
 	currency_sign3[]: ""
@@ -311,19 +311,19 @@ economy_data : economy.data.storage
 	currency_sign3[]: " lei"
 
 	currency_code[]: "TRY"
-	currency_ratio[]: 36.44
+	currency_ratio[]: 36.62
 	currency_sign1[]: ""
 	currency_sign2[]: "₺"
 	currency_sign3[]: ""
 
 	currency_code[]: "ALL"
-	currency_ratio[]: 98.40
+	currency_ratio[]: 98.30
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " lek"
 
 	currency_code[]: "BAM"
-	currency_ratio[]: 1.96
+	currency_ratio[]: 1.95
 	currency_sign1[]: ""
 	currency_sign2[]: "KM "
 	currency_sign3[]: ""
@@ -335,13 +335,13 @@ economy_data : economy.data.storage
 	currency_sign3[]: " ден"
 
 	currency_code[]: "RSD"
-	currency_ratio[]: 116.96
+	currency_ratio[]: 116.99
 	currency_sign1[]: ""
 	currency_sign2[]: "дин "
 	currency_sign3[]: ""
 
 	currency_code[]: "UAH"
-	currency_ratio[]: 43.94
+	currency_ratio[]: 43.79
 	currency_sign1[]: ""
 	currency_sign2[]: "грн "
 	currency_sign3[]: ""
