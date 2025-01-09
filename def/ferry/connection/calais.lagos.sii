@@ -1,0 +1,10 @@
+SiiNunit
+{
+ferry_connection : conn.calais.lagos{
+	price: 2
+	time: 3000
+	distance: 5000
+}
+
+}
+

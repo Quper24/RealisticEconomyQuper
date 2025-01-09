@@ -1,33 +1,25 @@
 SiiNunit
 {
 ferry_connection : conn.mogadishu.ashdod {
-	price: 85
+	price: 120
 	time: 3500
 	distance: 3500
 
-	# NODE POSITIONS ########   x*256  , 0,  z*256
-	connection_positions[0]:  (64000000, 0, 67840000)
-	connection_positions[1]:  (69888000, 0, 52992000)
-	connection_positions[2]:  (66304000, 0, 43520000)
-	connection_positions[3]:  (56576000, 0, 49920000)
-	connection_positions[4]:  (42240000, 0, 40960000)
-	connection_positions[5]:  (38400000, 0, 37888000)
-	connection_positions[6]:  (27468800, 0, 29056000)
-	connection_positions[7]:  (26572800, 0, 26777600)
-	connection_positions[8]:  (26368000, 0, 24832000)
-	connection_positions[9]:  (28378368, 0, 23761690)
+    # NODE POSITIONS #######    x*256 , 0,   z*256
+    connection_positions[0]: (26154240, 0, 24320512)
+    connection_positions[1]: (29031168, 0, 30429376)
+    connection_positions[2]: (37851648, 0, 37407232)
+    connection_positions[3]: ( 53044224, 0, 49417728)
+    connection_positions[4]: ( 66423808, 0, 42242816)
+    connection_positions[5]: ( 64951808, 0, 68318976)
 
-	# NODE ROTATIONS ########  -sin(jaw), 0, -cos(jaw)
-	connection_directions[0]:  ( 0.8716, 0, 0)
-	connection_directions[1]:  ( 0, 0, -0.08716)
-	connection_directions[2]:  (-0.86603, 0,-0.50000)
-	connection_directions[3]:  (-0.42262, 0, 0.42262)
-	connection_directions[4]:  ( 0, 0, 0)
-	connection_directions[5]:  ( 0, 0, 0)
-	connection_directions[6]:  (-0.08716, 0,-0.08716)
-	connection_directions[7]:  (-0.08716, 0,-0.08716)
-	connection_directions[8]:  ( 0.42262, 0,-0.7147)
-	connection_directions[9]:  ( 0.96593, 0, 0.25882)
+    # NODE ROTATIONS #######  -sin(jaw), 0, -cos(jaw)
+    connection_directions[0]: ( 0.17365, 0,  0.98481)
+    connection_directions[1]: ( 0.90631, 0,  0.42262)
+    connection_directions[2]: ( 0.60631, 0,  0.42262)
+    connection_directions[3]: ( 0.98593, 0,  0.56882)
+    connection_directions[4]: ( 0.46593, 0,  0.24882)
+    connection_directions[5]: ( -0.5, 0,  0.54882)
 }
 }
 
