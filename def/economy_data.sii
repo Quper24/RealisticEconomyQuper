@@ -248,28 +248,28 @@ economy_data : economy.data.storage
 	currency_ratio[]: 0.94
 	currency_sign1[]: ""
 	currency_sign2[]: ""
-	currency_sign3[]: " CHF"
+	currency_sign3[]: " ₣"
 
 	currency_code[]: "CZK"
-	currency_ratio[]: 25.20
+	currency_ratio[]: 25.08
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " Kč"
 
 	currency_code[]: "GBP"
-	currency_ratio[]: 0.83
+	currency_ratio[]: 0.84
 	currency_sign1[]: ""
 	currency_sign2[]: "£"
 	currency_sign3[]: ""
 
 	currency_code[]: "PLN"
-	currency_ratio[]: 4.28
+	currency_ratio[]: 4.26
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " zł"
 
 	currency_code[]: "HUF"
-	currency_ratio[]: 411.38
+	currency_ratio[]: 413.74
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " Ft"
@@ -281,37 +281,37 @@ economy_data : economy.data.storage
 	currency_sign3[]: " kr"
 
 	currency_code[]: "SEK"
-	currency_ratio[]: 11.57
+	currency_ratio[]: 11.48
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " kr"
 
 	currency_code[]: "NOK"
-	currency_ratio[]: 11.46
+	currency_ratio[]: 11.74
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " kr"
 
 	currency_code[]: "RUB"
-	currency_ratio[]: 117.77
+	currency_ratio[]: 105.52
 	currency_sign1[]: ""
 	currency_sign2[]: "₽"
 	currency_sign3[]: ""
 
 	currency_code[]: "BGN"
-	currency_ratio[]: 1.95
+	currency_ratio[]: 1.96
 	currency_sign1[]: ""
 	currency_sign2[]: "лв"
 	currency_sign3[]: ""
 
 	currency_code[]: "RON"
-	currency_ratio[]: 4.98
+	currency_ratio[]: 4.97
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " lei"
 
 	currency_code[]: "TRY"
-	currency_ratio[]: 36.62
+	currency_ratio[]: 36.37
 	currency_sign1[]: ""
 	currency_sign2[]: "₺"
 	currency_sign3[]: ""
@@ -323,28 +323,40 @@ economy_data : economy.data.storage
 	currency_sign3[]: " lek"
 
 	currency_code[]: "BAM"
-	currency_ratio[]: 1.95
+	currency_ratio[]: 1.96
 	currency_sign1[]: ""
 	currency_sign2[]: "KM "
 	currency_sign3[]: ""
 
 	currency_code[]: "MKD"
-	currency_ratio[]: 61.54
+	currency_ratio[]: 61.53
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " ден"
 
 	currency_code[]: "RSD"
-	currency_ratio[]: 116.99
+	currency_ratio[]: 117.09
 	currency_sign1[]: ""
 	currency_sign2[]: "дин "
 	currency_sign3[]: ""
 
 	currency_code[]: "UAH"
-	currency_ratio[]: 43.79
+	currency_ratio[]: 43.67
 	currency_sign1[]: ""
-	currency_sign2[]: "грн "
-	currency_sign3[]: ""
+	currency_sign2[]: ""
+	currency_sign3[]: "₴"
+
+	currency_code[]: "KZT"
+	currency_ratio[]: 541.60
+	currency_sign1[]: ""
+	currency_sign2[]: ""
+	currency_sign3[]: "╤"
+
+	currency_code[]: "BYN"
+	currency_ratio[]: 3.37
+	currency_sign1[]: ""
+	currency_sign2[]: ""
+	currency_sign3[]: " бел. руб"
 
 }
 }
