@@ -16,28 +16,28 @@ SiiNunit
     bank_loan_data: bank.data.loan1
     {
         amount: 10000 
-        interest_rate: 0.08    # 10 % 
+        interest_rate: 0.1    # 10 % 
         duration: 52            # in weeks 
     }
 
     bank_loan_data: bank.data.loan2
     {
         amount: 50000        
-        interest_rate: 0.07    # 8 % 
+        interest_rate: 0.08    # 8 % 
         duration: 104           # in weeks 
     }
 
     bank_loan_data: bank.data.loan3
     {
-        amount: 500000        
+        amount: 200000        
         interest_rate: 0.06    # 6 % 
         duration: 156           # in weeks 
     }
 
     bank_loan_data: bank.data.loan4
     {
-        amount: 1000000        
-        interest_rate: 0.05    # 4 % 
+        amount: 500000        
+        interest_rate: 0.04    # 4 % 
         duration: 261           # in weeks 
     }
 }
