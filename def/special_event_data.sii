@@ -14,7 +14,7 @@ SiiNunit
         level_for_credit_raise[]: 8
         credit_limit[]: 100000
         level_for_credit_raise[]: 10
-        credit_limit[]: 2000000
+        credit_limit[]: 200000
         level_for_credit_raise[]: 15
         credit_limit[]: 500000
         level_for_credit_raise[]: 20
