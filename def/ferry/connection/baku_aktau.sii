@@ -1,0 +1,10 @@
+SiiNunit
+{
+ferry_connection : conn.baku.aktau{
+	price: 15
+	time: 811
+	distance: 70
+
+}
+}
+
