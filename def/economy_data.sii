@@ -11,8 +11,8 @@ economy_data : economy.data.storage
 	price_garage_upgrade: 80000 			
 
 	garage_prod_plan_tiny: 3000 			
-	garage_prod_plan_small: 8000 			
-	garage_prod_plan_large: 15000			
+	garage_prod_plan_small: 10000 			
+	garage_prod_plan_large: 20000			
 
 	fuel_discount_in_garage: 0.30 			# 30%
 
