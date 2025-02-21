@@ -3,23 +3,23 @@ SiiNunit
 police_data : police.data
 {
 	# level based fines: min(base + level * step, limit), rounded up to multiple of rounding.
-	fine_factor_base: 0.1
-	fine_factor_step: 0.03
+	fine_factor_base: 0.5
+	fine_factor_step: 0.05
 	fine_factor_limit: 1.0
-	fine_amount_rounding: 1
+	fine_amount_rounding: 0.1
 
 	# speeding based progression: fine *= min( multiplier ^ (overspeed / step), limit), uses same rounding as above
 	fine_overspeed_step: 2.777778
 	fine_overspeed_step_multiplier: 1.5
 	fine_overspeed_multiplier_limit: 10
 
-	fine_amounts[0]: 200		# car crash
+	fine_amounts[0]: 250		# car crash
 	fine_amounts[1]: 150		# avoid sleeping
-	fine_amounts[2]: 250		# wrong way
-	fine_amounts[3]: 70		  # speeding (camera)
-	fine_amounts[4]: 50		  # no lights during night
-	fine_amounts[5]: 200		# red lights
-	fine_amounts[6]: 70		  # speeding
+	fine_amounts[2]: 300		# wrong way
+	fine_amounts[3]: 75	  # speeding (camera)
+	fine_amounts[4]: 75		  # no lights during night
+	fine_amounts[5]: 250		# red lights
+	fine_amounts[6]: 100		  # speeding
 	fine_amounts[7]: 300		  # avoid weighing
 	fine_amounts[8]: 500		# illegal trailer
 	fine_amounts[9]: 500		# avoid inspection
