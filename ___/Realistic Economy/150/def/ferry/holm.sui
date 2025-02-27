@@ -1,0 +1,4 @@
+ferry_data: ferry.holm
+{
+	ferry_name: "@@holm@@"
+}

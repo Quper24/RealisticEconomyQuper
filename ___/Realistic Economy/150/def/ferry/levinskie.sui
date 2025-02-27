@@ -1,0 +1,6 @@
+ferry_data: ferry.levinskie
+{
+	ferry_name: "Левинские Пески"
+	ferry_name_localized: "@@Levinskie Peski@@"
+}
+

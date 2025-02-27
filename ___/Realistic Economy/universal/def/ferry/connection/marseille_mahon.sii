@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.marseille.mahon {
+	price: 80
+	time: 690
+	distance: 327
+}
+}

@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.menorca.algiers{
+	price: 390
+	time: 725
+	distance: 350
+}
+}
+

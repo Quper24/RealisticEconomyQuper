@@ -1,0 +1,10 @@
+
+ferry_data: ferry.pyongyang
+{
+	ferry_name: "Trans-Siberian - Pyongyang"
+	ferry_name_localized: "@@Trans-Siberian - Pyongyang@@"
+	transport_type: "train"
+	
+}
+
+

@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.narj_mar.ustcil {
+	price: 91
+	time: 700
+	distance: 301
+}
+}
+

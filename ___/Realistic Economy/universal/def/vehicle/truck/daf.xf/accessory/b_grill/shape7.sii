@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : shape7.daf.xf.b_grill
+{
+	name: "Viking"
+	price: 3360
+	unlock: 0
+	icon: "b_grill_07"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/upgrade/bottomgrill/daf_xf/bottomgrill_07.pmd"
+}
+}

@@ -1,0 +1,7 @@
+ferry_data: ferry.santa
+{
+	ferry_name: "Santa Teresa Gallura"
+	ferry_name_localized: "@@Santa Teresa Gallura@@"
+}
+
+

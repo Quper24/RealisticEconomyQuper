@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.stahlbrode.glewitz {
+	price: 8
+	time: 30
+	distance: 2
+}
+}
+

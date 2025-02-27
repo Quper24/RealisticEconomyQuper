@@ -1,0 +1,7 @@
+ferry_data: ferry.arzamas16
+{
+	ferry_name: "Арзамас 16"
+    ferry_name_localized: "@@Арзамас 16@@"
+	transport_type: "train"
+}
+

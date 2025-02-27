@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.goteborg.trelleborg {
+	price: 80
+	time: 775
+	distance: 361
+}
+}

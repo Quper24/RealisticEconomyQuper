@@ -1,0 +1,23 @@
+SiiNunit
+{
+ferry_connection : conn.bjvisby.ventspils {
+	price: 16
+	time: 559
+	distance: 253
+
+	# NODE POSITIONS #######   x*256 , 0,   z*256
+	connection_positions[0]: (6918400, 0, -10191360)
+	connection_positions[1]: (6892800, 0, -10306560)
+	connection_positions[2]: (7424000, 0, -10624000)
+	connection_positions[3]: (9247436, 0, -10049228)
+	connection_positions[4]: (9318298, 0, -10048384)
+
+	# NODE ROTATIONS #######  -sin(jaw), 0, -cos(jaw)
+	connection_directions[0]: (0, 0, 0)
+	connection_directions[1]: (0, 0, 0)
+	connection_directions[2]: (0.42262, 0, -0.25882)
+	connection_directions[3]: (0.81915, 0, 0.57358)
+	connection_directions[4]: (0.96593, 0, 0.25882)
+}
+}
+

@@ -1,0 +1,7 @@
+ferry_data: ferry.urengoi
+{
+	ferry_name: "Новый Уренгой"
+    ferry_name_localized: "@@Новый Уренгой@@"
+	transport_type: "train"
+}
+

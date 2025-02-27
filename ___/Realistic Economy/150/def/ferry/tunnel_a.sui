@@ -1,0 +1,8 @@
+ferry_data: ferry.tunnel_a
+{
+	ferry_name: "Ж/д Станция Арзамас-2"
+	ferry_name_localized: "@@Ж/д Станция Арзамас-2@@"
+	transport_type: "train"
+}
+
+

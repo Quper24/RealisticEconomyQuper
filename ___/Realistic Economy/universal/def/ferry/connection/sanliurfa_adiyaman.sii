@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.sanliurfa.adiyaman {
+	price: 24
+	time: 91
+	distance: 49
+}
+}
+

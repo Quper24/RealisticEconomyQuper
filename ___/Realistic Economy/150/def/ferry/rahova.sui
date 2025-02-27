@@ -1,0 +1,11 @@
+
+###
+# WARNING: Map must be rebuilt when anything is changed here!
+###
+ferry_data: ferry.rahova
+{
+	ferry_name: "Оряхово"    
+ferry_name_localized: "@@Оряхово@@"
+
+}
+

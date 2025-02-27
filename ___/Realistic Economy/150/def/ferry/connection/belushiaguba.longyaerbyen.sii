@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.belushiaguba.longyearbyen {
+	price: 18
+	time: 1500
+	distance: 856
+}
+}
+

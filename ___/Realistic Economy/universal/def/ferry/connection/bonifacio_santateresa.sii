@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.bonifacio.santateresa {
+	price: 35
+	time: 45
+	distance: 18
+}
+}

@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.ullapool.thurso {
+	price: 41
+	time: 375
+	distance: 261
+}
+}

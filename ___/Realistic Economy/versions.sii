@@ -1,0 +1,15 @@
+SiiNunit
+{ 
+  package_version_info : .universal
+  {
+    package_name: "universal"
+  }
+	
+  package_version_info : .150
+  {
+    package_name: "150"
+ 	  compatible_versions[]: "1.50.*"
+	  compatible_versions[]: "1.51.*"
+	  compatible_versions[]: "1.52.*"
+  }
+}

@@ -1,0 +1,6 @@
+ferry_data: ferry.kholmsk
+{
+	ferry_name: "Kholmsk, Sakhalin Island"
+	ferry_name_localized: "@@Kholmsk@@"
+}
+

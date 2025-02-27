@@ -1,0 +1,10 @@
+
+###
+# WARNING: Map must be rebuilt when anything is changed here!
+###
+ferry_data: ferry.casamicciola
+{
+	ferry_name: "Casamicciola Terme"
+		ferry_name_localized: "@@Casamicciola Terme@@"
+
+}

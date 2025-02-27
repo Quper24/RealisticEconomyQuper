@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.gdynia.rostockb {
+	price: 53
+	time: 1216
+	distance: 562
+}
+}

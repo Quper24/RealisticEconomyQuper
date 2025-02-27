@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.vorkuta.tunnel_f{
+	price: 393
+	time: 6000
+	distance: 3389
+}
+}
+

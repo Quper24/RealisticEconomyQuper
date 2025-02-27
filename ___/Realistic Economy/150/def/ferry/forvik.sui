@@ -1,0 +1,4 @@
+ferry_data: ferry.forvik
+{
+	ferry_name: "@@forvik@@"
+}

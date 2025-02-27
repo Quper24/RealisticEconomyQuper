@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.marseille.tripoli{
+	price: 225
+	time: 3060
+	distance: 2080
+}
+}

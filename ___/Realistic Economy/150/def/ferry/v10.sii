@@ -1,0 +1,7 @@
+ferry_data: ferry.v10
+{
+	ferry_name: "В/Ч-1020"
+    ferry_name_localized: "@@В/Ч-1020@@"
+	transport_type: "train"
+}
+

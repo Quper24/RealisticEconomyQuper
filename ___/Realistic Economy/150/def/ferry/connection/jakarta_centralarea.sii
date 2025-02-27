@@ -1,0 +1,23 @@
+SiiNunit
+{
+ferry_connection : conn.jakarta.centralarea {
+	price: 300
+	time: 720
+	distance: 890
+
+	# NODE POSITIONS #######     x*256  , 0,   z*256
+	connection_positions[0]:  (153600000, 0,  -19712000)
+	connection_positions[1]:  (150528000, 0,  -19968000)
+	connection_positions[2]:  (144640000, 0,  -17536000)
+	connection_positions[3]:  (143224320, 0,  -15923200)
+	connection_positions[4]:  (142986240, 0,  -15848960)
+
+	# NODE ROTATIONS #######   -sin(jaw), 0, -cos(jaw)
+	connection_directions[0]:  (0, 0,  0)
+	connection_directions[1]:  (-1, 0, 0.1)
+	connection_directions[2]:  (-1, 0, 1)
+	connection_directions[3]:  (0.10756, 0,  -0.10756)
+	connection_directions[4]:  (-0.64279, 0,  -0.64279)
+
+}
+}

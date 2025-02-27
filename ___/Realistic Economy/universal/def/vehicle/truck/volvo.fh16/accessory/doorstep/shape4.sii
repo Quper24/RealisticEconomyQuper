@@ -1,0 +1,12 @@
+SiiNunit
+{
+accessory_addon_data : volvo4.volvo.fh16.doorstep
+{
+	name: "Ranger"
+	price: 1980
+	unlock: 0
+	icon: "doorstep_04_volvo_fh16"
+
+	exterior_model: "/vehicle/truck/volvo_fh16_2009/accessory/doorstep/doorstep_04.pmd"
+}
+}

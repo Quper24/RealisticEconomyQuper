@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.aden.male{
+	price: 133
+	time: 3472
+	distance: 2589
+}
+}
+

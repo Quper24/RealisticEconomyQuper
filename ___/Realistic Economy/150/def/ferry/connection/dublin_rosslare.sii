@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.dublin.rosslare {
+	price: 69
+	time: 350
+	distance: 220
+}
+}
+

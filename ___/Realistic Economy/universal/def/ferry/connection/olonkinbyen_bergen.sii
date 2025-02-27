@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.olonkinbyen.bergen{
+	price: 81
+	time: 1979
+	distance: 1050
+}
+}
+

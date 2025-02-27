@@ -1,0 +1,10 @@
+SiiNunit
+{
+ferry_connection : conn.male.mahajanga{
+	price: 7
+	time: 1750
+	distance: 3000
+
+}
+}
+

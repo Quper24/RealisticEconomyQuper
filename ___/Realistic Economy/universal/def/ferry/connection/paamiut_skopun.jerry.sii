@@ -1,0 +1,10 @@
+SiiNunit
+{
+ferry_connection : conn.paamiut.skopun {
+	price: 3
+	time: 13
+	distance: 4
+
+}
+}
+

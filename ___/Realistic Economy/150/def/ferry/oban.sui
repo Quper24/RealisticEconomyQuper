@@ -1,0 +1,6 @@
+﻿ferry_data: ferry.oban
+{
+	ferry_name: "@@oban@@"
+}
+
+

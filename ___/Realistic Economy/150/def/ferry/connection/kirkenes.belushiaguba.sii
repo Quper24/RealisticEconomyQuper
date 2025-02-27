@@ -1,0 +1,9 @@
+SiiNunit
+{
+    ferry_connection : conn.kirkenes.belushiaguba {
+        price: 85
+        time: 1500
+        distance: 2000
+    }
+}
+

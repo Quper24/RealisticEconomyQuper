@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.heraklion.portsaid {
+	price: 86
+	time: 1481
+	distance: 1302
+}
+}
+

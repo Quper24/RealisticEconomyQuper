@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.dudinka.oshtrowrus {
+	price: 13
+	time: 1602
+	distance: 906
+}
+}

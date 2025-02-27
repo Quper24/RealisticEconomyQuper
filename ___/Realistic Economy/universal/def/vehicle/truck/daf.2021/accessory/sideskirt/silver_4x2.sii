@@ -1,0 +1,17 @@
+SiiNunit
+{
+accessory_addon_data : slv_4x2.daf.2021.sideskirt
+{
+	name: "@@exclusive_paint@@"
+	price: 19600
+	unlock: 0
+	icon: "truck/daf_2021/accessory/sideskirt/silver_4x2"
+	part_type: factory
+
+	exterior_model: "/vehicle/truck/daf_2021/accessory/sideskirt/silver_4x2.pmd"
+
+	suitable_for[]: "4x2.daf.2021.chassis"
+
+	defaults[]: "/def/vehicle/truck/daf.2021/accessory/b_detector/none_4x2.sii"
+}
+}

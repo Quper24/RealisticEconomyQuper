@@ -1,0 +1,7 @@
+ferry_data: ferry.giglio
+{
+	ferry_name: "Giglio"
+	ferry_name_localized: "@@Giglio@@"
+}
+
+

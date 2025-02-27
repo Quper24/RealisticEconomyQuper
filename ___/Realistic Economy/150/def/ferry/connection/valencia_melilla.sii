@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.valencia.melilla{
+	price: 371
+	time: 785
+	distance: 410
+}
+}
+

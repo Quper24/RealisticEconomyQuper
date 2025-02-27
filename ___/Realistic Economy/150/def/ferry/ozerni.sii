@@ -1,0 +1,6 @@
+ferry_data: ferry.ozerni
+{
+	ferry_name: "Озёрный"
+    ferry_name_localized: "@@Озёрный@@"
+}
+

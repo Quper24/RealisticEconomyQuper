@@ -1,0 +1,10 @@
+SiiNunit
+{
+ferry_connection : conn.skopun.saintpierrr {
+	price: 3
+	time: 13
+	distance: 4
+
+}
+}
+

@@ -1,0 +1,10 @@
+SiiNunit
+{
+ferry_connection : conn.aktau.alat{
+	price: 48
+	time: 790
+	distance: 505
+
+}
+}
+

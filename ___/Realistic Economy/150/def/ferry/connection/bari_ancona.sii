@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.bari.ancona{
+	price: 48
+	time: 900
+	distance: 400
+}
+}
+

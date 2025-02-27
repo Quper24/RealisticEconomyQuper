@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.thessaloniki.iraklio {
+	price: 48
+	time: 1084
+	distance: 621
+}
+}
+

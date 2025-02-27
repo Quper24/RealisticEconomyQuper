@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.phuquy.bangao {
+	price: 125
+	time: 1500
+	distance: 1178
+}
+}

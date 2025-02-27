@@ -1,0 +1,6 @@
+ferry_data: ferry.ustcil
+{
+	ferry_name: "Усть-Цильма"
+    ferry_name_localized: "@@Усть-Цильма@@"
+}
+

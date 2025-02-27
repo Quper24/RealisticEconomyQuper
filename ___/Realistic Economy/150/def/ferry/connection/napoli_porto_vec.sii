@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.napoli.porto_vec {
+	price: 37
+	time: 585
+	distance: 237
+}
+}

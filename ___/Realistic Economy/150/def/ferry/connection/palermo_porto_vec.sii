@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.palermo.porto_vec{
+	price: 85
+	time: 900
+	distance: 450
+}
+}
+

@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.dublin.fishguard {
+	price: 69
+	time: 595
+	distance: 300
+}
+}
+

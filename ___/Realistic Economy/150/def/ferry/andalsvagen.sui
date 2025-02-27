@@ -1,0 +1,4 @@
+ferry_data: ferry.andalsvagen
+{
+	ferry_name: "@@andalsvagen@@"
+}

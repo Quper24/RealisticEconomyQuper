@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : shape12.iveco.stralis.exhaust_l
+{
+	name: "Volcano II"
+	price: 5580
+	unlock: 0
+	icon: "exhaust_12"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/upgrade/exhaust/iveco_stralis/exhaust_12_l.pmd"
+
+	suitable_for[]: "shape1.iveco.stralis.sideskirt"
+	suitable_for[]: "shape3.iveco.stralis.sideskirt"
+}
+}

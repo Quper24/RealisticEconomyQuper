@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.rosslare.holyhead {
+	price: 69
+	time: 575
+	distance: 400
+}
+}
+

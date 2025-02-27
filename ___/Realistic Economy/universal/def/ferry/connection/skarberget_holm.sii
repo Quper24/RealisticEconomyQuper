@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.skarberget.holm {
+	price: 77
+	time: 1063
+	distance: 572
+}
+}

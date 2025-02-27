@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.kristiansand.goteborg {
+	price: 69
+	time: 570
+	distance: 400
+}
+}
+

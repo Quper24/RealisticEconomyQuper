@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.kapellskar.vaasa{
+	price: 85
+	time: 719
+	distance: 400
+}
+}
+

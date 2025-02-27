@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.calarasi.ostrov {
+	price: 6
+	time: 50
+	distance: 7
+
+}
+}
