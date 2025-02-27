@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.ibiza.barcelona {
+	price: 23
+	time: 550
+	distance: 297
+}
+}

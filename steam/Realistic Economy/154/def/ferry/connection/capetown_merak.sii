@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.capetown.merak {
+	price: 222
+	time: 22020
+	distance: 10954
+}
+}

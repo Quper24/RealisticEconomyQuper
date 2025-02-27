@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.phuquoc.ranong {
+	price: 65
+	time: 725
+	distance: 444
+}
+}

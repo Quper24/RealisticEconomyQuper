@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.bergen.molde{
+	price: 70
+	time: 778
+	distance: 520
+}
+}

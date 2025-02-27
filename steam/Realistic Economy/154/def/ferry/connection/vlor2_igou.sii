@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.vlor2.igou {
+	price: 8
+	time: 180
+	distance: 120
+}
+}
+

@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.bodo.brensholmen {
+	price: 77
+	time: 963
+	distance: 572
+}
+}

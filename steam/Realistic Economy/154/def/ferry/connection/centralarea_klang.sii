@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.centralarea.klang {
+	price: 65
+	time: 780
+	distance: 490
+}
+}

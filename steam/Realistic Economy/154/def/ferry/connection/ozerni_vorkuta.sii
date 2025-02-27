@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.ozerni.vorkuta {
+	price: 112
+	time: 1720
+	distance: 750
+}
+}
+

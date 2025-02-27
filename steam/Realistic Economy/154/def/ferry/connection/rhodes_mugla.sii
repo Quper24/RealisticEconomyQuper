@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.rhodes.mugla{
+	price: 8
+	time: 120
+	distance: 100
+}
+}

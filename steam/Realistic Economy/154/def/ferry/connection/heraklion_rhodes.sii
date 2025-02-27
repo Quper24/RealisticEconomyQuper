@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.heraklion.rhodes {
+	price: 29
+	time: 517
+	distance: 280
+}
+}

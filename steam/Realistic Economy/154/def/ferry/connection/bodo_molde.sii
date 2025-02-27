@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.bodo.molde{
+	price: 86
+	time: 1448
+	distance: 820
+}
+}

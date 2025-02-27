@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.seydisfjord.brensholmen {
+	price: 129
+	time: 2517
+	distance: 1280
+}
+}

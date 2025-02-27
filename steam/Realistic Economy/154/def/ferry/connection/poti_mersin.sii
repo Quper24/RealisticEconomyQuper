@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.poti.mersin{
+	price: 96
+	time: 1472
+	distance: 889
+}
+}
+

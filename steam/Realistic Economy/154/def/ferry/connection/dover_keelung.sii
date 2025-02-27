@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.dover.keelung {
+	price: 306
+	time: 10220	
+	distance: 5549
+}
+}

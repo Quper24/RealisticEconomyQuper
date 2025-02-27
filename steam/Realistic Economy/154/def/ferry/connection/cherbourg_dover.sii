@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.cherbourg.dover {
+	price: 70
+	time: 765
+	distance: 405
+}
+}
+

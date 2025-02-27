@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.menorca.portotorres{
+	price: 390
+	time: 725
+	distance: 350
+}
+}
+

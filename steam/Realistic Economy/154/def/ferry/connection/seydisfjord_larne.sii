@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.seydisfjord.larne{
+	price: 115
+	time: 2728
+	distance: 1980
+}
+}
+

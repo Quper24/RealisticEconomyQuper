@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.arxangelsk.narj_mar {
+	price: 192
+	time: 860
+	distance: 1360
+}
+}
+

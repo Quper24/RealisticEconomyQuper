@@ -1,0 +1,10 @@
+SiiNunit
+{
+ferry_connection : conn.iraklio.lemesos {
+	price: 77
+	time: 1114
+	distance: 651
+
+}
+}
+

@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.severodvinsk.kotlas {
+	price: 68
+	time: 780
+	distance: 356
+}
+}
+

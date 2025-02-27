@@ -1,0 +1,8 @@
+SiiNunit
+{
+ferry_connection : conn.hurghada.tripoli{
+	price: 225
+	time: 3000
+	distance: 1880
+}
+}

@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.tunnel_f.arzamas16{
+	price: 243
+	time: 3672
+	distance: 2089
+}
+}
+

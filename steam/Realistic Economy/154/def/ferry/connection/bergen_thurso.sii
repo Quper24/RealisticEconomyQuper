@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.bergen.thurso{
+	price: 73
+	time: 910
+	distance: 420
+}
+}
+

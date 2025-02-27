@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.portsaid.ashdod{
+	price: 55
+	time: 341
+	distance: 270
+}
+}
+

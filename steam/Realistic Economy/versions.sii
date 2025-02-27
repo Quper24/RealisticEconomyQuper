@@ -1,9 +1,6 @@
 SiiNunit
 { 
-  package_version_info : .universal
-  {
-    package_name: "universal"
-  }
+
 	
   package_version_info : .150
   {
@@ -11,5 +8,17 @@ SiiNunit
  	  compatible_versions[]: "1.50.*"
 	  compatible_versions[]: "1.51.*"
 	  compatible_versions[]: "1.52.*"
+  }
+
+    package_version_info : .153
+  {
+    package_name: "153"
+    compatible_versions[]: "1.53.*"
+  }
+
+  package_version_info : .154 
+  {
+    package_name: "154"
+    informational: false
   }
 }

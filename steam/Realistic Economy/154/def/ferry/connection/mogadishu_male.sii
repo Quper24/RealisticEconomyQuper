@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.mogadishu.male {
+	price: 125
+	time: 750
+	distance: 500
+}
+}
+
