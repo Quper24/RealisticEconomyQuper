@@ -35,12 +35,12 @@ economy_data : economy.data.storage
 	maximum_driving_time: 660			# how long the driver can drive (in minutes)
 	sleeping_time: 540				# 8 hours length of sleep (in minutes)
 
-	delivery_window[0]: 600				# easy
-	delivery_window[1]: 360				# medium
-	delivery_window[2]: 150				# hard
+	delivery_window[0]: 1440			# easy
+	delivery_window[1]: 720				# medium
+	delivery_window[2]: 360				# hard
 
 	delivery_window_coef[0]: 1.0			# easy 
-	delivery_window_coef[1]: 1.25			# medium  revenue coef
+	delivery_window_coef[1]: 1.2			# medium  revenue coef
 	delivery_window_coef[2]: 1.5			# hard
 
 	hurry_up_timer: 114				# how long the hurry up music will play (in game minutes)
