@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_rim_data : 3.fhub
+{
+	name: "Synergy (Scania)"
+	price: 720
+	unlock: 0
+	icon: "hub/front_hub_03"
+	part_type: aftermarket
+
+	model: "/vehicle/truck/upgrade/wheel/hub/front_hub_03.pmd"
+	# scania
+}
+}

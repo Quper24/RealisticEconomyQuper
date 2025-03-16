@@ -1,0 +1,19 @@
+SiiNunit
+{
+accessory_addon_data : pnt_low_evo.renault.t.s_deflector
+{
+	name: "@@plastic_paint@@ Evolution"
+	price: 1980
+	unlock: 0
+	icon: "s_deflector/renault_t/paint_lowcab_evo"
+	part_type: factory
+
+	exterior_model: "/vehicle/truck/renault_t/accessory/s_deflector/paint_lowcab2.pmd"
+	coll: "/vehicle/truck/renault_t/accessory/s_deflector/paint_lowcab2.pmc"
+	variant: default
+
+	suitable_for[]: "sleeper.renault.t.cabin"
+
+	overrides[]: "/def/vehicle/truck/renault.t/accessory/s_panel/lowcab_evo.sii"
+}
+}

@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : shape5.man.tgx.f_grill
+{
+	name: "Mirage"
+	price: 14040
+	unlock: 0
+	icon: "f_grill_05"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/upgrade/frontgrill/man_tgx/frontgrill_05.pmd"
+}
+}

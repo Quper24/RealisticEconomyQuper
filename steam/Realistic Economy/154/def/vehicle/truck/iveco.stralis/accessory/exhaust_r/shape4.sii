@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : shape4.iveco.stralis.exhaust_r
+{
+	name: "Flow IV"
+	price: 3090
+	unlock: 0
+	icon: "exhaust_04"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/upgrade/exhaust/iveco_stralis/exhaust_04_r.pmd"
+
+	suitable_for[]: "shape1.iveco.stralis.sideskirt"
+	suitable_for[]: "shape3.iveco.stralis.sideskirt"
+}
+}

@@ -1,0 +1,13 @@
+SiiNunit
+{
+accessory_addon_data : shape2.man.tgx.b_grill
+{
+	name: "Mirage"
+	price: 1380
+	unlock: 0
+	icon: "b_grill_02"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/upgrade/bottomgrill/man_tgx/bottomgrill_02.pmd"
+}
+}

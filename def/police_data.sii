@@ -23,19 +23,19 @@ police_data : police.data
 	fine_overspeed_step_multiplier: 1.5
 	fine_overspeed_multiplier_limit: 10
 
-	fine_amounts[0]: 200		# car crash
-	fine_amounts[1]: 150		# avoid sleeping
-	fine_amounts[2]: 300		# wrong way
-	fine_amounts[3]: 75 	  # speeding (camera)
-	fine_amounts[4]: 75		  # no lights during night
-	fine_amounts[5]: 300		# red lights
-	fine_amounts[6]: 100	  # speeding
-	fine_amounts[7]: 300	  # avoid weighing
-	fine_amounts[8]: 500		# illegal trailer
-	fine_amounts[9]: 500		# avoid inspection
-	fine_amounts[10]: 1000	# illegal border crossing
-	fine_amounts[11]: 100		# hard shoulder violation
-	fine_amounts[12]: 150		# damaged vehicle usage
+	fine_amounts[0]: 150		# car crash
+	fine_amounts[1]: 75		# avoid sleeping
+	fine_amounts[2]: 200		# wrong way
+	fine_amounts[3]: 60 	  # speeding (camera)
+	fine_amounts[4]: 65		  # no lights during night
+	fine_amounts[5]: 200		# red lights
+	fine_amounts[6]: 80 	  # speeding
+	fine_amounts[7]: 200	  # avoid weighing
+	fine_amounts[8]: 400		# illegal trailer
+	fine_amounts[9]: 450		# avoid inspection
+	fine_amounts[10]: 800	  # illegal border crossing
+	fine_amounts[11]: 90		# hard shoulder violation
+	fine_amounts[12]: 125		# damaged vehicle usage
 
 	#
 	# in seconds of real time

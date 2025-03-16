@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_addon_data : simple.scs.gooseneck.rear_body
+{
+	name: "@@standard@@"
+	price: 400
+	unlock: 0
+	icon: "rear_body/scs_gooseneck/simple"
+
+	exterior_model: "/vehicle/trailer_owned/scs_gooseneck/accessory/rear_body/simple.pmd"
+
+	suitable_for[]: "ch_3_8.scs.gooseneck.chassis"
+}
+}

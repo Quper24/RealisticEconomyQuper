@@ -1,0 +1,19 @@
+SiiNunit
+{
+accessory_addon_data : shape6.daf.xf_euro6.exhaust_l
+{
+	name: "Magma II"
+	price: 3390
+	unlock: 0
+	icon: "exhaust_06"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/upgrade/exhaust/daf_xf_euro6/exhaust_06_l.pmd"
+
+	suitable_for[]: "shape2.daf.xf_euro6.sideskirt"
+	suitable_for[]: "4x2_chs.daf.xf_euro6.sideskirt"
+	suitable_for[]: "4x2_chb.daf.xf_euro6.sideskirt"
+	suitable_for[]: "4x2_chr.daf.xf_euro6.sideskirt"
+	suitable_for[]: "4x2_pai.daf.xf_euro6.sideskirt"
+}
+}
