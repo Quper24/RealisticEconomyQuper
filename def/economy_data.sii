@@ -244,30 +244,6 @@ economy_data : economy.data.storage
 	currency_sign2[]: "€"
 	currency_sign3[]: ""
 
-	currency_code[]: "RUB"
-	currency_ratio[]: 93.00
-	currency_sign1[]: ""
-	currency_sign2[]: "₽"
-	currency_sign3[]: ""
-
-	currency_code[]: "UAH"
-	currency_ratio[]: 45.20
-	currency_sign1[]: ""
-	currency_sign2[]: ""
-	currency_sign3[]: " грн"
-
-	currency_code[]: "KZT"
-	currency_ratio[]: 546.12
-	currency_sign1[]: ""
-	currency_sign2[]: ""
-	currency_sign3[]: " тг"
-
-	currency_code[]: "BYN"
-	currency_ratio[]: 3.57
-	currency_sign1[]: ""
-	currency_sign2[]: ""
-	currency_sign3[]: " бел. руб"
-
 	currency_code[]: "CHF"
 	currency_ratio[]: 0.96
 	currency_sign1[]: ""
@@ -316,6 +292,12 @@ economy_data : economy.data.storage
 	currency_sign2[]: ""
 	currency_sign3[]: " kr"
 
+	currency_code[]: "RUB"
+	currency_ratio[]: 93.00
+	currency_sign1[]: ""
+	currency_sign2[]: "₽"
+	currency_sign3[]: ""
+
 	currency_code[]: "BGN"
 	currency_ratio[]: 1.96
 	currency_sign1[]: ""
@@ -357,6 +339,25 @@ economy_data : economy.data.storage
 	currency_sign1[]: ""
 	currency_sign2[]: "дин "
 	currency_sign3[]: ""
+
+	currency_code[]: "UAH"
+	currency_ratio[]: 45.20
+	currency_sign1[]: ""
+	currency_sign2[]: ""
+	currency_sign3[]: " грн"
+
+	currency_code[]: "KZT"
+	currency_ratio[]: 546.12
+	currency_sign1[]: ""
+	currency_sign2[]: ""
+	currency_sign3[]: " тг"
+
+	currency_code[]: "BYN"
+	currency_ratio[]: 3.57
+	currency_sign1[]: ""
+	currency_sign2[]: ""
+	currency_sign3[]: " бел. руб"
+
 
 }
 }

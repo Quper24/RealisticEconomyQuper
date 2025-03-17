@@ -1,0 +1,16 @@
+SiiNunit
+{
+accessory_addon_data : paint.volvo.fh16.s_mirror
+{
+	name: "@@paint@@"
+	price: 75
+	unlock: 0
+	icon: "mirror/volvo_fh16_2009/s_mirror_paint"
+	part_type: aftermarket
+
+	exterior_model: "/vehicle/truck/volvo_fh16_2009/accessory/s_mirror/side_mirror_paint.pmd"
+	interior_model: "/vehicle/truck/volvo_fh16_2009/accessory/s_mirror/side_mirror_paint_interior.pmd"
+	exterior_model_uk: "/vehicle/truck/volvo_fh16_2009/accessory/s_mirror/side_mirror_paint_uk.pmd"
+	interior_model_uk: "/vehicle/truck/volvo_fh16_2009/accessory/s_mirror/side_mirror_paint_interior_uk.pmd"
+}
+}

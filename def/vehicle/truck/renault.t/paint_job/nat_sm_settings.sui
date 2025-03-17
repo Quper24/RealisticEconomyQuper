@@ -1,0 +1,7 @@
+	name: "Smoke Puffs"
+	price: 1820
+	unlock: 0
+	airbrush: true
+	base_color: (0.000305, 0.004391, 0.007501)
+	icon: "paintjob_smoke.dlc_nature"
+	part_type: aftermarket

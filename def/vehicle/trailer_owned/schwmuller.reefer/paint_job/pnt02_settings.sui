@@ -1,5 +1,5 @@
 	name: "Duellist"
-	price: 15000
+	price: 1500
 	unlock: 0
 	base_color: (0.672416, 0.610496, 0.462077)
 	base_color_locked: false

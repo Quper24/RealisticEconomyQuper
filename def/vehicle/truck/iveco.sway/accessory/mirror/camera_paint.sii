@@ -13,8 +13,6 @@ accessory_addon_int_ui_data : cam_pnt.iveco.sway.mirror
 	exterior_model_uk: "/vehicle/truck/iveco_sway/accessory/mirror/cam_paint_uk.pmd"
 	interior_model_uk: "/vehicle/truck/iveco_sway/accessory/mirror/cam_paint_int_uk.pmd"
 
-	coll: "/vehicle/truck/iveco_sway/accessory/mirror/cam_paint.pmc"
-
 	electric_type: vehicle_interior
 
 	ui_path: "/ui/dashboard/iveco_sway_cam_mirrors.sii"

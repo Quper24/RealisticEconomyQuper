@@ -24,5 +24,7 @@ accessory_trailer_body_data : tank_ch2.scs.fueltank.body
 
 	model: "/vehicle/trailer_owned/scs_fueltank/body/ch_2.pmd"
 	collision: "/vehicle/trailer_owned/scs_fueltank/body/ch_2.pmc"
+
+	cargo_loading_methods[]: auxiliary_only
 }
 }

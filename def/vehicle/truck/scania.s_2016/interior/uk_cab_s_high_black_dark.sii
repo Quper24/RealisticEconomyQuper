@@ -1,0 +1,47 @@
+SiiNunit
+{
+accessory_interior_data: a_blk_drk_uk.scania.s_2016.interior
+{
+	name: "@@standard@@ Dark UK"
+	price: 31440
+	unlock: 0
+	icon: "interior_scania_2016_black_dark_uk"
+	part_type: factory
+
+	model: "/vehicle/truck/scania_2016/interior/uk/model_uk.pmd"
+	collision: "/vehicle/truck/scania_2016/interior/uk/model_uk.pmc"
+	animated_model: "/vehicle/truck/scania_2016/interior/uk/anim_uk.pmd"
+
+	active_mirrors_part: a_mirrors
+	passive_mirrors_part: p_mirrors
+	look: std_dark
+	variant: cab_s_a_std
+
+@include "animations_uk.sui"
+@include "sound.sui"
+@include "sound_effects.sui"
+
+	dashboard_path: "/ui/dashboard/scania_2016_std.sii"
+
+	left_hand_traffic: true
+
+	glass_panes[]: .scania.s_2016.pane.f_glasspane
+	glass_panes[]: .scania.s_2016.pane.l_glasspane
+	glass_panes[]: .scania.s_2016.pane.r_glasspane
+	glass_panes[]: .scania.s_2016.pane.t_glasspane
+
+	ext_model: "/vehicle/truck/upgrade/ext_interior/scania_2016/stock.pmd"
+	ext_variant: s_h_std_uk
+	ext_look: std_dark
+
+	suitable_for[]: "highline.scania.s_2016.cabin"
+	suitable_for[]: "highline_8x4.scania.s_2016.cabin"
+
+@include "dashboard_color.sui"
+@include "int_shadow_cab_hi_uk.sui"
+
+@include "mirrors_uk.sui"
+}
+@include "glass.sui"
+@include "sound_effects_units.sui"
+}

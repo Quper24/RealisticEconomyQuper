@@ -3,7 +3,7 @@ SiiNunit
 accessory_addon_data : paint_slh.daf.xd.sunshield
 {
 	name: "@@paint@@"
-	price: 2760
+	price: 276
 	unlock: 0
 	icon: "truck/daf_xd/accessory/sunshield/paint_slh"
 	part_type: aftermarket

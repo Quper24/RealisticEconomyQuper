@@ -15,5 +15,8 @@ accessory_addon_data : dlc_b_g04.volvo.fh_2021.b_grill
 	suitable_for[]: "paint1.volvo.fh_2021.f_bumper"
 
 	conflict_with[]: "shape6.volvo.fh_2021.f_grill"
+	conflict_with[]: "shape6.volvo.fh_2021.f_grill"
+	conflict_with[]: "sharp.volvo.fh_2021.f_grill"
+	conflict_with[]: "net.volvo.fh_2021.f_grill"
 }
 }

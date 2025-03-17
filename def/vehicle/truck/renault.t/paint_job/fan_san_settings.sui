@@ -1,0 +1,7 @@
+	name: "Charge!"
+	price: 5000
+	unlock: 0
+	airbrush: true
+	base_color: (0.630731, 0.366253, 0.080220)
+	icon: "paintjob_fantasy_sandwarrior.dlc_fantasy"
+	part_type: aftermarket
