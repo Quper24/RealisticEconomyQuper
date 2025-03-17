@@ -5,7 +5,7 @@ cargo_data: cargo.alu_ingot
 	group[]: construction
 	volume: 2.6
 	mass: 800
-	unit_reward_per_km: 0.69
+	unit_reward_per_km: 0.623
 	unit_load_time: 75
 	body_types[]: flatbed
 	body_types[]: flatbed_cont

@@ -5,7 +5,7 @@ cargo_data: cargo.yacht
 	group[]: machinery
 	volume: 50
 	mass: 6500
-	unit_reward_per_km: 27.78
+	unit_reward_per_km: 23.613
 	unit_load_time: 2400
 	body_types[]: lowbed
 }

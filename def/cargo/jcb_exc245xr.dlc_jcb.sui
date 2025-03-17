@@ -7,7 +7,7 @@ cargo_data: cargo.jcb_exc245xr
 	group[]: machinery
 	volume: 70
 	mass: 28000
-	unit_reward_per_km: 30.08
+	unit_reward_per_km: 27.07
 	unit_load_time: 2100
 	body_types[]: lowboy
 	body_types[]: lowbed

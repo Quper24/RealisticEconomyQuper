@@ -6,7 +6,7 @@ cargo_data: cargo.jcb_dmphtd5e
 	group[]: machinery
 	volume: 11.8
 	mass: 500
-	unit_reward_per_km: 0.915
+	unit_reward_per_km: 1
 	unit_load_time: 330
 	body_types[]: flatbed
 	body_types[]: flatbed_cont

@@ -6,7 +6,7 @@ cargo_data: cargo.lux_yacht
 	group[]: machinery
 	volume: 70
 	mass: 9899.7
-	unit_reward_per_km: 26.28
+	unit_reward_per_km: 23.652
 	unit_load_time: 2100
 	body_types[]: lowboy
 	body_types[]: lowbed

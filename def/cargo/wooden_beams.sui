@@ -5,7 +5,7 @@ cargo_data: cargo.wooden_beams
 	group[]: containers
 	volume: 43
 	mass: 6500
-	unit_reward_per_km: 5.8
+	unit_reward_per_km: 7.5
 	unit_load_time: 1200
 	body_types[]: curtainside
 	body_types[]: dryvan

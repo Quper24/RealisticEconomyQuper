@@ -5,7 +5,7 @@ cargo_data: cargo.olive_tree
 	group[]: construction
 	volume: 45.9
 	mass: 2500
-	unit_reward_per_km: 4
+	unit_reward_per_km: 20
 	unit_load_time: 1400
 	body_types[]: flatbed_brck
 }

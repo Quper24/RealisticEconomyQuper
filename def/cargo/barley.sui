@@ -5,7 +5,7 @@ cargo_data: cargo.barley
 	group[]: bulk
 	volume: 1
 	mass: 600
-	unit_reward_per_km: 0.4
+	unit_reward_per_km: 0.52
 	unit_load_time: 25
 	body_types[]: dumper
 	body_types[]: silo
