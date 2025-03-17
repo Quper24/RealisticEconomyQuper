@@ -1,8 +1,0 @@
-	name: "White"
-	price: 2600
-	unlock: 0
-	airbrush: true
-	base_color: (0.082288, 0.082288, 0.082288)
-	icon: "paintjob_trailer/white"
-	part_type: "aftermarket"
-	stock: true
