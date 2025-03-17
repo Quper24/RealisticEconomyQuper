@@ -6,7 +6,7 @@ cargo_data: cargo.train_part2
 	group[]: machinery
 	volume: 24.4
 	mass: 6300
-	unit_reward_per_km: 7.8
+	unit_reward_per_km: 6.24
 	unit_load_time: 750
 	body_types[]: flatbed
 	body_types[]: flatbed_cont

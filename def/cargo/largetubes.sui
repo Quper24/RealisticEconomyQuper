@@ -5,7 +5,7 @@ cargo_data: cargo.largetubes
 	group[]: construction
 	volume: 12.5
 	mass: 3600
-	unit_reward_per_km: 3.13
+	unit_reward_per_km: 3.756
 	unit_load_time: 400
 	body_types[]: flatbed
 	body_types[]: flatbed_cont

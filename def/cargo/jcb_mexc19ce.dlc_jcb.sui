@@ -6,7 +6,7 @@ cargo_data: cargo.jcb_mexc19ce
 	group[]: machinery
 	volume: 22.86
 	mass: 1900
-	unit_reward_per_km: 2.34
+	unit_reward_per_km: 3.51
 	unit_load_time: 660
 	body_types[]: flatbed
 	body_types[]: flatbed_cont
