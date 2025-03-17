@@ -9,6 +9,7 @@ accessory_engine_data : d13k500.volvo.fh_2024.engine
 	info[]: "2@@dg@@500 @@nm@@"
 	info[]: "980-1@@dg@@270 @@rpm@@"
 	icon: "engine_volvo_d13k"
+	part_type: factory
 
 	torque: 2500
 	volume: 12.8

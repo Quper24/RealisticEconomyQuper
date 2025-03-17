@@ -22,8 +22,8 @@ accessory_interior_data: gtxxl_fh16_u.volvo.fh_2024.interior
 @include "sound.sui"
 @include "sound_effects.sui"
 
-	dashboard_path: "/ui/dashboard/volvo_fh_2021.sii"
-	gps_path: "/ui/dashboard/volvo_fh_2021_gps"
+	dashboard_path: "/ui/dashboard/volvo_fh_2024.sii"
+	gps_path: "/ui/dashboard/volvo_fh_2024_gps"
 @include "computers.sui"
 
 	glass_panes[]: .volvo.fh_2024.pane.front

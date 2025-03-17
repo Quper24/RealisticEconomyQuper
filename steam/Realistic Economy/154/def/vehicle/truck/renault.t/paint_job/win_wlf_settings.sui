@@ -1,0 +1,7 @@
+	name: "Night Wolf"
+	price: 1780
+	unlock: 0
+	airbrush: true
+	base_color: (0.004391, 0.025187, 0.034340)
+	icon: "paintjob_polarwolf"
+	part_type: aftermarket

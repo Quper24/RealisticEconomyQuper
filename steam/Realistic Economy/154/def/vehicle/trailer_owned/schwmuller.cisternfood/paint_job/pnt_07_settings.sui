@@ -1,5 +1,5 @@
 	name: "Canopy"
-	price: 15000
+	price: 1500
 	unlock: 0
 	base_color: (0.351521, 0.351521, 0.351521)
 	icon: "paintjob_style7"

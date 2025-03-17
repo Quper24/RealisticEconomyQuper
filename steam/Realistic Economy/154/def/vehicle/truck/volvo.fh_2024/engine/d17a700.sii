@@ -9,6 +9,7 @@ accessory_engine_data : d17a700.volvo.fh_2024.engine
 	info[]: "3@@dg@@400 @@nm@@"
 	info[]: "950-1@@dg@@450 @@rpm@@"
 	icon: "engine_volvo_d17a"
+	part_type: factory
 
 	torque: 3400
 	volume: 17.3

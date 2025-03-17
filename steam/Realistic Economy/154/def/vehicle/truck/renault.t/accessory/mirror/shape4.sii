@@ -3,7 +3,7 @@ SiiNunit
 accessory_addon_data : shape4.renault.t.mirror
 {
 	name: "@@paint@@ Luxury"
-	price: 4860
+	price: 486
 	unlock: 0
 	icon: "truck/renault_t/accessory/mirror/mirror_04"
 	part_type: aftermarket

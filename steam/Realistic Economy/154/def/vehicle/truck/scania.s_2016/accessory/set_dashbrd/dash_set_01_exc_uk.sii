@@ -1,0 +1,19 @@
+SiiNunit
+{
+accessory_addon_data : dash01e_uk.scania.s_2016.set_dashbrd
+{
+	name: "@@center_table_exclusive@@"
+	price: 70
+	unlock: 0
+	interior_model: "/vehicle/truck/upgrade/dash_set/scania_2016/dashtable_01_uk.pmd"
+	exterior_model: "/vehicle/truck/upgrade/dash_set/scania_2016/dashtable_01_uk.pmd"
+	coll: "/vehicle/truck/upgrade/dash_set/scania_2016/dashtable_01_uk.pmc"
+	icon: "dash_set/scania_2016/dash_set01_exc"
+	part_type: aftermarket
+
+	look: exclusive
+
+	suitable_for[]: "a_wood_uk.scania.s_2016.interior"
+	suitable_for[]: "b_wood_uk.scania.s_2016.interior"
+}
+}

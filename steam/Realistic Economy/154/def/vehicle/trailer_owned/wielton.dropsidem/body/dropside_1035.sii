@@ -1,0 +1,62 @@
+SiiNunit
+{
+accessory_trailer_body_data : ds_1035.wielton.dropsidem.body
+{
+	name: "@@series_wielton_dropside_master@@"
+	price: 7500
+	unlock: 0
+	icon: "trailer_owned/wielton_dropsidem/body/dropside_635"
+
+	size: (2.48, 2.75, 13.62)		# width, height, length (internal size of the body)
+	total_size: (2.55, 4.0, 13.7)	# width, height, length (size of the body + chassis)
+
+	volume: 93
+	body_type: flatbed_brck
+
+	# Mass of the container platform in KG.
+	#
+	# Base mass for container trailer is in chassis, bodies have only deltas to default body mass.
+
+	mass: 0
+
+	# visual data
+
+	model: "/vehicle/trailer_owned/wielton_dropsidem/body/dropside_1035.pmd"
+	collision: "/vehicle/trailer_owned/wielton_dropsidem/body/dropside_1035.pmc"
+	
+# new cargo system
+
+	cargo_loading_methods[]: area
+	#cargo_loading_methods[]: custom
+
+	cargo_areas[]: (2.40, 13.55)
+
+	cargo_regular_width: 2.4
+
+	#cargo_custom_loads[]: .glass_rack_c
+
+	cargo_lashing_mounts[]: .lashm1
+	cargo_lashing_mounts[]: .lashm2
+@include "/def/vehicle/lashing_gear.sui"
+}
+
+cargo_lashing_mount : .lashm1
+{
+	
+	
+	spacing: 0.1
+	#open_model: 	"/vehicle/trailer_owned/upgrade/body/krone_profilinerhd/ring_open_1.pmd"
+	#closed_model: 	"/vehicle/trailer_owned/upgrade/body/krone_profilinerhd/ring_close_1.pmd"
+
+}
+cargo_lashing_mount : .lashm2
+{
+	
+	
+	spacing: 0.1
+	#open_model: 	"/vehicle/trailer_owned/upgrade/body/krone_profilinerhd/ring_open_2.pmd"
+	#closed_model: 	"/vehicle/trailer_owned/upgrade/body/krone_profilinerhd/ring_close_2.pmd"
+
+}
+@include "/def/vehicle/lashing_gear_data.sui"
+}

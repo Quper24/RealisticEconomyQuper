@@ -1,5 +1,5 @@
 	name: "Canopy"
-	price: 15000
+	price: 1500
 	unlock: 0
 	base_color: (0.012983, 0.027321, 0.013705)
 	base_color_locked: false

@@ -8,6 +8,7 @@ accessory_chassis_data : 6x2_t.volvo.fh_2024.chassis
 	info[]: "6x2 @@taglift@@"
 	info[]: "600 + 200 @@unit_l@@"
 	icon: "chassis_volvo_fh16_2012_6x4"
+	part_type: factory
 
 	detail_model: "/vehicle/truck/volvo_fh_2021/chassis/chs_6x2.pmd"
 	collision: "/vehicle/truck/volvo_fh_2021/chassis/chs_6x2.pmc"

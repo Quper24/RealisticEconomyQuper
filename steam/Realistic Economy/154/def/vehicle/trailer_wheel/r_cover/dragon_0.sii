@@ -1,0 +1,14 @@
+SiiNunit
+{
+accessory_rim_data : dragon0.rcover
+{
+	name: "Dragon"
+	price: 1410
+	unlock: 0
+	model: "/vehicle/trailer_owned/upgrade/wheel/cover/cover_dragon_0.pmd"
+	icon: "cover/rear_hub_cover_dragon"
+	part_type: aftermarket
+
+	suitable_for[]: "*.0.rdisc"
+}
+}

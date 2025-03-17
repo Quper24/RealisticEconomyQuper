@@ -1,0 +1,7 @@
+	name: "Water Surge"
+	price: 1840
+	unlock: 0
+	airbrush: true
+	base_color: (0.737910, 1.000000, 1.000000)
+	icon: "paintjob_water.dlc_nature"
+	part_type: aftermarket
