@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : paint00_met2.mercedes.actros2014.paint_job
 {
   name: "Craftsman Classic"
-	price: 11800
+	price: 6780
 	unlock: 0
   icon: "met_color0.dlc_metallics2"
 	part_type: aftermarket

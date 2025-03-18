@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : style11.daf.xf.paint_job
 {
 	name: "Sunrise"
-	price: 22800
+	price: 5260
 	unlock: 0
 	icon: "paintjob_style11"
 	part_type: aftermarket

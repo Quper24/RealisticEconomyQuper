@@ -1,5 +1,5 @@
 	name: "Flash"
-	price: 14000
+	price: 5120
 	unlock: 0
 	base_color: (0.022178, 0.022178, 0.022178)
 	base_color_locked: false

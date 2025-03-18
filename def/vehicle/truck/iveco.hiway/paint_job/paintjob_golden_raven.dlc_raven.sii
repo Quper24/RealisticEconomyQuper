@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : raven_g.iveco.hiway.paint_job
 {
 	name: "Golden Raven"
-	price: 24200
+	price: 6970
 	unlock: 0
 	icon: "paintjob_golden_raven.dlc_raven"
 	part_type: aftermarket

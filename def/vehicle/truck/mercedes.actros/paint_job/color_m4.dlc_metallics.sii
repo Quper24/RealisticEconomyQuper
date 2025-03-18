@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : color_m4.mercedes.actros.paint_job
 {
   name: "Northern Blues"
-	price: 11500
+	price: 5670
 	unlock: 0
   icon: "met_color4.dlc_metallics"
 	part_type: aftermarket

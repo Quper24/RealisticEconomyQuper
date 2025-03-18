@@ -1,6 +1,6 @@
 	steam_inventory_id: 79
 	name: "Winter Blast"
-	price: 1500
+	price: 2020
 	unlock: 0
 	base_color: (0.000000, 0.004391, 0.033110)
 	base_color_locked: false

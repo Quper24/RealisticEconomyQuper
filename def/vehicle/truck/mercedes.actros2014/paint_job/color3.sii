@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data: color3.mercedes.actros2014.paint_job
 {
 	name: "Magic Bordo"
-	price: 4290
+	price: 2060
 	unlock: 0
 	stock: true
 	flipflake: true

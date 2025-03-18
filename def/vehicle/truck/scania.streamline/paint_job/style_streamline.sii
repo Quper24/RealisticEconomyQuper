@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : stream_a.scania.streamline.paint_job
 {
 	name: "Streamline"
-	price: 5400
+	price: 4780
 	unlock: 0
 	icon: "paintjob_scania_streamline"
 	part_type: aftermarket

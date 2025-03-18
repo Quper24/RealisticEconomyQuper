@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : color_m5.mercedes.actros2014.paint_job
 {
     name: "Aqua Serenity"
-    price: 11500
+    price: 5740
     unlock: 0
     icon: "met_color5.dlc_metallics"
 	part_type: aftermarket

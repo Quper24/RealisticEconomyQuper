@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : f_vale_pinh.daf.xf.paint_job
 {
         name: "Sweetheart"
-        price: 20000
+        price: 6470
         unlock: 0
         icon: "paintjob_velentine_pink6"
 		part_type: aftermarket

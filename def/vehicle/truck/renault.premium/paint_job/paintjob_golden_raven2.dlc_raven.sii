@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : raven_g2.renault.premium.paint_job
 {
 	name: "Corvus Ex Machina"
-	price: 24200
+	price: 6250
 	unlock: 0
 	icon: "paintjob_golden_raven2"
 	part_type: aftermarket

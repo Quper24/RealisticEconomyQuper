@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : f_8x4bea.mercedes.actros2014.paint_job
 {
 	name: "White Bear"
-	price: 15000
+	price: 6270
 	unlock: 0
 	icon: "paintjob_8x4_bear"
 	part_type: aftermarket

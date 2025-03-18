@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data: 8x4_grifl.scania.streamline.paint_job
 {
 	name: "Tribal Griffin Light"
-	price: 15000
+	price: 6550
 	unlock: 0
 	icon: "paintjob_8x4_scania_griflight"
 	part_type: aftermarket

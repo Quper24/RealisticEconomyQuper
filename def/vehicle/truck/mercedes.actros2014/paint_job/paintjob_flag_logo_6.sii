@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : f_logo_6b.mercedes.actros2014.paint_job
 {
 	name: "Spurs of Fire"
-	price: 11000
+	price: 6090
 	unlock: 0
 	icon: "paintjob_flag_logo_6b"
 	part_type: aftermarket

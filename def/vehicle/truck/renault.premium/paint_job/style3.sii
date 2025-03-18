@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : style3_a.renault.premium.paint_job
 {
 	name: "Caramel"
-	price: 41200
+	price: 6170
 	unlock: 0
 	icon: "paintjob_style3"
 	part_type: aftermarket

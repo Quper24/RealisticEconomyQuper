@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : ptera_ab.scania.streamline.paint_job
 {
 	name: "Winged Lizard"
-	price: 50000
+	price: 5400
 	unlock: 0
 	icon: "pj_ph_pter"
 	part_type: aftermarket

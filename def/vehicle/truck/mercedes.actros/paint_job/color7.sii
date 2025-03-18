@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data: color7.mercedes.actros.paint_job
 {
 	name: "Light Ivory Gold"
-	price: 5460
+	price: 3410
 	unlock: 0
 	part_type: factory
 	

@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : paint09_met2.daf.xf_euro6.paint_job
 {
   name: "Bokehlicious"
-	price: 11800
+	price: 5130
 	unlock: 0
   icon: "met_color9.dlc_metallics2"
 	part_type: aftermarket

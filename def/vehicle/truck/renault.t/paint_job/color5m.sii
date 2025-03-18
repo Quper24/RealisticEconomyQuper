@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data: color5m.renault.t.paint_job
 {
 	name: "Bronze Autumn"
-	price: 6860
+	price: 3560
     unlock: 0
     flipflake: true
     stock: true

@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : vl_odin.iveco.hiway.paint_job
 {
 	name: "Odin's Wisdom"
-	price: 50000
+	price: 6540
 	unlock: 0
 	icon: "paintjob_vikings_odin.dlc_vikings"
 	part_type: aftermarket

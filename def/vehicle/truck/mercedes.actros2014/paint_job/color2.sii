@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data: color2.mercedes.actros2014.paint_job
 {
 	name: "Black Horse"
-	price: 3510
+	price: 2980
 	unlock: 0
 	stock: true
 	flipflake: true

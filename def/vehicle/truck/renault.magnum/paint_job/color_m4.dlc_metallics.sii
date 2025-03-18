@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : color_m4.renault.magnum.paint_job
 {
   name: "Northern Blues"
-	price: 11500
+	price: 5630
 	unlock: 0
   icon: "met_color4.dlc_metallics"
 	part_type: aftermarket

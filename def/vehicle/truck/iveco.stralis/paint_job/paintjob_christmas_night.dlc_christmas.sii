@@ -1,0 +1,17 @@
+SiiNunit
+{
+accessory_paint_job_data : night.iveco.stralis.paint_job
+{
+  name: "Night of Wonders"
+  price: 5520
+  unlock: 0
+  icon: "paintjob_christmas_night.dlc_christmas"
+	part_type: aftermarket
+  
+  airbrush : true
+  base_color : (0.212, 0.278, 0.643)
+  
+  paint_job_mask: "/vehicle/truck/upgrade/paintjob/paintjob_christmas_night_iveco_stralis.dlc_christmas.tobj"
+  alternate_uvset: true
+}
+}

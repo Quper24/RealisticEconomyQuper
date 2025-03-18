@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : style6.mercedes.actros.paint_job
 {
 	name: "Vision"
-	price: 34400
+	price: 6500
 	unlock: 0
 	icon: "paintjob_style6"
 	part_type: aftermarket

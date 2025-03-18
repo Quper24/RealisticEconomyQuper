@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : raven_g2.daf.xf.paint_job
 {
 	name: "Corvus Ex Machina"
-	price: 24200
+	price: 5100
 	unlock: 0
 	icon: "paintjob_golden_raven2"
 	part_type: aftermarket

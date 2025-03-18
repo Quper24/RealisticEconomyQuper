@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : f_logo_3.volvo.fh16.paint_job
 {
 	name: "Gearing Up"
-	price: 11000
+	price: 6410
 	unlock: 0
 	icon: "paintjob_flag_logo_3"
 	part_type: aftermarket

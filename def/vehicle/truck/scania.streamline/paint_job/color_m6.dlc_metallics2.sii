@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : paint06_met2.scania.streamline.paint_job
 {
   name: "Liquefied Dreams"
-	price: 11800
+	price: 6390
 	unlock: 0
   icon: "met_color6.dlc_metallics2"
 	part_type: aftermarket

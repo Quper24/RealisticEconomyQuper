@@ -1,5 +1,5 @@
 	name: "Cruise Liner"
-	price: 12000
+	price: 5270
 	unlock: 0
 	base_color: (0.000430, 0.007236, 0.021218)
 	base_color_locked: false

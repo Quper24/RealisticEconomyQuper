@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : color_m6.iveco.stralis.paint_job
 {
   name: "Smoke Source"
-	price: 11500
+	price: 6320
 	unlock: 0
   icon: "met_color6.dlc_metallics"
 	part_type: aftermarket

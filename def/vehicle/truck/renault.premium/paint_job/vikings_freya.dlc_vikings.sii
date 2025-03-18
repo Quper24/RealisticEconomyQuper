@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : vl_freya.renault.premium.paint_job
 {
 	name: "Freya's Blessing"
-	price: 50000
+	price: 5070
 	unlock: 0
 	icon: "paintjob_vikings_freya.dlc_vikings"
 	part_type: aftermarket

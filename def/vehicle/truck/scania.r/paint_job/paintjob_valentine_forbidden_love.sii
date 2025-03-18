@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : f_vale_pin2.scania.r.paint_job
 {
         name: "Heart Unlock"
-        price: 20000
+        price: 5740
         unlock: 0
         icon: "paintjob_forbidden_love"
 	part_type: aftermarket

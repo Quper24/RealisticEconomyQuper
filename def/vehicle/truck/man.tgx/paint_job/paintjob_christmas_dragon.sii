@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : f_drag_dr.man.tgx.paint_job
 {
         name: "Neon Dragon"
-        price: 20000
+        price: 5100
         unlock: 0
         icon: "paintjob_christmas_dragon"
 	part_type: aftermarket

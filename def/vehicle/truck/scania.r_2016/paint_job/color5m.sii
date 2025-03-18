@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : col5m_s_r_a.scania.r_2016.paint_job
 {
 	name: "Scandinavian Blue Metallic"
-	price: 4500
+	price: 1960
 	unlock: 0
 	base_color: (0.401978, 0.571125, 1.000000)
 	flake_clearcoat_rolloff: 4.500000

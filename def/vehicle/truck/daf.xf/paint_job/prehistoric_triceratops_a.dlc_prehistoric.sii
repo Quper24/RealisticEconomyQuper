@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : tricera_a.daf.xf.paint_job
 {
 	name: "Horned Face"
-	price: 50000
+	price: 6380
 	unlock: 0
 	icon: "pj_ph_trc"
 	part_type: aftermarket

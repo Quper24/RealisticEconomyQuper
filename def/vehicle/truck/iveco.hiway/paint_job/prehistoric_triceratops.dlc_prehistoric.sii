@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : triceratops.iveco.hiway.paint_job
 {
 	name: "Horned Face"
-	price: 50000
+	price: 6410
 	unlock: 0
 	icon: "pj_ph_trc"
 	part_type: aftermarket

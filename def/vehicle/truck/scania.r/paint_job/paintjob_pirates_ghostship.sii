@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : f_pir_sh.scania.r.paint_job
 {
     name: "Ghost Ship"
-    price: 20000
+    price: 5030
     unlock: 0
     icon: "paintjob_pirates_ghostship"
 	part_type: aftermarket

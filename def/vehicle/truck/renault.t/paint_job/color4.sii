@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : color4.renault.t.paint_job
 {
 	name: "Black Shadow"
-	price: 4820
+	price: 2190
 	unlock: 0
 	base_color : (0.006, 0.006, 0.006)
 	base_color_locked: true

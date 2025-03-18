@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : style10.scania.r.paint_job
 {
 	name: "Blade"
-	price: 32800
+	price: 6210
 	unlock: 0
 	icon: "paintjob_style10"
 	part_type: aftermarket

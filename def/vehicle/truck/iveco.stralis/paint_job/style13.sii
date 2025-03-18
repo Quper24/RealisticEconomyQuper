@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : style13.iveco.stralis.paint_job
 {
 	name: "Tribal"
-	price: 34000
+	price: 5700
 	unlock: 0
 	icon: "paintjob_style13"
 	part_type: aftermarket

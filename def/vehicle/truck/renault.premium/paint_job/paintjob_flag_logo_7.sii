@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : f_logo_7.renault.premium.paint_job
 {
 	name: "Wheels of Progress"
-	price: 11000
+	price: 5710
 	unlock: 0
 	icon: "paintjob_flag_logo_7"
 	part_type: aftermarket

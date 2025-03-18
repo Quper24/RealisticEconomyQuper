@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : f_logo_5b.daf.xf.paint_job
 {
 	name: "Opportunities Abound"
-	price: 11000
+	price: 5200
 	unlock: 0
 	icon: "paintjob_flag_logo_5b"
 	part_type: aftermarket

@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data: style4.mercedes.actros2014.paint_job
 {
 	name: "Grand Tour"
-	price: 13500
+	price: 5250
 	unlock: 0
 	icon: "paintjob_style4"
 	part_type: aftermarket

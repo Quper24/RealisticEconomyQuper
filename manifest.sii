@@ -7,7 +7,7 @@ mod_package : .package_name
 	package_version: "1.54.0"
 
 	# Display name can be any string with any length.
-	display_name: "Realistic Economy 1.54.0 beta 2 by Quper"
+	display_name: "Realistic Economy 1.54.0 beta 3 by Quper"
 
 	# Author can be any string with any length.
 	author: "Quper"

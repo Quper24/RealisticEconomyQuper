@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data: 8x4_grifd.scania.r.paint_job
 {
 	name: "Tribal Griffin Dark"
-	price: 15000
+	price: 5700
 	unlock: 0
 	icon: "paintjob_8x4_scania_grifdark"
 	part_type: aftermarket

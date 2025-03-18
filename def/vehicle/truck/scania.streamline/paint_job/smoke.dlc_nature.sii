@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : smoke_a.scania.streamline.paint_job
 {
 	name: "Smoke Puffs"
-	price: 18200
+	price: 6100
 	unlock: 0
 	icon: "paintjob_smoke.dlc_nature"
 	part_type: aftermarket

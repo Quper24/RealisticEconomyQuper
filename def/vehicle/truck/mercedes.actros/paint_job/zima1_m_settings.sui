@@ -1,6 +1,6 @@
 	steam_inventory_id: 42
 	name: "Starlight Burst"
-	price: 2700
+	price: 2170
 	unlock: 0
 	alternate_uvset: true
 	base_color: (0.356407, 0.003066, 0.011535)

@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : bibenda_bc.scania.r.paint_job
 {
 	name: "Bibendum"
-	price: 25500
+	price: 6540
 	unlock: 0
 	icon: "paintjob_michelin_bibenda"
 	part_type: "licensed"

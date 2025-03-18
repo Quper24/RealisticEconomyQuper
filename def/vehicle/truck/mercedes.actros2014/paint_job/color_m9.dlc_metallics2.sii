@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : paint09_met2.mercedes.actros2014.paint_job
 {
   name: "Bokehlicious"
-	price: 11800
+	price: 5870
 	unlock: 0
   icon: "met_color9.dlc_metallics2"
 	part_type: aftermarket

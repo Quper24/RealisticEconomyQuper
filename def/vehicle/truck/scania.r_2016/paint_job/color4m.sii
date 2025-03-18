@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : col4m_s_r_a.scania.r_2016.paint_job
 {
 	name: "Urban Grey Metallic"
-	price: 4500
+	price: 2180
 	unlock: 0
 	base_color: (0.514918, 0.491021, 0.462077)
 	flake_clearcoat_rolloff: 4.500000
