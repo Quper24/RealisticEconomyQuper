@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.kavala.mitilini_b {
-	price: 83 # approx based on rhodes/athens
+	price: 1440 # approx based on rhodes/athens
 	time: 730
 	distance: 370
 

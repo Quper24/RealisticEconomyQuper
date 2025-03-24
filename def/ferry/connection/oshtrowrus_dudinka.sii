@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.oshtrowrus.dudinka {
-	price: 13
-	time: 1602
-	distance: 906
-}
-}
-

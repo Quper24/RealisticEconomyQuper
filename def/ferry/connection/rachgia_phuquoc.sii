@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.rachgia.phuquoc {
+	price: 280
+	time: 150
+	distance: 110
+}
+}
+

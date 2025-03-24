@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.melilla.valencia{
-	price: 371
-	time: 785
-	distance: 410
-}
-}
-

@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.petropavl.vladyvostok {
-	price: 39
+	price: 581
 	time: 905
 	distance: 2692
 }

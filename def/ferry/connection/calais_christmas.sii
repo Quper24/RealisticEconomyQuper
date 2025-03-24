@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.calais.christmas{
-	price: 180
-	time: 2800
-	distance: 11870
-}
-}

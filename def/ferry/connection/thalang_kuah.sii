@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.thalang.kuah {
-	price: 35
-	time: 680
-	distance: 435
-}
-}

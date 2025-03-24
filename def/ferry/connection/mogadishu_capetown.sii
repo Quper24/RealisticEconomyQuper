@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.mogadishu.capetown{
-	price: 133
-	time: 8502
-	distance: 5889
-}
-}
-

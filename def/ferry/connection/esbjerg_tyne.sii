@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.esbjerg.tyne{
-	price: 99
-	time: 1225
-	distance: 570
-}
-}
-

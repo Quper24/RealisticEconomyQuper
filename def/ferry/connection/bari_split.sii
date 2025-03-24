@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.bari.split{
-	price: 47
-	time: 660
-	distance: 320
-}
-}
-

@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.ancona.split {
-	price: 19
+	price: 315
 	time: 600
 	distance: 240
 	

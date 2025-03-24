@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.aktau.baku{
-	price: 15
-	time: 811
-	distance: 70
-}
-}
-

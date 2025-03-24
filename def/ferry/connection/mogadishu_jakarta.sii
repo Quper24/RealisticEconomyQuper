@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.mogadishu.jakarta{
-	price: 213
-	time: 5272
-	distance: 3589
-}
-}
-

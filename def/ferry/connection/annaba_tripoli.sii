@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.annaba.tripoli{
-	price: 115
-	time: 1760
-	distance: 1180
-}
-}

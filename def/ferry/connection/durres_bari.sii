@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.durres.bari{
-	price: 40
-	time: 600
-	distance: 280
-}
-}
-

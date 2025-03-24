@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.wiek.trent {
-	price: 3
-	time: 10
-	distance: 1
-}
-}
-

@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.roscoff.cherbourg {
-	price: 70
-	time: 476
-	distance: 205
-}
-}
-

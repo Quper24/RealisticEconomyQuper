@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.algiers.annaba {
-	price: 41
-	time: 650
-	distance: 425
-}
-}
-

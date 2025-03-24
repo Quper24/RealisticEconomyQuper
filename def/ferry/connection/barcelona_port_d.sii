@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.barcelona.port_d {
-	price: 23
-	time: 350
-	distance: 197
-}
-}

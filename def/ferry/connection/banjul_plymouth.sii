@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.banjul.plymouth {
-	price: 134
-	time: 4390
-	distance: 3000
-}
-}
-

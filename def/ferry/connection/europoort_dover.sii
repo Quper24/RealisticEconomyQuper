@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.europoort.dover {
-	price: 70
-	time: 650
-	distance: 405
-}
-}
-

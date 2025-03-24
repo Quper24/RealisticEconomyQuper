@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.bangao.incheon {
-	price: 192
-	time: 3368
-	distance: 2126
-}
-}

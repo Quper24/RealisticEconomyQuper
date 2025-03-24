@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.rosslare.holyhead {
-	price: 40
-	time: 575
-	distance: 400
-}
-}
-

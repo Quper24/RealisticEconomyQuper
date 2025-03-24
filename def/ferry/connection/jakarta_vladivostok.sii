@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.jakarta.vladyvostok {
-	price: 163
-	time: 10944
-	distance: 5500
-}
-}

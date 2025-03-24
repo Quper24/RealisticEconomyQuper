@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.rhodes.bodrum {
-	price: 24
-	time: 321
-	distance: 158
-
-}
-}
