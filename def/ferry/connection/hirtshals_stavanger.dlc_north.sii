@@ -1,9 +1,9 @@
 SiiNunit
 {
 ferry_connection : conn.hirtshals.stavanger {
-	price: 1621
-	time: 570
-	distance: 385
+	price: 51
+	time: 478
+	distance: 318
 
 	connection_positions[0]: (-3021603, 0, -10696108)
 	connection_positions[1]: (-3280603, 0, -12433474)

@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.goteborg.frederikshv {
-	price: 677
-	time: 195
+	price: 29
+	time: 143
 	distance: 95
 }
 }

@@ -2,7 +2,7 @@ SiiNunit
 {
 ferry_connection : conn.kolanta.krabith {
 	price: 20
-	time: 10
+	time: 4
 	distance: 2
 }
 }

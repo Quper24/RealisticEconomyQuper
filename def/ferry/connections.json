@@ -1,0 +1,952 @@
+{
+  "conn.ajaccio.portotorres": {
+    "price": 33,
+    "time": 203,
+    "distance": 135
+  },
+  "conn.portotorres.ajaccio": {
+    "price": 33,
+    "time": 203,
+    "distance": 135
+  },
+  "conn.algiers.marseille": {
+    "price": 95,
+    "time": 1126,
+    "distance": 750
+  },
+  "conn.marseille.algiers": {
+    "price": 95,
+    "time": 1126,
+    "distance": 750
+  },
+  "conn.ancona.durres": {
+    "price": 78,
+    "time": 871,
+    "distance": 580
+  },
+  "conn.durres.ancona": {
+    "price": 78,
+    "time": 871,
+    "distance": 580
+  },
+  "conn.ancona.igoumenitsa": {
+    "price": 101,
+    "time": 1216,
+    "distance": 810
+  },
+  "conn.igoumenitsa.ancona": {
+    "price": 101,
+    "time": 1216,
+    "distance": 810
+  },
+  "conn.ancona.patras": {
+    "price": 97,
+    "time": 1166,
+    "distance": 777
+  },
+  "conn.patras.ancona": {
+    "price": 97,
+    "time": 1166,
+    "distance": 777
+  },
+  "conn.ancona.split": {
+    "price": 37,
+    "time": 268,
+    "distance": 178
+  },
+  "conn.split.ancona": {
+    "price": 37,
+    "time": 268,
+    "distance": 178
+  },
+  "conn.ancona.trieste": {
+    "price": 33,
+    "time": 209,
+    "distance": 139
+  },
+  "conn.trieste.ancona": {
+    "price": 33,
+    "time": 209,
+    "distance": 139
+  },
+  "conn.argostoli.igoumenitsb": {
+    "price": 44,
+    "time": 361,
+    "distance": 240
+  },
+  "conn.igoumenitsb.argostoli": {
+    "price": 44,
+    "time": 361,
+    "distance": 240
+  },
+  "conn.argostoli.patras_b": {
+    "price": 33,
+    "time": 197,
+    "distance": 131
+  },
+  "conn.patras_b.argostoli": {
+    "price": 33,
+    "time": 197,
+    "distance": 131
+  },
+  "conn.bangao.daru": {
+    "price": 380,
+    "time": 5401,
+    "distance": 3600
+  },
+  "conn.daru.bangao": {
+    "price": 380,
+    "time": 5401,
+    "distance": 3600
+  },
+  "conn.bangao.sematan": {
+    "price": 97,
+    "time": 1166,
+    "distance": 777
+  },
+  "conn.sematan.bangao": {
+    "price": 97,
+    "time": 1166,
+    "distance": 777
+  },
+  "conn.bangao.vanimo": {
+    "price": 215,
+    "time": 2932,
+    "distance": 1954
+  },
+  "conn.vanimo.bangao": {
+    "price": 215,
+    "time": 2932,
+    "distance": 1954
+  },
+  "conn.barcelona.marseille": {
+    "price": 56,
+    "time": 553,
+    "distance": 368
+  },
+  "conn.marseille.barcelona": {
+    "price": 56,
+    "time": 553,
+    "distance": 368
+  },
+  "conn.barcelona.napoli": {
+    "price": 108,
+    "time": 1333,
+    "distance": 888
+  },
+  "conn.napoli.barcelona": {
+    "price": 108,
+    "time": 1333,
+    "distance": 888
+  },
+  "conn.barcelona.portotorres": {
+    "price": 64,
+    "time": 668,
+    "distance": 445
+  },
+  "conn.portotorres.barcelona": {
+    "price": 64,
+    "time": 668,
+    "distance": 445
+  },
+  "conn.bari.durres": {
+    "price": 42,
+    "time": 338,
+    "distance": 225
+  },
+  "conn.durres.bari": {
+    "price": 42,
+    "time": 338,
+    "distance": 225
+  },
+  "conn.bari.igoumenitsa": {
+    "price": 64,
+    "time": 668,
+    "distance": 445
+  },
+  "conn.igoumenitsa.bari": {
+    "price": 64,
+    "time": 668,
+    "distance": 445
+  },
+  "conn.bari.patras": {
+    "price": 80,
+    "time": 901,
+    "distance": 600
+  },
+  "conn.patras.bari": {
+    "price": 80,
+    "time": 901,
+    "distance": 600
+  },
+  "conn.bari.trieste": {
+    "price": 73,
+    "time": 809,
+    "distance": 539
+  },
+  "conn.trieste.bari": {
+    "price": 73,
+    "time": 809,
+    "distance": 539
+  },
+  "conn.bergen.hirtshals": {
+    "price": 79,
+    "time": 886,
+    "distance": 590
+  },
+  "conn.hirtshals.bergen": {
+    "price": 79,
+    "time": 886,
+    "distance": 590
+  },
+  "conn.bilbao.plymouth": {
+    "price": 66,
+    "time": 704,
+    "distance": 469
+  },
+  "conn.plymouth.bilbao": {
+    "price": 66,
+    "time": 704,
+    "distance": 469
+  },
+  "conn.bonifacio.teresaport": {
+    "price": 24,
+    "time": 74,
+    "distance": 49
+  },
+  "conn.teresaport.bonifacio": {
+    "price": 24,
+    "time": 74,
+    "distance": 49
+  },
+  "conn.bralia.smardan": {
+    "price": 20,
+    "time": 2,
+    "distance": 1
+  },
+  "conn.smardan.bralia": {
+    "price": 20,
+    "time": 2,
+    "distance": 1
+  },
+  "conn.cagliari.napoli": {
+    "price": 65,
+    "time": 683,
+    "distance": 455
+  },
+  "conn.napoli.cagliari": {
+    "price": 65,
+    "time": 683,
+    "distance": 455
+  },
+  "conn.cagliari.palermo": {
+    "price": 53,
+    "time": 500,
+    "distance": 333
+  },
+  "conn.palermo.cagliari": {
+    "price": 53,
+    "time": 500,
+    "distance": 333
+  },
+  "conn.calais.dover": {
+    "price": 24,
+    "time": 74,
+    "distance": 49
+  },
+  "conn.dover.calais": {
+    "price": 24,
+    "time": 74,
+    "distance": 49
+  },
+  "conn.calais.klang": {
+    "price": 1070,
+    "time": 15751,
+    "distance": 10500
+  },
+  "conn.klang.calais": {
+    "price": 1070,
+    "time": 15751,
+    "distance": 10500
+  },
+  "conn.calais.merak": {
+    "price": 1019,
+    "time": 14999,
+    "distance": 9999
+  },
+  "conn.merak.calais": {
+    "price": 1019,
+    "time": 14999,
+    "distance": 9999
+  },
+  "conn.calais.yaren": {
+    "price": 199,
+    "time": 2689,
+    "distance": 1792
+  },
+  "conn.yaren.calais": {
+    "price": 199,
+    "time": 2689,
+    "distance": 1792
+  },
+  "conn.centralarea.jakarta": {
+    "price": 109,
+    "time": 1336,
+    "distance": 890
+  },
+  "conn.jakarta.centralarea": {
+    "price": 109,
+    "time": 1336,
+    "distance": 890
+  },
+  "conn.chania_b.piraeus": {
+    "price": 35,
+    "time": 232,
+    "distance": 154
+  },
+  "conn.piraeus.chania_b": {
+    "price": 35,
+    "time": 232,
+    "distance": 154
+  },
+  "conn.chania.kalamata": {
+    "price": 45,
+    "time": 376,
+    "distance": 250
+  },
+  "conn.kalamata.chania": {
+    "price": 45,
+    "time": 376,
+    "distance": 250
+  },
+  "conn.chios_b.kavala": {
+    "price": 32,
+    "time": 188,
+    "distance": 125
+  },
+  "conn.kavala.chios_b": {
+    "price": 32,
+    "time": 188,
+    "distance": 125
+  },
+  "conn.chios_b.piraeus": {
+    "price": 49,
+    "time": 436,
+    "distance": 290
+  },
+  "conn.piraeus.chios_b": {
+    "price": 49,
+    "time": 436,
+    "distance": 290
+  },
+  "conn.chios.mitilini": {
+    "price": 32,
+    "time": 181,
+    "distance": 120
+  },
+  "conn.mitilini.chios": {
+    "price": 32,
+    "time": 181,
+    "distance": 120
+  },
+  "conn.condao.kawthaung": {
+    "price": 112,
+    "time": 1381,
+    "distance": 920
+  },
+  "conn.kawthaung.condao": {
+    "price": 112,
+    "time": 1381,
+    "distance": 920
+  },
+  "conn.condao.phuquoc": {
+    "price": 53,
+    "time": 496,
+    "distance": 330
+  },
+  "conn.phuquoc.condao": {
+    "price": 53,
+    "time": 496,
+    "distance": 330
+  },
+  "conn.condao.phuquy": {
+    "price": 42,
+    "time": 331,
+    "distance": 220
+  },
+  "conn.phuquy.condao": {
+    "price": 42,
+    "time": 331,
+    "distance": 220
+  },
+  "conn.condao.vungtau": {
+    "price": 31,
+    "time": 167,
+    "distance": 111
+  },
+  "conn.vungtau.condao": {
+    "price": 31,
+    "time": 167,
+    "distance": 111
+  },
+  "conn.dili.mersing": {
+    "price": 75,
+    "time": 826,
+    "distance": 550
+  },
+  "conn.mersing.dili": {
+    "price": 75,
+    "time": 826,
+    "distance": 550
+  },
+  "conn.dover.jakarta": {
+    "price": 1370,
+    "time": 20251,
+    "distance": 13500
+  },
+  "conn.jakarta.dover": {
+    "price": 1370,
+    "time": 20251,
+    "distance": 13500
+  },
+  "conn.esbjerg.hull": {
+    "price": 81,
+    "time": 923,
+    "distance": 615
+  },
+  "conn.hull.esbjerg": {
+    "price": 81,
+    "time": 923,
+    "distance": 615
+  },
+  "conn.europoort.harwich": {
+    "price": 40,
+    "time": 311,
+    "distance": 207
+  },
+  "conn.harwich.europoort": {
+    "price": 40,
+    "time": 311,
+    "distance": 207
+  },
+  "conn.europoort.hull": {
+    "price": 57,
+    "time": 556,
+    "distance": 370
+  },
+  "conn.hull.europoort": {
+    "price": 57,
+    "time": 556,
+    "distance": 370
+  },
+  "conn.frederikshv.goteborg": {
+    "price": 29,
+    "time": 143,
+    "distance": 95
+  },
+  "conn.goteborg.frederikshv": {
+    "price": 29,
+    "time": 143,
+    "distance": 95
+  },
+  "conn.frederikshv.oslo": {
+    "price": 49,
+    "time": 436,
+    "distance": 290
+  },
+  "conn.oslo.frederikshv": {
+    "price": 49,
+    "time": 436,
+    "distance": 290
+  },
+  "conn.gdansk.nynashamn": {
+    "price": 61,
+    "time": 623,
+    "distance": 415
+  },
+  "conn.nynashamn.gdansk": {
+    "price": 61,
+    "time": 623,
+    "distance": 415
+  },
+  "conn.gdynia.karlskrona": {
+    "price": 52,
+    "time": 488,
+    "distance": 325
+  },
+  "conn.karlskrona.gdynia": {
+    "price": 52,
+    "time": 488,
+    "distance": 325
+  },
+  "conn.gedser.rostock": {
+    "price": 24,
+    "time": 67,
+    "distance": 44
+  },
+  "conn.rostock.gedser": {
+    "price": 24,
+    "time": 67,
+    "distance": 44
+  },
+  "conn.giovanni.messina": {
+    "price": 20,
+    "time": 13,
+    "distance": 8
+  },
+  "conn.messina.giovanni": {
+    "price": 20,
+    "time": 13,
+    "distance": 8
+  },
+  "conn.hatien.phuquoc": {
+    "price": 24,
+    "time": 61,
+    "distance": 40
+  },
+  "conn.phuquoc.hatien": {
+    "price": 24,
+    "time": 61,
+    "distance": 40
+  },
+  "conn.hatyai.phongsali": {
+    "price": 236,
+    "time": 3245,
+    "distance": 2163
+  },
+  "conn.phongsali.hatyai": {
+    "price": 236,
+    "time": 3245,
+    "distance": 2163
+  },
+  "conn.helsinki.tallinn": {
+    "price": 25,
+    "time": 86,
+    "distance": 57
+  },
+  "conn.tallinn.helsinki": {
+    "price": 25,
+    "time": 86,
+    "distance": 57
+  },
+  "conn.helsinki.travemunde": {
+    "price": 119,
+    "time": 1499,
+    "distance": 999
+  },
+  "conn.travemunde.helsinki": {
+    "price": 119,
+    "time": 1499,
+    "distance": 999
+  },
+  "conn.heraklion.piraeus": {
+    "price": 36,
+    "time": 241,
+    "distance": 160
+  },
+  "conn.piraeus.heraklion": {
+    "price": 36,
+    "time": 241,
+    "distance": 160
+  },
+  "conn.hirtshals.kristiansand": {
+    "price": 34,
+    "time": 218,
+    "distance": 145
+  },
+  "conn.kristiansand.hirtshals": {
+    "price": 34,
+    "time": 218,
+    "distance": 145
+  },
+  "conn.hirtshals.stavanger": {
+    "price": 51,
+    "time": 478,
+    "distance": 318
+  },
+  "conn.stavanger.hirtshals": {
+    "price": 51,
+    "time": 478,
+    "distance": 318
+  },
+  "conn.igoumenitsa.trieste": {
+    "price": 107,
+    "time": 1318,
+    "distance": 878
+  },
+  "conn.trieste.igoumenitsa": {
+    "price": 107,
+    "time": 1318,
+    "distance": 878
+  },
+  "conn.ijmuiden.tyne": {
+    "price": 58,
+    "time": 584,
+    "distance": 389
+  },
+  "conn.tyne.ijmuiden": {
+    "price": 58,
+    "time": 584,
+    "distance": 389
+  },
+  "conn.jakarta.klang": {
+    "price": 138,
+    "time": 1781,
+    "distance": 1187
+  },
+  "conn.klang.jakarta": {
+    "price": 138,
+    "time": 1781,
+    "distance": 1187
+  },
+  "conn.kapellskar.naantali": {
+    "price": 40,
+    "time": 311,
+    "distance": 207
+  },
+  "conn.naantali.kapellskar": {
+    "price": 40,
+    "time": 311,
+    "distance": 207
+  },
+  "conn.kapellskar.paldiski": {
+    "price": 48,
+    "time": 427,
+    "distance": 284
+  },
+  "conn.paldiski.kapellskar": {
+    "price": 48,
+    "time": 427,
+    "distance": 284
+  },
+  "conn.kavala.mitilini_b": {
+    "price": 34,
+    "time": 211,
+    "distance": 140
+  },
+  "conn.mitilini_b.kavala": {
+    "price": 34,
+    "time": 211,
+    "distance": 140
+  },
+  "conn.kawthaung.ranong": {
+    "price": 21,
+    "time": 17,
+    "distance": 11
+  },
+  "conn.ranong.kawthaung": {
+    "price": 21,
+    "time": 17,
+    "distance": 11
+  },
+  "conn.kolanta.krabith": {
+    "price": 20,
+    "time": 4,
+    "distance": 2
+  },
+  "conn.krabith.kolanta": {
+    "price": 20,
+    "time": 4,
+    "distance": 2
+  },
+  "conn.kotakinabalu.labuan": {
+    "price": 32,
+    "time": 181,
+    "distance": 120
+  },
+  "conn.labuan.kotakinabalu": {
+    "price": 32,
+    "time": 181,
+    "distance": 120
+  },
+  "conn.koyao.thalang": {
+    "price": 21,
+    "time": 22,
+    "distance": 14
+  },
+  "conn.thalang.koyao": {
+    "price": 21,
+    "time": 22,
+    "distance": 14
+  },
+  "conn.kuah.kualaperlis1": {
+    "price": 23,
+    "time": 49,
+    "distance": 32
+  },
+  "conn.kualaperlis1.kuah": {
+    "price": 23,
+    "time": 49,
+    "distance": 32
+  },
+  "conn.kuah.satun": {
+    "price": 22,
+    "time": 34,
+    "distance": 22
+  },
+  "conn.satun.kuah": {
+    "price": 22,
+    "time": 34,
+    "distance": 22
+  },
+  "conn.labuan.seribegawan": {
+    "price": 22,
+    "time": 43,
+    "distance": 28
+  },
+  "conn.seribegawan.labuan": {
+    "price": 22,
+    "time": 43,
+    "distance": 28
+  },
+  "conn.liepaja.travemunde": {
+    "price": 74,
+    "time": 820,
+    "distance": 546
+  },
+  "conn.travemunde.liepaja": {
+    "price": 74,
+    "time": 820,
+    "distance": 546
+  },
+  "conn.lixouri.argostoli": {
+    "price": 21,
+    "time": 25,
+    "distance": 16
+  },
+  "conn.magyichaung.sittwe": {
+    "price": 21,
+    "time": 28,
+    "distance": 18
+  },
+  "conn.sittwe.magyichaung": {
+    "price": 21,
+    "time": 28,
+    "distance": 18
+  },
+  "conn.marseille.porto_vec": {
+    "price": 59,
+    "time": 593,
+    "distance": 395
+  },
+  "conn.porto_vec.marseille": {
+    "price": 59,
+    "time": 593,
+    "distance": 395
+  },
+  "conn.maungdaw.teknaf": {
+    "price": 20,
+    "time": 10,
+    "distance": 6
+  },
+  "conn.teknaf.maungdaw": {
+    "price": 20,
+    "time": 10,
+    "distance": 6
+  },
+  "conn.mersing.sematan": {
+    "price": 53,
+    "time": 508,
+    "distance": 338
+  },
+  "conn.sematan.mersing": {
+    "price": 53,
+    "time": 508,
+    "distance": 338
+  },
+  "conn.napoli.olbiaport": {
+    "price": 80,
+    "time": 901,
+    "distance": 600
+  },
+  "conn.olbiaport.napoli": {
+    "price": 80,
+    "time": 901,
+    "distance": 600
+  },
+  "conn.napoli.palermo": {
+    "price": 53,
+    "time": 503,
+    "distance": 335
+  },
+  "conn.palermo.napoli": {
+    "price": 53,
+    "time": 503,
+    "distance": 335
+  },
+  "conn.napoli.teresaport": {
+    "price": 64,
+    "time": 667,
+    "distance": 444
+  },
+  "conn.teresaport.napoli": {
+    "price": 64,
+    "time": 667,
+    "distance": 444
+  },
+  "conn.nynashamn.ventspils": {
+    "price": 44,
+    "time": 368,
+    "distance": 245
+  },
+  "conn.ventspils.nynashamn": {
+    "price": 44,
+    "time": 368,
+    "distance": 245
+  },
+  "conn.palermo.valencia": {
+    "price": 115,
+    "time": 1432,
+    "distance": 954
+  },
+  "conn.valencia.palermo": {
+    "price": 115,
+    "time": 1432,
+    "distance": 954
+  },
+  "conn.patras.trieste": {
+    "price": 108,
+    "time": 1333,
+    "distance": 888
+  },
+  "conn.trieste.patras": {
+    "price": 108,
+    "time": 1333,
+    "distance": 888
+  },
+  "conn.petropavl.vladyvostok": {
+    "price": 83,
+    "time": 953,
+    "distance": 635
+  },
+  "conn.vladyvostok.petropavl": {
+    "price": 83,
+    "time": 953,
+    "distance": 635
+  },
+  "conn.phangan.suratthani": {
+    "price": 22,
+    "time": 43,
+    "distance": 28
+  },
+  "conn.suratthani.phangan": {
+    "price": 22,
+    "time": 43,
+    "distance": 28
+  },
+  "conn.phuquoc.rachgia": {
+    "price": 27,
+    "time": 116,
+    "distance": 77
+  },
+  "conn.rachgia.phuquoc": {
+    "price": 27,
+    "time": 116,
+    "distance": 77
+  },
+  "conn.piraeus.rhodes": {
+    "price": 42,
+    "time": 331,
+    "distance": 220
+  },
+  "conn.rhodes.piraeus": {
+    "price": 42,
+    "time": 331,
+    "distance": 220
+  },
+  "conn.plymouth.roscoff": {
+    "price": 36,
+    "time": 245,
+    "distance": 163
+  },
+  "conn.roscoff.plymouth": {
+    "price": 36,
+    "time": 245,
+    "distance": 163
+  },
+  "conn.plymouth.santander": {
+    "price": 84,
+    "time": 962,
+    "distance": 641
+  },
+  "conn.santander.plymouth": {
+    "price": 84,
+    "time": 962,
+    "distance": 641
+  },
+  "conn.priwall.travemunde_p": {
+    "price": 20,
+    "time": 2,
+    "distance": 1
+  },
+  "conn.travemunde_p.priwall": {
+    "price": 20,
+    "time": 2,
+    "distance": 1
+  },
+  "conn.rostock.trelleborg": {
+    "price": 35,
+    "time": 232,
+    "distance": 154
+  },
+  "conn.trelleborg.rostock": {
+    "price": 35,
+    "time": 232,
+    "distance": 154
+  },
+  "conn.yaren.songkhla": {
+    "price": 189,
+    "time": 2540,
+    "distance": 1693
+  },
+  "conn.samui.suratthani": {
+    "price": 22,
+    "time": 37,
+    "distance": 24
+  },
+  "conn.suratthani.samui": {
+    "price": 22,
+    "time": 37,
+    "distance": 24
+  },
+  "conn.tunnel_r.tunnel_t": {
+    "price": 30,
+    "time": 157,
+    "distance": 104
+  },
+  "conn.tunnel_t.tunnel_r": {
+    "price": 30,
+    "time": 157,
+    "distance": 104
+  },
+  "conn.tunnel_c.tunnel_d": {
+    "price": 26,
+    "time": 91,
+    "distance": 60
+  },
+  "conn.tunnel_d.tunnel_c": {
+    "price": 26,
+    "time": 91,
+    "distance": 60
+  },
+  "conn.tunnel_c.tunnel_db": {
+    "price": 395,
+    "time": 5626,
+    "distance": 3750
+  },
+  "conn.tunnel_db.tunnel_c": {
+    "price": 395,
+    "time": 5626,
+    "distance": 3750
+  },
+  "conn.tunnel_laos.tunnel_thai": {
+    "price": 170,
+    "time": 2251,
+    "distance": 1500
+  },
+  "conn.tunnel_thai.tunnel_laos": {
+    "price": 170,
+    "time": 2251,
+    "distance": 1500
+  }
+}

@@ -1,9 +1,9 @@
 SiiNunit
 {
 ferry_connection : conn.napoli.cagliari {
-	price: 879
-	time: 840
-	distance: 500
+	price: 65
+	time: 683
+	distance: 455
 
 
 connection_positions[0]: (3266271, 0, 14980881)

@@ -1,9 +1,9 @@
 SiiNunit
 {
 ferry_connection : conn.santander.plymouth {
-	price: 1176
-	time: 1080
-	distance: 845
+	price: 84
+	time: 962
+	distance: 641
 	
 	connection_positions[0]: (-15730000, 0, 8140000)
 	connection_positions[1]: (-15700000, 0, 8190000)

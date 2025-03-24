@@ -1,9 +1,9 @@
 SiiNunit
 {
 ferry_connection : conn.palermo.valencia {
-	price: 1788
-	time: 1557
-	distance: 1250
+	price: 115
+	time: 1432
+	distance: 954
 	
 	connection_positions[0]: (2220000, 0, 18000000)
 	connection_positions[1]: (-3100000, 0, 17700000)
