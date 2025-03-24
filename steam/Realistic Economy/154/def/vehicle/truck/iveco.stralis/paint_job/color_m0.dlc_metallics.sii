@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : color_m0.iveco.stralis.paint_job
 {
 	name: "Amber Glory Metallic"
-	price: 9500
+	price: 3110
 	unlock: 0
 	base_color : (0.2462, 0.0318, 0)
 	base_color_locked: true

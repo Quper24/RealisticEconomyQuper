@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : color7.iveco.hiway.paint_job
 {
 	name: "Alpine White"
-	price: 2080
+	price: 2210
 	unlock: 0
 	base_color: (0.6239, 0.5906, 0.5149)
 	base_color_locked: true

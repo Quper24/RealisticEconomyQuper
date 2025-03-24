@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : magma_b.scania.streamline.paint_job
 {
 	name: "Magma Heat"
-	price: 18800
+	price: 5110
 	unlock: 0
 	icon: "paintjob_magma.dlc_nature"
 	part_type: aftermarket

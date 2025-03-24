@@ -1,6 +1,6 @@
 	steam_inventory_id: 60
 	name: "Pit Stop"
-	price: 3050
+	price: 2080
 	unlock: 0
 	alternate_uvset: true
 	base_color: (0.043741, 0.043741, 0.043741)

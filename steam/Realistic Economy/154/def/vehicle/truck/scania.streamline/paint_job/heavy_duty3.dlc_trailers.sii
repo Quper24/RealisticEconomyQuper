@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : heavy_duty3.scania.streamline.paint_job
 {
 	name: "Heavy Duty Construction"
-	price: 26400
+	price: 5730
   unlock: 0
   icon: "paintjob_heavy_duty3.dlc_trailers"     
 	part_type: aftermarket

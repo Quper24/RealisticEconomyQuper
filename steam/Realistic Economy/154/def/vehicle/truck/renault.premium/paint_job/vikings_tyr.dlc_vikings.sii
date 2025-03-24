@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : vl_tyr.renault.premium.paint_job
 {
 	name: "Tyr's Wrath"
-	price: 50000
+	price: 6920
 	unlock: 0
 	icon: "paintjob_vikings_tyr.dlc_vikings"
 	part_type: aftermarket

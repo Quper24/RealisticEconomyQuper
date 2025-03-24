@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : col3m_s_s_a.scania.s_2016.paint_job
 {
 	name: "Pure Black Metallic"
-	price: 4500
+	price: 2980
 	unlock: 0
 	base_color: (0.052861, 0.052861, 0.052861)
 	flake_clearcoat_rolloff: 4.500000

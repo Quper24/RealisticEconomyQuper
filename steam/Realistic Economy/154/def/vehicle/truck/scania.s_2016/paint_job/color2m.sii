@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : col2m_s_s_a.scania.s_2016.paint_job
 {
 	name: "Cardinal Red Metallic"
-	price: 4500
+	price: 2580
 	unlock: 0
 	base_color: (0.300544, 0.018500, 0.018500)
 	flake_clearcoat_rolloff: 4.500000

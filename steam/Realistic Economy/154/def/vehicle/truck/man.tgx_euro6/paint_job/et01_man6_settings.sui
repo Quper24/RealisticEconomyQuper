@@ -1,6 +1,6 @@
 	steam_inventory_id: 60
 	name: "Pit Stop"
-	price: 3050
+	price: 1840
 	unlock: 0
 	base_color: (0.043741, 0.043741, 0.043741)
 	base_color_locked: false

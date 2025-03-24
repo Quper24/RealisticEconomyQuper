@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : style12.man.tgx.paint_job
 {
 	name: "Sade"
-	price: 22000
+	price: 5200
 	unlock: 0
 	icon: "paintjob_style12"
 	part_type: aftermarket

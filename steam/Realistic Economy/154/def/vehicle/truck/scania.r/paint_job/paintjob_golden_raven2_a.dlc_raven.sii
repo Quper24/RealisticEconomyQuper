@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : golden2_a.scania.r.paint_job
 {
 	name: "Corvus Ex Machina"
-	price: 24200
+	price: 6360
 	unlock: 0
 	icon: "paintjob_golden_raven2"
 	part_type: aftermarket

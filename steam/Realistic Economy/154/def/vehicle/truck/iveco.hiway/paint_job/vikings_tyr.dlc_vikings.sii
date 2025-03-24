@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : vl_tyr.iveco.hiway.paint_job
 {
 	name: "Tyr's Wrath"
-	price: 50000
+	price: 5610
 	unlock: 0
 	icon: "paintjob_vikings_tyr.dlc_vikings"
 	part_type: aftermarket

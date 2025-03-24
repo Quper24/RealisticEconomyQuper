@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : man_9036_m.man.tgx_euro6.paint_job
 {
 	name: "Platin Metallic (MAN 9036)"
-	price: 4500
+	price: 2490
 	unlock: 0
 
 	base_color: (0.3662, 0.3662, 0.3662)

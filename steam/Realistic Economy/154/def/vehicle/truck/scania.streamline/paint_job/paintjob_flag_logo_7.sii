@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data: f_logo_7.scania.streamline.paint_job
 {
 	name: "Wheels of Progress"
-	price: 11000
+	price: 6310
 	unlock: 0
 	icon: "paintjob_flag_logo_7"
 	part_type: aftermarket

@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : style7_b.man.tgx.paint_job
 {
 	name: "Canopy"
-	price: 35200
+	price: 6570
 	unlock: 0
 	icon: "paintjob_style7"
 	part_type: aftermarket

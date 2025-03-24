@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : style11.mercedes.actros2014.paint_job
 {
 	name: "Sunrise"
-	price: 22800
+	price: 6990
 	unlock: 0
 	icon: "paintjob_style11"
 	part_type: aftermarket

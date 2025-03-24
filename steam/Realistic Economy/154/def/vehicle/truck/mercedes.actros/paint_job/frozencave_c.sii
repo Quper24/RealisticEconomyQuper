@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : frozencav_c.mercedes.actros.paint_job
 {
 	name: "Cold Mystery"
-	price: 17400
+	price: 5680
 	unlock: 0
 	icon: "paintjob_frozencave"
 	part_type: aftermarket

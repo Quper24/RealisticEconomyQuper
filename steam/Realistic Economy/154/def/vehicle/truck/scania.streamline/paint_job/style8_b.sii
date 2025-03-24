@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : style8_b.scania.streamline.paint_job
 {
 	name: "Vortex"
-	price: 45600
+	price: 6740
 	unlock: 0
 	icon: "paintjob_style8"
 	part_type: aftermarket

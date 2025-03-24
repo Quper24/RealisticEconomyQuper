@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : color_m0.mercedes.actros2014.paint_job
 {
     name: "Amber Glory Metallic"
-    price: 9500
+    price: 4300
     unlock: 0
     base_color : (0.2462, 0.0318, 0)
     stock: false

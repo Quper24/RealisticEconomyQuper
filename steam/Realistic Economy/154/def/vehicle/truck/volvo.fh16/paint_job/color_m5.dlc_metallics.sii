@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : color_m5.volvo.fh16.paint_job
 {
   name: "Aqua Serenity"
-	price: 11500
+	price: 6030
 	unlock: 0
 	base_color :  (0, 0.0202, 0.0409)
   icon: "met_color5.dlc_metallics"

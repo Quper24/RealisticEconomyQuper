@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : paint10_met2.mercedes.actros.paint_job
 {
   name: "Square Root"
-	price: 11800
+	price: 6950
 	unlock: 0
   icon: "met_color10.dlc_metallics2"
 	part_type: aftermarket

@@ -1,6 +1,6 @@
 	steam_inventory_id: 25
 	name: "Crystal Dimension"
-	price: 2700
+	price: 2180
 	unlock: 0
 	base_color: (0.783538, 0.783538, 0.783538)
 	base_color_locked: false

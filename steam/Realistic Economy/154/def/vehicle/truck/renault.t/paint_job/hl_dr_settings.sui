@@ -1,0 +1,7 @@
+	name: "Flaming Dragon"
+	price: 6980
+	unlock: 0
+	airbrush: true
+	base_color: (0.000000, 0.003600, 0.013700)
+	icon: "paintjob_dragon"
+	part_type: aftermarket

@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : color3.volvo.fh16_2012.paint_job
 {
 	name: "Stormy Blue"
-	price: 3250
+	price: 1570
 	unlock: 0
 	base_color: (0.0026, 0.0139, 0.0737)
 	base_color_locked: true

@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : style2_c.scania.r.paint_job
 {
 	name: "Duellist"
-	price: 24800
+	price: 6350
 	unlock: 0
 	icon: "paintjob_style2"
 	part_type: aftermarket

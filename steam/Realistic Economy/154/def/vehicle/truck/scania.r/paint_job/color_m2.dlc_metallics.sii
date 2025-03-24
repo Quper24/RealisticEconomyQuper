@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : color_m2.scania.r.paint_job
 {
   name: "Hi-Tech Fascination"
-	price: 11500
+	price: 5060
 	unlock: 0
   icon: "met_color2.dlc_metallics"
 	part_type: aftermarket

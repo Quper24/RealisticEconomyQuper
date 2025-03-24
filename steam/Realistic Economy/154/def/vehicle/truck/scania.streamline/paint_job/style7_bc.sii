@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : style7_c.scania.streamline.paint_job
 {
 	name: "Canopy"
-	price: 35200
+	price: 6520
 	unlock: 0
 	icon: "paintjob_style7"
 	part_type: aftermarket

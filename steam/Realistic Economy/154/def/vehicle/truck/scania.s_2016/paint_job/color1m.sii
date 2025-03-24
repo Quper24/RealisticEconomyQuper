@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : col1m_s_s_a.scania.s_2016.paint_job
 {
 	name: "Blue Ocean Metallic"
-	price: 4500
+	price: 1980
 	unlock: 0
 	base_color: (0.045186, 0.111932, 0.423268)
 	flake_clearcoat_rolloff: 4.500000

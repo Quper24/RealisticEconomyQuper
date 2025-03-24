@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : color_m8.daf.xf.paint_job
 {
   name: "Sage Brush"
-	price: 11500
+	price: 5790
 	unlock: 0
   icon: "met_color8.dlc_metallics"
 	part_type: aftermarket

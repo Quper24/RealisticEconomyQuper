@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : f_logo_1a.man.tgx.paint_job
 {
 	name: "Always Forward"
-	price: 11000
+	price: 6180
 	unlock: 0
 	icon: "paintjob_flag_logo_1a"
 	part_type: aftermarket

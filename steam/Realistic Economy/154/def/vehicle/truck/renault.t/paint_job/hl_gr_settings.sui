@@ -1,0 +1,7 @@
+	name: "Grim Reaper"
+	price: 6220
+	unlock: 0
+	airbrush: true
+	base_color: (0.013000, 0.001200, 0.001200)
+	icon: "paintjob_grim_reaper"
+	part_type: aftermarket

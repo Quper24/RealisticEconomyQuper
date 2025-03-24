@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : 8x4_teutons.mercedes.actros2014.paint_job
 {
 	name: "Heavy Charge"
-	price: 50000
+	price: 5280
 	unlock: 0
 	base_color: (0.57255, 0.57255, 0.57255)
 	airbrush: true

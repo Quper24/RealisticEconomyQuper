@@ -7,7 +7,7 @@ SiiNunit
 			base_color_locked: true
 			icon: "paintjob_pirates_shipwrecks"
 	part_type: aftermarket
-			price: 20000
+			price: 5130
 			unlock: 0
 			paint_job_mask: "/vehicle/truck/upgrade/paintjob/paintjob_pirates_shipwrecks_mercedes_2014.tobj"
 			alternate_uvset: true

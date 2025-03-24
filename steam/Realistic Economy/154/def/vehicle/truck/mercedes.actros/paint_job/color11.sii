@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data: color11.mercedes.actros.paint_job
 {
 	name: "Blue Lagoon"
-	price: 5265
+	price: 3830
 	unlock: 0
 	part_type: factory
 	

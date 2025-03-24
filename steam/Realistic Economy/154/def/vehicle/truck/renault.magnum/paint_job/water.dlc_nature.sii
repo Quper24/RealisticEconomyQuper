@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : water.renault.magnum.paint_job
 {
 	name: "Water Surge"
-	price: 18400
+	price: 5650
 	unlock: 0
 	icon: "paintjob_water.dlc_nature"
 	part_type: aftermarket

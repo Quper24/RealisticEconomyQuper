@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : style11_b.scania.streamline.paint_job
 {
 	name: "Sunrise"
-	price: 22800
+	price: 5200
 	unlock: 0
 	icon: "paintjob_style11"
 	part_type: aftermarket

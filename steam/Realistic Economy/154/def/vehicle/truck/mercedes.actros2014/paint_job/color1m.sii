@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data: color1m.mercedes.actros2014.paint_job
 {
 	name: "Silver White"
-	price: 5265
+	price: 3870
 	unlock: 0
 	stock: true
 	flipflake: true

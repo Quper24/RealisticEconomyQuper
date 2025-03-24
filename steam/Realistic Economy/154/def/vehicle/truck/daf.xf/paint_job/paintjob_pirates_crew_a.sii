@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : f_pir_cre_a.daf.xf.paint_job
 {
     name: "Pirate Gods"
-    price: 20000
+    price: 6230
     unlock: 0
     icon: "paintjob_pirates_crew"
 	part_type: aftermarket

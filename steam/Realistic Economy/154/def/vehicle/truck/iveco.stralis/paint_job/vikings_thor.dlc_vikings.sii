@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : vl_thor.iveco.stralis.paint_job
 {
 	name: "Thor's Fury"
-	price: 50000
+	price: 5310
 	unlock: 0
 	icon: "paintjob_vikings_thor.dlc_vikings"
 	part_type: aftermarket

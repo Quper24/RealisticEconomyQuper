@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : color_m9.volvo.fh16.paint_job
 {
   name: "Scales of Might"
-	price: 11500
+	price: 6820
 	unlock: 0
   icon: "met_color9.dlc_metallics"
 	part_type: aftermarket

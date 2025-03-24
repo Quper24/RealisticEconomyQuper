@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : f_vale_dove.iveco.hiway.paint_job
 {
         name: "Dove of Love"
-        price: 20000
+        price: 6380
         unlock: 0
         icon: "paintjob_velentine_pink3"
 	part_type: aftermarket

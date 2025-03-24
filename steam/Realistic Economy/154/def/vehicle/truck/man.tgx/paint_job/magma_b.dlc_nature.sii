@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : magma_b.man.tgx.paint_job
 {
 	name: "Magma Heat"
-	price: 18800
+	price: 6560
 	unlock: 0
 	icon: "paintjob_magma.dlc_nature"
 	part_type: aftermarket

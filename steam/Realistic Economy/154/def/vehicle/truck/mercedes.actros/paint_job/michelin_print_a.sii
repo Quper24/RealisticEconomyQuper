@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : print_a.mercedes.actros.paint_job
 {
 	name: "Michelin Tracks"
-	price: 25500
+	price: 6490
 	unlock: 0
 	icon: "paintjob_michelin_print"
 	part_type: "licensed"

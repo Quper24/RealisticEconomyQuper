@@ -7,7 +7,7 @@ SiiNunit
 			base_color_locked: true
 			icon: "paintjob_pirates_ship"
 	part_type: aftermarket
-			price: 20000
+			price: 6250
 			unlock: 0
 			paint_job_mask: "/vehicle/truck/upgrade/paintjob/paintjob_pirates_ship_iveco_stralis.tobj"
 			alternate_uvset: true

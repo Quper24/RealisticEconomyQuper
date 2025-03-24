@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : smoke_a.mercedes.actros.paint_job
 {
 	name: "Smoke Puffs"
-	price: 18200
+	price: 6000
 	unlock: 0
 	icon: "paintjob_smoke.dlc_nature"
 	part_type: aftermarket

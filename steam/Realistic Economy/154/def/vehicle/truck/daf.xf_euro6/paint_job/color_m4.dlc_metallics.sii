@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : color_m4.daf.xf_euro6.paint_job
 {
   name: "Northern Blues"
-	price: 11500
+	price: 6750
 	unlock: 0
   icon: "met_color4.dlc_metallics"
 	part_type: aftermarket

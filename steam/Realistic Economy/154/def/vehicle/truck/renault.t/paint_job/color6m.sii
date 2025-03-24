@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data: color6m.renault.t.paint_job
 {
     name: "Candy Red"
-    price: 4450
+    price: 2030
     unlock: 0
     flipflake: true
     stock: true

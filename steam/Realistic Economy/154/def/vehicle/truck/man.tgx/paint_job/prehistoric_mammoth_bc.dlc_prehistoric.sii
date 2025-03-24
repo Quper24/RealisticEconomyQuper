@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : mammoth_bc.man.tgx.paint_job
 {
 	name: "Ice Age"
-	price: 50000
+	price: 5540
 	unlock: 0
 	icon: "pj_ph_mmt"
 	part_type: aftermarket

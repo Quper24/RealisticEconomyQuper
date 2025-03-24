@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : color4.daf.xf_euro6.paint_job
 {
 	name: "Original Orange"
-	price: 4550
+	price: 2970
 	unlock: 0
 	flipflake: true
 	flip_color: (0.7304, 0.0742, 0.0116)

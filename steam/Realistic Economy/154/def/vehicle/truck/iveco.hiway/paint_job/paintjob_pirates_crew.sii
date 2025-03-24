@@ -7,7 +7,7 @@ SiiNunit
 			base_color_locked: true
 			icon: "paintjob_pirates_crew"
 	part_type: aftermarket
-			price: 20000
+			price: 5720
 			unlock: 0
 			paint_job_mask: "/vehicle/truck/upgrade/paintjob/paintjob_pirates_crew_iveco_hiway.tobj"
 			alternate_uvset: true

@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : heavy_duty.iveco.stralis.paint_job
 {
 	name: "Heavy Duty Universal"
-	price: 26200
+	price: 5680
   unlock: 0
   icon: "paintjob_heavy_duty.dlc_trailers"    
 	part_type: aftermarket

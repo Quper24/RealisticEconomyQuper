@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : dragonf.man.tgx.paint_job
 {
   name: "Dragon Dawn"
-  price: 50000
+  price: 6230
   unlock: 0
   icon: "paintjob_fantasy_dragon.dlc_fantasy"
 	part_type: aftermarket

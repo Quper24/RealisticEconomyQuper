@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : paint02_met2.iveco.stralis.paint_job
 {
   name: "Zebra Pitch"
-	price: 11800
+	price: 5220
 	unlock: 0
   icon: "met_color2.dlc_metallics2"
 	part_type: aftermarket

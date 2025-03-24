@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : color0m.scania.s_2024e.paint_job
 {
 	name: "@@custom_metallic@@"
-	price: 10000
+	price: 4950
 	icon: "color_custom_metallic_icon"
 	part_type: aftermarket
         unlock: 0

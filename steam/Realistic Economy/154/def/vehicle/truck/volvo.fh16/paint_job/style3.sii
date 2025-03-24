@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : style3_ab.volvo.fh16.paint_job
 {
 	name: "Caramel"
-	price: 41200
+	price: 5370
 	unlock: 0
 	icon: "paintjob_style3"
 	part_type: aftermarket

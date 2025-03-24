@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : golden_c.scania.streamline.paint_job
 {
 	name: "Golden Raven"
-	price: 24200
+	price: 5130
 	unlock: 0
 	icon: "paintjob_golden_raven.dlc_raven"
 	part_type: aftermarket

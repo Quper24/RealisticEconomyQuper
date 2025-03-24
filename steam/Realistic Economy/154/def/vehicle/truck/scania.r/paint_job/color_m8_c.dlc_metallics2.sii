@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : paint08c_me2.scania.r.paint_job
 {
   name: "Play Season"
-	price: 11800
+	price: 6940
 	unlock: 0
   icon: "met_color8.dlc_metallics2"
 	part_type: aftermarket

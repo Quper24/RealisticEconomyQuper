@@ -3,7 +3,7 @@ SiiNunit
 accessory_paint_job_data : aurora_a.scania.streamline.paint_job
 {
 	name: "Northern Lights"
-	price: 17000
+	price: 6780
 	unlock: 0
 	icon: "paintjob_aurora"
 	part_type: aftermarket
