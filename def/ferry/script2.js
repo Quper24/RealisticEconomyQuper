@@ -49,8 +49,8 @@ function fixInconsistencies(data) {
 
 // Главная функция
 function main() {
-  const inputFilePath = "output.json"; // Укажите путь к вашему файлу
-  const outputFilePath = "fixed_data.json"; // Файл для сохранения исправленных данных
+  const inputFilePath = "./output.json"; // Исходный файл находится в той же директории
+  const outputFilePath = "./fixed_data.json"; // Исправленные данные будут сохранены в той же директории
 
   try {
     // Читаем исходные данные
@@ -69,5 +69,4 @@ function main() {
     console.error("Произошла ошибка:", error.message);
   }
 }
-
 main();
