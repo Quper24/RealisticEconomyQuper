@@ -77,7 +77,7 @@ tollgate: tollgate.onetime
 	
 
 	# overal price in euro
-	toll: 2
+	toll: 1
 }
 
 tollgate: tollgate.start
@@ -100,7 +100,7 @@ tollgate: tollgate.end
 	
 
 	# price in euro per km
-	toll: 0.055
+	toll: 0.025
 }
 
 tollgate: tollgate.onetime.it
@@ -111,7 +111,7 @@ tollgate: tollgate.onetime.it
 	trigger_distance: 3.0
 	
 	# overal price in euro
-	toll: 1.4
+	toll: 0.7
 }
 
 tollgate: tollgate.end.it
@@ -122,7 +122,7 @@ tollgate: tollgate.end.it
 	trigger_distance: 3.0
 	
 	# price in euro per km
-	toll: 0.04
+	toll: 0.02
 }
 tollgate: tollgate.end.it_fr
 {
@@ -132,7 +132,7 @@ tollgate: tollgate.end.it_fr
 	trigger_distance: 3.0
 	
 	# price in euro per km
-	toll: 0.05
+	toll: 0.03
 }
 tollgate: tollgate.end.fr_alps
 {
@@ -142,7 +142,7 @@ tollgate: tollgate.end.fr_alps
 	trigger_distance: 3.0
 	
 	# price in euro per km
-	toll: 0.08
+	toll: 0.04
 }
 tollgate: tollgate.end.fr
 {
@@ -152,7 +152,7 @@ tollgate: tollgate.end.fr
 	trigger_distance: 3.0
 	
 	# price in euro per km
-	toll: 0.08
+	toll: 0.04
 }
 tollgate: tollgate.end.fr.metz_reims
 {
@@ -162,7 +162,7 @@ tollgate: tollgate.end.fr.metz_reims
 	trigger_distance: 3.0
 	
 	# price in euro per km
-	toll: 0.07
+	toll: 0.04
 }
 tollgate: tollgate.end.fr.reims_paris
 {
@@ -172,7 +172,7 @@ tollgate: tollgate.end.fr.reims_paris
 	trigger_distance: 3.0
 	
 	# price in euro per km
-	toll: 0.08
+	toll: 0.04
 }
 tollgate: tollgate.onetime.pl
 {
@@ -182,7 +182,7 @@ tollgate: tollgate.onetime.pl
 	trigger_distance: 3.0
 	
 	# overal price in euro
-	toll: 3.5
+	toll: 1.8
 }
 tollgate: tollgate.onetime.au
 {
@@ -192,7 +192,7 @@ tollgate: tollgate.onetime.au
 	trigger_distance: 3.0
 	
 	# overal price in euro
-	toll: 10
+	toll: 5
 }
 tollgate: tollgate.onetime.arlberg
 {
@@ -202,7 +202,7 @@ tollgate: tollgate.onetime.arlberg
 	trigger_distance: 3.0
 	
 	# overal price in euro
-	toll: 0.5
+	toll: 0.3
 }
 tollgate: tollgate.end.pl.a1
 {
@@ -212,7 +212,7 @@ tollgate: tollgate.end.pl.a1
 	trigger_distance: 3.0
 	
 	# price in euro per km
-	toll: 0.12
+	toll: 0.06
 }
 
 tollgate: tollgate.end.pl.a2_1
@@ -223,7 +223,7 @@ tollgate: tollgate.end.pl.a2_1
 	trigger_distance: 3.0
 	
 	# price in euro per km
-	toll: 0.1
+	toll: 0.05
 }
 
 tollgate: tollgate.end.pl.a2_2
@@ -234,7 +234,7 @@ tollgate: tollgate.end.pl.a2_2
 	trigger_distance: 3.0
 	
 	# price in euro per km
-	toll: 0.065
+	toll: 0.04
 }
 
 tollgate: tollgate.end.pl.a2_3
@@ -245,7 +245,7 @@ tollgate: tollgate.end.pl.a2_3
 	trigger_distance: 3.0
 	
 	# price in euro per km
-	toll: 0.013
+	toll: 0.01
 }
 
 tollgate: tollgate.end.pl.a4_1
@@ -256,7 +256,7 @@ tollgate: tollgate.end.pl.a4_1
 	trigger_distance: 3.0
 	
 	# price in euro per km
-	toll: 0.02
+	toll: 0.01
 }
 
 tollgate: tollgate.end.pl.a4_2
@@ -267,7 +267,7 @@ tollgate: tollgate.end.pl.a4_2
 	trigger_distance: 3.0
 	
 	# price in euro per km
-	toll: 0.05
+	toll: 0.03
 }
 
 tollgate: tollgate.ube
@@ -277,7 +277,7 @@ tollgate: tollgate.ube
 	type: one_time
 	trigger_distance: 3.0
 	
-	toll: 2.90
+	toll: 1.45
 }
 
 tollgate: tollgate.bos
@@ -287,7 +287,7 @@ tollgate: tollgate.bos
 	type: one_time
 	trigger_distance: 3.0
 	
-	toll: 0.82
+	toll: 0.41
 }
 
 tollgate: tollgate.v1_s1_b1_i1
@@ -297,7 +297,7 @@ tollgate: tollgate.v1_s1_b1_i1
 	type: one_time
 	trigger_distance: 3.0
 	
-	toll: 0.9
+	toll: 0.45
 }
 
 tollgate: tollgate.v2_s2_b1_i1
@@ -307,7 +307,7 @@ tollgate: tollgate.v2_s2_b1_i1
 	type: one_time
 	trigger_distance: 3.0
 	
-	toll: 12
+	toll: 6
 }
 
 tollgate: tollgate.v3_s1_b2_i2
@@ -317,7 +317,7 @@ tollgate: tollgate.v3_s1_b2_i2
 	type: one_time
 	trigger_distance: 3.0
 	
-	toll: 1.5
+	toll: 0.75
 }
 
 tollgate: tollgate.v4_s2_b2_i2
@@ -327,7 +327,7 @@ tollgate: tollgate.v4_s2_b2_i2
 	type: one_time
 	trigger_distance: 3.0
 	
-	toll: 1.5
+	toll: 0.75
 }
 
 tollgate: tollgate.onetime_19
@@ -337,7 +337,7 @@ tollgate: tollgate.onetime_19
 	type: one_time
 	trigger_distance: 3.0
 	
-	toll: 2
+	toll: 1
 }
 
 tollgate: tollgate.onetime_7
@@ -347,7 +347,7 @@ tollgate: tollgate.onetime_7
 	type: one_time
 	trigger_distance: 3.0
 	
-	toll: 0.7
+	toll: 0.35
 }
 
 tollgate: tollgate.onetime_7_5
@@ -357,7 +357,7 @@ tollgate: tollgate.onetime_7_5
 	type: one_time
 	trigger_distance: 3.0
 	
-	toll: 0.6
+	toll: 0.3
 }
 
 tollgate: tollgate.onetime_246
@@ -367,7 +367,7 @@ tollgate: tollgate.onetime_246
 	type: one_time
 	trigger_distance: 3.0
 	
-	toll: 20
+	toll: 10
 }
 
 tollgate: tollgate.onetime_234
@@ -377,7 +377,7 @@ tollgate: tollgate.onetime_234
 	type: one_time
 	trigger_distance: 3.0
 	
-	toll: 22
+	toll: 11
 }
 
 tollgate: tollgate.onetime_12
@@ -387,7 +387,7 @@ tollgate: tollgate.onetime_12
 	type: one_time
 	trigger_distance: 3.0
 	
-	toll: 1.2
+	toll: 0.6
 }
 lod_model_hookup : g_four_x_ibe
 {
