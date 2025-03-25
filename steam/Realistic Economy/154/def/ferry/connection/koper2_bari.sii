@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.koper2.bari {
-	price: 43
-	time: 927
-	distance: 495
-}
-}

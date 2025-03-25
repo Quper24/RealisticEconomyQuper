@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.linosa.pantelleria{
-	price: 23
-	time: 105
-	distance: 110
-}
-}

@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.wuqia.lhasa {
-	price: 101
-	time: 2100
-	distance: 2007
-}
-}
-

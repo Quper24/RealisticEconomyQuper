@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.varna.tunnel_db{
-	price: 96
-	time: 2172
-	distance: 1489
-}
-}
-

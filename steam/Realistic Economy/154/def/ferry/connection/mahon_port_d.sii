@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.mahon.port_d {
-	price: 23
-	time: 160
-	distance: 107
-}
-}

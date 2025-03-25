@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.nynashamn.rostockc {
-	price: 47
-	time: 1140
-	distance: 900
-}
-}

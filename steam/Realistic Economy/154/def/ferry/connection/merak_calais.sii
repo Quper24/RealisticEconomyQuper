@@ -1,9 +1,9 @@
 SiiNunit
 {
 ferry_connection : conn.merak.calais {
-	price: 250
-	time: 10440
-	distance: 4999
+	price: 1019
+	time: 14999
+	distance: 9999
 	
 	# Posisi titik belok jalur ferry, rumus >>  titik horizontal*256  ;  titik vertikal*256
 	connection_positions[0]: (158320640, 0, -14769408)   # krakatau

@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.stavanger.esbjerg{
-	price: 85
-	time: 898
-	distance: 520
-}
-}
-

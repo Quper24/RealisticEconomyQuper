@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.mersin.ashdod{
-	price: 83
-	time: 975
-	distance: 520
-}
-}

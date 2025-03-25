@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.novorossiysk.ambarli{
-	price: 76
-	time: 1260
-	distance: 626
-}
-}
-

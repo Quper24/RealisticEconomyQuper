@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.karlskrona.klaipeda2{
-	price: 40
-	time: 780
-	distance: 367
-}
-}
-

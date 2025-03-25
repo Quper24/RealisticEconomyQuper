@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.athen.thessaloniki {
-	price: 48
-	time: 756
-	distance: 415
-}
-}
-

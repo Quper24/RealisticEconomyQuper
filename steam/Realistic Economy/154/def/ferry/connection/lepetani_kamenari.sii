@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.lepetani.kamenari{
-	price: 2
-	time: 20
-	distance: 1
-}
-}
-

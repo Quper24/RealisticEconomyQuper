@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.cairnryan.belfast {
-	price: 35
-	time: 120
-	distance: 100
-}
-}
-

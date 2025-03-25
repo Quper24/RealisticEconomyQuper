@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.narj_mar.dudinka {
-	price: 91
-	time: 700
-	distance: 301
-}
-}
-

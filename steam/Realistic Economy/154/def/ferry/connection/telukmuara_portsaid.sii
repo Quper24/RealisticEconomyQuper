@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.telukmuara.portsaid{
-	price: 133
-	time: 5755
-	distance: 2489
-}
-}
-

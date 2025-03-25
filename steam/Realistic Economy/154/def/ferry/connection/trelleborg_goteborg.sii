@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.trelleborg.goteborg {
-	price: 80
-	time: 775
-	distance: 361
-}
-}

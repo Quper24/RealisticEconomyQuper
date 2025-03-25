@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.europoort.male {
-	price: 273
-	time: 16800
-	distance: 11180
-}
-}

@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.mogadishu.klang{
-	price: 133
-	time: 4772
-	distance: 2589
-}
-}
-

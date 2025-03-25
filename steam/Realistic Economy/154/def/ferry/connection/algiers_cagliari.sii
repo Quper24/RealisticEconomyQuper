@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.algiers.cagliari{
-	price: 85
-	time: 1000
-	distance: 520
-}
-}

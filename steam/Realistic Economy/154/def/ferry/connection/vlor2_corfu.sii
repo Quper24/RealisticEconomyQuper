@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.vlor2.corfu {
-	price: 8
-	time: 120
-	distance: 120
-}
-}
-

@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.istanbul.varna{
-	price: 49
-	time: 726
-	distance: 350
-}
-}

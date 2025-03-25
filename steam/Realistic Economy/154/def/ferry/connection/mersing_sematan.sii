@@ -1,15 +1,15 @@
 SiiNunit
+
 {
+
 ferry_connection : conn.mersing.sematan {
-	price: 35
-	time: 960
-	distance: 655
 
-	# NODE POSITIONS #######     x*256  , 0,   z*256
-	connection_positions[0]:  (145152000, 0,  -27648000)
+	price: 53
 
-	# NODE ROTATIONS #######   -sin(jaw), 0, -cos(jaw)
-	connection_directions[0]:  (0.8, 0, 0.1)
+	time: 508
+
+	distance: 338
 
 }
+
 }
