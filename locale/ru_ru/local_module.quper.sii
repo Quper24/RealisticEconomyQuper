@@ -1,6 +1,0 @@
-SiiNunit {
-  localization_db : .localization {
-    key[]: "kaliningrad"
-	  val[]: "Куперград"
-  }
-}

@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.barcelona.portotorres {
-	price: 64
-	time: 668
+	price: 47
+	time: 608
 	distance: 445
 	
 	connection_positions[0]: (-9430000, 0, 12400000)

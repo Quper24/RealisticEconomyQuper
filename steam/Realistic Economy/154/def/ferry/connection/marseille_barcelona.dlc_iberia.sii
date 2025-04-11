@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.marseille.barcelona {
-	price: 56
-	time: 553
+	price: 39
+	time: 503
 	distance: 368
 	
 	connection_positions[0]: (-9430000, 0, 12400000)

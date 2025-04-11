@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.karlskrona.bjvisby {
+	price: 35
+	time: 428
+	distance: 313
+}
+}
+

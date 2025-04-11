@@ -1,0 +1,10 @@
+SiiNunit
+{
+ferry_connection : conn.toft.sumba {
+	price: 27
+	time: 328
+	distance: 240
+
+}
+}
+

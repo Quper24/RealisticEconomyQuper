@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.jakarta.centralarea {
-	price: 109
-	time: 1336
+	price: 87
+	time: 1215
 	distance: 890
 }
 }
