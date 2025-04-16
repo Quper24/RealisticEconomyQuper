@@ -1,0 +1,52 @@
+SiiNunit
+{
+localization_db : .localization
+{
+        key[]: "Alekseevka"
+        val[]: "Алексеевка"
+		
+        key[]: "Buguruslan"
+        val[]: "Бугуруслан"
+		
+        key[]: "Buzuluk"
+        val[]: "Бузулук"
+		
+        key[]: "Kinel'"
+        val[]: "Кинель"
+
+        key[]: "Krasniy Yar"
+        val[]: "Красный Яр"
+		
+	key[]: "Kurumoch"
+        val[]: "Курумоч"
+		
+	key[]: "Novospasskoye"
+        val[]: "Новоспасское"
+		
+	key[]: "NPS Samara"
+        val[]: "НПС Самара"
+		
+	key[]: "Samara"
+        val[]: "Самара"
+		
+	key[]: "Sennoi"
+        val[]: "Сенной"
+		
+	key[]: "Syzran"
+        val[]: "Сызрань"
+		
+	key[]: "Tolyatti"
+	val[]: "Тольятти"
+		
+	key[]: "Volsk"
+	val[]: "Вольск"
+		
+	key[]: "Volzhskiy"
+	val[]: "Волжский"
+		
+	key[]: "Zhigulevsk"
+	val[]: "Жигулёвск"
+		
+}
+
+}
