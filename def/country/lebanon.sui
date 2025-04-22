@@ -1,4 +1,3 @@
-
 country_data: country.data.lebanon
 {
 	country_id: 68
@@ -8,9 +7,9 @@ country_data: country.data.lebanon
 	country_code: "RL"
 	iso_country_code: lbn
 
-	pos: (115500, 0, 78500)
+	pos:(115500, 0, 78500)
 
-	fuel_price: 0.602
+	fuel_price: 0.691
 
 	lights_mandatory: false
 	leftside_traffic: false

@@ -7,9 +7,9 @@ country_data : country.data.armenia
 	country_code: "AM"
 	iso_country_code: arm
 	
-	pos: (148000, 0, 32000)
+	pos: (145100, 0, 31500)
 
-	fuel_price: 1.203
+	fuel_price: 1.195
 
 	lights_mandatory: false
 	driving_tired_offence: true

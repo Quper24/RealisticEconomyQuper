@@ -1,75 +1,110 @@
-aland - "Åland" - 0.99 # Индийская рупия https://www.mypetrolprice.com/karnataka/gulbarga/Diesel-price-in-aland/630103
-albania - "Shqipëria" - 1.760
-algeria - "Algeria" - 0.199
-andorra - "Andorra" - 1.233
-armenia - "Hayastan" - 1.203
-austria - "Österreich" - 1.528
-azerbaijan - "Azərbaycan" - 0.539
-belarus - "Беларусь" - 0.706
-belgium - "België/Belgique" - 1.614
-bosnia - "Bosna i Hercegovina" - 1.222
-botswana - "Botswana" - 0.974
-bulgaria - "България" - 1.268
-burkinafaso - "Burkina Faso" - 1.034
-cameroon - "Cameroon" - 1.268
-car - "Central African Republic" - 2.067
-china - "中华人民共和国" - 0.896
-croatia - "Hrvatska" - 1.494
-cyprus - "Κύπρος" - 1.475
-czech - "Česká Republika" - 1.360
-denmark - "Danmark" - 1.860
-egypt - "Masr" - 0.241
-estonia - "Eesti" - 1.482
-ethiopia - "Ethiopia" - 0.747
-finland - "Suomi" - 1.731
-france - "France" - 1.630
-georgia - "საქართველო" - 0.997
-germany - "Deutschland" - 1.585
-greece - "Ελλάδα" - 1.551
-hungary - "Magyarország" - 1.516
-iceland - "Ísland" - 2.223
-ireland - "Ireland" - 1.734
-israel - "Israel" - 1.740
-italy - "Italia" - 1.664
-jordan - "Al-'Urdunn" - 0.880
-kazakhstan - "Kazakhstan" - 0.508
-kenya - "Kenya" - 1.174
-latvia - "Latvija" - 1.552
-lebanon - "Lubnān" - 0.602
-libya - "Lībiyā" - 0.025
-liecht - "Liechtenstein" - 1.994
-lithuania - "Lietuva" - 1.539
-luxembourg - "Lëtzebuerg" - 1.403
-mali - "Mali" - 1.110
-malta - "Malta" - 1.210
-moldova - "Moldova" - 1.019
-monaco - "Monaco" - 1.629
-mongolia - "Монгол Улс" - 1.094
-montenegro - "Црна Гора" - 1.360
-morocco - "Morocco" - 1.056
-netherlands - "Nederland" - 1.669
-nigeria - "Nigeria" - 0.591
-norway - "Norge" - 1.604
-poland - "Polska" - 1.428
-portugal - "Portugal" - 1.587
-romania - "România" - 1.465
-russia - "Россия" - 0.751
-sanmarino - "San Marino" - 1.518
-saudia - "Al-'Arabīyah As-Sa'ūdīyah" - 0.405
-senegal - "Senegal" - 1.156
-serbia - "Србија" - 1.672
-slovakia - "Slovensko" - 1.479
-slovenia - "Slovenija" - 1.517
-south_africa - "south_africa" - 1.022
-spain - "España" - 1.422
-sudan - "Sūdān" - 0.601
-sweden - "Sverige" - 1.488
-switzerland - "Schweiz" - 1.959
-syria - "Sūriyā" - 0.622
-tanzania - "Tanzania" - 1.000
-tunisia - "Tunisia" - 0.665
-turkey - "Türkiye" - 1.068
-uganda - "Uganda" - 1.231
-uk - "United Kingdom" - 1.663
-ukraine - "Україна" - 1.270
-zambia - "Zambia" - 0.991
+aland - "Åland" - 0,93
+albania - "Shqipëria" - 1.731
+algeria - "Algeria" - 0.193
+andorra - "Andorra" - 1.210
+armenia - "Hayastan" - 1.146
+austria - "Österreich" - 1.56
+azerbaijan - "Azerbaycan" - 0.543
+bangladesh - "Bangladesh" - 0.04
+belarus - "Беларусь" - 0.683
+belgium - "België/Belgique" - 1.73
+bosnia - "Bosna i Hercegovina" - 1.276
+botswana - "Botswana" - 2.11
+brunei - "Brunei" - 2.55
+bulgaria - "България" - 1.327
+burkinafaso - "Burkina Faso" - 1.52
+cambodia - "Cambodia" - 0.08
+cameroon - "Cameroon" - 1.52
+canada - "Canada" - 3.21
+car - "Central African Republic" - 1.52
+croatia - "Hrvatska" - 1.39
+cyprus - "Κύπρος" - 1.51
+czech - "Česká Republika" - 1.389
+denmark - "Danmark" - 1.768
+egypt - "Masr" - 0.245
+equatorial_g - "Equatorial Guinea" - 0.45
+estonia - "Eesti" - 1.48
+faroe - "Føroyar" - 1.768
+finland - "Suomi" - 1.75
+france - "France" - 1.65
+gambia - "The Gambia" - 0.91
+georgia - "საქართველო" - 1.036
+germany - "Deutschland" - 1.65
+ghana - "Ghana" - 0.52
+greece - "Ελλάδα" - 1.58
+greenland - "Kalaallit Nunaat" - 0.44
+guernsey - "Guernsey" - 2.02
+hungary - "Magyarország" - 1.542
+iceland - "Ísland" - 2.104
+indo_b - "Indonesia" - 0.61
+indo_th - "_" - 0.61
+indo_tm - "__" - 0.61
+intw - "International Waters" - 1.96
+iom - "Isle of Man" - 2.02
+iran - "Iran" - 0.44
+iraq - "Al-'Irāq" - 0.494
+ireland - "Ireland" - 1.78
+israel - "Israel" - 1.788
+italy - "Italia" - 1.69
+jersey - "Jersey" - 2.024
+jordan - "Al-'Urdunn" - 0.922
+kazakhstan - "Казахстан" - 0.5
+kenya - "Kenya" - 1.52
+kosovo - "Kosovo" - 1.79
+laos - "Laos" - 0.05
+latvia - "Latvija" - 1.52
+lebanon - "Lubnān" - 0.691
+libya - "Lībiyā" - 0.029
+liecht - "Liechtenstein" - 1.897
+lithuania - "Lietuva" - 1.56
+luxembourg - "Lëtzebuerg" - 1.44
+macedonia - "Северна Македонија" - 1.138
+malaysia - "Malaysia" - 1.05
+mali - "Mali" - 1.52
+malta - "Malta" - 1.21
+mauritania - "Mauritania" - 0.52
+moldova - "Moldova" - 1.063
+monaco - "Monaco" - 1.65
+montenegro - "Црна Гора" - 1.39
+morocco - "Morocco" - 1.52
+myanmar - "Myanmar" - 0.5
+nauru - "Nauru" - 1
+netherlands - "Nederland" - 1.87
+niger - "Niger" - 1.52
+nigeria - "nigeria" - 0.414
+nireland - "Northern-Ireland" - 2.024
+norway - "Norge" - 1.712
+papuang - "Papua New Guinea" - 0.05
+philippines - "Philippines" - 1.05
+poland - "Polska" - 1.467
+portugal - "Portugal" - 1.66
+romania - "România" - 1.534
+russia - "Россия" - 0.61
+sanmarino - "San Marino" - 1.69
+saudia - "Al-'Arabīyah As-Sa'ūdīyah" - 0.407
+senegal - "Senegal" - 0.98
+serbia - "Србија" - 1.706
+singapore - "Singapore" - 2.13
+slovakia - "Slovensko" - 1.59
+slovenia - "Slovenija" - 1.55
+southsudan - "South Sudan" - 2.11
+south_africa - "south_africa" - 1.14
+spain - "España" - 1.44
+stpierre - "Saint-Pierre-et-Miquelon" - 3.21
+sudan - "sudan" - 1.52
+svalbard - "Svalbard" - 1.712
+sweden - "Sverige" - 1.551
+switzerland - "Schweiz" - 1.897
+syria - "Sūriyā" - 0.672
+tanzania - "Tanzania" - 1.21
+thailand - "Thailand" - 0.45
+timorleste - "Timor Leste" - 1.05
+tunisia - "Tunisia" - 1.52
+turkey - "Türkiye" - 1.132
+uganda - "Uganda" - 2.11
+uk - "United Kingdom" - 2.024
+ukraine - "Україна" - 1.221
+uzbekistan - "O'zbekiston" - 0.868
+vietnam - "Việt Nam" - 1.05
+westbank - "West Bank" - 1.788
+zambia - "Zambia" - 1.52

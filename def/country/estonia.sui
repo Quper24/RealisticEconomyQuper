@@ -7,9 +7,9 @@ country_data : country.data.estonia
 	country_code: "EST"
 	iso_country_code: est
 
-	pos: (46000, 0, -47500)
+	pos: (47200, 0, -47200)
 
-	fuel_price: 1.482
+	fuel_price: 1.480
 
 	lights_mandatory: true
 	driving_tired_offence: true

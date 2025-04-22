@@ -1,4 +1,3 @@
-
 country_data: country.data.syria
 {
 	country_id: 83
@@ -8,9 +7,9 @@ country_data: country.data.syria
 	country_code: "SYR"
 	iso_country_code: syr
 
-	pos: (126000, 0, 70000)
+	pos:(126000, 0, 70000)
 
-	fuel_price: 0.622
+	fuel_price: 0.672
 
 	lights_mandatory: false
 	leftside_traffic: false

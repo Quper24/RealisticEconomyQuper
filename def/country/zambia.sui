@@ -6,11 +6,11 @@ country_data : country.data.zambia
 	name: "Zambia"
 	name_localized: "@@Zambia@@"
 	country_code: "ZM"
-	iso_country_code: zmb
+	iso_country_code: ZMB
 
-	pos: (100000, 0, 445000)
+	pos: (425748, 0, -214612)
 
-	fuel_price: 0.991
+	fuel_price: 1.52
 
 	lights_mandatory: false
 	driving_tired_offence: true
