@@ -9,7 +9,7 @@ country_data : country.data.jersey
 
 	pos: (-46800, 0, 1750)
 
-	fuel_price: 2.024
+	fuel_price: 1.725
 
 	lights_mandatory: false
 	imperial_units: true

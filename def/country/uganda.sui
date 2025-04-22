@@ -10,7 +10,7 @@ country_data : country.data.uganda
 
 	pos: (-42290, 0, -14150)
 
-	fuel_price: 2.11
+	fuel_price: 1.191
 
 	lights_mandatory: false
 	leftside_traffic: true

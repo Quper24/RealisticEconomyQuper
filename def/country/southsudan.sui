@@ -10,7 +10,7 @@ country_data : country.data.southsudan
 
 	pos: (-42290, 0, -14150)
 
-	fuel_price: 2.11
+	fuel_price: 0.14
 
 	lights_mandatory: false
 	trailer_standalone: false

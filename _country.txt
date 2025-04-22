@@ -92,7 +92,7 @@ south_africa - "South Africa" - 1.009
 spain - "España" - 1.392
 stpierre - "Saint-Pierre-et-Miquelon" - 1.90
 sudan - "sudan" - 0.575
-svalbard - "Svalbard" - 1.712 #fix
+svalbard - "Svalbard" - 1.7 #fix
 sweden - "Sverige" - 1.457
 switzerland - "Schweiz" - 1.971
 syria - "Sūriyā" - 0.595

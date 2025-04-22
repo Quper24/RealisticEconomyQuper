@@ -9,7 +9,7 @@ country_data : country.data.guernsey
 
 	pos: (-48100, 0, -250)
 
-	fuel_price: 2.020
+	fuel_price: 0.89
 
 	lights_mandatory: false
 	imperial_units: true
