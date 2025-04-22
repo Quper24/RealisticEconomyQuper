@@ -1,0 +1,110 @@
+aland - "Åland" - 0.93
+albania - "Shqipëria" - 1.731
+algeria - "Algeria" - 0.193
+andorra - "Andorra" - 1.210
+armenia - "Hayastan" - 1.146
+austria - "Österreich" - 1.508
+azerbaijan - "Azerbaycan" - 0.516
+bangladesh - "Bangladesh" - 0.758
+belarus - "Беларусь" - 0.681
+belgium - "België/Belgique" - 1.614
+bosnia - "Bosna i Hercegovina" - 1.210
+botswana - "Botswana" - 0.940
+brunei - "Brunei" - 0.38 # fix
+bulgaria - "България" - 1.194
+burkinafaso - "Burkina Faso" - 1.023
+cambodia - "Cambodia" - 0.799
+cameroon - "Cameroon" - 1.255
+canada - "Canada" - 0.924
+car - "C. Afr. Rep." - 2.047
+croatia - "Hrvatska" - 1.502
+cyprus - "Κύπρος" - 1.455
+czech - "Česká Republika" - 1.370
+denmark - "Danmark" - 1.829
+egypt - "Masr" - 0.265
+equatorial_g - "Equatorial Guinea" - 0.40 #fix
+estonia - "Eesti" - 1.443
+faroe - "Føroyar" - 0.56  #fix
+finland - "Suomi" - 1.686
+france - "France" - 1.575
+gambia - "The Gambia" - 0.80  #fix
+georgia - "საქართველო" - 0.950
+germany - "Deutschland" - 1.566
+ghana - "Ghana" - 0.873
+greece - "Ελλάδα" - 1.504
+greenland - "Kalaallit Nunaat" - 0,61  #fix
+guernsey - "Guernsey" - 0.89  # https://www.boatworks.gg/
+hungary - "Magyarország" - 1.505
+iceland - "Ísland" - 2.172
+indo_b - "Indonesia" - 0.754
+indo_th - "_" - 0.754
+indo_tm - "__" - 0.754
+intw - "International Waters" - 2
+iom - "Isle of Man" - 1.631 # fix
+iran - "Iran" - 0.005
+iraq - "Al-'Irāq" - 0.56  # fix
+ireland - "Ireland" - 1.722
+israel - "Israel" - 1.707
+italy - "Italia" - 1.630
+jersey - "Jersey" - 1.725 # fix
+jordan - "Al-'Urdunn" - 0.841
+kazakhstan - "Казахстан" - 0.493
+kenya - "Kenya" - 1.109
+kosovo - "Kosovo" - 1.710 #fix
+laos - "Laos" - 0.754
+latvia - "Latvija" - 1.486
+lebanon - "Lubnān" - 0.567
+libya - "Lībiyā" - 0.024
+liecht - "Liechtenstein" - 2.014
+lithuania - "Lietuva" - 1.518
+luxembourg - "Lëtzebuerg" - 1.346
+macedonia - "Северна Македонија" - 1.040 #fix
+malaysia - "Malaysia" - 0.592
+mali - "Mali" - 1.099
+malta - "Malta" - 1.210
+mauritania - "Mauritania" - 4.14 # fix
+moldova - "Moldova" - 0.938
+monaco - "Monaco" - 1.559
+montenegro - "Црна Гора" - 1.360
+morocco - "Morocco" - 1.035
+myanmar - "Myanmar" - 0.72 # Burma 
+nauru - "Nauru" - 1 # fix
+netherlands - "Nederland" - 1.662
+niger - "Niger" - 1.02 #fix
+nigeria - "nigeria" - 0.544
+nireland - "Northern-Ireland" - 1.54
+norway - "Norge" - 1.570
+papuang - "Papua New Guinea" - 0.72
+philippines - "Philippines" - 0.816
+poland - "Polska" - 1.413
+portugal - "Portugal" - 1.529
+romania - "România" - 1.429
+russia - "Россия" - 0.737
+sanmarino - "San Marino" - 1.460
+saudia - "Saudi Arabia" - 0.388
+senegal - "Senegal" - 1.145
+serbia - "Србија" - 1.639
+singapore - "Singapore" - 1.675
+slovakia - "Slovensko" - 1.493
+slovenia - "Slovenija" - 1.517
+southsudan - "South Sudan" - 0.14 #fix
+south_africa - "South Africa" - 1.009
+spain - "España" - 1.392
+stpierre - "Saint-Pierre-et-Miquelon" - 1.90
+sudan - "sudan" - 0.575
+svalbard - "Svalbard" - 1.712 #fix
+sweden - "Sverige" - 1.457
+switzerland - "Schweiz" - 1.971
+syria - "Sūriyā" - 0.595
+tanzania - "Tanzania" - 0.961
+thailand - "Thailand" - 0.836
+timorleste - "Timor Leste" - 1.1 #fix
+tunisia - "Tunisia" - 0.643
+turkey - "Türkiye" - 1.022
+uganda - "Uganda" - 1.191
+uk - "United Kingdom" - 1.638
+ukraine - "Україна" - 1.185
+uzbekistan - "O'zbekiston" - 0.825
+vietnam - "Việt Nam" - 0.591
+westbank - "West Bank" - 1.68 #fix
+zambia - "Zambia" - 0.939
