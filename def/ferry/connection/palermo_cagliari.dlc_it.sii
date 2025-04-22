@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.palermo.cagliari {
-	price: 37
-	time: 455
+	price: 22
+	time: 500
 	distance: 333
 }
 }

@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.patras.bari {
-	price: 61
-	time: 819
+	price: 36
+	time: 901
 	distance: 600
 
 connection_positions[0]: (11842127, 0, 17959120)

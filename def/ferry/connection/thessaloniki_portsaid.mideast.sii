@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.thessaloniki.portsaid{
-	price: 131
-	time: 1883
+	price: 75
+	time: 2071
 	distance: 1380
 
 	# NODE POSITIONS ########   x*256  , 0,  z*256

@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.labit.arxangelsk {
-	price: 279
-	time: 4092
+	price: 156
+	time: 4501
 	distance: 3000
 }
 }

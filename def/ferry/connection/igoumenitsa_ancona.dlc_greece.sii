@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.igoumenitsa.ancona {
-	price: 79
-	time: 1106
+	price: 46
+	time: 1216
 	distance: 810
 
 connection_positions[0]: (10074077, 0, 16040616)

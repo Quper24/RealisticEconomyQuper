@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.lemesos.piraeus {
-	price: 101
-	time: 1421
+	price: 58
+	time: 1562
 	distance: 1041
 
 	# NODE POSITIONS #######   x*256 , 0,   z*256

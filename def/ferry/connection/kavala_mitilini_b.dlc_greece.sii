@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.kavala.mitilini_b {
-	price: 19 # approx based on rhodes/athens
-	time: 192
+	price: 13 # approx based on rhodes/athens
+	time: 211
 	distance: 140
 
 connection_positions[0]: (14897616, 0, 13563875)

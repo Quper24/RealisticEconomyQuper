@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.swinoujscie.ystadr{
-	price: 21
-	time: 233
+	price: 14
+	time: 256
 	distance: 170
 
 	# NODE POSITIONS #######   x*256 , 0,   z*256

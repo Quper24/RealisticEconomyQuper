@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.brensholmen.botnhamn{
-	price: 9
-	time: 38
+	price: 7
+	time: 41
 	distance: 27
 
 	# NODE POSITIONS #######     x*256 , 0,   z*256

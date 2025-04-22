@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.nynashamn.bjvisby {
-	price: 19
-	time: 196
+	price: 13
+	time: 215
 	distance: 143
 }
 }
