@@ -46,8 +46,8 @@ economy_data : economy.data.storage
 	hurry_up_timer: 114				# how long the hurry up music will play (in game minutes)
 
 	no_cargo_prob:	0.05				# 20% prob. of empty cargo slot
-	cargo_validity_min: 3600				# 3 hours
-	cargo_validity_max: 7200			
+	cargo_validity_min: 180				# 3 hours
+	cargo_validity_max: 1800			
 
 	# assistance service
 
@@ -245,13 +245,13 @@ economy_data : economy.data.storage
 	currency_sign3[]: ""
 
 	currency_code[]: "CHF"
-	currency_ratio[]: 0.92
+	currency_ratio[]: 0.93
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " Fr"
 
 	currency_code[]: "CZK"
-	currency_ratio[]: 25.07
+	currency_ratio[]: 25.03
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " Kč"
@@ -263,37 +263,37 @@ economy_data : economy.data.storage
 	currency_sign3[]: ""
 
 	currency_code[]: "PLN"
-	currency_ratio[]: 4.29
+	currency_ratio[]: 4.27
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " zł"
 
 	currency_code[]: "HUF"
-	currency_ratio[]: 409.49
+	currency_ratio[]: 408.30
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " Ft"
 
 	currency_code[]: "DKK"
-	currency_ratio[]: 7.46
+	currency_ratio[]: 7.47
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " kr"
 
 	currency_code[]: "SEK"
-	currency_ratio[]: 11.07
+	currency_ratio[]: 11.00
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " kr"
 
 	currency_code[]: "NOK"
-	currency_ratio[]: 11.98
+	currency_ratio[]: 11.92
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " kr"
 
 	currency_code[]: "RUB"
-	currency_ratio[]: 92.95
+	currency_ratio[]: 93.58
 	currency_sign1[]: ""
 	currency_sign2[]: "₽"
 	currency_sign3[]: ""
@@ -311,13 +311,13 @@ economy_data : economy.data.storage
 	currency_sign3[]: " lei"
 
 	currency_code[]: "TRY"
-	currency_ratio[]: 43.16
+	currency_ratio[]: 44.00
 	currency_sign1[]: ""
 	currency_sign2[]: "₺ "
 	currency_sign3[]: ""
 
 	currency_code[]: "ALL"
-	currency_ratio[]: 99.40
+	currency_ratio[]: 99.20
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " lek"
@@ -329,31 +329,31 @@ economy_data : economy.data.storage
 	currency_sign3[]: ""
 
 	currency_code[]: "MKD"
-	currency_ratio[]: 61.53
+	currency_ratio[]: 61.54
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " ден"
 
 	currency_code[]: "RSD"
-	currency_ratio[]: 117.25
+	currency_ratio[]: 117.23
 	currency_sign1[]: ""
 	currency_sign2[]: "дин "
 	currency_sign3[]: ""
 
 	currency_code[]: "UAH"
-	currency_ratio[]: 46.72
+	currency_ratio[]: 47.08
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " грн"
 
 	currency_code[]: "KZT"
-	currency_ratio[]: 586.94
+	currency_ratio[]: 594.66
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " тг"
 
 	currency_code[]: "BYN"
-	currency_ratio[]: 3.71
+	currency_ratio[]: 3.72
 	currency_sign1[]: ""
 	currency_sign2[]: ""
 	currency_sign3[]: " бел. руб"

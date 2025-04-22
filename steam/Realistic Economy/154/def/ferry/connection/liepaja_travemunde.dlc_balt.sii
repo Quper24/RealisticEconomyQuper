@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.liepaja.travemunde {
-	price: 55
-	time: 746
+	price: 33
+	time: 820
 	distance: 546
 	
 	connection_positions[0]: (9016890, 0, -8533807)

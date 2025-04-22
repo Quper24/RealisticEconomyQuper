@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.napoli.palermo {
-	price: 37
-	time: 458
+	price: 22
+	time: 503
 	distance: 335
 
 }

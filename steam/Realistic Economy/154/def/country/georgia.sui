@@ -7,9 +7,9 @@ country_data : country.data.georgia
 	country_code: "GE"
 	iso_country_code: geo
 
-	pos: (133000, 0, 28000)
+	pos: (140000, 0, 26200)
 
-	fuel_price: 0.997
+	fuel_price: 0.95
 
 	lights_mandatory: false
 	driving_tired_offence: true

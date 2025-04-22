@@ -1,4 +1,3 @@
-
 country_data: country.data.libya
 {
 	country_id: 120
@@ -8,9 +7,9 @@ country_data: country.data.libya
 	country_code: "LAR"
 	iso_country_code: lby
 
-	pos: (60000, 0, 103000)
+	pos:(60000, 0, 103000)
 
-	fuel_price: 0.025
+	fuel_price: 0.024
 
 	lights_mandatory: false
 	leftside_traffic: false

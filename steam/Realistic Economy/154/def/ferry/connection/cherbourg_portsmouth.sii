@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.cherbourg.portsmouth{
-	price: 19
-	time: 210
+	price: 13
+	time: 230
 	distance: 153
 
 	# NODE POSITIONS #######    x*256  , 0,   z*256

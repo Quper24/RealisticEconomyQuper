@@ -7,9 +7,9 @@ country_data : country.data.latvia
 	country_code: "LV"
 	iso_country_code: lva
 
-	pos: (49500, 0, -39000)
+	pos: (49500, 0, -37100)
 
-	fuel_price: 1.552
+	fuel_price: 1.486
 
 	lights_mandatory: true
 	driving_tired_offence: true

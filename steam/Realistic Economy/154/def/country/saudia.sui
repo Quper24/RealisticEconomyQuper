@@ -1,4 +1,3 @@
-
 country_data: country.data.saudia
 {
 	country_id: 79
@@ -8,9 +7,9 @@ country_data: country.data.saudia
 	country_code: "KSA"
 	iso_country_code: sau
 
-	pos: (130000, 0, 106000)
+	pos:(130000, 0, 106000)
 
-	fuel_price: 0.405
+	fuel_price: 0.388
 
 	lights_mandatory: false
 	leftside_traffic: false

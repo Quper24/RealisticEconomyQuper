@@ -8,9 +8,9 @@ country_data : country.data.zaf
 	country_code: "ZA"
 	iso_country_code: zaf
 
-	pos: (50000, 0, 590000)
+	pos: (-42290, 0, -14150)
 
-	fuel_price: 1.022
+	fuel_price: 1.009
 
 	lights_mandatory: false
 	leftside_traffic: true

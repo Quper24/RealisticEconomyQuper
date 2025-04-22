@@ -1,4 +1,3 @@
-
 country_data: country.data.israel
 {
 	country_id: 60
@@ -8,9 +7,9 @@ country_data: country.data.israel
 	country_code: "IL"
 	iso_country_code: isr
 
-	pos: (113000, 0, 96000)
+	pos:(113000, 0, 96000)
 
-	fuel_price: 1.740
+	fuel_price: 1.707
 
 	lights_mandatory: false
 	leftside_traffic: false

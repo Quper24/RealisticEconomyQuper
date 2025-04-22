@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.piraeus.rhodes {
-	price: 27
-	time: 301
+	price: 17
+	time: 331
 	distance: 220
 
 connection_positions[0]: (14731983, 0, 18282969)

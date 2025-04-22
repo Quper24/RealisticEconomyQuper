@@ -2,14 +2,14 @@ country_data: country.data.kazakhstan
 {
 country_id: 64
 
-name: "Kazakhstan"
+name: "Казахстан"
 name_localized: "@@kazakhstan@@"
 country_code: "KZ"
 iso_country_code: kaz
 
 pos:(186285, 0, -51043.9)
 
-fuel_price: 0.508
+fuel_price: 0.493
 
 lights_mandatory: true
 driving_tired_offence: true

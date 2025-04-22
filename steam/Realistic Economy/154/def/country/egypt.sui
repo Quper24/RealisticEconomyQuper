@@ -1,16 +1,15 @@
-
 country_data: country.data.egypt
 {
 	country_id: 108
 
 	name: "Masr"
 	name_localized: "@@egypt@@"
-	country_code: "ET"
+	country_code: "EG"
 	iso_country_code: egy
 
-	pos: (100000, 0, 103000)
+	pos:(100000, 0, 103000)
 
-	fuel_price: 0.241
+	fuel_price: 0.265
 
 	lights_mandatory: false
 	leftside_traffic: false

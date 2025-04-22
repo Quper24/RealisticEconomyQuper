@@ -1,31 +1,25 @@
 
 country_data : country.data.algeria
 {
-    country_id: 93
+	country_id: 93
 
 	name: "Algeria"
 	name_localized: "@@Algeria@@"
-	country_code: "ALG"
-	iso_country_code: dza
-	
-	pos:(-37500, 0, 76500)
-	
-	fuel_price: 0.199
-	
-	lights_mandatory: false
-	driving_tired_offence: false
+	country_code: "DZ"
+	iso_country_code: DZA
 
-	time_zone: 60 # +1 hours in minutes
-	time_zone_name: "@@WAT@@"
+	pos: (425748, 0, -214612)
+
+	fuel_price: 0.193
+
+	lights_mandatory: false
+	driving_tired_offence: true
+
+	time_zone: 60		# +1 hours in minutes
+	time_zone_name: "@@tz_bst@@"
 
 	mass_limit_per_axle_count[]: 18000	# 2-axle vehicle
 	mass_limit_per_axle_count[]: 26000
 	mass_limit_per_axle_count[]: 36000
 	mass_limit_per_axle_count[]: 44000
-	mass_limit_per_axle_count[]: 56000
-	mass_limit_per_axle_count[]: 60000
-	mass_limit_per_axle_count[]: 68000	# 76t non-ADR
-	mass_limit_per_axle_count[]: 74000	# 9
-	mass_limit_per_axle_count[]: 84000	# 10
-	mass_limit_per_axle_count[]: 105000	# 11
 }

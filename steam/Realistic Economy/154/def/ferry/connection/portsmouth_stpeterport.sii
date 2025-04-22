@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.portsmouth.stpeterport{
-	price: 25
-	time: 285
+	price: 16
+	time: 313
 	distance: 208
 
 	# NODE POSITIONS #######    x*256  , 0,   z*256

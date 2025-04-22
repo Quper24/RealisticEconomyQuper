@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.algeciras.ceuta{
-	price: 7
-	time: 15
+	price: 6
+	time: 16
 	distance: 10
 
 }

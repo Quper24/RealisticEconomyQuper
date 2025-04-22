@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.korsakov.magadan {
-	price: 155
-	time: 2226
+	price: 87
+	time: 2449
 	distance: 1632
 }
 }

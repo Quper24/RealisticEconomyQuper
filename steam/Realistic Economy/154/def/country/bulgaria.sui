@@ -7,9 +7,9 @@ country_data : country.data.bulgaria
 	country_code: "BG"
 	iso_country_code: bgr
 
-	pos: (57500, 0, 44000)
+	pos: (59500, 0, 40300)
 
-	fuel_price: 1.268
+	fuel_price: 1.194
 
 	lights_mandatory: true
 	driving_tired_offence: true
