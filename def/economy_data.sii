@@ -2,67 +2,67 @@
 {
 economy_data : economy.data.storage
 {
-	truck_refund: 		0.6			# 60% of original price
+	truck_refund: 		0.6	# 60% of original price
 
 	# Base revenue per km in game native currency.
 	revenue_per_km_base: 15
 
-	price_small_garage: 120000 			
-	price_garage_upgrade: 80000 			
+	price_small_garage: 120000
+	price_garage_upgrade: 80000
 
-	garage_prod_plan_tiny: 3000 			
-	garage_prod_plan_small: 15000 			
-	garage_prod_plan_large: 25000			
+	garage_prod_plan_tiny: 3500
+	garage_prod_plan_small: 15000
+	garage_prod_plan_large: 30000
 
-	fuel_discount_in_garage: 0.30 			# 30%
+	fuel_discount_in_garage: 0.15	# 15%
 
-	truck_count_for_online:	0			# number of owned trucks to unlock buying online feature
+	truck_count_for_online:	0	# number of owned trucks to unlock buying online feature
 
-	abandoned_job_fine: 250			
+	abandoned_job_fine: 250
 
-	cargo_damage_cost: 5.0 			# -25 for 1% of damage 
-	cargo_damage_cost_factor: 0.04 			# -10% total cost penalty per 1% of damage
+	cargo_damage_cost: 5.0 		# -5 Euro per 1% of damage
+	cargo_damage_cost_factor: 0.04 	# -4% total cost penalty per 1% of damage
 
 	late_delivery_max_overtime[0]: 1440		# 1 days for "easy" deliveries
 	late_delivery_max_overtime[1]: 360		# 6 hours for "normal" deliveries
 	late_delivery_max_overtime[2]: 120		# 2 hours for "urgent" deliveries
 
-	simulation_avg_speed: 55.0			# km/h
+	simulation_avg_speed: 55.0	# km/h
 
-	default_time_zone: 120				# +2 hours
+	default_time_zone: 120		# +2 hours
 	default_time_zone_name: "CEST"
 
-	maximum_driving_time: 660			# how long the driver can drive (in minutes)
-	sleeping_time: 540				# 8 hours length of sleep (in minutes)
+	maximum_driving_time: 660	# how long the driver can drive (in minutes)
+	sleeping_time: 540		# length of sleep (in minutes)
 
-	delivery_window[0]: 1440			# easy
-	delivery_window[1]: 720				# medium
-	delivery_window[2]: 360				# hard
+	delivery_window[0]: 400		# easy
+	delivery_window[1]: 250		# medium
+	delivery_window[2]: 90		# hard
 
-	delivery_window_coef[0]: 1.0			# easy 
-	delivery_window_coef[1]: 1.2			# medium  revenue coef
-	delivery_window_coef[2]: 1.5			# hard
+	delivery_window_coef[0]: 1.0	# easy 
+	delivery_window_coef[1]: 1.15	# medium  revenue coef
+	delivery_window_coef[2]: 1.4	# hard
 
-	hurry_up_timer: 114				# how long the hurry up music will play (in game minutes)
+	hurry_up_timer: 114		# how long the hurry up music will play (in game minutes)
 
-	no_cargo_prob:	0.05				# 20% prob. of empty cargo slot
-	cargo_validity_min: 180				# 3 hours
-	cargo_validity_max: 1800			
+	no_cargo_prob:	0.1		# 10% prob. of empty cargo slot
+	cargo_validity_min: 180		# 3 hours
+	cargo_validity_max: 1800	# 30 hours
 
 	# assistance service
 
-	tow_price_base: 4
-	tow_price_factor: 0.04		# cost per meter (as crow flies)
-	tow_time_base: 1800				# 30 min
-	tow_time_factor: 3				# time per meter (as crow flies)
-	tow_fuel_ratio: 0.0				# emergecy refuel upon tow (tank %)
+	tow_price_base: 15
+	tow_price_factor: 0.4	# cost per meter (as crow flies)
+	tow_time_base: 1800	# 30 min
+	tow_time_factor: 3	# time per meter (as crow flies)
+	tow_fuel_ratio: 0.0	# emergecy refuel upon tow (tank %)
 
 	# emergency refuel
 
 	refuel_fuel: 50
-	refuel_price_base: 120
-	refuel_price_factor: 2	# 2x regular fuel cost
-	refuel_time_base: 4500	# 2 hours 30 min
+	refuel_price_base: 80
+	refuel_price_factor: 3	# 3x regular fuel cost
+	refuel_time_base: 1800	# 30 min
 
 	recharge_energy: 100
 	recharge_price_base: 80
@@ -150,26 +150,27 @@ economy_data : economy.data.storage
 	exp_free_roam: 		0.5			# per km of real world 
 	exp_road_discovery:	0.8			# per km of real world 
 
-	exp_perfect_delivery: 	0.1			# +10% 	
-	exp_adr_bonus:		0.3						# +30%	of total cargo delivery exp. points
-	exp_important_bonus:	0.5			# +50%
-	exp_urgent_bonus:	0.4			# +40%
-	exp_fragile_bonus:	0.3			# +30%
-	exp_long_dist_bonus:	0.3			# +30%
-	exp_valuable_bonus:	0.4			# +40%
+//	exp_late_delivery: 	0.4		# -40% 	
+	exp_perfect_delivery: 	0.24		# +24% 	
+	exp_adr_bonus:		0.21		# +21%	of total cargo delivery exp. points
+	exp_important_bonus:	0.2		# +20%
+	exp_urgent_bonus:	0.3		# +30%
+	exp_fragile_bonus:	0.22		# +22%
+	exp_long_dist_bonus:	0.25		# +25%
+	exp_valuable_bonus:	0.18		# +18%
 
-	exp_park_bonus: 25 	    					# bonus for not using the autopark feature on EASY parking spot 
-	exp_park_bonus_medium: 50   			# bonus for not using the autopark feature on MEDIUM parking spot 
-	exp_park_bonus_hard: 100       		# bonus for not using the autopark feature on HARD parking spot 
+	exp_park_bonus: 15			# bonus for not using the autopark feature on EASY parking spot
+	exp_park_bonus_medium: 30		# bonus for not using the autopark feature on MEDIUM parking spot
+	exp_park_bonus_hard: 60			# bonus for not using the autopark feature on HARD parking spot
 
-	exp_park_double_bonus: 35						# bonus for not using the autopark feature on EASY parking spot with double 
-	exp_park_double_bonus_medium: 75		# bonus for not using the autopark feature on MEDIUM parking spot with double 
-	exp_park_double_bonus_hard: 150			# bonus for not using the autopark feature on HARD parking spot with double 
+	exp_park_double_bonus: 20		# bonus for not using the autopark feature on EASY parking spot with double
+	exp_park_double_bonus_medium: 50	# bonus for not using the autopark feature on MEDIUM parking spot with double
+	exp_park_double_bonus_hard: 100		# bonus for not using the autopark feature on HARD parking spot with double
 
-	exp_park_load_bonus: 30			# exp bonus for manually parking trailer during loading phase of the job 
+	exp_park_load_bonus: 20		# exp bonus for manually parking trailer during loading phase of the job
 
-	exp_damaged_cargo:	15			# -5 XP per 1% of cargo damage
-	exp_damaged_cargo_factor: 0.05			# -5% of total XP per 1% of cargo damage
+	exp_damaged_cargo:	5		# -5 XP per 1% of cargo damage
+	exp_damaged_cargo_factor: 0.04		# -4% of total XP per 1% of cargo damage
 
 
 	adr_info_icon[]:	"1|/material/ui/icon/adr_1.mat"
@@ -301,8 +302,8 @@ economy_data : economy.data.storage
 	currency_code[]: "BGN"
 	currency_ratio[]: 1.96
 	currency_sign1[]: ""
-	currency_sign2[]: ""
-	currency_sign3[]: " лв"
+	currency_sign2[]: "лв"
+	currency_sign3[]: ""
 
 	currency_code[]: "RON"
 	currency_ratio[]: 4.98
