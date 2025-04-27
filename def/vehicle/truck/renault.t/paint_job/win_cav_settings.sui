@@ -1,7 +1,0 @@
-	name: "Cold Mystery"
-	price: 2660
-	unlock: 0
-	airbrush: true
-	base_color: (0.002428, 0.086509, 0.194618)
-	icon: "paintjob_frozencave"
-	part_type: aftermarket

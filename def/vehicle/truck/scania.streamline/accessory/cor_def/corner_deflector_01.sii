@@ -1,7 +1,0 @@
-SiiNunit
-{
-accessory_addon_data : c_defl_01.scania.streamline.cor_def
-{
-	exterior_model : "/vehicle/truck/upgrade/corner_deflector/scania_streamline/corner_deflector_01.pmd"
-}
-}

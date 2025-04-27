@@ -1,7 +1,0 @@
-	name: "Orc Marauder"
-	price: 6390
-	unlock: 0
-	airbrush: true
-	base_color: (0.351514, 0.030718, 0.027321)
-	icon: "paintjob_fantasy_orc.dlc_fantasy"
-	part_type: "aftermarket"

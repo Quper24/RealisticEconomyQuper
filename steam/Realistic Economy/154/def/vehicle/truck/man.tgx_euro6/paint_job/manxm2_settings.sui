@@ -1,7 +1,0 @@
-	name: "Santa Trucker"
-	price: 6140
-	unlock: 0
-	airbrush: true
-	base_color: (0.078000, 0.059000, 0.059000)
-	icon: "paintjob_christmas_trucker.dlc_christmas"
-	part_type: aftermarket

@@ -1,7 +1,0 @@
-	name: "Lightning Bolt"
-	price: 2410
-	unlock: 0
-	airbrush: true
-	base_color: (0.000600, 0.005100, 0.009700)
-	icon: "paintjob_lightning.dlc_nature"
-	part_type: aftermarket

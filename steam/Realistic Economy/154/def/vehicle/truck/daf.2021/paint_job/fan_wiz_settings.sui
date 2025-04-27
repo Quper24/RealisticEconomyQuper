@@ -1,7 +1,0 @@
-	name: "Fire Mage"
-	price: 5810
-	unlock: 0
-	airbrush: true
-	base_color: (0.130147, 0.082291, 0.141274)
-	icon: "paintjob_fantasy_wizard.dlc_fantasy"
-	part_type: "aftermarket"

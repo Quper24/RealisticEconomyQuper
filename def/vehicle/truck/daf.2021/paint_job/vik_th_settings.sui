@@ -1,7 +1,0 @@
-	name: "Thor's Fury"
-	price: 6850
-	unlock: 0
-	airbrush: true
-	base_color: (0.020292, 0.051269, 0.141274)
-	icon: "paintjob_vikings_thor.dlc_vikings"
-	part_type: "aftermarket"

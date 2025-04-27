@@ -1,7 +1,0 @@
-	name: "Pirate Shipwreck"
-	price: 5580
-	unlock: 0
-	airbrush: true
-	base_color: (0.004391, 0.496933, 0.871335)
-	icon: "paintjob_pirates_shipwrecks"
-	part_type: "aftermarket"
