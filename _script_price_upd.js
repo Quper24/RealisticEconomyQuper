@@ -31,7 +31,12 @@ function updateSuiFiles() {
       }
 
       // Определяем путь к .sui файлу
-      const suiFilePath = path.join(currentDir, `${fileName}.sui`);
+      const suiFilePath = path.join(
+        currentDir,
+        "def",
+        "country",
+        `${fileName}.sui`,
+      );
 
       // Проверяем существование файла
       if (!fs.existsSync(suiFilePath)) {

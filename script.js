@@ -103,4 +103,4 @@ function processSiiFiles(directory) {
 }
 
 // Запускаем обработку файлов в текущей директории
-processSiiFiles(path.join(__dirname, "connection"));
+processSiiFiles(path.join(__dirname, "def", "ferry", "connection"));
