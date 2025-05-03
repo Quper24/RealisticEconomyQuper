@@ -3,7 +3,7 @@ country_data : country.data.russia
 	country_id: 38
 
 	name: "Россия"
-	name_localized: "@@russia@@"
+	name_localized: "@@Russia@@"
 	country_code: "RU"
 	iso_country_code: rus
 
@@ -47,7 +47,7 @@ country_data : country.data.russia
 	secondary_time_zone_area[]: (161000.0, 162731.0, -100000.0, -65633.0)
 	secondary_time_zone[]: 300
 	secondary_time_zone_name[]: "@@tz_yekt@@"
-	# Yekaterinburg Time (YEKT), UTC +5 hours от Троицка в право 
+	# Yekaterinburg Time (YEKT), UTC +5 hours от Троицка в право )
 #	secondary_time_zone_area[]: (162715.0, 175000.0, -100000.0, -65865.0)
 	secondary_time_zone_area[]: (162731.0, 175000.0, -100000.0, -70000.0)
 	secondary_time_zone[]: 300

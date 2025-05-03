@@ -8,7 +8,7 @@ country_data : country.data.mauritania
 	country_code: "MR"
 	iso_country_code: mrt
 
-	pos: (165144.66, 10.05 , 148354.88)
+	pos: (-165144.66, 10.05 , 148354.88)
 
 	fuel_price: 4.14
 

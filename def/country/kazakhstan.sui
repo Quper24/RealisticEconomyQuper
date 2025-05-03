@@ -2,7 +2,7 @@ country_data: country.data.kazakhstan
 {
 country_id: 64
 
-name: "Казахстан"
+name: "Kazakhstan"
 name_localized: "@@kazakhstan@@"
 country_code: "KZ"
 iso_country_code: kaz
