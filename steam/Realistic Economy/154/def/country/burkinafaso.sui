@@ -6,9 +6,9 @@ country_data : country.data.burkinafaso
 	name: "Burkina Faso"
 	name_localized: "@@Burkina Faso@@"
 	country_code: "BF"
-	iso_country_code: BFA
+	iso_country_code: bfa
 
-	pos: (425748, 0, -214612)
+	pos: (-92574, 0, 224612)
 
 	fuel_price: 1.029
 

@@ -7,7 +7,7 @@ country_data : country.data.nireland
 	country_code: "GB"
 	iso_country_code: gbr
 
-	pos: (-300000, 0, -300000)
+	pos: (-70000, 0, -52000)
 
 	fuel_price: 1.55
 

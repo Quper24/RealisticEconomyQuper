@@ -5,8 +5,8 @@ country_data : country.data.senegal
 
 	name: "Senegal"
 	name_localized: "@@Senegal@@"
-	country_code: "SEG"
-	iso_country_code: sen
+	country_code: "SN"
+	iso_country_code: SEN
 
 	pos: (-174597, 0, 178165)
 

@@ -3,8 +3,8 @@ country_data : country.data.gambia
 {
 	country_id: 113
 
-	name: "The Gambia"
-	name_localized: "@@The Gambia@@"
+	name: "Gambia"
+	name_localized: "@@Gambia@@"
 	country_code: "GM"
 	iso_country_code: gmb
 

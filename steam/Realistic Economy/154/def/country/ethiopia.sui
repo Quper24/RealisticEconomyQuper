@@ -5,7 +5,7 @@ country_data : country.data.ethiopia
 
 	name: "Ethiopia"
 	name_localized: "@@Ethiopia@@"
-	country_code: "ET"
+	country_code: "ETH"
 	iso_country_code: eth
 
 	pos: (194780, 0, 235995)

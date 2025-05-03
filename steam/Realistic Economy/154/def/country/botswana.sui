@@ -6,9 +6,9 @@ country_data : country.data.botswana
 	name: "Botswana"
 	name_localized: "@@Botswana@@"
 	country_code: "BW"
-	iso_country_code: bsw
+	iso_country_code: bwa
 
-	pos: (-42290, 0, -14150)
+	pos: (85000, 0, 495000)
 
 	fuel_price: 0.962
 

@@ -8,7 +8,7 @@ country_data : country.data.uganda
 	country_code: "UG"
 	iso_country_code: uga
 
-	pos: (-42290, 0, -14150)
+	pos: (165000, 0, 290000)
 
 	fuel_price: 1.196
 
