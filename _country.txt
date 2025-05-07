@@ -1,35 +1,38 @@
 aland - "Åland" - 0.95 # https://www.mypetrolprice.com/karnataka/gulbarga/Diesel-price-in-aland/630103
-albania - "Shqipëria" - 1.751
-algeria - "Algeria" - 0.193
-andorra - "Andorra" - 1.178
-armenia - "Hayastan" - 1.157
-austria - "Österreich" - 1.492
+albania - "Shqipëria" - 1.760
+algeria - "Algeria" - 0.192
+andorra - "Andorra" - 1.167
+antarctica - "Antarctica" - 1.0 #fix
+armenia - "Hayastan" - 1.136
+austria - "Österreich" - 1.487
 azerbaijan - "Azerbaycan" - 0.517
-bangladesh - "Bangladesh" - 0.759
-belarus - "Беларусь" - 0.693
+bangladesh - "Bangladesh" - 0.753
+belarus - "Беларусь" - 0.699
 belgium - "België/Belgique" - 1.579
-bosnia - "Bosna i Hercegovina" - 1.160
-botswana - "Botswana" - 0.962
+bosnia - "Bosna i Hercegovina" - 1.156
+botswana - "Botswana" - 0.969
 brunei - "Brunei" - 0.38 # fix
 bulgaria - "България" - 1.196
-burkinafaso - "Burkina Faso" - 1.029
-cambodia - "Cambodia" - 0.768
-cameroon - "Cameroon" - 1.262
-canada - "Canada" - 0.924
-car - "C. Afr. Rep." - 2.057
+burkinafaso - "Burkina Faso" - 1.030
+cambodia - "Cambodia" - 0.777
+cameroon - "Cameroon" - 1.257
+canada - "Canada" - 0.915
+car - "C. Afr. Rep." - 1.898
+chad - Chad - 0.024 	# Libya
+china - China - 0.821
 croatia - "Hrvatska" - 1.481
 cyprus - "Κύπρος" - 1.423
-czech - "Česká Republika" - 1.333
+czech - "Česká Republika" - 1.331
 denmark - "Danmark" - 1.839
-egypt - "Masr" - 0.268
+egypt - "Masr" - 0.269
 equatorial_g - "Equatorial Guinea" - 0.40 #fix
 estonia - "Eesti" - 1.378
-ethiopia - "Ethiopia" - 0.708
+ethiopia - "Ethiopia" -0.711
 faroe - "Føroyar" - 0.56  #fix
 finland - "Suomi" - 1.671
 france - "France" - 1.553
 gambia - "The Gambia" - 0.80  #fix
-georgia - "საქართველო" - 0.959
+georgia - "საქართველო" - 0.958
 germany - "Deutschland" - 1.567
 ghana - "Ghana" - 0.947
 greece - "Ελλάδα" - 1.482
@@ -61,6 +64,7 @@ lithuania - "Lietuva" - 1.440
 luxembourg - "Lëtzebuerg" - 1.367
 macedonia - "Северна Македонија" - 1.040 #fix
 malaysia - "Malaysia" - 0.605
+maledives - "Maldives" - 1.11
 mali - "Mali" - 1.105
 malta - "Malta" - 1.210
 mauritania - "Mauritania" - 4.14 # fix
@@ -76,6 +80,8 @@ nigeria - "nigeria" - 0.534
 nireland - "Northern-Ireland" - 1.55
 norway - "Norge" - 1.614
 papuang - "Papua New Guinea" - 0.72 #fix
+paraiba - Paraiba - 2.28
+pernambuco - Pernambuco -  2.35
 philippines - "Philippines" - 0.787
 poland - "Polska" - 1.404
 portugal - "Portugal" - 1.554
@@ -83,6 +89,7 @@ romania - "România" - 1.426
 russia - "Россия" - 0.759
 sanmarino - "San Marino" - 1.458
 saudia - "Saudi Arabia" - 0.389
+saudia1 - "Saudi Arabia" - 0.389
 senegal - "Senegal" - 1.151
 serbia - "Србија" - 1.612
 singapore - "Singapore" - 1.678
@@ -94,6 +101,7 @@ south_africa - "South Africa" - 1.036
 spain - "España" - 1.374
 stpierre - "Saint-Pierre-et-Miquelon" - 1.90 #fix
 sudan - "sudan" - 0.576
+sudan1 - "sudan" - 0.576
 svalbard - "Svalbard" - 1.7 #fix
 sweden - "Sverige" - 1.481
 switzerland - "Schweiz" - 1.935
