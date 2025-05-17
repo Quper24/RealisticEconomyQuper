@@ -4,7 +4,6 @@ const path = require("path");
 // Пути к файлам
 const dieselPath = path.resolve(__dirname, "diesel_prices.json");
 const countriesPath = path.resolve(__dirname, "countries.json");
-const outputFilePath = path.resolve(__dirname, "updated_countries.json");
 
 // Чтение JSON-файлов
 const dieselData = JSON.parse(fs.readFileSync(dieselPath, "utf8"));
@@ -23,15 +22,15 @@ const updatedCountries = countriesData.map((country) => {
   const dieselPrice = priceMap.get(country.name_en.trim().toLowerCase());
   return {
     ...country,
-    price: dieselPrice !== undefined ? dieselPrice : "-",
+    price: dieselPrice !== undefined ? dieselPrice : country.price,
   };
 });
 
-// Записываем обновлённые данные в новый файл
+// Перезаписываем файл countries.json с обновлёнными ценами
 fs.writeFileSync(
-  outputFilePath,
+  countriesPath,
   JSON.stringify(updatedCountries, null, 2),
   "utf8",
 );
 
-console.log(`✅ Цены успешно обновлены и сохранены в ${outputFilePath}`);
+console.log("✅ Цены успешно обновлены и сохранены в countries.json");

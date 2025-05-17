@@ -25,7 +25,7 @@
   },
   {
     "name": "Antarctica",
-    "price": 5.0,
+    "price": 5,
     "filename": "antarctica.sui",
     "name_en": "Antarctica"
   },
@@ -115,7 +115,7 @@
   },
   {
     "name": "Central African Republic",
-    "price": 1.898,
+    "price": 1.893,
     "filename": "car.sui",
     "name_en": "C. Afr. Rep."
   },
@@ -145,7 +145,7 @@
   },
   {
     "name": "Česká Republika",
-    "price": 1.327,
+    "price": 1.32,
     "filename": "czech.sui",
     "name_en": "Czech Republic"
   },
@@ -259,19 +259,19 @@
   },
   {
     "name": "Indonesia",
-    "price": 0.739,
+    "price": 0.743,
     "filename": "indo_b.sui",
     "name_en": "Indonesia"
   },
   {
     "name": "_",
-    "price": 0.739,
+    "price": 0.743,
     "filename": "indo_th.sui",
     "name_en": "Indonesia"
   },
   {
     "name": "__",
-    "price": 0.739,
+    "price": 0.743,
     "filename": "indo_tm.sui",
     "name_en": "Indonesia"
   },
@@ -379,7 +379,7 @@
   },
   {
     "name": "Liechtenstein",
-    "price": 1.947,
+    "price": 1.938,
     "filename": "liecht.sui",
     "name_en": "Liechtenstein"
   },
@@ -553,7 +553,7 @@
   },
   {
     "name": "San Marino",
-    "price": 1.446,
+    "price": 1.441,
     "filename": "sanmarino.sui",
     "name_en": "San Marino"
   },
@@ -613,7 +613,7 @@
   },
   {
     "name": "south_africa",
-    "price": 1.038,
+    "price": 1.049,
     "filename": "south_africa.sui",
     "name_en": "South Africa"
   },

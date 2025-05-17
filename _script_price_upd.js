@@ -1,64 +1,64 @@
 const fs = require("fs");
 const path = require("path");
 
-// Функция для обновления значений fuel_price в .sui файлах
-function updateSuiFiles() {
-  const currentDir = __dirname; // Текущая директория
-  const countryFilePath = path.join(currentDir, "_country.txt"); // Путь к файлу _country.txt
+// Путь к папке с файлами стран
+const countryDir = path.join(__dirname, "def", "country");
 
-  // Чтение содержимого файла _country.txt
-  fs.readFile(countryFilePath, "utf-8", (err, data) => {
+// Путь к JSON файлу
+const jsonFilePath = path.join(__dirname, "countries.json");
+
+function updateCountryFiles() {
+  // Чтение JSON
+  fs.readFile(jsonFilePath, "utf-8", (err, data) => {
     if (err) {
-      console.error("Ошибка при чтении файла _country.txt:", err);
+      console.error("Ошибка при чтении countries.json:", err);
       return;
     }
 
-    // Разбиваем данные на строки
-    const lines = data.trim().split("\n");
+    let countries;
+    try {
+      countries = JSON.parse(data);
+    } catch (parseErr) {
+      console.error("Ошибка парсинга JSON:", parseErr);
+      return;
+    }
 
-    // Обрабатываем каждую строку
-    lines.forEach((line) => {
-      // Убираем комментарии (всё после символа #)
-      const cleanLine = line.split("#")[0].trim();
+    // Обрабатываем каждую страну
+    countries.forEach((country) => {
+      const { filename, price } = country;
 
-      // Парсим строку: greenland - "Kalaallit Nunaat" - 0,61
-      const [fileName, nameQuoted, fuelPrice] = cleanLine.split(" - ");
-      const newFuelPrice = parseFloat(fuelPrice.replace(",", ".")); // Преобразуем запятую в точку и парсим число
+      // Пробуем разные расширения: .sui и .sii
+      const extensions = [".sui", ".sii"];
+      let fileFound = false;
 
-      if (!fileName || isNaN(newFuelPrice)) {
-        console.warn(`Некорректная строка: ${line}`);
-        return;
+      for (const ext of extensions) {
+        const filePath = path.join(
+          countryDir,
+          filename.replace(/\.(sui|sii)$/, "") + ext,
+        );
+
+        if (fs.existsSync(filePath)) {
+          fileFound = true;
+          let content = fs.readFileSync(filePath, "utf-8");
+
+          // Меняем fuel_price
+          const updatedContent = content.replace(
+            /fuel_price:\s*[\d.,]+/i,
+            `fuel_price: ${price.toString().replace(",", ".")}`,
+          );
+
+          fs.writeFileSync(filePath, updatedContent, "utf-8");
+          console.log(`Обновлено: ${filePath} -> fuel_price: ${price}`);
+          break;
+        }
       }
 
-      // Определяем путь к .sui файлу
-      const suiFilePath = path.join(
-        currentDir,
-        "def",
-        "country",
-        `${fileName}.sui`,
-      );
-
-      // Проверяем существование файла
-      if (!fs.existsSync(suiFilePath)) {
-        console.warn(`Файл не найден: ${suiFilePath}`);
-        return;
+      if (!fileFound) {
+        console.warn(`Файл не найден для: ${filename} (.sui или .sii)`);
       }
-
-      // Читаем содержимое .sui файла
-      let content = fs.readFileSync(suiFilePath, "utf-8");
-
-      // Ищем и заменяем значение fuel_price
-      const updatedContent = content.replace(
-        /fuel_price:\s*[\d.,]+/,
-        `fuel_price: ${newFuelPrice}`,
-      );
-
-      // Записываем обновленное содержимое обратно в файл
-      fs.writeFileSync(suiFilePath, updatedContent, "utf-8");
-      console.log(`Обновлено: ${suiFilePath} -> fuel_price: ${newFuelPrice}`);
     });
   });
 }
 
-// Запуск обновления файлов
-updateSuiFiles();
+// Запуск
+updateCountryFiles();
