@@ -1,20 +1,20 @@
 aland - "Åland" - 1.375 # https://www.mypetrolprice.com/karnataka/gulbarga/Diesel-price-in-aland/630103
-albania - "Shqipëria" - 1.760
-algeria - "Algeria" - 0.192
-andorra - "Andorra" - 1.167
+albania - "Albania" - 1.749
+algeria - "Algeria" - 0.194
+andorra - "Andorra" - 1.169
 antarctica - "Antarctica" - 5.0 #fix
-armenia - "Hayastan" - 1.136
-austria - "Österreich" - 1.487
-azerbaijan - "Azerbaycan" - 0.517
-bangladesh - "Bangladesh" - 0.753
-belarus - "Беларусь" - 0.699
-belgium - "België/Belgique" - 1.551
-bosnia - "Bosna i Hercegovina" - 1.151
-botswana - "Botswana" - 0.969
+armenia - "Armenia" - 1.129
+austria - "Austria" - 1.465
+azerbaijan - "Azerbaijan" - 0.526
+bangladesh - "Bangladesh" - 0.766
+belarus - "Belarus" - 0.711
+belgium - "Belgium" - 1.551
+bosnia - "Bosnia & Herz." - 1.143
+botswana - "Botswana" - 0.979
 brunei - "Brunei" - 0.475 # fix
-bulgaria - "България" - 1.191
-burkinafaso - "Burkina Faso" - 1.030
-cambodia - "Cambodia" - 0.777
+bulgaria - "Bulgaria" - 1.172
+burkinafaso - "Burkina Faso" - 1.022
+cambodia - "Cambodia" - 0.772
 cameroon - "Cameroon" - 1.257
 canada - "Canada" - 0.915
 car - "C. Afr. Rep." - 1.898

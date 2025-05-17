@@ -4,7 +4,7 @@ country_data : country.data.intw
 	country_id: 253
 
 	name: "International Waters"
-	name_localized:: "@@intw@@"
+	name_localized: "@@intw@@"
 	country_code: "XZ"
 	iso_country_code: xz
 

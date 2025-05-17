@@ -1,17 +1,17 @@
 
 country_data : country.data.algeria
 {
-    country_id: 93
+	country_id: 93
 
 	name: "Algeria"
 	name_localized: "@@Algeria@@"
 	country_code: "ALG"
 	iso_country_code: dza
-	
+
 	pos:(-37500, 0, 76500)
-	
+
 	fuel_price: 0.192
-	
+
 	lights_mandatory: false
 	driving_tired_offence: false
 
