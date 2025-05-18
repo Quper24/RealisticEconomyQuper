@@ -1,21 +1,21 @@
 
-country_data : country.data.car
+country_data : country.data.westsahara
 {
-	country_id: 101
+	country_id: 145
 
-	name: "Central African Republic"
-	name_localized: "@@Central African Republic@@"
-	country_code: "CF"
-	iso_country_code: caf
+	name: "Western Sahara"
+	name_localized: "@@Western Sahara@@"
+	country_code: "EH"
+	iso_country_code: ESH
 
-	pos:(67000, 0, 265000)
+	pos: (-143934, 0, 118134)
 
-	fuel_price: 1.893
+	fuel_price: 1.8
 
 	lights_mandatory: false
 	driving_tired_offence: true
 
-	time_zone: 60		# +1 hours in minutes
+	time_zone: 0		# +0 hours in minutes
 	time_zone_name: "@@tz_bst@@"
 
 	mass_limit_per_axle_count[]: 18000	# 2-axle vehicle

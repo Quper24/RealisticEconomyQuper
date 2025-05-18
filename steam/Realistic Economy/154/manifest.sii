@@ -1,26 +1,26 @@
 SiiNunit
 {
-mod_package : .package_name
-{
+	mod_package : .package_name
+	{
 
-	# Package version can be any string with any length.
-	package_version: "1.54.9"
+		# Package version can be any string with any length.
+		package_version: "1.54.10"
 
-	# Display name can be any string with any length.
+		# Display name can be any string with any length.
 
-	# Author can be any string with any length.
-	author: "Quper"
-	
+		# Author can be any string with any length.
+		author: "Quper"
 
-	# Categories is an array of strings.
-	category[]: "ui"
-	category[]: "other"
-                                
-	# Icon inside the root directory of the mod.
-	icon: "image.jpg"
 
-	# Description file inside the root directory of the mod.
-	description_file: "description.txt"
+		# Categories is an array of strings.
+		category[]: "ui"
+		category[]: "other"
 
-}
+		# Icon inside the root directory of the mod.
+		icon: "image.jpg"
+
+		# Description file inside the root directory of the mod.
+		description_file: "description.txt"
+
+	}
 }
