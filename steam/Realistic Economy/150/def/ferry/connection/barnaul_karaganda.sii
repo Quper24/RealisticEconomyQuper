@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.barnaul.karaganda {
-	price: 8
-	time: 35
-	distance: 60
-}
-}

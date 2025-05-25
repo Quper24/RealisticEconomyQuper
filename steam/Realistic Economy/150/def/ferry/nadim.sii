@@ -1,7 +1,0 @@
-ferry_data: ferry.nadim
-{
-	ferry_name: "Надым"
-	ferry_name_localized: "@@Надым@@"
-	transport_type: "train"
-}
-

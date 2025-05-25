@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.barcelona.palmadem {
-	price: 211
-	time: 520
-	distance: 248
-}
-}

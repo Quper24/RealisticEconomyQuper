@@ -1,7 +1,0 @@
-ferry_data: ferry.trent
-{
-	ferry_name: "Trent"
-	ferry_name_localized: "@@Trent@@"
-}
-
-

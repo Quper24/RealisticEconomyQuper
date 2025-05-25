@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.ancona.zadar{
-	price: 85
-	time: 360
-	distance: 180
-}
-}
-

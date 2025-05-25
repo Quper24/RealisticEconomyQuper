@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.messina.igoumenitsa {
-	price: 85
-	time: 750
-	distance: 400
-}
-}

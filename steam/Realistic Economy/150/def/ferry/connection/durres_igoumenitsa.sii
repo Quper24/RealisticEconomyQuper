@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.durres.igoumenitsa {
-	price: 53
-	time: 735
-	distance: 451
-}
-}
-

@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.santander.cork {
-	price: 78
-	time: 1505
-	distance: 780
-}
-}
-

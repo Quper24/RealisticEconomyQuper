@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.vanimo.korsakov {
-	price: 222
-	time: 5098
-	distance: 3126
-}
-}

@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.samsun.trabzon{
-	price: 48
-	time: 460
-	distance: 350
-}
-}
-

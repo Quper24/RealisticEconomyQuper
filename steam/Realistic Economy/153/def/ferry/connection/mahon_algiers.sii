@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.mahon.algiers {
-	price: 80
-	time: 650
-	distance: 297
-}
-}

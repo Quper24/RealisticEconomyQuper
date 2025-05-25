@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.vanimo.jakarta {
-	price: 222
-	time: 3698
-	distance: 3126
-}
-}

@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.menorca.valencia{
-	price: 65
-	time: 585
-	distance: 310
-}
-}
-

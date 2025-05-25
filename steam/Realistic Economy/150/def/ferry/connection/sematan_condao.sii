@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.sematan.condao {
-	price: 35
-	time: 960
-	distance: 665
-}
-}

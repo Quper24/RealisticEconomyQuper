@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.nanortalik.brensholmen {
-	price: 121
-	time: 3952
-	distance: 2089
-}
-}

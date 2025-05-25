@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.oslo.swinoujscie {
-	price: 100
-	time: 1475
-	distance: 861
-}
-}

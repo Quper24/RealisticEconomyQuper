@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.portoferraio.bastia {
-	price: 23
-	time: 180
-	distance: 82
-}
-}
-

@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.malabo.banjul {
-	price: 23
-	time: 910
-	distance: 400
-}
-}
-

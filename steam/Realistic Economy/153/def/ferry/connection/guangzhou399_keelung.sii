@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.guangzhou399.keelung {
-	price: 101
-	time: 2644
-	distance: 1907
-}
-}
-

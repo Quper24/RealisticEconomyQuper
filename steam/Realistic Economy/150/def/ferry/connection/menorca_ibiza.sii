@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.menorca.ibiza{
-	price: 47
-	time: 385
-	distance: 210
-}
-}
-

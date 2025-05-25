@@ -1,8 +1,0 @@
-
-ferry_data: ferry.dalian
-{
-	ferry_name: "Dalian Port, China"
-	ferry_name_localized: "@@Dalian Port, China@@"
-}
-
-

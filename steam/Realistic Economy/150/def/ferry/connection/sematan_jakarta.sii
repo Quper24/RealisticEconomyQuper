@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.sematan.jakarta {
-	price: 65
-	time: 1100
-	distance: 887
-}
-}

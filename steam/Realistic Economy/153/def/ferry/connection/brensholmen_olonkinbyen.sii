@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.brensholmen.olonkinbyen {
-	price: 129
-	time: 2517
-	distance: 1280
-}
-}

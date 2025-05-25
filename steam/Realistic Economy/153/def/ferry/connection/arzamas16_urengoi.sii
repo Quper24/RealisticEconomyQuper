@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.arzamas16.urengoi {
-	price: 1200
-	time: 7500
-	distance: 3200
-}
-}
-

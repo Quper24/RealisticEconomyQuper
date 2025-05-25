@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.varna.odessa{
-	price: 66
-	time: 766
-	distance: 350
-}
-}

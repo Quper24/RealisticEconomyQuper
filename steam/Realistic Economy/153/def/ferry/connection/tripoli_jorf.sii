@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.tripoli.jorf{
-	price: 35
-	time: 600
-	distance: 300
-}
-}

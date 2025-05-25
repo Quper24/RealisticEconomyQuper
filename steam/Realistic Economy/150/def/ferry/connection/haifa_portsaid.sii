@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.haifa.portsaid{
-  price: 79
-	time: 725
-	distance: 390
-}
-}
-

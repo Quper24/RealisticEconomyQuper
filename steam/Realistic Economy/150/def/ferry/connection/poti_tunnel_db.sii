@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.poti.tunnel_db{
-	price: 133
-	time: 2172
-	distance: 1489
-}
-}
-

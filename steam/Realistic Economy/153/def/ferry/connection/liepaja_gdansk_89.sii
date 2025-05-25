@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.liepaja.gdansk_89{
-	price: 75
-	time: 599
-	distance: 300
-}
-}
-

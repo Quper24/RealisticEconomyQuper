@@ -1,8 +1,0 @@
-
-ferry_data: ferry.tripoli
-{
-	ferry_name: "Port of Tripoli, Libya"
-	ferry_name_localized: "@@Port of Tripoli, Libya@@"
-}
-
-

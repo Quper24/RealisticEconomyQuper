@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.poti.turkmenbashi{
-	price: 66
-	time: 666
-	distance: 350
-}
-}

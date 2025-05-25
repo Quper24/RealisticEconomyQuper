@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.nynashamn.faarosund {
-	price: 12
-	time: 200
-	distance: 200
-}
-}
-

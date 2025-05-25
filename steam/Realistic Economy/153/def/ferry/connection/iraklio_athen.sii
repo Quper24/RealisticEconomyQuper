@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.iraklio.athen {
-	price: 26
-	time: 451
-	distance: 365
-}
-}
-

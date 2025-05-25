@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.split.trieste{
-	price: 55
-	time: 720
-	distance: 330
-}
-}
-

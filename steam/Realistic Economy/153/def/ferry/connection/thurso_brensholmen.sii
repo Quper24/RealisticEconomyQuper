@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.thurso.brensholmen {
-	price: 134
-	time: 3074
-	distance: 1813
-}
-}

@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.portotorres.genova {
-	price: 30
-	time: 670
-	distance: 410
-}
-}
-

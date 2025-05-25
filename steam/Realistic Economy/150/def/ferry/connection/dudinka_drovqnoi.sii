@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.dudinka.drovqnoi {
-	price: 15
-	time: 250
-	distance: 250
-}
-}
-

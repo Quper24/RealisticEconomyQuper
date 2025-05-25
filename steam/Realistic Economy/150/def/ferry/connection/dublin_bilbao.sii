@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.dublin.bilbao {
-	price: 122
-	time: 1598
-	distance: 791
-}
-}

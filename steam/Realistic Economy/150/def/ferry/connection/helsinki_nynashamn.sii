@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.helsinki.nynashamn{
-	price: 85
-	time: 719
-	distance: 400
-}
-}
-

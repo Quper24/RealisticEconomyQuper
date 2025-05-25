@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.izmir.chios {
-	price: 24
-	time: 166
-	distance: 114
-
-}
-}

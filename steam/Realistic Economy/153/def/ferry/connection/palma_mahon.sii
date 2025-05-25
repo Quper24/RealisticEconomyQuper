@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.palma.mahon {
-	price: 39
-	time: 300
-	distance: 107
-}
-}

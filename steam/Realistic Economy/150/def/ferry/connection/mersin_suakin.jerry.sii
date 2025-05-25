@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.mersin.suakin {
-	price: 105
-	time: 6950
-	distance: 7015
-}
-}
-

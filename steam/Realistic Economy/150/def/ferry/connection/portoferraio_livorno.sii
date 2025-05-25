@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.portoferraio.livorno {
-	price: 7
-	time: 78
-	distance: 100
-}
-}
-

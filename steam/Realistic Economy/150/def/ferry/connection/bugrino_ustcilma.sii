@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.bugrino.ustcil{
-	price: 91
-	time: 600
-	distance: 301
-}
-}
-

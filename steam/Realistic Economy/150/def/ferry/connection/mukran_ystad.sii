@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.mukran.ystad {
-	price: 17
-	time: 280
-	distance: 106
-}
-}
-

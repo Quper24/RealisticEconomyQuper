@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.ilhabela.roscoff {
-	price: 254
-	time: 1450
-	distance: 4755
-}
-}
-

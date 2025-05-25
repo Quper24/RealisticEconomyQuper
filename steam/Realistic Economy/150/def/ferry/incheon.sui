@@ -1,8 +1,0 @@
-
-ferry_data: ferry.incheon
-{
-	ferry_name: "Incheon Port, South Korea"
-	ferry_name_localized: "@@Incheon Port, South Korea@@"
-}
-
-

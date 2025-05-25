@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.portsmouth.calais {
-	price: 70
-	time: 776
-	distance: 305
-}
-}
-

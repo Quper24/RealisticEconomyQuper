@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.saotome.monrovia {
-	price: 214
-	time: 1000
-	distance: 3000
-}
-}
-

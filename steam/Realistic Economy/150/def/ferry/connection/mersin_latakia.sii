@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.mersin.latakia{
-	price: 58
-	time: 321
-	distance: 250
-}
-}

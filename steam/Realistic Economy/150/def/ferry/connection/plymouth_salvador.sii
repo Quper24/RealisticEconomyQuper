@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.plymouth.salvador{
-	price: 253
-	time: 1452
-	distance: 4709
-}
-}
-

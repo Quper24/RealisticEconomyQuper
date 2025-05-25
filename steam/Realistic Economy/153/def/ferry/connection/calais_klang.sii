@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.calais.klang {
-	price: 330
-	time: 9960
-	distance: 5500
-}
-}

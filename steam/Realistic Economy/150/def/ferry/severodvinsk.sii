@@ -1,6 +1,0 @@
-ferry_data: ferry.severodvinsk
-{
-	ferry_name: "Северодвинск"
-    ferry_name_localized: "@@Северодвинск@@"
-}
-

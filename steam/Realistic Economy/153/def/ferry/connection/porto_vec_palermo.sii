@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.porto_vec.palermo{
-	price: 85
-	time: 900
-	distance: 450
-}
-}

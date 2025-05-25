@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.dalian.vanino{
-	price: 133
-	time: 2892
-	distance: 2008
-}
-}
-

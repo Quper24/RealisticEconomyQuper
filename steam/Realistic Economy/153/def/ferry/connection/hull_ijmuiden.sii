@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.hull.ijmuiden {
-	price: 90
-	time: 1050
-	distance: 525
-}
-}
-

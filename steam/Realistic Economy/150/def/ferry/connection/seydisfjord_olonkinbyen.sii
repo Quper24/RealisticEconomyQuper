@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.seydisfjord.olonkinbyen {
-	price: 90
-	time: 1507
-	distance: 1080
-}
-}

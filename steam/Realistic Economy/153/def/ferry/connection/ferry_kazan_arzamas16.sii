@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.ferry_kazan.arzamas16 {
-	price: 85
-	time: 786
-	distance: 420
-}
-}
-

@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.corfu.bari {
-	price: 56
-	time: 667
-	distance: 300
-}
-}

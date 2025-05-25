@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.genova.bastia {
-	price: 27
-	time: 498
-	distance: 241
-}
-}
-

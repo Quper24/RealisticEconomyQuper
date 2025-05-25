@@ -1,7 +1,0 @@
-ferry_data: ferry.livorno
-{
-	ferry_name: "Livorno"
-	ferry_name_localized: "@@Livorno@@"
-}
-
-

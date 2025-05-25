@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.samsun.sevas{
-	price: 38
-	time: 890
-	distance: 450
-}
-}
-

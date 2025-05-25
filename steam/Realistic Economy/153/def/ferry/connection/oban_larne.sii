@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.oban.larne {
-	price: 69
-	time: 610
-	distance: 300
-}
-}
-

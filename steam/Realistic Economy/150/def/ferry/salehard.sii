@@ -1,6 +1,0 @@
-ferry_data: ferry.salehard
-{
-	ferry_name: "Салехард"
-    ferry_name_localized: "@@Салехард@@"
-}
-

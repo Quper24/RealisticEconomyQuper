@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.dudinka.kirkenes {
-	price: 94
-	time: 1999
-	distance: 2506
-}
-}
-
