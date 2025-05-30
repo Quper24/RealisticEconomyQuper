@@ -1,0 +1,273 @@
+SiiNunit
+{
+vehicle: .truck
+{
+	accessories[]: .mercedes.data
+	accessories[]: .mercedes.chassis
+	accessories[]: .mercedes.cabin
+	accessories[]: .mercedes.interior
+	accessories[]: .mercedes.engine
+	accessories[]: .mercedes.transmission
+	accessories[]: .mercedes.head_light
+	accessories[]: .mercedes.paint_job
+	accessories[]: .mercedes.doorstep
+	accessories[]: .mercedes.doorhndl
+	accessories[]: .mercedes.mirror
+	accessories[]: .mercedes.sideskirt
+	accessories[]: .mercedes.sunshld
+	accessories[]: .mercedes.f_mirror
+	accessories[]: .mercedes.s_mirror
+	accessories[]: .mercedes.ftire
+	accessories[]: .mercedes.fdisc
+	accessories[]: .mercedes.fhub
+	accessories[]: .mercedes.fnuts
+	accessories[]: .mercedes.rtire
+	accessories[]: .mercedes.rdisc
+	accessories[]: .mercedes.rhub
+	accessories[]: .mercedes.rnuts
+	accessories[]: .mercedes.rtire2
+	accessories[]: .mercedes.rdisc2
+	accessories[]: .mercedes.rhub2
+	accessories[]: .mercedes.rnuts2
+	accessories[]: .mercedes.swheel
+	accessories[]: .trlr_cables
+	
+ accessories[]: .mercedes.s_strip
+ accessories[]: .mercedes.f_fender_cab
+ accessories[]: .mercedes.f_fender_chs
+ accessories[]: .mercedes.f_intake_cab
+ accessories[]: .mercedes.f_wnd_frame
+ accessories[]: .mercedes.f_light_chs
+ accessories[]: .mercedes.f_bumper
+ accessories[]: .mercedes.f_logo
+ accessories[]: .mercedes.r_bumper
+ accessories[]: .mercedes.r_mudflap
+ accessories[]: .mercedes.r_fendr_top
+ accessories[]: .mercedes.r_fender
+ accessories[]: .mercedes.cor_def
+ accessories[]: .mercedes.f_inlay_cab
+ accessories[]: .mercedes.f_inlay_chs
+ accessories[]: .mercedes.badge_b
+ accessories[]: .mercedes.badge_a
+}
+
+vehicle_accessory : .mercedes.data {
+	data_path: "/def/vehicle/truck/mercedes.actros/data.sii"
+}
+vehicle_accessory : .mercedes.chassis {
+	data_path: "/def/vehicle/truck/mercedes.actros/chassis/6x4a.sii"
+}
+vehicle_accessory : .mercedes.cabin {
+	data_path: "/def/vehicle/truck/mercedes.actros/cabin/megaspace.sii"
+}
+vehicle_accessory : .mercedes.interior {
+	data_path: "/def/vehicle/truck/mercedes.actros/interior/exclusive_uk.sii"
+}
+vehicle_accessory : .mercedes.engine {
+	data_path: "/def/vehicle/truck/mercedes.actros/engine/1860ls.sii"
+}
+vehicle_accessory : .mercedes.transmission {
+	data_path: "/def/vehicle/truck/mercedes.actros/transmission/g280_16_r.sii"
+}
+vehicle_accessory : .mercedes.head_light {
+	data_path: "/def/vehicle/truck/mercedes.actros/head_light/standard.sii"
+}
+vehicle_paint_job_accessory : .mercedes.paint_job {
+	mask_r_color: (1.0, 0.0, 0.0)
+	mask_g_color: (0.0, 1.0, 0.0)
+	mask_b_color: (0.0, 0.0, 1.0)
+
+    flip_color: (.5, .5, .5)
+    flake_color: (.3, .3, .3)
+	data_path: "/def/vehicle/truck/mercedes.actros/paint_job/color0m.sii"
+}
+vehicle_addon_accessory : .mercedes.doorstep {
+	slot_name: 0
+	slot_hookup: 0
+	data_path: "/def/vehicle/truck/mercedes.actros/accessory/doorstep/shape1.sii"
+}
+vehicle_addon_accessory : .mercedes.doorhndl {
+	slot_name: 0
+	slot_hookup: 0
+	data_path: "/def/vehicle/truck/mercedes.actros/accessory/doorhndl/shape3.sii"
+}
+vehicle_addon_accessory : .mercedes.mirror {
+	slot_name: 0
+	slot_hookup: 0
+	data_path: "/def/vehicle/truck/mercedes.actros/accessory/mirror/shape3.sii"
+}
+vehicle_addon_accessory : .mercedes.sideskirt {
+	slot_name: 0
+	slot_hookup: 0
+	data_path: "/def/vehicle/truck/mercedes.actros/accessory/sideskirt/shape1.sii"
+}
+vehicle_addon_accessory : .mercedes.sunshld {
+	slot_name: 0
+	slot_hookup: 0
+	data_path: "/def/vehicle/truck/mercedes.actros/accessory/sunshld/shape1.sii"
+}
+vehicle_addon_accessory : .mercedes.f_mirror {
+	slot_name: 0
+	slot_hookup: 0
+	data_path: "/def/vehicle/truck/mercedes.actros/accessory/f_mirror/shape1.sii"
+}
+vehicle_addon_accessory : .mercedes.s_mirror {
+	slot_name: 0
+	slot_hookup: 0
+	data_path: "/def/vehicle/truck/mercedes.actros/accessory/s_mirror/shape1.sii"
+}
+vehicle_wheel_accessory : .mercedes.ftire {
+	offset: 0
+	data_path: "/def/vehicle/f_tire/1.sii"
+}
+vehicle_wheel_accessory : .mercedes.fdisc {
+	offset: 0
+	data_path: "/def/vehicle/f_disc/front_disc_02_matt_gray.sii"
+}
+vehicle_wheel_accessory : .mercedes.fhub {
+	offset: 0
+	data_path: "/def/vehicle/f_hub/front_hub_01.sii"
+}
+vehicle_wheel_accessory : .mercedes.fnuts {
+	offset: 0
+	data_path: "/def/vehicle/f_nuts/front_nuts_01_steel.sii"
+}
+vehicle_wheel_accessory : .mercedes.rtire {
+	offset: 0
+	data_path: "/def/vehicle/r_tire/1.sii"
+}
+vehicle_wheel_accessory : .mercedes.rdisc {
+	offset: 0
+	data_path: "/def/vehicle/r_disc/rear_disc_01_matt_gray.sii"
+}
+vehicle_wheel_accessory : .mercedes.rhub {
+	offset: 0
+	data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+}
+vehicle_wheel_accessory : .mercedes.rnuts {
+	offset: 0
+	data_path: "/def/vehicle/r_nuts/rear_nuts_01_steel.sii"
+}
+vehicle_wheel_accessory : .mercedes.rtire2 {
+	offset: 2
+	data_path: "/def/vehicle/r_tire/1.sii"
+}
+vehicle_wheel_accessory : .mercedes.rdisc2 {
+	offset: 2
+	data_path: "/def/vehicle/r_disc/rear_disc_01_matt_gray.sii"
+}
+vehicle_wheel_accessory : .mercedes.rhub2 {
+	offset: 2
+	data_path: "/def/vehicle/r_hub/rear_hub_01.sii"
+}
+vehicle_wheel_accessory : .mercedes.rnuts2 {
+	offset: 2
+	data_path: "/def/vehicle/r_nuts/rear_nuts_01_steel.sii"
+}
+vehicle_addon_accessory : .mercedes.swheel {
+	data_path: "/def/vehicle/truck/mercedes.actros/accessory/steering_w/exclusive.sii"
+}
+vehicle_addon_accessory : .trlr_cables {
+	data_path: "/def/vehicle/truck/mercedes.actros/accessory/trlr_cables/stock.sii"
+}
+vehicle_addon_accessory : .mercedes.s_strip {
+ slot_name: 0
+ slot_hookup: 0
+ data_path: "/def/vehicle/truck/mercedes.actros/accessory/s_strip/plastic.sii"
+}
+
+vehicle_addon_accessory : .mercedes.f_fender_cab {
+ slot_name: 0
+ slot_hookup: 0
+ data_path: "/def/vehicle/truck/mercedes.actros/accessory/f_fender_cab/paint_a.sii"
+}
+
+vehicle_addon_accessory : .mercedes.f_fender_chs {
+ slot_name: 0
+ slot_hookup: 0
+ data_path: "/def/vehicle/truck/mercedes.actros/accessory/f_fender_chs/paint_a.sii"
+}
+ 
+vehicle_addon_accessory : .mercedes.f_intake_cab {
+ slot_name: 0
+ slot_hookup: 0
+ data_path: "/def/vehicle/truck/mercedes.actros/accessory/f_intake_cab/paint_a.sii"
+}
+
+vehicle_addon_accessory : .mercedes.f_wnd_frame {
+ slot_name: 0
+ slot_hookup: 0
+ data_path: "/def/vehicle/truck/mercedes.actros/accessory/f_wnd_frame/plastic.sii"
+}
+
+vehicle_addon_accessory : .mercedes.f_light_chs {
+ slot_name: 0
+ slot_hookup: 0
+ data_path: "/def/vehicle/truck/mercedes.actros/accessory/f_light_chs/stock.sii"
+}
+
+vehicle_addon_accessory : .mercedes.f_bumper {
+ slot_name: 0
+ slot_hookup: 0
+ data_path: "/def/vehicle/truck/mercedes.actros/accessory/f_bumper/paint_a.sii"
+}
+
+vehicle_addon_accessory : .mercedes.f_logo {
+ slot_name: 0
+ slot_hookup: 0
+ data_path: "/def/vehicle/truck/mercedes.actros/accessory/f_logo/stock.sii"
+}
+
+vehicle_addon_accessory : .mercedes.r_bumper {
+ slot_name: 0
+ slot_hookup: 0		
+ data_path: "/def/vehicle/truck/mercedes.actros/accessory/r_bumper/6x2_stock.sii"
+}
+
+vehicle_addon_accessory : .mercedes.r_mudflap {
+ slot_name: 0
+ slot_hookup: 0		
+ data_path: "/def/vehicle/truck/mercedes.actros/accessory/r_mudflap/stock.sii"
+}
+
+vehicle_addon_accessory : .mercedes.r_fendr_top {
+ slot_name: 0
+ slot_hookup: 0		
+ data_path: "/def/vehicle/truck/mercedes.actros/accessory/r_fendr_top/6x2_plastic.sii"
+}
+
+vehicle_addon_accessory : .mercedes.r_fender {
+ slot_name: 0
+ slot_hookup: 0		
+ data_path: "/def/vehicle/truck/mercedes.actros/accessory/r_fender/6x2_plastic.sii"
+}
+
+vehicle_addon_accessory : .mercedes.cor_def {
+ slot_name: 0
+ slot_hookup: 0		
+ data_path: "/def/vehicle/truck/mercedes.actros/accessory/cor_def/paint_a.sii"
+}
+
+vehicle_addon_accessory : .mercedes.f_inlay_cab {
+ slot_name: 0
+ slot_hookup: 0		
+ data_path: "/def/vehicle/truck/mercedes.actros/accessory/f_inlay_cab/plastic_a.sii"
+}
+
+vehicle_addon_accessory : .mercedes.f_inlay_chs {
+ slot_name: 0
+ slot_hookup: 0		
+ data_path: "/def/vehicle/truck/mercedes.actros/accessory/f_inlay_chs/stock.sii"
+}
+
+vehicle_addon_accessory : .mercedes.badge_b {
+ slot_name: 0
+ slot_hookup: 0		
+ data_path: "/def/vehicle/truck/mercedes.actros/accessory/badge_b/badge_xx60.sii"
+}
+vehicle_addon_accessory : .mercedes.badge_a {
+ slot_name: 0
+ slot_hookup: 0
+ data_path: "/def/vehicle/truck/mercedes.actros/accessory/badge_a/badge_26xx.sii"
+}
+}
