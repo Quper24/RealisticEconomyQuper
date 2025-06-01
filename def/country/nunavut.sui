@@ -1,22 +1,23 @@
-country_data : country.data.denmark
+
+country_data : country.data.nunavut
 {
-	country_id: 21
+	country_id: 211 # 151
 
-	name: "Danmark"
-	name_localized: "@@denmark@@"
-	country_code: "DK"
-	iso_country_code: dnk
+	name: "Nunavut"
+	name_localized: "@@Nunavut@@"
+	country_code: "NU"
+	iso_country_code: nvt
 
-	pos: (-2100, 0, -29000)
+	pos: (-160550, 0, -255590)
 
-	fuel_price: 1.804
+	fuel_price: 1.04
 
 	lights_mandatory: true
 	driving_tired_offence: true
-
-	time_zone: 120		# +2 hours in minutes
-	time_zone_name: "@@tz_cest@@"
-
+	
+	time_zone: -300
+	time_zone_name: "@@est@@"
+	
 	mass_limit_per_axle_count[]: 18000	# 2-axle vehicle
 	mass_limit_per_axle_count[]: 26000
 	mass_limit_per_axle_count[]: 38000
@@ -24,3 +25,7 @@ country_data : country.data.denmark
 	mass_limit_per_axle_count[]: 50000
 	mass_limit_per_axle_count[]: 56000
 }
+
+
+
+
