@@ -6,11 +6,11 @@ country_data : country.data.vietnam
 	name: "Việt Nam"
 	name_localized: "@@Việt Nam@@"
 	country_code: "VN"
-        iso_country_code: vnm
+	iso_country_code: vnm
 
 	pos: (465900, 0, -121900)
 
-	fuel_price: 0.593
+	fuel_price: 0.584
 
 	lights_mandatory: false
 	driving_tired_offence: true

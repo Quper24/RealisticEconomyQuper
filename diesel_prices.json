@@ -22,7 +22,7 @@
   {
     "name": "Turkmenistan",
     "name_en": "Turkmenistan",
-    "price": 0.251
+    "price": 0.25
   },
   {
     "name": "Egypt",
@@ -32,7 +32,7 @@
   {
     "name": "Angola",
     "name_en": "Angola",
-    "price": 0.287
+    "price": 0.286
   },
   {
     "name": "Kuwait",
@@ -72,12 +72,12 @@
   {
     "name": "Azerbaijan",
     "name_en": "Azerbaijan",
-    "price": 0.517
+    "price": 0.515
   },
   {
     "name": "Nigeria",
     "name_en": "Nigeria",
-    "price": 0.523
+    "price": 0.543
   },
   {
     "name": "Lebanon",
@@ -97,7 +97,7 @@
   {
     "name": "Sudan",
     "name_en": "Sudan",
-    "price": 0.576
+    "price": 0.574
   },
   {
     "name": "Colombia",
@@ -117,7 +117,7 @@
   {
     "name": "Syria",
     "name_en": "Syria",
-    "price": 0.578
+    "price": 0.552
   },
   {
     "name": "UAE",
@@ -127,12 +127,12 @@
   {
     "name": "Tunisia",
     "name_en": "Tunisia",
-    "price": 0.65
+    "price": 0.654
   },
   {
     "name": "Bhutan",
     "name_en": "Bhutan",
-    "price": 0.603
+    "price": 0.598
   },
   {
     "name": "Panama",
@@ -147,7 +147,7 @@
   {
     "name": "Afghanistan",
     "name_en": "Afghanistan",
-    "price": 0.691
+    "price": 0.723
   },
   {
     "name": "Burma",
@@ -177,12 +177,12 @@
   {
     "name": "Kyrgyzstan",
     "name_en": "Kyrgyzstan",
-    "price": 0.739
+    "price": 0.738
   },
   {
     "name": "Bangladesh",
     "name_en": "Bangladesh",
-    "price": 0.749
+    "price": 0.731
   },
   {
     "name": "El Salvador",
@@ -207,7 +207,7 @@
   {
     "name": "Ethiopia",
     "name_en": "Ethiopia",
-    "price": 0.752
+    "price": 0.745
   },
   {
     "name": "Russia",
@@ -252,7 +252,7 @@
   {
     "name": "Liberia",
     "name_en": "Liberia",
-    "price": 0.821
+    "price": 0.829
   },
   {
     "name": "Jordan",
@@ -262,7 +262,7 @@
   {
     "name": "Uzbekistan",
     "name_en": "Uzbekistan",
-    "price": 0.828
+    "price": 0.835
   },
   {
     "name": "Guyana",
@@ -282,7 +282,7 @@
   {
     "name": "Gabon",
     "name_en": "Gabon",
-    "price": 0.876
+    "price": 0.877
   },
   {
     "name": "Dom. Rep.",
@@ -312,7 +312,7 @@
   {
     "name": "DR Congo",
     "name_en": "DR Congo",
-    "price": 0.913
+    "price": 0.898
   },
   {
     "name": "Moldova",
@@ -382,7 +382,7 @@
   {
     "name": "Cuba",
     "name_en": "Cuba",
-    "price": 0.962
+    "price": 0.959
   },
   {
     "name": "Japan",
@@ -432,7 +432,7 @@
   {
     "name": "Morocco",
     "name_en": "Morocco",
-    "price": 0.999
+    "price": 1.075
   },
   {
     "name": "South Korea",
@@ -452,7 +452,7 @@
   {
     "name": "Swaziland",
     "name_en": "Swaziland",
-    "price": 1.052
+    "price": 1.058
   },
   {
     "name": "South Africa",
@@ -472,7 +472,7 @@
   {
     "name": "Togo",
     "name_en": "Togo",
-    "price": 1.059
+    "price": 1.06
   },
   {
     "name": "Uruguay",
@@ -492,12 +492,12 @@
   {
     "name": "Mongolia",
     "name_en": "Mongolia",
-    "price": 0.981
+    "price": 0.978
   },
   {
     "name": "Dominica",
     "name_en": "Dominica",
-    "price": 1.063
+    "price": 1.059
   },
   {
     "name": "Benin",
@@ -507,22 +507,22 @@
   {
     "name": "Mali",
     "name_en": "Mali",
-    "price": 1.105
+    "price": 1.106
   },
   {
     "name": "Haiti",
     "name_en": "Haiti",
-    "price": 1.1
+    "price": 1.094
   },
   {
     "name": "Uganda",
     "name_en": "Uganda",
-    "price": 1.109
+    "price": 1.118
   },
   {
     "name": "Armenia",
     "name_en": "Armenia",
-    "price": 1.12
+    "price": 1.118
   },
   {
     "name": "Mauritius",
@@ -547,7 +547,7 @@
   {
     "name": "Bahamas",
     "name_en": "Bahamas",
-    "price": 1.13
+    "price": 1.127
   },
   {
     "name": "Andorra",
@@ -577,7 +577,7 @@
   {
     "name": "Burundi",
     "name_en": "Burundi",
-    "price": 1.158
+    "price": 1.168
   },
   {
     "name": "Saint Lucia",
@@ -597,12 +597,12 @@
   {
     "name": "Guinea",
     "name_en": "Guinea",
-    "price": 1.216
+    "price": 1.213
   },
   {
     "name": "Seychelles",
     "name_en": "Seychelles",
-    "price": 1.18
+    "price": 1.212
   },
   {
     "name": "Sierra Leone",
@@ -642,7 +642,7 @@
   {
     "name": "Belize",
     "name_en": "Belize",
-    "price": 1.35
+    "price": 1.297
   },
   {
     "name": "Luxembourg",
@@ -702,7 +702,7 @@
   {
     "name": "San Marino",
     "name_en": "San Marino",
-    "price": 1.468
+    "price": 1.417
   },
   {
     "name": "Greece",
@@ -742,7 +742,7 @@
   {
     "name": "Monaco",
     "name_en": "Monaco",
-    "price": 1.561
+    "price": 1.539
   },
   {
     "name": "Germany",
@@ -802,7 +802,7 @@
   {
     "name": "Albania",
     "name_en": "Albania",
-    "price": 1.762
+    "price": 1.763
   },
   {
     "name": "Israel",
@@ -817,7 +817,7 @@
   {
     "name": "C. Afr. Rep.",
     "name_en": "C. Afr. Rep.",
-    "price": 1.905
+    "price": 1.906
   },
   {
     "name": "Switzerland",

@@ -7,7 +7,7 @@
   },
   {
     "name": "Shqipëria",
-    "price": 1.762,
+    "price": 1.763,
     "filename": "albania.sui",
     "name_en": "Albania"
   },
@@ -31,7 +31,7 @@
   },
   {
     "name": "Hayastan",
-    "price": 1.12,
+    "price": 1.118,
     "filename": "armenia.sui",
     "name_en": "Armenia"
   },
@@ -43,13 +43,13 @@
   },
   {
     "name": "Azerbaycan",
-    "price": 0.517,
+    "price": 0.515,
     "filename": "azerbaijan.sui",
     "name_en": "Azerbaijan"
   },
   {
     "name": "Bangladesh",
-    "price": 0.749,
+    "price": 0.731,
     "filename": "bangladesh.sui",
     "name_en": "Bangladesh"
   },
@@ -67,9 +67,9 @@
   },
   {
     "name": "Bosna i Hercegovina",
-    "price": 1.143,
+    "price": 1.151,
     "filename": "bosnia.sui",
-    "name_en": "Bosnia & Herz."
+    "name_en": "Bosnia"
   },
   {
     "name": "Botswana",
@@ -91,9 +91,9 @@
   },
   {
     "name": "Burkina Faso",
-    "price": 1.022,
+    "price": 1.03,
     "filename": "burkinafaso.sui",
-    "name_en": "Burkina Faso"
+    "name_en": "Burkinafaso"
   },
   {
     "name": "Cambodia",
@@ -115,13 +115,13 @@
   },
   {
     "name": "Central African Republic",
-    "price": 1.905,
+    "price": 1.898,
     "filename": "car.sui",
-    "name_en": "C. Afr. Rep."
+    "name_en": "Car"
   },
   {
     "name": "Tchad",
-    "price": 1.15,
+    "price": 0.3,
     "filename": "chad.sii",
     "name_en": "Chad"
   },
@@ -145,9 +145,9 @@
   },
   {
     "name": "Česká Republika",
-    "price": 1.32,
+    "price": 1.327,
     "filename": "czech.sui",
-    "name_en": "Czech Republic"
+    "name_en": "Czech"
   },
   {
     "name": "Danmark",
@@ -163,9 +163,9 @@
   },
   {
     "name": "Masr",
-    "price": 0.275,
+    "price": 0.269,
     "filename": "egypt1.sui",
-    "name_en": "Egypt"
+    "name_en": "Egypt1"
   },
   {
     "name": "Equatorial Guinea",
@@ -181,7 +181,7 @@
   },
   {
     "name": "Ethiopia",
-    "price": 0.752,
+    "price": 0.745,
     "filename": "ethiopia.sui",
     "name_en": "Ethiopia"
   },
@@ -259,21 +259,21 @@
   },
   {
     "name": "Indonesia",
-    "price": 0.743,
+    "price": 0.739,
     "filename": "indo_b.sui",
-    "name_en": "Indonesia"
+    "name_en": "Indo_b"
   },
   {
     "name": "_",
-    "price": 0.743,
+    "price": 0.739,
     "filename": "indo_th.sui",
-    "name_en": "Indonesia"
+    "name_en": "Indo_th"
   },
   {
     "name": "__",
-    "price": 0.743,
+    "price": 0.739,
     "filename": "indo_tm.sui",
-    "name_en": "Indonesia"
+    "name_en": "Indo_tm"
   },
   {
     "name": "International Waters",
@@ -298,6 +298,12 @@
     "price": 1.53,
     "filename": "iraq.sui",
     "name_en": "Iraq"
+  },
+  {
+    "name": "Al-'Irāq",
+    "price": 0.451,
+    "filename": "iraq1.sui",
+    "name_en": "Iraq1"
   },
   {
     "name": "Ireland",
@@ -343,9 +349,15 @@
   },
   {
     "name": "Kosovo",
-    "price": 1.7,
+    "price": 1.71,
     "filename": "kosovo.sui",
     "name_en": "Kosovo"
+  },
+  {
+    "name": "Кыргызстан",
+    "price": 0.738,
+    "filename": "kyrgyzstan.sui",
+    "name_en": "Kyrgyzstan"
   },
   {
     "name": "Laos",
@@ -379,9 +391,9 @@
   },
   {
     "name": "Liechtenstein",
-    "price": 1.938,
+    "price": 1.947,
     "filename": "liecht.sui",
-    "name_en": "Liechtenstein"
+    "name_en": "Liecht"
   },
   {
     "name": "Lietuva",
@@ -415,7 +427,7 @@
   },
   {
     "name": "Mali",
-    "price": 1.105,
+    "price": 1.106,
     "filename": "mali.sui",
     "name_en": "Mali"
   },
@@ -439,13 +451,13 @@
   },
   {
     "name": "Monaco",
-    "price": 1.561,
+    "price": 1.539,
     "filename": "monaco.sui",
     "name_en": "Monaco"
   },
   {
     "name": "Монгол Улс",
-    "price": 0.981,
+    "price": 0.978,
     "filename": "mongolia.sui",
     "name_en": "Mongolia"
   },
@@ -457,7 +469,7 @@
   },
   {
     "name": "Morocco",
-    "price": 0.999,
+    "price": 1.075,
     "filename": "morocco.sui",
     "name_en": "Morocco"
   },
@@ -487,7 +499,7 @@
   },
   {
     "name": "Nigeria",
-    "price": 0.523,
+    "price": 0.543,
     "filename": "nigeria.sui",
     "name_en": "Nigeria"
   },
@@ -502,6 +514,12 @@
     "price": 1.643,
     "filename": "norway.sui",
     "name_en": "Norway"
+  },
+  {
+    "name": "Nunavut",
+    "price": 1.04,
+    "filename": "nunavut.sui",
+    "name_en": "Nunavut"
   },
   {
     "name": "Papua New Guinea",
@@ -553,21 +571,21 @@
   },
   {
     "name": "San Marino",
-    "price": 1.468,
+    "price": 1.446,
     "filename": "sanmarino.sui",
-    "name_en": "San Marino"
+    "name_en": "Sanmarino"
   },
   {
     "name": "Al-'Arabīyah As-Sa'ūdīyah",
     "price": 0.389,
     "filename": "saudia.sui",
-    "name_en": "Saudi Arabi"
+    "name_en": "Saudia"
   },
   {
     "name": "Saudi Arabia",
     "price": 0.389,
     "filename": "saudia1.sui",
-    "name_en": "Saudi Arabi"
+    "name_en": "Saudia1"
   },
   {
     "name": "Senegal",
@@ -601,9 +619,15 @@
   },
   {
     "name": "Somalia",
-    "price": 1.45,
+    "price": 0.99,
     "filename": "somalia.sui",
     "name_en": "Somalia"
+  },
+  {
+    "name": "Soomaaliland",
+    "price": 0.99,
+    "filename": "somaliland.sii",
+    "name_en": "Somaliland"
   },
   {
     "name": "South Sudan",
@@ -613,9 +637,9 @@
   },
   {
     "name": "south_africa",
-    "price": 1.049,
+    "price": 1.038,
     "filename": "south_africa.sui",
-    "name_en": "South Africa"
+    "name_en": "South_africa"
   },
   {
     "name": "España",
@@ -631,7 +655,7 @@
   },
   {
     "name": "sudan",
-    "price": 0.576,
+    "price": 0.574,
     "filename": "sudan.sui",
     "name_en": "Sudan"
   },
@@ -639,7 +663,7 @@
     "name": "Sūdān",
     "price": 0.576,
     "filename": "sudan1.sii",
-    "name_en": "Sudan"
+    "name_en": "Sudan1"
   },
   {
     "name": "Svalbard",
@@ -661,7 +685,7 @@
   },
   {
     "name": "Sūriyā",
-    "price": 0.578,
+    "price": 0.552,
     "filename": "syria.sui",
     "name_en": "Syria"
   },
@@ -685,7 +709,7 @@
   },
   {
     "name": "Tunisia",
-    "price": 0.65,
+    "price": 0.654,
     "filename": "tunisia.sui",
     "name_en": "Tunisia"
   },
@@ -697,7 +721,7 @@
   },
   {
     "name": "Uganda",
-    "price": 1.109,
+    "price": 1.118,
     "filename": "uganda.sui",
     "name_en": "Uganda"
   },
@@ -715,7 +739,7 @@
   },
   {
     "name": "O'zbekiston",
-    "price": 0.828,
+    "price": 0.835,
     "filename": "uzbekistan.sui",
     "name_en": "Uzbekistan"
   },
@@ -733,7 +757,7 @@
   },
   {
     "name": "Western Sahara",
-    "price": 1.8,
+    "price": 1.52,
     "filename": "westsahara.sui",
     "name_en": "Westsahara"
   },
