@@ -1,30 +1,30 @@
 SiiNunit
-{ 
+{
 
-	
-  package_version_info : .150
-  {
-    package_name: "150"
- 	  compatible_versions[]: "1.50.*"
-	  compatible_versions[]: "1.51.*"
-	  compatible_versions[]: "1.52.*"
-  }
 
-    package_version_info : .153
-  {
-    package_name: "153"
-    compatible_versions[]: "1.53.*"
-  }
+	package_version_info : .150
+	{
+		package_name: "150"
+		compatible_versions[]: "1.50.*"
+		compatible_versions[]: "1.51.*"
+		compatible_versions[]: "1.52.*"
+	}
 
-  package_version_info : .154 
-  {
-    package_name: "154"
-    compatible_versions[]: "1.54.*"
-  }
+	package_version_info : .153
+	{
+		package_name: "153"
+		compatible_versions[]: "1.53.*"
+	}
 
-    package_version_info : .info 
-  {
-    package_name: "info"
-    informational: false
-  }
+	package_version_info : .154
+	{
+		package_name: "154_req"
+		compatible_versions[]: "1.54.*"
+	}
+
+	package_version_info : .info
+	{
+		package_name: "info"
+		informational: false
+	}
 }
