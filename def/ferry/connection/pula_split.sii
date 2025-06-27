@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.pula.split{
-	price: 25
+	price: 35
 	time: 587
 	distance: 391
 }

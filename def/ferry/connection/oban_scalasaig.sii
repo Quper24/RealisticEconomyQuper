@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.oban.scalasaig{
-	price: 11
+	price: 13
 	time: 151
 	distance: 100
 }

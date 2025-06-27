@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.heraklion.lemesos {
-	price: 38
+	price: 54
 	time: 977
 	distance: 651
 

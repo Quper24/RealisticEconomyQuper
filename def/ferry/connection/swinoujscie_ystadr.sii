@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.swinoujscie.ystadr{
-	price: 14
+	price: 18
 	time: 256
 	distance: 170
 

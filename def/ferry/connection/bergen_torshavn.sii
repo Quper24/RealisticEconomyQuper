@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.bergen.torshavn{
-	price: 40
+	price: 57
 	time: 1021
 	distance: 680
 

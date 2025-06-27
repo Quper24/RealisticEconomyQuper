@@ -3,8 +3,7 @@ const axios = require("axios");
 const cheerio = require("cheerio");
 
 // URL к твоему локальному серверу
-const url =
-  "http://192.168.0.4:8080/Diesel%20prices%20around%20the%20world%2C%2016-Jun-2025%20_%20GlobalPetrolPrices.com.html";
+const url = "http://172.18.0.1:8080/diesel.html";
 
 // Путь для сохранения JSON
 const outputFile = "./diesel_prices.json";

@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.dubrovnik.bari{
-	price: 16
+	price: 21
 	time: 302
 	distance: 201
 

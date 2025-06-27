@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.condao.kawthaung {
-	price: 52
+	price: 75
 	time: 1381
 	distance: 920
 }

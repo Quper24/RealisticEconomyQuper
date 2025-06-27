@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.sthelier.granville {
-	price: 8
+	price: 10
 	time: 83
 	distance: 55
 
