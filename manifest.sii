@@ -4,10 +4,10 @@ SiiNunit
 	{
 
 		# Package version can be any string with any length.
-		package_version: "1.54.15"
+		package_version: "1.54.15 final 1.54"
 
 		# Display name can be any string with any length.
-		display_name: "Realistic Economy by Quper 1.54.15 FINAL for 1.54"
+		display_name: "Realistic Economy by Quper"
 
 		# Author can be any string with any length.
 		author: "Quper"
