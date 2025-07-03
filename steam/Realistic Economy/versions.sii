@@ -16,9 +16,9 @@ SiiNunit
 		compatible_versions[]: "1.53.*"
 	}
 
-	package_version_info : .154
+	package_version_info : .155_req
 	{
-		package_name: "154_req"
+		package_name: "155_req"
 		compatible_versions[]: "1.54.*"
 		compatible_versions[]: "1.55.*"
 	}
