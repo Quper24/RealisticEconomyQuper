@@ -252,13 +252,13 @@
 		currency_sign3[]: " Fr"
 
 		currency_code[]: "CZK"
-	currency_ratio[]: 24.55
+	currency_ratio[]: 24.47
 		currency_sign1[]: ""
 		currency_sign2[]: ""
 		currency_sign3[]: " Kč"
 
 		currency_code[]: "GBP"
-	currency_ratio[]: 0.87
+	currency_ratio[]: 0.86
 		currency_sign1[]: ""
 		currency_sign2[]: "£"
 		currency_sign3[]: ""
@@ -270,7 +270,7 @@
 		currency_sign3[]: " zł"
 
 		currency_code[]: "HUF"
-	currency_ratio[]: 396.33
+	currency_ratio[]: 395.33
 		currency_sign1[]: ""
 		currency_sign2[]: ""
 		currency_sign3[]: " Ft"
@@ -282,19 +282,19 @@
 		currency_sign3[]: " kr"
 
 		currency_code[]: "SEK"
-	currency_ratio[]: 11.18
+	currency_ratio[]: 11.17
 		currency_sign1[]: ""
 		currency_sign2[]: ""
 		currency_sign3[]: " kr"
 
 		currency_code[]: "NOK"
-	currency_ratio[]: 11.92
+	currency_ratio[]: 11.93
 		currency_sign1[]: ""
 		currency_sign2[]: ""
 		currency_sign3[]: " kr"
 
 		currency_code[]: "RUB"
-	currency_ratio[]: 93.32
+	currency_ratio[]: 93.24
 		currency_sign1[]: ""
 		currency_sign2[]: "₽"
 		currency_sign3[]: ""
@@ -306,19 +306,19 @@
 		currency_sign3[]: ""
 
 		currency_code[]: "RON"
-	currency_ratio[]: 5.07
+	currency_ratio[]: 5.06
 		currency_sign1[]: ""
 		currency_sign2[]: ""
 		currency_sign3[]: " lei"
 
 		currency_code[]: "TRY"
-	currency_ratio[]: 47.66
+	currency_ratio[]: 47.78
 		currency_sign1[]: ""
 		currency_sign2[]: "₺ "
 		currency_sign3[]: ""
 
 		currency_code[]: "ALL"
-	currency_ratio[]: 97.40
+	currency_ratio[]: 97.28
 		currency_sign1[]: ""
 		currency_sign2[]: ""
 		currency_sign3[]: " lek"
@@ -330,37 +330,37 @@
 		currency_sign3[]: ""
 
 		currency_code[]: "MKD"
-	currency_ratio[]: 61.66
+	currency_ratio[]: 61.55
 		currency_sign1[]: ""
 		currency_sign2[]: ""
 		currency_sign3[]: " ден"
 
 		currency_code[]: "RSD"
-	currency_ratio[]: 117.14
+	currency_ratio[]: 117.16
 		currency_sign1[]: ""
 		currency_sign2[]: "дин "
 		currency_sign3[]: ""
 
 		currency_code[]: "UAH"
-	currency_ratio[]: 49.04
+	currency_ratio[]: 48.67
 		currency_sign1[]: ""
 		currency_sign2[]: ""
 		currency_sign3[]: " грн"
 
 		currency_code[]: "KZT"
-	currency_ratio[]: 639.55
+	currency_ratio[]: 631.04
 		currency_sign1[]: ""
 		currency_sign2[]: ""
 		currency_sign3[]: " тг"
 
 		currency_code[]: "BYN"
-	currency_ratio[]: 3.81
+	currency_ratio[]: 3.71
 		currency_sign1[]: ""
 		currency_sign2[]: ""
 		currency_sign3[]: " бел. руб"
 
 		currency_code[]: "CNY"
-	currency_ratio[]: 8.42
+	currency_ratio[]: 8.40
 		currency_sign1[]: ""
 		currency_sign2[]: ""
 		currency_sign3[]: " CNY"
