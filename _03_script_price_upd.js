@@ -25,18 +25,18 @@ function updateCountryFiles() {
 
     // Обрабатываем каждую страну
     countries.forEach((country) => {
+      console.log(country);
       const { filename, price } = country;
-
+      console.log(filename, price);
       // Пробуем разные расширения: .sui и .sii
-      const extensions = [".sui", ".sii"];
+      const extensions = [".sii", ".sui"];
       let fileFound = false;
-
       for (const ext of extensions) {
         const filePath = path.join(
           countryDir,
           filename.replace(/\.(sui|sii)$/, "") + ext,
         );
-
+        console.log(filePath);
         if (fs.existsSync(filePath)) {
           fileFound = true;
           let content = fs.readFileSync(filePath, "utf-8");
