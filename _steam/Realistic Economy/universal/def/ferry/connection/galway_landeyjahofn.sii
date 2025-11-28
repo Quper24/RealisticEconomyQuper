@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.galway.landeyjahofn {
-	price: 54
-	time: 961
-	distance: 640
-}
-}
-

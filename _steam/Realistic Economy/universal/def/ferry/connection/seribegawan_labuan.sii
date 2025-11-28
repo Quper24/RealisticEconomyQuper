@@ -1,8 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.seribegawan.labuan {
-	price: 9
-	time: 76
-	distance: 50
-}
-}

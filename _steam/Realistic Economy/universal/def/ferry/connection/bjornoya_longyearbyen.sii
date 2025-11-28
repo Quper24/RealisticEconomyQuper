@@ -1,9 +1,0 @@
-SiiNunit
-{
-ferry_connection : conn.bjornoya.longyearbyen{
-	price: 13
-	time: 151
-	distance: 100
-
-}
-}
