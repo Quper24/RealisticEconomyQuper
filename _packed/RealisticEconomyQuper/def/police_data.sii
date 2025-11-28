@@ -23,28 +23,28 @@ police_data : police.data
 	fine_overspeed_step_multiplier: 1.877
 	fine_overspeed_multiplier_limit: 12.5
 
-	fine_amounts[0]: 150		# car crash
-	fine_amounts[1]: 75		# avoid sleeping
-	fine_amounts[2]: 200		# wrong way
-	fine_amounts[3]: 60 	  # speeding (camera)
-	fine_amounts[4]: 65		  # no lights during night
-	fine_amounts[5]: 200		# red lights
-	fine_amounts[6]: 80 	  # speeding
-	fine_amounts[7]: 200	  # avoid weighing
-	fine_amounts[8]: 400		# illegal trailer
-	fine_amounts[9]: 450		# avoid inspection
-	fine_amounts[10]: 800	  # illegal border crossing
-	fine_amounts[11]: 90		# hard shoulder violation
-	fine_amounts[12]: 125		# damaged vehicle usage
+	fine_amounts[0]: 130		# car crash
+	fine_amounts[1]: 60		# avoid sleeping
+	fine_amounts[2]: 150		# wrong way
+	fine_amounts[3]: 50 	  # speeding (camera)
+	fine_amounts[4]: 55		  # no lights during night
+	fine_amounts[5]: 160		# red lights
+	fine_amounts[6]: 65 	  # speeding
+	fine_amounts[7]: 160	  # avoid weighing
+	fine_amounts[8]: 300		# illegal trailer
+	fine_amounts[9]: 350		# avoid inspection
+	fine_amounts[10]: 600	  # illegal border crossing
+	fine_amounts[11]: 75		# hard shoulder violation
+	fine_amounts[12]: 100		# damaged vehicle usage
 
 	#
 	# in seconds of real time
 	#
 	offence_check_delay[0]: 0	# car crash
-	offence_check_delay[1]: 60	# avoid sleeping
-	offence_check_delay[2]: 15	# wrong way
+	offence_check_delay[1]: 120	# avoid sleeping
+	offence_check_delay[2]: 30	# wrong way
 	offence_check_delay[3]: 0	# speeding (camera)
-	offence_check_delay[4]: 70	# no lights during night
+	offence_check_delay[4]: 90	# no lights during night
 	offence_check_delay[5]: 0	# red lights
 	offence_check_delay[6]: 60	# speeding
 	offence_check_delay[7]: 0	# avoid weighing
@@ -54,14 +54,14 @@ police_data : police.data
 	# in seconds of real time
 	#
 	offence_police_check_delay[0]: 0	# car crash
-	offence_police_check_delay[1]: 30	# avoid sleeping
-	offence_police_check_delay[2]: 5	# wrong way
+	offence_police_check_delay[1]: 60	# avoid sleeping
+	offence_police_check_delay[2]: 15	# wrong way
 	offence_police_check_delay[3]: 0	# speeding (camera)
-	offence_police_check_delay[4]: 7	# no lights during night
+	offence_police_check_delay[4]: 30	# no lights during night
 	offence_police_check_delay[5]: 0	# red lights
-	offence_police_check_delay[6]: 3	# speeding
+	offence_police_check_delay[6]: 30	# speeding
 	offence_police_check_delay[7]: 0	# avoid weighing
-	offence_police_check_delay[8]: 300	# illegal trailer
+	offence_police_check_delay[8]: 600	# illegal trailer
 
 	offence_probabilty[0]: 0.7	# car crash
 	offence_probabilty[1]: 0.3	# avoid sleeping

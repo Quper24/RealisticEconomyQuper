@@ -1,3 +1,4 @@
+
 country_data : country.data.turkey
 {
 	country_id: 44
@@ -7,7 +8,7 @@ country_data : country.data.turkey
 	country_code: "TR"
 	iso_country_code: tur
 
-	pos: (103184, 0, 55303)
+	pos: (69500, 0, 47000)
 
 	fuel_price: 1.019
 

@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.condao.vungtau {
+	price: 21
+	time: 301
+	distance: 200
+}
+}
+
