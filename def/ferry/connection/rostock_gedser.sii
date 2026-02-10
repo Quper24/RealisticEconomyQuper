@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.rostock.gedser {
-	price: 10
+	price: 15
 	time: 98
 	distance: 65
 }

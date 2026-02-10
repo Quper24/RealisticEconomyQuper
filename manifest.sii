@@ -4,7 +4,7 @@ SiiNunit
 	{
 
 		# Package version can be any string with any length.
-		package_version: "1.57.2"
+		package_version: "1.58.0"
 
 		# Display name can be any string with any length.
 		display_name: "Realistic Economy by Quper"
@@ -20,6 +20,8 @@ SiiNunit
 
 		# Icon inside the root directory of the mod.
 		icon: "image.jpg"
+
+		compatible_versions[]: "1.58.*"
 
 		# Description file inside the root directory of the mod.
 		description_file: "description.txt"

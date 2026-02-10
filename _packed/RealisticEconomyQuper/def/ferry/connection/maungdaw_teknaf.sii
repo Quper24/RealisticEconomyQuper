@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.maungdaw.teknaf {
-	price: 6
+	price: 7
 	time: 16
 	distance: 10
 }

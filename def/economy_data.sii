@@ -23,16 +23,16 @@
 		cargo_damage_cost: 5.0 		# -5 Euro per 1% of damage
 		cargo_damage_cost_factor: 0.04 	# -4% total cost penalty per 1% of damage
 
-		late_delivery_max_overtime[0]: 2880		# 1 days for "easy" deliveries
-		late_delivery_max_overtime[1]: 720		# 6 hours for "normal" deliveries
-		late_delivery_max_overtime[2]: 240		# 2 hours for "urgent" deliveries
+		late_delivery_max_overtime[0]: 2880	# 2 days for "easy" deliveries
+		late_delivery_max_overtime[1]: 720	# 12 hours for "normal" deliveries
+		late_delivery_max_overtime[2]: 240	# 4 hours for "urgent" deliveries
 
-		simulation_avg_speed: 50.0	# km/h
+		simulation_avg_speed: 62.0	# km/h
 
 		default_time_zone: 120		# +2 hours
 		default_time_zone_name: "CEST"
 
-		maximum_driving_time: 600	# how long the driver can drive (in minutes)
+		maximum_driving_time: 660	# how long the driver can drive (in minutes)
 		sleeping_time: 540		# length of sleep (in minutes)
 
 		delivery_window[0]: 600		# easy
@@ -94,61 +94,63 @@
 		## Skill job filtering
 		##  Job distance limit (in km of real world)
 		##
-		skill_distance[0]:	300
-		skill_distance[1]:	450
-		skill_distance[2]:	700
-		skill_distance[3]:	1000
-		skill_distance[4]:	1300
-		skill_distance[5]:	1750
+		skill_distance[0]:	400
+		skill_distance[1]:	750
+		skill_distance[2]:	1500
+		skill_distance[3]:	2500
+		skill_distance[4]:	3500
+		skill_distance[5]:	5000
 
 		fixed_revenue: 75
 		revenue_coef_per_km: 0.06			# Revenue coefficient per km used during freight market jobs.
 		cargo_market_revenue_coef_per_km: 0.09 		# Revenue coefficient per km used during cargo market jobs.
 
-		max_eco_consumption_drop[0]: (0.1, 0.1)		# consumption decreased by 40% (or 60% if driving with trailer)
-		# for ecodriving skill maximum
+		max_eco_consumption_drop[0]: (0.1, 0.1)	# consumption decreased by 40% (or 60% if driving with trailer)
+
+		#  for ecodriving skill maximum
+
 		max_eco_consumption_drop[1]: (0.15, 0.15)
 		max_eco_consumption_drop[2]: (0.2, 0.2)
 		max_eco_consumption_drop[3]: (0.25, 0.25)
 		max_eco_consumption_drop[4]: (0.3, 0.3)
 		max_eco_consumption_drop[5]: (0.35, 0.35)	# Maximum consumption drop is 0.99.
 
-		reward_bonus_long_dist[0]: 0.01
-		reward_bonus_long_dist[1]: 0.02
-		reward_bonus_long_dist[2]: 0.03
-		reward_bonus_long_dist[3]: 0.04
-		reward_bonus_long_dist[4]: 0.07
-		reward_bonus_long_dist[5]: 0.08
+		reward_bonus_long_dist[0]: 0.02
+		reward_bonus_long_dist[1]: 0.03
+		reward_bonus_long_dist[2]: 0.04
+		reward_bonus_long_dist[3]: 0.05
+		reward_bonus_long_dist[4]: 0.06
+		reward_bonus_long_dist[5]: 0.07
 
-		reward_bonus_valuable[0]: 0.01
-		reward_bonus_valuable[1]: 0.02
-		reward_bonus_valuable[2]: 0.03
-		reward_bonus_valuable[3]: 0.04
-		reward_bonus_valuable[4]: 0.07
-		reward_bonus_valuable[5]: 0.08
+		reward_bonus_valuable[0]: 0.02
+		reward_bonus_valuable[1]: 0.03
+		reward_bonus_valuable[2]: 0.04
+		reward_bonus_valuable[3]: 0.05
+		reward_bonus_valuable[4]: 0.06
+		reward_bonus_valuable[5]: 0.07
 
-		reward_bonus_fragile[0]: 0.01
-		reward_bonus_fragile[1]: 0.02
-		reward_bonus_fragile[2]: 0.03
-		reward_bonus_fragile[3]: 0.04
-		reward_bonus_fragile[4]: 0.07
-		reward_bonus_fragile[5]: 0.08
+		reward_bonus_fragile[0]: 0.02
+		reward_bonus_fragile[1]: 0.03
+		reward_bonus_fragile[2]: 0.04
+		reward_bonus_fragile[3]: 0.05
+		reward_bonus_fragile[4]: 0.06
+		reward_bonus_fragile[5]: 0.07
 
-		reward_bonus_urgent[0]: 0.01
-		reward_bonus_urgent[1]: 0.02
-		reward_bonus_urgent[2]: 0.03
-		reward_bonus_urgent[3]: 0.04
-		reward_bonus_urgent[4]: 0.07
-		reward_bonus_urgent[5]: 0.08
+		reward_bonus_urgent[0]: 0.02
+		reward_bonus_urgent[1]: 0.03
+		reward_bonus_urgent[2]: 0.04
+		reward_bonus_urgent[3]: 0.05
+		reward_bonus_urgent[4]: 0.06
+		reward_bonus_urgent[5]: 0.07
 
-		reward_bonus_level: 0.02
+		reward_bonus_level: 0.015
 
 		#  Experience points
 		free_roam_report_limit: 100
 
-		exp_cargo_delivery: 	1			# per km of real world
-		exp_free_roam: 		0.5			# per km of real world
-		exp_road_discovery:	0.8			# per km of real world
+		exp_cargo_delivery: 	1.0		# per km of real world
+		exp_free_roam: 		0.5		# per km of real world
+		exp_road_discovery:	0.8		# per km of real world
 
 		//	exp_late_delivery: 	0.4		# -40%
 		exp_perfect_delivery: 	0.24		# +24%
@@ -164,8 +166,8 @@
 		exp_park_bonus_hard: 60			# bonus for not using the autopark feature on HARD parking spot
 
 		exp_park_double_bonus: 20		# bonus for not using the autopark feature on EASY parking spot with double
-		exp_park_double_bonus_medium: 50	# bonus for not using the autopark feature on MEDIUM parking spot with double
-		exp_park_double_bonus_hard: 100		# bonus for not using the autopark feature on HARD parking spot with double
+		exp_park_double_bonus_medium: 60	# bonus for not using the autopark feature on MEDIUM parking spot with double
+		exp_park_double_bonus_hard: 120		# bonus for not using the autopark feature on HARD parking spot with double
 
 		exp_park_load_bonus: 20		# exp bonus for manually parking trailer during loading phase of the job
 
@@ -314,7 +316,7 @@
 		currency_code[]: "TRY"
 		currency_ratio[]: 51.88
 		currency_sign1[]: ""
-		currency_sign2[]: "₺ "
+		currency_sign2[]: "₺"
 		currency_sign3[]: ""
 
 		currency_code[]: "ALL"

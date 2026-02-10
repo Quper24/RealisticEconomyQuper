@@ -13,7 +13,7 @@ SiiNunit
 		truck_count_min: 12
 		truck_count_max: 24
 
-		dealer_truck_offer_ratios[]: 0.7
+		dealer_truck_offer_ratios[]: 0.5
 		dealer_truck_offer_levels[]: nil
 
 		truck_odometer_limit_values[]: 1000000

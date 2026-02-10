@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.vestmann.landeyjahofn{
-	price: 6
+	price: 7
 	time: 20
 	distance: 13
 

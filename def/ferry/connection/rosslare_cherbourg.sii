@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.rosslare.cherbourg{
-	price: 49
+	price: 92
 	time: 866
 	distance: 577
 
