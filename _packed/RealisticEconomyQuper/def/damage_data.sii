@@ -4,8 +4,8 @@ vehicle_damage_data : .damage_data
 {
 	# damage dealt to truck and trailer
 
-	truck_damage_coef:	0.0007		# truck damage coef per hit, impact speed squared modified by weights
-	trailer_damage_coef:	0.0007
+	truck_damage_coef:	0.000525		# truck damage coef per hit, impact speed squared modified by weights
+	trailer_damage_coef:	0.000525
 	dragged_trailer_damage_coef: 0.00002	# damage coef for dragging improperly connected trailer
 	truck_to_trailer_dmg: 	0.2		# how much damage is transferred from truck to trailer (and vice versa)
 
@@ -36,15 +36,15 @@ vehicle_damage_data : .damage_data
 	trailer_chassis_unfixable_damage_ratio:	0.05
 	trailer_wheel_unfixable_damage_ratio:	0.01
 
-	cargo_damage_ratio: 1.0
+	cargo_damage_ratio: 0.5
 
 	# truck wear per km of drive
 
-	cabin_wear:			2.12e-8 	# Default 0.0
-	chassis_wear:		1.69e-6 	# Default 0.0
+	cabin_wear:			1e-7 	# Default 0.0
+	chassis_wear:		1.11e-6 	# Default 0.0
 	engine_wear:		3.33e-7	    # Default 2e-6
-	transmission_wear:	5e-7		# Default 2e-6
-	wheel_wear:			5e-6		# Default 2e-6
+	transmission_wear:	4e-7		# Default 2e-6
+	wheel_wear:			2e-5		# Default 2e-6 0.0005% км
 
 	cabin_wear_unfixable:			5.82e-8 	# Default 0.0
 	chassis_wear_unfixable:			5.82e-8 	# Default 0.0
@@ -54,9 +54,9 @@ vehicle_damage_data : .damage_data
 
 	# trailer wear per km of drive
 
-	trailer_body_wear:		1.24e-7 	# Default 0.0
-	trailer_chassis_wear:	1.37e-6 	# Default 0.0
-	trailer_wheel_wear:		2e-6		# Default 2e-6
+	trailer_body_wear:		2e-6 	# Default 0.0
+	trailer_chassis_wear:	2e-6 	# Default 0.0
+	trailer_wheel_wear:		1e-5		# Default 2e-6
 
 	trailer_body_wear_unfixable:		5.82e-8 	# Default 0.0
 	trailer_chassis_wear_unfixable:		5.82e-8 	# Default 0.0

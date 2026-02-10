@@ -122,6 +122,6 @@ xp_level_data : economy.data.xp_levels
 	level_xp[100]: 254500
 
 
-	driver_xp_scale: 1.0
+	driver_xp_scale: 2.0
 }
 }
