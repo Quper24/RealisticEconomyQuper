@@ -1,0 +1,10 @@
+SiiNunit
+{
+ferry_connection : conn.patras.brindisi{
+	price: 40
+	time: 350
+	distance: 233
+
+	
+}
+}

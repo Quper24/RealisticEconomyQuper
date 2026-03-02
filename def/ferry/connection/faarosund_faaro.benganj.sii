@@ -1,6 +1,6 @@
 SiiNunit
 {
-ferry_connection : conn.bjfaarosund.bjfaaro {
+ferry_connection : conn.faarosund.faaro {
 	price: 6
 	time: 4
 	distance: 2
