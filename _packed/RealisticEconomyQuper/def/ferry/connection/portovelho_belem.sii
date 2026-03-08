@@ -2,7 +2,7 @@ SiiNunit
 {
 ferry_connection: conn.portovelho.belem
 {
-	price: 387
+	price: 430
 	time: 3811
 	distance: 2540
 

@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.anping.dover {
-	price: 232
+	price: 258
 	time: 2261
 	distance: 1507
 }

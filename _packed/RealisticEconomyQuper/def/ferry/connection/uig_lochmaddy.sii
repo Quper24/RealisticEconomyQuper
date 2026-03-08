@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.uig.lochmaddy{
-	price: 13
+	price: 15
 	time: 76
 	distance: 50
 

@@ -1,0 +1,9 @@
+SiiNunit
+{
+	ferry_connection : conn.magadan.moskalvo {
+		price: 123
+		time: 1051
+		distance: 700
+	}
+}
+

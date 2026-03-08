@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.kalamata.chania {
-	price: 49 # approx based on rhodes/athens
+	price: 55 # approx based on rhodes/athens
 	time: 436
 	distance: 290
 

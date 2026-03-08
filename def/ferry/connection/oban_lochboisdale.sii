@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.oban.lochboisdale{
-	price: 27
+	price: 30
 	time: 211
 	distance: 140
 

@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.toft.ulsta {
-	price: 8
+	price: 9
 	time: 22
 	distance: 14
 

@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.salehard.surgut {
-	price: 162
+	price: 180
 	time: 1561
 	distance: 1040
 }

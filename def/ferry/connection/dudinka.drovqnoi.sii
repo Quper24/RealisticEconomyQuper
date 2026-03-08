@@ -1,0 +1,8 @@
+SiiNunit
+{
+	ferry_connection : conn.dudinka.drovqnoi {
+		price: 82
+		time: 676
+		distance: 450
+	}
+}

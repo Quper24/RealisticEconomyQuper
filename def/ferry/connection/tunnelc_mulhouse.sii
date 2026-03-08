@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.tunnel_c.mulhouse {
-	price: 54
+	price: 60
 	time: 481
 	distance: 320
 }

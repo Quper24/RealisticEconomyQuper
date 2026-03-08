@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.tripolilb.larnaka1{
-	price: 36
+	price: 41
 	time: 307
 	distance: 204
 

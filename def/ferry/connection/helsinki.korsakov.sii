@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.helsinki.korsakov{
-	price: 1041
+	price: 1157
 	time: 10351
 	distance: 6900
 }
