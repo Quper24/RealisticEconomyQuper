@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.patras.brindisi{
-	price: 45
+	price: 43
 	time: 350
 	distance: 233
 

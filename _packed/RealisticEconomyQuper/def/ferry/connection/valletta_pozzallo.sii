@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.valletta.pozzallo{
-	price: 25
+	price: 23
 	time: 166
 	distance: 110
 

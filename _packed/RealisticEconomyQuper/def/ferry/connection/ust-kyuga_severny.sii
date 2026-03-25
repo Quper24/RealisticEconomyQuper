@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.ust_kyuga.severny {
-	price: 27
+	price: 25
 	time: 188
 	distance: 125
 }

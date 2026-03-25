@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.ustcil.ust_usa {
-	price: 57
+	price: 55
 	time: 452
 	distance: 301
 }

@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.roscoff.santiago_c {
-	price: 1300
+	price: 1668
 	time: 11638
 	distance: 7758
 }

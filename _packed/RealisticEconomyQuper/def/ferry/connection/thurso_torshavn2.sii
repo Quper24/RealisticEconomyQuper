@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.thurso.torshavn2{
-	price: 77
+	price: 75
 	time: 631
 	distance: 420
 

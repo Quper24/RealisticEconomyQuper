@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.barcelona.portotorres {
-	price: 103
+	price: 101
 	time: 868
 	distance: 578
 

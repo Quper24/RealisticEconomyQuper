@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.bari.igoumenitsa {
-	price: 81
+	price: 101
 	time: 668
 	distance: 445
 

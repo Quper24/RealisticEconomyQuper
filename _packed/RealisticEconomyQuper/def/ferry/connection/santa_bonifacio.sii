@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.santa.bonifacio {
-	price: 10
+	price: 8
 	time: 31
 	distance: 20
 }

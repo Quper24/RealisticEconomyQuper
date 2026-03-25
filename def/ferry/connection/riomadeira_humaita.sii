@@ -2,7 +2,7 @@ SiiNunit
 {
 ferry_connection: conn.riomadeira.humaita
 {
-	price: 7
+	price: 6
 	time: 2
 	distance: 1
 

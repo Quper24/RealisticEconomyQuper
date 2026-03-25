@@ -2,7 +2,7 @@ SiiNunit
 {
 ferry_connection: conn.santos.riogrande
 {
-	price: 552
+	price: 550
 	time: 4906
 	distance: 3270
 

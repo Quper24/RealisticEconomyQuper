@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.brionne.mulhouse {
-	price: 122
+	price: 154
 	time: 1043
 	distance: 695
 }

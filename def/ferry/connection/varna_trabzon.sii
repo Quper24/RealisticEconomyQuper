@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.varna.trabzon{
-	price: 134
+	price: 169
 	time: 1148
 	distance: 765
 }

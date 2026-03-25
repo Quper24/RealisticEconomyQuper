@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.rosslare.fishguard{
-	price: 24
+	price: 22
 	time: 160
 	distance: 106
 

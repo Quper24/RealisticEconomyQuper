@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.marseille.tunis {
-	price: 211
+	price: 209
 	time: 1837
 	distance: 1224
 

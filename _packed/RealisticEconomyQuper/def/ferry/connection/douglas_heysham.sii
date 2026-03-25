@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.douglas.heysham{
-	price: 25
+	price: 23
 	time: 166
 	distance: 110
 

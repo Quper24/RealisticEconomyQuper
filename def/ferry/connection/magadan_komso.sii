@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.magadan.komso {
-	price: 282
+	price: 359
 	time: 2476
 	distance: 1650
 }

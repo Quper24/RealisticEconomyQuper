@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.holm.vennesund {
-	price: 8
+	price: 7
 	time: 10
 	distance: 6
 

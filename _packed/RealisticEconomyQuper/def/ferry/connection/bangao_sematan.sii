@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.bangao.sematan {
-	price: 203
+	price: 201
 	time: 1768
 	distance: 1178
 }

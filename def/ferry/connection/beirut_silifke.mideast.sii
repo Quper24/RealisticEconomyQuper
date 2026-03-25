@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.beirut.silifke{
-	price: 62
+	price: 77
 	time: 503
 	distance: 335
 

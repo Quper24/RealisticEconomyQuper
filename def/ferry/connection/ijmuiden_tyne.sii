@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.ijmuiden.tyne {
-	price: 91
+	price: 114
 	time: 763
 	distance: 508
 

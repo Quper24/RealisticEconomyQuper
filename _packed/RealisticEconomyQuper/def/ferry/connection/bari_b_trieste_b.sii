@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.bari_b.trieste_b {
-	price: 114
+	price: 112
 	time: 968
 	distance: 645
 	

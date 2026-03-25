@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.kuwait.turkmenbashi{
-	price: 387
+	price: 385
 	time: 3428
 	distance: 2285
 }

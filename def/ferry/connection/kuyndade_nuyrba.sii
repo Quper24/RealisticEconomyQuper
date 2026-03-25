@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.kuyndade.nuyrba {
-	price: 7
+	price: 6
 	time: 5
 	distance: 3
 }

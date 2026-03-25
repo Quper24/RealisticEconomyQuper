@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.moroni_km.calais {
-	price: 1343
+	price: 1723
 	time: 12026
 	distance: 8017
 

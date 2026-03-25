@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.vakkanai.helsinki{
-	price: 1157
+	price: 1484
 	time: 10351
 	distance: 6900
 }

@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.santiago_c.calais{
-	price: 1300
+	price: 1298
 	time: 11638
 	distance: 7758
 }

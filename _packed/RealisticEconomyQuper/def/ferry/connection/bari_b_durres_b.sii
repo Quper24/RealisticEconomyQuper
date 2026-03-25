@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.bari_b.durres_b {
-	price: 44
+	price: 42
 	time: 338
 	distance: 225
 	

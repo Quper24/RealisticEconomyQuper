@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.napoli.cagliari {
-	price: 90
+	price: 88
 	time: 751
 	distance: 500
 

@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.seydisfjord.torshavn{
-	price: 107
+	price: 135
 	time: 908
 	distance: 605
 

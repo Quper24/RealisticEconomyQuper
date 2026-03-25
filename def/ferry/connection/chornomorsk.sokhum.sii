@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.chornomorsk.sokhum {
-	price: 178
+	price: 226
 	time: 1546
 	distance: 1030
 

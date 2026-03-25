@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.khonuu.kuberganya {
-	price: 45
+	price: 43
 	time: 346
 	distance: 230
 }
