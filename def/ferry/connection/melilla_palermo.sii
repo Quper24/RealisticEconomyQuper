@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.melilla.palermo{
-	price: 498
-	time: 3451
+	price: 569
+	time: 3944
 	distance: 2300
 
 }

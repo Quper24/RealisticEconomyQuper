@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.dover.jakarta {
-	price: 2255
-	time: 20251
+	price: 3312
+	time: 23144
 	distance: 13500
 	
 	# Posisi titik belok jalur ferry, rumus >>  titik horizontal*256  ;  titik vertikal*256

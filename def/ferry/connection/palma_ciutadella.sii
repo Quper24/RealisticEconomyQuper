@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.palma.ciutadella {
-	price: 28
-	time: 161
+	price: 32
+	time: 184
 	distance: 107
 }
 }

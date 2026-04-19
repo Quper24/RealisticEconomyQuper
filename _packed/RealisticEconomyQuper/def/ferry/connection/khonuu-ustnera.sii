@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.khonuu.ustnera {
-	price: 55
-	time: 451
+	price: 79
+	time: 515
 	distance: 300
 }
 }

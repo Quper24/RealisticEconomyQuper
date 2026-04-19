@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.girne.silifke {
-    price: 31
-    time: 181
+    price: 35
+    time: 207
     distance: 120
 }
 }

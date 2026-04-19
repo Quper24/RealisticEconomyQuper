@@ -2,8 +2,8 @@ SiiNunit
 {
 ferry_connection: conn.manaus.macapa
 {
-	price: 391
-	time: 2701
+	price: 446
+	time: 3087
 	distance: 1800
 
 }

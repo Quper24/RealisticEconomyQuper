@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.gedser.rostock {
-	price: 15
-	time: 98
+	price: 21
+	time: 112
 	distance: 65
 
 	# NODE POSITIONS #######   x*256 , 0,   z*256

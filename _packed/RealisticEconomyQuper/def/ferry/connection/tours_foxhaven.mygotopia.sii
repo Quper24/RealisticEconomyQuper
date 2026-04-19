@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.tours.foxhaven {
-	price: 9
-	time: 38
+	price: 12
+	time: 44
 	distance: 25
 }
 }

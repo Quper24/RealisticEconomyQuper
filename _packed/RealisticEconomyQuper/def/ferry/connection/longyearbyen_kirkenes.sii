@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.longyearbyen.kirkenes{
-	price: 210
-	time: 1846
+	price: 307
+	time: 2109
 	distance: 1230
 
 	# NODE POSITIONS ########    x*256  , 0,   z*256

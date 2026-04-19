@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.yaren.calais {
-	price: 390
-	time: 2689
+	price: 444
+	time: 3073
 	distance: 1792
 }
 }

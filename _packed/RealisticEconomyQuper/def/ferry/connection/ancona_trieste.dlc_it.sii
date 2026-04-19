@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.ancona.trieste {
-	price: 46
-	time: 376
+	price: 67
+	time: 429
 	distance: 250
 
 	# NODE POSITIONS #######    x*256  , 0,   z*256

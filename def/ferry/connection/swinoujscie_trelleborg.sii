@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.swinoujscie.trelleborg {
-	price: 44
-	time: 271
+	price: 50
+	time: 309
 	distance: 180
 
 	# NODE POSITIONS #######    x*256 , 0,   z*256

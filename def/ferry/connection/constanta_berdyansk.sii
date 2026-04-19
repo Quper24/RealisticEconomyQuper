@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.constanta.berdyansk{
-	price: 156
-	time: 1051
+	price: 177
+	time: 1201
 	distance: 700
 
 }

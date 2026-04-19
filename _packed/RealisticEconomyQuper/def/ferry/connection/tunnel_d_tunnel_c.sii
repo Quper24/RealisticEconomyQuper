@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.tunnel_d.tunnel_c {
-	price: 15
-	time: 91
+	price: 20
+	time: 104
 	distance: 60
 
 	# NODE POSITIONS #######     x*256 , 0,   z*256

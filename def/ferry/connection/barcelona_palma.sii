@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.barcelona.palma {
-	price: 48
-	time: 296
+	price: 54
+	time: 339
 	distance: 197
 }
 }

@@ -2,7 +2,7 @@ SiiNunit
 {
 ferry_connection : conn.tasilaq.kuummiit {
 	price: 11
-	time: 37
+	time: 42
 	distance: 24
 
 }

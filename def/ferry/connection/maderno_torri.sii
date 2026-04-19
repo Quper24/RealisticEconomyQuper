@@ -2,7 +2,7 @@ SiiNunit
 {
 ferry_connection : conn.maderno.torri {
 	price: 7
-	time: 11
+	time: 13
 	distance: 7
 }
 }

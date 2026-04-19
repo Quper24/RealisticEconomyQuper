@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.istanbul.mersin{
-	price: 311
-	time: 2761
+	price: 456
+	time: 3155
 	distance: 1840
 
 	# NODE POSITIONS ########   x*256  , 0,  z*256

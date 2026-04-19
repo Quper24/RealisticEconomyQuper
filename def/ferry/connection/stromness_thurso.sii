@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.stromness.thurso{
-	price: 12
-	time: 46
+	price: 13
+	time: 52
 	distance: 30
 
 	# NODE POSITIONS #######    x*256  , 0,   z*256

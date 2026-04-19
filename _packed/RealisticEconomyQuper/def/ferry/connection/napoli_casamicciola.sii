@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.napoli.casamicciola {
-	price: 10
-	time: 53
+	price: 14
+	time: 61
 	distance: 35
 }
 }

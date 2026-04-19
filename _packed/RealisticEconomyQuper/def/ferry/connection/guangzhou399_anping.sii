@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.guangzhou399.anping {
-	price: 256
-	time: 2261
+	price: 375
+	time: 2584
 	distance: 1507
 }
 }

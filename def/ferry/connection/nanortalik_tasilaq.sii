@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.nanortalik.tasilaq {
-	price: 193
-	time: 1313
+	price: 220
+	time: 1501
 	distance: 875
 
 }

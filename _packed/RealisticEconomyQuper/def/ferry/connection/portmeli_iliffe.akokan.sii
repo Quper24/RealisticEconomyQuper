@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.portmeli.iliffe {
-	price: 7
-	time: 22
+	price: 9
+	time: 25
 	distance: 14
 }
 }

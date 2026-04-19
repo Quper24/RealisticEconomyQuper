@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.medtangier.barcelona {
-	price: 220
-	time: 1504
+	price: 251
+	time: 1719
 	distance: 1002
 
 

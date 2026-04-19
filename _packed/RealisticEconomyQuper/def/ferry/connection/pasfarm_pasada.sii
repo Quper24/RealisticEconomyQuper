@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.pasfarm.pasada {
-	price: 5
-	time: 2
+	price: 6
+	time: 3
 	distance: 1
 }
 }

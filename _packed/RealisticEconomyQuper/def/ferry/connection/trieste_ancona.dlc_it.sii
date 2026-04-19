@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.trieste.ancona {
-	price: 46
-	time: 376
+	price: 67
+	time: 429
 	distance: 250
 	
 connection_positions[0]: (2613768, 0, 6967410)

@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.gdansk.nynashamn {
-	price: 90
-	time: 773
+	price: 132
+	time: 884
 	distance: 515
 
 	# NODE POSITIONS #######   x*256 , 0,   z*256
