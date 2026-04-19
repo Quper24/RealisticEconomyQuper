@@ -21,7 +21,7 @@ SiiNunit
 
 		truck_odometer_range_coef: 0.9
 
-		dealer_truck_odometer_min: 30000
+		dealer_truck_odometer_min: 100000
 		dealer_truck_odometer_max: 1500000
 
 		truck_chassis_wear_min: 0.0

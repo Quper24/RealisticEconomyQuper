@@ -21,7 +21,7 @@ SiiNunit
 		# Icon inside the root directory of the mod.
 		icon: "image.jpg"
 
-		compatible_versions[]: "1.58.*"
+		compatible_versions[]: "1.59.*"
 
 		# Description file inside the root directory of the mod.
 		description_file: "description.txt"
