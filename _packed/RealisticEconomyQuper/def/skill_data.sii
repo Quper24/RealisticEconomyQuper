@@ -118,7 +118,7 @@ skill_percentage_increase : .skills.long_dist.revenue
 
 long_distance_skill_data : .skills.long_dist.distances
 {
-    max_distance_per_rank[]:  800.0
+    max_distance_per_rank[]:  700.0
     max_distance_per_rank[]: 1500.0
     max_distance_per_rank[]: 2500.0
     max_distance_per_rank[]: 3500.0
@@ -432,7 +432,7 @@ skill_percentage_increase : .skills.urgent.revenue
 
 urgent_job_skill_data : .skills.urgent.coefs
 {
-    important_job_xp_bonus_coef: 0.6
+    important_job_xp_bonus_coef: 0.66
     important_job_revenue_bonus_coef: 0.6
 }
 
