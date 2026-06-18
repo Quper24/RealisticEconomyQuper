@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.stefano.giglio {
-	price: 12
+	price: 13
 	time: 44
 	distance: 25
 }

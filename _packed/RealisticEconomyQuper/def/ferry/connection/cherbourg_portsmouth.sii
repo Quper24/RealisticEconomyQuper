@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.cherbourg.portsmouth{
-	price: 43
+	price: 40
 	time: 263
 	distance: 153
 

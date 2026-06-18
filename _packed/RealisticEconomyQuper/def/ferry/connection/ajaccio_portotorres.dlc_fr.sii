@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.ajaccio.portotorres {
-	price: 39
+	price: 36
 	time: 232
 	distance: 135
 

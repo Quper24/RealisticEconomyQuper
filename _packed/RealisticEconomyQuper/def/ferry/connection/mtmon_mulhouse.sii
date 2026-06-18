@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.mtmon.mulhouse {
-	price: 131
+	price: 118
 	time: 882
 	distance: 514
 }

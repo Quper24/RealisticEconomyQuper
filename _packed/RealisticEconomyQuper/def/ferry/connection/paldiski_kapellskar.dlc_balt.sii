@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.paldiski.kapellskar {
-	price: 75
+	price: 68
 	time: 488
 	distance: 284
 

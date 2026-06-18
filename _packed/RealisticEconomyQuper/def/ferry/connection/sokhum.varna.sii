@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.sokhum.varna {
-	price: 282
+	price: 250
 	time: 1938
 	distance: 1130
 	

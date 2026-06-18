@@ -1,7 +1,7 @@
 SiiNunit
 {
 	ferry_connection : conn.bogorodskoje.komso{
-		price: 99
+		price: 89
 		time: 652
 		distance: 380
 	}

@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.port_d.ciutadella {
-	price: 32
+	price: 30
 	time: 184
 	distance: 107
 }

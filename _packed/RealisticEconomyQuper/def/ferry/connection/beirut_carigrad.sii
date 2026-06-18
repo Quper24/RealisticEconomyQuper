@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.beirut.carigrad{
-	price: 400
+	price: 353
 	time: 2761
 	distance: 1610
 

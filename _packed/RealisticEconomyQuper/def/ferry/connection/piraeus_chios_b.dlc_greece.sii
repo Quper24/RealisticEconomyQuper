@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.piraeus.chios_b {
-	price: 77 # approx based on rhodes/athens
+	price: 70 # approx based on rhodes/athens
 	time: 498
 	distance: 290
 

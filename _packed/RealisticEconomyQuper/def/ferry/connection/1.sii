@@ -1,7 +1,7 @@
 SiiNunit
 {
 	ferry_connection : conn.berdyansk.piraeus {
-		price: 397
+		price: 350
 		time: 2744
 		distance: 1600
 

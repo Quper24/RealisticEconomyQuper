@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.calais.barnaul {
-	price: 985
+	price: 865
 	time: 6858
 	distance: 4000
 }

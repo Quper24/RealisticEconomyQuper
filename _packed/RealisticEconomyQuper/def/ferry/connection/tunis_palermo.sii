@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.tunis.palermo {
-	price: 68
+	price: 62
 	time: 440
 	distance: 256
 

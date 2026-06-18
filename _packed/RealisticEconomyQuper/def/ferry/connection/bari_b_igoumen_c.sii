@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.bari_b.igoumen_c {
-	price: 115
+	price: 103
 	time: 764
 	distance: 445
 

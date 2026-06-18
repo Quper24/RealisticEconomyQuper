@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.rhodes.lemesos {
-	price: 92
+	price: 83
 	time: 606
 	distance: 353
 }

@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.samsun.soci{
-	price: 93
+	price: 84
 	time: 611
 	distance: 356
 }

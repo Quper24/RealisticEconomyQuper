@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.sevas.varna {
-	price: 185
+	price: 165
 	time: 1259
 	distance: 734
 }

@@ -2,7 +2,7 @@ SiiNunit
 {
 ferry_connection: conn.belem.manaus
 {
-	price: 402
+	price: 355
 	time: 2778
 	distance: 1620
 

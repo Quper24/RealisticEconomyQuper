@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.giovanni.messina {
-	price: 8
+	price: 9
 	time: 15
 	distance: 8
 	

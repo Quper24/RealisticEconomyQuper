@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.santiago_c.p_barrios{
-	price: 195
+	price: 174
 	time: 1329
 	distance: 775
 

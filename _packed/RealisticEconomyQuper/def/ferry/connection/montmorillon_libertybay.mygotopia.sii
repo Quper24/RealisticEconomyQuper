@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.montmorillon.libertybay {
-	price: 9
+	price: 11
 	time: 27
 	distance: 15
 

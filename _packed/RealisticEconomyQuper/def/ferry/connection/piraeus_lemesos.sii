@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.piraeus.lemesos {
-	price: 260
+	price: 231
 	time: 1785
 	distance: 1041
 

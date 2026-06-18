@@ -2,7 +2,7 @@ SiiNunit
 {
 ferry_connection: conn.xique.barra
 {
-	price: 6
+	price: 8
 	time: 6
 	distance: 3
 

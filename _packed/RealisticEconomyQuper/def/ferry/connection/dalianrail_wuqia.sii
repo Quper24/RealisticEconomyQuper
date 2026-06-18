@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.dalianrail.wuqia{
-	price: 1195
+	price: 1049
 	time: 8329
 	distance: 4858
 }

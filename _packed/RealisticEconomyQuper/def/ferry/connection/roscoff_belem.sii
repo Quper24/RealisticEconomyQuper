@@ -2,7 +2,7 @@ SiiNunit
 {
 ferry_connection: conn.roscoff.belem
 {
-	price: 740
+	price: 650
 	time: 5144
 	distance: 3000
 

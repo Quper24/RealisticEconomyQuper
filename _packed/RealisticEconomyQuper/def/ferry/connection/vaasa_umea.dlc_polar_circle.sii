@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.vaasa.umea {
-	price: 30
+	price: 29
 	time: 172
 	distance: 100
 

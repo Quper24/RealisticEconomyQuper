@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.chornomorsk.poti {
-	price: 257
+	price: 227
 	time: 1758
 	distance: 1025
 

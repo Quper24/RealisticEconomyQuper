@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.aldan1.aldan2{
-	price: 7
+	price: 9
 	time: 11
 	distance: 6
 }

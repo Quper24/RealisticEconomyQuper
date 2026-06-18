@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.rodbyhavn.puttgarden{
-	price: 10
+	price: 12
 	time: 33
 	distance: 19
 

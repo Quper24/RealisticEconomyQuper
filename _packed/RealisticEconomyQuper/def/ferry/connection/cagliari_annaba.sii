@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.cagliari.annaba {
-	price: 110
+	price: 99
 	time: 729
 	distance: 425
 }

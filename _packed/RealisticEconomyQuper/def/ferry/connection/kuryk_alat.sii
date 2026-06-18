@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.kuryk.alat{
-	price: 120
+	price: 108
 	time: 801
 	distance: 467
 

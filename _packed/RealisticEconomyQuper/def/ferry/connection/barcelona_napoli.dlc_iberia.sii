@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.barcelona.napoli {
-	price: 263
+	price: 233
 	time: 1801
 	distance: 1050
 

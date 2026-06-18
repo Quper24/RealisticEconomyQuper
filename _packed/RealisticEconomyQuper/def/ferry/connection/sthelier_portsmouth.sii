@@ -1,7 +1,7 @@
 SiiNunit
 {
 ferry_connection : conn.sthelier.portsmouth{
-	price: 57
+	price: 53
 	time: 364
 	distance: 212
 
