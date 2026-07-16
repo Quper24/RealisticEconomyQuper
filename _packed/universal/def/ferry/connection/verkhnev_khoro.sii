@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.verkhnev.khoro {
+	price: 11
+	time: 25
+	distance: 6
+}
+}
+

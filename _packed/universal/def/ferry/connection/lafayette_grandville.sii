@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.lafayette.grandville {
-	price: 8
-	time: 8
+	price: 10
+	time: 17
 	distance: 4
 }
 }

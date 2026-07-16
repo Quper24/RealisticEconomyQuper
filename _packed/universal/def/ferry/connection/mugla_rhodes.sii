@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.mugla.rhodes{
-	price: 29
-	time: 172
+	price: 58
+	time: 401
 	distance: 100
 }
 }

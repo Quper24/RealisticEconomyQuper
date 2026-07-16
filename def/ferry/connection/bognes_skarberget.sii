@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.bognes.skarberget{
-	price: 9
-	time: 13
+	price: 11
+	time: 29
 	distance: 7
 
 	# NODE POSITIONS #######     x*256 , 0,   z*256

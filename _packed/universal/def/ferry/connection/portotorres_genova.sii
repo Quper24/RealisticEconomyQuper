@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.portotorres.genova {
-	price: 95
-	time: 704
+	price: 213
+	time: 1641
 	distance: 410
 }
 }

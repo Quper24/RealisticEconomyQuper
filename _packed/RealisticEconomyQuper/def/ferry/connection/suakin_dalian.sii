@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.suakin.dalian{
-	price: 1765
-	time: 14061
+	price: 4109
+	time: 32809
 	distance: 8202
 }
 }

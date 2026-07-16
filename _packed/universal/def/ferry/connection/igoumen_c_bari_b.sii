@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.igoumen_c.bari_b {
-	price: 103
-	time: 764
+	price: 230
+	time: 1781
 	distance: 445
 
 	# NODE POSITIONS #######   x*256 , 0,   z*256

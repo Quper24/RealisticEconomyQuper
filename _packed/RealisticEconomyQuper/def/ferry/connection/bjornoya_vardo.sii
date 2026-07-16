@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.bjornoya.vardo{
+	price: 508
+	time: 4001
+	distance: 1000
+
+}
+}

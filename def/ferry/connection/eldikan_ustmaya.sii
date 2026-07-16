@@ -2,7 +2,7 @@ SiiNunit
 {
 ferry_connection : conn.eldikan.ustmaya {
 	price: 8
-	time: 3
+	time: 5
 	distance: 1
 }
 }

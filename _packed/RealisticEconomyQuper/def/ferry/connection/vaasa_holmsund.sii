@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.vaasa.holmsund {
-	price: 28
-	time: 165
+	price: 56
+	time: 385
 	distance: 96
 
 	# NODE POSITIONS #######      x*256 , 0,   z*256

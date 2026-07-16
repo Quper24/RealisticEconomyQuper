@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.malabo.yeji_1{
-	price: 1293
-	time: 10287
+	price: 3008
+	time: 24001
 	distance: 6000
 	
 }

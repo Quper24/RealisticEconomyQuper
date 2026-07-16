@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.tripoli.napoli{
-	price: 200
-	time: 1542
+	price: 457
+	time: 3597
 	distance: 899
 }
 }

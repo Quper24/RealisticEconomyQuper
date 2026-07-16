@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.trieste_b.bari_b {
-	price: 146
-	time: 1107
+	price: 330
+	time: 2581
 	distance: 645
 
 	# NODE POSITIONS #######   x*256  , 0,  z*256

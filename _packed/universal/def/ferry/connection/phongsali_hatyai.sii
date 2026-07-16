@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.phongsali.hatyai {
-	price: 471
-	time: 3709
+	price: 1089
+	time: 8653
 	distance: 2163
 }
 }

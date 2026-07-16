@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.anadyr.egvekinot {
-	price: 82
-	time: 596
+	price: 181
+	time: 1389
 	distance: 347
 }
 }

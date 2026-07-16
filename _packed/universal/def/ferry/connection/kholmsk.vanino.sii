@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.kholmsk.vanino {
-	price: 64
-	time: 450
+	price: 139
+	time: 1049
 	distance: 262
 }
 }

@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.aarhus.rostock
+{
+    price: 34
+    time: 213
+    distance: 53
+}
+}

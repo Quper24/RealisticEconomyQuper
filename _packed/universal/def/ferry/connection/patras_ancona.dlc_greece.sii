@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.patras.ancona {
-	price: 213
-	time: 1647
+	price: 488
+	time: 3841
 	distance: 960
 
 	# NODE POSITIONS #######   x*256  , 0,  z*256

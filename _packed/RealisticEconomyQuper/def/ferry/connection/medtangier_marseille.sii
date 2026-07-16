@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.medtangier.marseille {
-	price: 375
-	time: 2943
+	price: 866
+	time: 6865
 	distance: 1716
 
 

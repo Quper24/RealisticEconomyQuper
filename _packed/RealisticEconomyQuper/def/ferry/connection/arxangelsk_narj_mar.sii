@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.arxangelsk.narj_mar {
-	price: 299
-	time: 2332
+	price: 688
+	time: 5441
 	distance: 1360
 }
 }

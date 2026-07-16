@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.vittel.mulhouse {
-	price: 42
-	time: 275
+	price: 88
+	time: 641
 	distance: 160
 }
 }

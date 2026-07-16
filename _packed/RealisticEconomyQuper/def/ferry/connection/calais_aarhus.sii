@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.calais.aarhus {
+	price: 532
+	time: 4197
+	distance: 1049
+}
+}
+

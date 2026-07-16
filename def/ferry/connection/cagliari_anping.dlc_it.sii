@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.cagliari.anping {
-	price: 115
-	time: 858
+	price: 258
+	time: 2001
 	distance: 500
 	
 

@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.nouakchott.valencia{
-	price: 564
-	time: 4451
+	price: 1306
+	time: 10385
 	distance: 2596
 
 }

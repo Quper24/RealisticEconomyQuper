@@ -2,8 +2,8 @@ SiiNunit
 {
 ferry_connection: conn.ohiggins.cochrane
 {
-	price: 10
-	time: 18
+	price: 13
+	time: 41
 	distance: 10
 
 }

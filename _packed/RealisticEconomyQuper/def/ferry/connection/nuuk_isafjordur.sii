@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.nuuk.isafjordur {
-	price: 438
-	time: 3443
+	price: 1012
+	time: 8033
 	distance: 2008
 
 	# NODE POSITIONS #######    x*256  , 0,   z*256

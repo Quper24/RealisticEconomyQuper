@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.alertair.nyaleair {
-	price: 289
-	time: 2255
+	price: 665
+	time: 5261
 	distance: 1315
 }
 }

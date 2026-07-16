@@ -2,8 +2,8 @@ SiiNunit
 {
 ferry_connection: conn.manaus.portovelho
 {
-	price: 179
-	time: 1372
+	price: 408
+	time: 3201
 	distance: 800
 
 }

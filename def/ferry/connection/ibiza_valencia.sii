@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.ibiza.valencia {
-	price: 71
-	time: 510
+	price: 156
+	time: 1189
 	distance: 297
 }
 }

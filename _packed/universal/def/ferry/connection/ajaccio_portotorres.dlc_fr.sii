@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.ajaccio.portotorres {
-	price: 36
-	time: 232
+	price: 75
+	time: 541
 	distance: 135
 
 	# NODE POSITIONS #######    x*256 , 0,   z*256

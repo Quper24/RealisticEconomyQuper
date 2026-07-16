@@ -2,8 +2,8 @@ SiiNunit
 {
 ferry_connection: conn.linden.lethem
 {
-	price: 8
-	time: 6
+	price: 9
+	time: 13
 	distance: 3
 
 }

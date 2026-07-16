@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.messoyakha.tazovskiy {
-	price: 12
-	time: 35
+	price: 18
+	time: 81
 	distance: 20
 }
 }

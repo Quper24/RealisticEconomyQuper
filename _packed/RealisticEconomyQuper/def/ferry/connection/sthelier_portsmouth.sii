@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.sthelier.portsmouth{
-	price: 53
-	time: 364
+	price: 114
+	time: 849
 	distance: 212
 
 	# NODE POSITIONS #######    x*256  , 0,   z*256

@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.latakia.larnaka1{
-	price: 52
-	time: 356
+	price: 111
+	time: 829
 	distance: 207
 
 	# NODE POSITIONS ########   x*256  , 0,  z*256

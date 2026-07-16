@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.dublin.holyhead{
-	price: 30
-	time: 181
+	price: 60
+	time: 421
 	distance: 105
 
 	# NODE POSITIONS #######    x*256  , 0,   z*256

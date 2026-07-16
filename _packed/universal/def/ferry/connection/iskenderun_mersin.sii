@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.iskenderun.mersin{
-	price: 43
-	time: 284
+	price: 90
+	time: 661
 	distance: 165
 
 	# NODE POSITIONS #######   x*256  , 0,  z*256

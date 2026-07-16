@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.praia.lisboa {
-	price: 650
-	time: 5144
+	price: 1508
+	time: 12001
 	distance: 3000
 }
 }

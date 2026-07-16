@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.lochmaddy.uig{
-	price: 18
-	time: 87
+	price: 33
+	time: 201
 	distance: 50
 
 	# NODE POSITIONS #######    x*256  , 0,   z*256

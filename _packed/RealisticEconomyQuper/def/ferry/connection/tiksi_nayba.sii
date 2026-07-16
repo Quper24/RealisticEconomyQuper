@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.tiksi.nayba {
-	price: 40
-	time: 258
+	price: 83
+	time: 601
 	distance: 150
 }
 }

@@ -2,7 +2,7 @@ SiiNunit
 {
 ferry_connection : conn.travemunde_p.priwall {
 	price: 8	# TODO
-	time: 3
+	time: 5
 	distance: 1
 }
 }

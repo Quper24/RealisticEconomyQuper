@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.oslo.kiel {
-	price: 155
-	time: 1179
+	price: 351
+	time: 2749
 	distance: 687
 
 	# NODE POSITIONS #######    x*256 , 0,   z*256

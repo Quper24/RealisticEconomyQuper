@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.puttgarden.rodbyhavn{
-	price: 12
-	time: 33
+	price: 17
+	time: 77
 	distance: 19
 
 	# NODE POSITIONS #######   x*256 , 0,   z*256

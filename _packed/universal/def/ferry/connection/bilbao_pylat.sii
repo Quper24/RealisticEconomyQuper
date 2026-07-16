@@ -1,0 +1,9 @@
+SiiNunit
+{
+ferry_connection : conn.bilbao.pylat {
+	price: 175
+	time: 1341
+	distance: 335
+
+}
+}
