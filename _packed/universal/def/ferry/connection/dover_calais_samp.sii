@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.dover.calais {
-	price: 32
-	time: 197
+	price: 20
+	time: 99
 	distance: 49
 }
 }

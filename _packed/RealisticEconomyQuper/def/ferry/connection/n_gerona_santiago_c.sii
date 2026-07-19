@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.n_gerona.santiago_c {
-	price: 395
-	time: 3101
+	price: 201
+	time: 1551
 	distance: 775
 
 	# NODE POSITIONS #######    x*256 , 0,   z*256

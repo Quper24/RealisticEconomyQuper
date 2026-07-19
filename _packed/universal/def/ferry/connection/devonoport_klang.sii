@@ -2,8 +2,8 @@ SiiNunit
 {
 ferry_connection : conn.devonoport.klang {
 
-	price: 3758
-	time: 30001
+	price: 1883
+	time: 15001
 	distance: 7500
 }
 }

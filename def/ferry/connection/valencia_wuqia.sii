@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.valencia.wuqia {
-	price: 3515
-	time: 28061
+	price: 1761
+	time: 14031
 	distance: 7015
 }
 }

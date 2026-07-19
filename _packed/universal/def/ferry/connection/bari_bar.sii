@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.bari.bar{
-	price: 116
-	time: 865
+	price: 62
+	time: 433
 	distance: 216
 
 	# NODE POSITIONS #######      x*256 , 0,   z*256

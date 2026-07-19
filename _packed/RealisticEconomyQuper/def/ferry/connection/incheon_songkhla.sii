@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.incheon.songkhla{
-	price: 2143
-	time: 17085
+	price: 1075
+	time: 8543
 	distance: 4271
 }
 }

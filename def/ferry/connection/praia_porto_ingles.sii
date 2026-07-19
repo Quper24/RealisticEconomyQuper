@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.praia.porto_ingles {
-	price: 30
-	time: 177
+	price: 19
+	time: 89
 	distance: 44
 }
 }

@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.klaipeda2.karlskrona{
-	price: 191
-	time: 1469
+	price: 99
+	time: 735
 	distance: 367
 }
 }

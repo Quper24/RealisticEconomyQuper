@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.nizhni_tst.yakutsk_tst{
-	price: 11
-	time: 25
+	price: 9
+	time: 13
 	distance: 6
 }
 }

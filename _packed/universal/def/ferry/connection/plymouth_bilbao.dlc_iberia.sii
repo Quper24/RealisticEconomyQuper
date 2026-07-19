@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.plymouth.bilbao {
-	price: 429
-	time: 3369
+	price: 218
+	time: 1685
 	distance: 842
 
 	# NODE POSITIONS #######    x*256  , 0,   z*256

@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.rosslare.cherbourg{
-	price: 296
-	time: 2309
+	price: 152
+	time: 1155
 	distance: 577
 
 	# NODE POSITIONS #######     x*256  , 0,   z*256

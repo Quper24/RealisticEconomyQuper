@@ -2,8 +2,8 @@ SiiNunit
 {
 ferry_connection : conn.devonoport.calais {
 
-	price: 7854
-	time: 62773
+	price: 3931
+	time: 31387
 	distance: 15693
 }
 }

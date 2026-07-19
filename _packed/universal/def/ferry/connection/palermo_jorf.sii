@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.palermo.jorf {
-	price: 280
-	time: 2177
+	price: 144
+	time: 1089
 	distance: 544
 
 }

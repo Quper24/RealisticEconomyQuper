@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.odessa.novorossiysk{
-	price: 349
-	time: 2733
+	price: 178
+	time: 1367
 	distance: 683
 	# NODE POSITIONS ########   x*256  , 0,  z*256
 	connection_positions[0]: (22016000, 0, 7424000)

@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.palermo.mcmurdo {
-	price: 7720
-	time: 61697
+	price: 3864
+	time: 30849
 	distance: 15424
 }
 }

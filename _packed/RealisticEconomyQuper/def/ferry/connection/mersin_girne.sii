@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.mersin.girne {
-    price: 118
-    time: 881
+    price: 63
+    time: 441
     distance: 220
 }
 }

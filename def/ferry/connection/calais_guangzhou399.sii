@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.calais.guangzhou399 {
-	price: 761
-	time: 6029
+	price: 384
+	time: 3015
 	distance: 1507
 }
 }

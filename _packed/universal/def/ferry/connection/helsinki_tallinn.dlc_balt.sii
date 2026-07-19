@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.helsinki.tallinn {
-	price: 50
-	time: 341
+	price: 29
+	time: 171
 	distance: 85
 
 	# NODE POSITIONS #######    x*256 , 0,   z*256

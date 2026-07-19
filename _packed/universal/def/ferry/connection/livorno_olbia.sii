@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.livorno.olbia{
-	price: 108
-	time: 801
+	price: 58
+	time: 401
 	distance: 200
 }
 }

@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.plymouth.roscoff {
-	price: 106
-	time: 785
+	price: 57
+	time: 393
 	distance: 196
 }
 }

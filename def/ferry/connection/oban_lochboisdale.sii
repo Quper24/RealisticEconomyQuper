@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.oban.lochboisdale{
-	price: 78
-	time: 561
+	price: 43
+	time: 281
 	distance: 140
 
 	# NODE POSITIONS #######    x*256  , 0,   z*256

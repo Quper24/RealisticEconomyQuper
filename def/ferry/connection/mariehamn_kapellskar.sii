@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.mariehamn.kapellskar{
-	price: 68
-	time: 481
+	price: 38
+	time: 241
 	distance: 120
 
 	# NODE POSITIONS #######    x*256 , 0,   z*256

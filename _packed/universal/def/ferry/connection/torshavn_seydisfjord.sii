@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.torshavn.seydisfjord{
-	price: 310
-	time: 2421
+	price: 159
+	time: 1211
 	distance: 605
 
 	# NODE POSITIONS #######    x*256  , 0,   z*256

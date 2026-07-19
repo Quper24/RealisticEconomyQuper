@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.naantali.kapellskar {
-	price: 111
-	time: 829
+	price: 59
+	time: 415
 	distance: 207
 	
 	connection_positions[0]: (9010871, 0, -14352823)

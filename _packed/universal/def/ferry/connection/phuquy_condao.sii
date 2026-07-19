@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.phuquy.condao {
-	price: 173
-	time: 1321
+	price: 90
+	time: 661
 	distance: 330
 }
 }

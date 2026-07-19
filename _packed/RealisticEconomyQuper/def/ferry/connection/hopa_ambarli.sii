@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.hopa.ambarli{
-	price: 558
-	time: 4401
+	price: 283
+	time: 2201
 	distance: 1100
 
 	# NODE POSITIONS #######      x*256 , 0,   z*256

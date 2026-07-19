@@ -3,7 +3,7 @@ SiiNunit
 ferry_connection: conn.saomiguel.santarosa
 {
 	price: 8
-	time: 5
+	time: 3
 	distance: 1
 
 }

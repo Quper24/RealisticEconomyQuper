@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.ibiza.palma {
-	price: 86
-	time: 629
+	price: 47
+	time: 315
 	distance: 157
 }
 }

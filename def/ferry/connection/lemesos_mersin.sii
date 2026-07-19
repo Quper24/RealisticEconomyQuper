@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.lemesos.mersin{
-	price: 118
-	time: 885
+	price: 63
+	time: 443
 	distance: 221
 
 

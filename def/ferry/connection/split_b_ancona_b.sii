@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.split_b.ancona_b {
-	price: 128
-	time: 961
+	price: 68
+	time: 481
 	distance: 240
 	
 	# NODE POSITIONS #######   x*256 , 0,   z*256
