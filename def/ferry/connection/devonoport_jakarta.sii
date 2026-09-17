@@ -2,8 +2,8 @@ SiiNunit
 {
 ferry_connection : conn.devonoport.jakarta {
 
-	price: 1883
-	time: 15001
+	price: 1504
+	time: 15021
 	distance: 7500
 }
 }

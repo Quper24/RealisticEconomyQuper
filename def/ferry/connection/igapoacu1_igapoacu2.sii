@@ -2,8 +2,8 @@ SiiNunit
 {
 ferry_connection: conn.igapoacu1.igapoacu2
 {
-	price: 8
-	time: 3
+	price: 7
+	time: 23
 	distance: 1
 
 }

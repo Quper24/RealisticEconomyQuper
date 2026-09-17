@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.plymouth.cork {
-	price: 88
-	time: 641
+	price: 70
+	time: 661
 	distance: 320
 }
 }

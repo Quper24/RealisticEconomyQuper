@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.napoli.mcmurdo {
-	price: 3935
-	time: 31423
+	price: 3148
+	time: 31443
 	distance: 15711
 }
 }

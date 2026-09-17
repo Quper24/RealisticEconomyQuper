@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.hull.esbjerg {
-	price: 1314
-	time: 1140
+	price: 127
+	time: 1251
 	distance: 615
 }
 }
