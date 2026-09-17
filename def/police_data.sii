@@ -1,6 +1,5 @@
 SiiNunit
 {
-	#quper
 	police_data : police.data
 	{
 		# level based fines: min(base + level * step, limit), rounded up to multiple of rounding.
@@ -15,7 +14,7 @@ SiiNunit
 		fine_overspeed_multiplier_limit: 10.0
 
 		fine_amounts[0]: 50		# car crash
-		fine_amounts[1]: 150		# avoid sleeping
+		fine_amounts[1]: 150		# avoid mandatory break
 		fine_amounts[2]: 100		# wrong way
 		fine_amounts[3]: 70		# speeding (camera)
 		fine_amounts[4]: 80		# no lights during night
@@ -33,7 +32,7 @@ SiiNunit
 		# in seconds of real time
 		#
 		offence_check_delay[0]: 0	# car crash
-		offence_check_delay[1]: 300	# avoid sleeping
+		offence_check_delay[1]: 300	# avoid mandatory break
 		offence_check_delay[2]: 30	# wrong way
 		offence_check_delay[3]: 0	# speeding (camera)
 		offence_check_delay[4]: 120	# no lights during night
@@ -46,7 +45,7 @@ SiiNunit
 		# in seconds of real time
 		#
 		offence_police_check_delay[0]: 0	# car crash
-		offence_police_check_delay[1]: 120	# avoid sleeping
+		offence_police_check_delay[1]: 120	# avoid mandatory break
 		offence_police_check_delay[2]: 30	# wrong way
 		offence_police_check_delay[3]: 0	# speeding (camera)
 		offence_police_check_delay[4]: 60	# no lights during night
@@ -56,7 +55,7 @@ SiiNunit
 		offence_police_check_delay[8]: 300	# illegal trailer
 
 		offence_probabilty[0]: 0.8	# car crash
-		offence_probabilty[1]: 0.4	# avoid sleeping
+		offence_probabilty[1]: 0.4	# avoid mandatory break
 		offence_probabilty[2]: 0.8	# wrong way
 		offence_probabilty[3]: 1.0	# speeding (camera)
 		offence_probabilty[4]: 0.5	# no lights during night
@@ -71,12 +70,12 @@ SiiNunit
 		offence_probabilty[13]: 1.0	# illegal trailer (weight station)
 
 		offence_police_probabilty[0]: 1.0	# car crash
-		offence_police_probabilty[1]: 0.5	# avoid sleeping
+		offence_police_probabilty[1]: 0.5	# avoid mandatory break
 		offence_police_probabilty[2]: 1.0	# wrong way
 		offence_police_probabilty[3]: 1.0	# speeding (camera)
 		offence_police_probabilty[4]: 1.0	# no lights during night
 		offence_police_probabilty[5]: 1.0	# red lights
-		offence_police_probabilty[6]: 0.0	# speeding
+		offence_police_probabilty[6]: 0.2	# speeding
 		offence_police_probabilty[7]: 1.0	# avoid weighing
 		offence_police_probabilty[8]: 0.5	# illegal trailer
 		offence_police_probabilty[9]: 1.0	# avoid inspection
@@ -122,6 +121,6 @@ SiiNunit
 		police_nearby_fine_rate: 1.0
 
 		# how often can nearby police car impose a fine
-		police_nearby_offence_timer: 1000.0
+		police_nearby_offence_timer: 60.0
 	}
 }

@@ -24,9 +24,9 @@
 		cargo_damage_cost: 3.0 		# -3 Euro per 1% of damage
 		cargo_damage_cost_factor: 0.04 	# -4% total cost penalty per 1% of damage
 
-		late_delivery_max_overtime[0]: 4320	# 2 days for "easy" deliveries
-		late_delivery_max_overtime[1]: 1440	# 12 hours for "normal" deliveries
-		late_delivery_max_overtime[2]: 480	# 4 hours for "urgent" deliveries
+		late_delivery_max_overtime[0]: 8640	# 2 days for "easy" deliveries
+		late_delivery_max_overtime[1]: 2160	# 12 hours for "normal" deliveries
+		late_delivery_max_overtime[2]: 720	# 4 hours for "urgent" deliveries
 
 		simulation_avg_speed: 55.0	# km/h
 
@@ -36,13 +36,13 @@
 		maximum_driving_time: 660	# how long the driver can drive (in minutes)
 		sleeping_time: 540		# length of sleep (in minutes)
 
-		delivery_window[0]: 800		# easy
-		delivery_window[1]: 400		# medium
-		delivery_window[2]: 150		# hard
+		delivery_window[0]: 1200		# easy
+		delivery_window[1]: 800		# medium
+		delivery_window[2]: 400		# hard
 
 		delivery_window_coef[0]: 1.0	# easy
-		delivery_window_coef[1]: 1.2	# medium  revenue coef
-		delivery_window_coef[2]: 1.5	# hard
+		delivery_window_coef[1]: 1.15	# medium  revenue coef
+		delivery_window_coef[2]: 1.4	# hard
 
 		hurry_up_timer: 30		# how long the hurry up music will play (in game minutes)
 
@@ -195,121 +195,121 @@
 		currency_sign3[]: ""
 
 		currency_code[]: "CHF"
-	currency_ratio[]: 0.94
+		currency_ratio[]: 0.9160
 		currency_sign1[]: ""
 		currency_sign2[]: ""
 		currency_sign3[]: " CHF"
 
 		currency_code[]: "CZK"
-	currency_ratio[]: 24.12
+		currency_ratio[]: 24.4945
 		currency_sign1[]: ""
 		currency_sign2[]: ""
 		currency_sign3[]: " Kč"
 
 		currency_code[]: "GBP"
-	currency_ratio[]: 0.86
+		currency_ratio[]: 0.8646
 		currency_sign1[]: ""
 		currency_sign2[]: "£"
 		currency_sign3[]: ""
 
 		currency_code[]: "PLN"
-	currency_ratio[]: 4.31
+		currency_ratio[]: 4.2734
 		currency_sign1[]: ""
 		currency_sign2[]: ""
 		currency_sign3[]: " zł"
 
 		currency_code[]: "HUF"
-	currency_ratio[]: 362.74
+		currency_ratio[]: 387.68
 		currency_sign1[]: ""
 		currency_sign2[]: ""
 		currency_sign3[]: " Ft"
 
 		currency_code[]: "DKK"
-	currency_ratio[]: 7.48
+		currency_ratio[]: 7.4721
 		currency_sign1[]: ""
 		currency_sign2[]: ""
 		currency_sign3[]: " kr"
 
 		currency_code[]: "SEK"
-	currency_ratio[]: 11.07
+		currency_ratio[]: 10.864
 		currency_sign1[]: ""
 		currency_sign2[]: ""
 		currency_sign3[]: " kr"
 
 		currency_code[]: "NOK"
-	currency_ratio[]: 10.87
+		currency_ratio[]: 11.161
 		currency_sign1[]: ""
 		currency_sign2[]: ""
 		currency_sign3[]: " kr"
 
 		currency_code[]: "RUB"
-	currency_ratio[]: 96.75
+		currency_ratio[]: 93.991
 		currency_sign1[]: ""
 		currency_sign2[]: "₽"
 		currency_sign3[]: ""
 
-		currency_code[]: "BGN"
-	currency_ratio[]: 1.96
+		currency_code[]: "BGN*"
+		currency_ratio[]: 1.9558
 		currency_sign1[]: ""
 		currency_sign2[]: "лв"
 		currency_sign3[]: ""
 
 		currency_code[]: "RON"
-	currency_ratio[]: 5.25
+		currency_ratio[]: 5.0966
 		currency_sign1[]: ""
 		currency_sign2[]: ""
 		currency_sign3[]: " lei"
 
 		currency_code[]: "TRY"
-	currency_ratio[]: 56.16
+		currency_ratio[]: 51.195
 		currency_sign1[]: ""
 		currency_sign2[]: "₺"
 		currency_sign3[]: ""
 
 		currency_code[]: "ALL"
-	currency_ratio[]: 92.54
+		currency_ratio[]: 96.086
 		currency_sign1[]: ""
 		currency_sign2[]: ""
 		currency_sign3[]: " lek"
 
 		currency_code[]: "BAM"
-	currency_ratio[]: 1.96
+		currency_ratio[]: 1.9558
 		currency_sign1[]: ""
 		currency_sign2[]: "KM "
 		currency_sign3[]: ""
 
 		currency_code[]: "MKD"
-	currency_ratio[]: 61.50
+		currency_ratio[]: 61.616
 		currency_sign1[]: ""
 		currency_sign2[]: ""
 		currency_sign3[]: " ден"
 
 		currency_code[]: "RSD"
-	currency_ratio[]: 117.33
+		currency_ratio[]: 117.45
 		currency_sign1[]: ""
 		currency_sign2[]: "дин "
 		currency_sign3[]: ""
 
 		currency_code[]: "UAH"
-	currency_ratio[]: 52.27
+		currency_ratio[]: 52.27
 		currency_sign1[]: ""
 		currency_sign2[]: ""
 		currency_sign3[]: " грн"
 
 		currency_code[]: "KZT"
-	currency_ratio[]: 536.05
+		currency_ratio[]: 536.05
 		currency_sign1[]: ""
 		currency_sign2[]: ""
 		currency_sign3[]: " тг"
 
 		currency_code[]: "BYN"
-	currency_ratio[]: 3.49
+		currency_ratio[]: 3.49
 		currency_sign1[]: ""
 		currency_sign2[]: ""
-		currency_sign3[]: " бел. руб"
+		currency_sign3[]: " руб"
 
 		currency_code[]: "CNY"
-	currency_ratio[]: 7.85
+		currency_ratio[]: 7.85
 		currency_sign1[]: ""
 		currency_sign2[]: ""
 		currency_sign3[]: " CNY"
