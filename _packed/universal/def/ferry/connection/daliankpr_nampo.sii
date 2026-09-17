@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.daliankpr.nampo{
-	price: 88
-	time: 645
+	price: 70
+	time: 665
 	distance: 322
 }
 }

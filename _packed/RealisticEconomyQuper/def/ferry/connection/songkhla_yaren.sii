@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.yaren.songkhla {
-	price: 431
-	time: 3387
+	price: 343
+	time: 3407
 	distance: 1693
 }
 }

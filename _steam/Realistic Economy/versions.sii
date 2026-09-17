@@ -36,6 +36,13 @@ SiiNunit
 	}
 
 
+	package_version_info : .160
+	{
+		package_name: "160"
+		compatible_versions[]: "1.60.*"
+	}
+
+
 	package_version_info : .universal
 	{
 		package_name: "universal"

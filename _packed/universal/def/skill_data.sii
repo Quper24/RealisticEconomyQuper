@@ -108,7 +108,7 @@ SiiNunit
 
 	skill_percentage_increase : .skills.long_dist.revenue
 	{
-		percentage_increase_per_rank[]: 0.1
+		percentage_increase_per_rank[]: 0.10
 		percentage_increase_per_rank[]: 0.15
 		percentage_increase_per_rank[]: 0.20
 		percentage_increase_per_rank[]: 0.25

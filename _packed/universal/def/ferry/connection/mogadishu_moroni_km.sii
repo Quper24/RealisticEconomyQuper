@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.mogadishu.moroni_km {
-	price: 397
-	time: 3113
+	price: 316
+	time: 3133
 	distance: 1556
 }
 }

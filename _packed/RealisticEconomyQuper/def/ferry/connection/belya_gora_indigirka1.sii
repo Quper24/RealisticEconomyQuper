@@ -1,8 +1,8 @@
 SiiNunit
 {
 	ferry_connection : conn.belaya_gora.indigirka2 {
-		price: 14
-		time: 51
+		price: 10
+		time: 71
 		distance: 25
 	}
 }

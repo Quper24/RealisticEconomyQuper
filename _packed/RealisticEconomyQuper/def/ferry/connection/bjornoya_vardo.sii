@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.bjornoya.vardo{
-	price: 258
-	time: 2001
+	price: 205
+	time: 2021
 	distance: 1000
 
 }

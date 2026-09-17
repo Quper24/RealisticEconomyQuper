@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.hatien.phuquoc {
-	price: 18
-	time: 81
+	price: 13
+	time: 101
 	distance: 40
 }
 }

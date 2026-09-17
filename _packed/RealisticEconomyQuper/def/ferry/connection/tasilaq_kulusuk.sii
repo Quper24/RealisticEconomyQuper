@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.tasilaq.kulusuk {
-	price: 11
-	time: 25
+	price: 7
+	time: 45
 	distance: 12
 
 }

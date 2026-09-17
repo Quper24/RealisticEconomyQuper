@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.nyale.janmay {
-	price: 270
-	time: 2103
+	price: 214
+	time: 2123
 	distance: 1051
 }
 }

@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.valencia.ceuta{
-	price: 421
-	time: 3311
+	price: 337
+	time: 3331
 	distance: 1655
 
 }

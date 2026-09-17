@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.saotome.monrovia {
-	price: 758
-	time: 6001
+	price: 604
+	time: 6021
 	distance: 3000
 }
 }

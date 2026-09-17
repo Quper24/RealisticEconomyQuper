@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.baku_rtc.kuryk{
-	price: 124
-	time: 935
+	price: 97
+	time: 955
 	distance: 467
 
 	

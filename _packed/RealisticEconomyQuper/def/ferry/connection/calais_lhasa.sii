@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.calais.lhasa {
-	price: 384
-	time: 3015
+	price: 307
+	time: 3035
 	distance: 1507
 }
 }

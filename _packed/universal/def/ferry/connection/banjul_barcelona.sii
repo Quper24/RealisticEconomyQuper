@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.banjul.barcelona {
-	price: 758
-	time: 6001
+	price: 604
+	time: 6021
 	distance: 3000
 }
 }

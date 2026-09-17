@@ -3,7 +3,7 @@ SiiNunit
 
 	bank_data : bank.data.storage
 	{
-		min_after_loan_repay:	-1000
+		min_after_loan_repay:	0
 
 		loan_offers[]: bank.data.loan1
 		loan_offers[]: bank.data.loan2

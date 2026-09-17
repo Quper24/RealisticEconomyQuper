@@ -1,8 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.haifa.larnaka2{
-	price: 75
-	time: 541
+	price: 58
+	time: 561
 	distance: 270
 
 	# NODE POSITIONS ########   x*256  , 0,  z*256

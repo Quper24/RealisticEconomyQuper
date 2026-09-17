@@ -9,7 +9,7 @@ country_data: country.data.jordan
 
 	pos:(121500, 0, 98000)
 
-	fuel_price: 1.036
+	fuel_price: 1.039
 
 	lights_mandatory: false
 	leftside_traffic: false
