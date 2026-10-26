@@ -1,9 +1,8 @@
 SiiNunit
 {
 ferry_connection : conn.fnideq.valencia {
-	price: 181
-	time: 1775
-	distance: 877
+	price: 55
+	time: 535
+	distance: 257
 }
 }
-

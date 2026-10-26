@@ -1,10 +1,1 @@
-SiiNunit
-{
-ferry_connection : conn.vladivostok.vakkanai{
-	price: 169
-	time: 1667
-	distance: 823
-}
-
-}
-
+SiiNunit{}

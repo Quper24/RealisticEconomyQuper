@@ -1,9 +1,9 @@
 SiiNunit
 {
 ferry_connection : conn.uig.tarbert{
-	price: 10
-	time: 81
-	distance: 30
+	price: 13
+	time: 111
+	distance: 45
 
 	# NODE POSITIONS #######    x*256  , 0,   z*256
 	connection_positions[0]: (-14190950, 0, -15957684)

@@ -6,4 +6,3 @@ ferry_connection : conn.palermo.annaba {
 	distance: 650
 }
 }
-

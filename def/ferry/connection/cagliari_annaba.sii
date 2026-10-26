@@ -6,4 +6,3 @@ ferry_connection : conn.cagliari.annaba {
 	distance: 425
 }
 }
-

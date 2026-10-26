@@ -1,9 +1,9 @@
 SiiNunit
 {
 ferry_connection : conn.torshavn.bergen{
-	price: 142
-	time: 1381
-	distance: 680
+	price: 139
+	time: 1361
+	distance: 670
 
 	# NODE POSITIONS #######     x*256  , 0,   z*256
 	connection_positions[0]:  (-13102080, 0, -20790886)

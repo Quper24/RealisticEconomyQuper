@@ -1,9 +1,1 @@
-SiiNunit
-{
-ferry_connection : conn.magadan.komso {
-	price: 334
-	time: 3321
-	distance: 1650
-}
-}
-
+SiiNunit{}

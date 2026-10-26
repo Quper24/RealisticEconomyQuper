@@ -1,9 +1,9 @@
 SiiNunit
 {
 ferry_connection : conn.heysham.warrenpnt{
-	price: 49
-	time: 471
-	distance: 225
+	price: 52
+	time: 481
+	distance: 230
 
 	# NODE POSITIONS #######    x*256  , 0,   z*256
 	connection_positions[0]: (-12518400, 0, -8494080)

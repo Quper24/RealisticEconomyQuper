@@ -1,9 +1,9 @@
 SiiNunit
 {
 ferry_connection : conn.varna.poti{
-	price: 232
-	time: 2281
-	distance: 1130
+	price: 250
+	time: 2487
+	distance: 1233
 
 	# NODE POSITIONS #######   x*256  , 0,  z*256
 	connection_positions[0]: (18083788, 0, 9497652)

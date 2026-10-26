@@ -6,4 +6,3 @@ ferry_connection : conn.miastoswino.portswinou {
 	distance: 1
 }
 }
-

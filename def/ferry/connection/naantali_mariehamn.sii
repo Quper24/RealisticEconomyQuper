@@ -1,9 +1,9 @@
 SiiNunit
 {
 ferry_connection : conn.naantali.mariehamn{
-	price: 28
-	time: 261
-	distance: 120
+	price: 31
+	time: 271
+	distance: 125
 
 	# NODE POSITIONS #######    x*256 , 0,   z*256
 	connection_positions[0]:  (8991616, 0, -14328500)

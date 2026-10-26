@@ -1,9 +1,9 @@
 SiiNunit
 {
 ferry_connection : conn.stornoway.ullapool{
-	price: 10
-	time: 81
-	distance: 30
+	price: 22
+	time: 187
+	distance: 83
 
 	# NODE POSITIONS #######    x*256  , 0,   z*256
 	connection_positions[0]: (-13605300, 0, -17039514)

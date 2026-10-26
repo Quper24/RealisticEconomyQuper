@@ -6,4 +6,3 @@ ferry_connection : conn.marseille.algiers {
 	distance: 458
 }
 }
-

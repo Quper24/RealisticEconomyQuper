@@ -32,12 +32,12 @@ SiiNunit
 		# in seconds of real time
 		#
 		offence_check_delay[0]: 0	# car crash
-		offence_check_delay[1]: 300	# avoid mandatory break
-		offence_check_delay[2]: 30	# wrong way
+		offence_check_delay[1]: 60	# avoid mandatory break
+		offence_check_delay[2]: 15	# wrong way
 		offence_check_delay[3]: 0	# speeding (camera)
-		offence_check_delay[4]: 120	# no lights during night
+		offence_check_delay[4]: 70	# no lights during night
 		offence_check_delay[5]: 0	# red lights
-		offence_check_delay[6]: 120	# speeding
+		offence_check_delay[6]: 60	# speeding
 		offence_check_delay[7]: 0	# avoid weighing
 		offence_check_delay[8]: 600	# illegal trailer
 
@@ -45,21 +45,21 @@ SiiNunit
 		# in seconds of real time
 		#
 		offence_police_check_delay[0]: 0	# car crash
-		offence_police_check_delay[1]: 120	# avoid mandatory break
-		offence_police_check_delay[2]: 30	# wrong way
+		offence_police_check_delay[1]: 30	# avoid mandatory break
+		offence_police_check_delay[2]: 5	# wrong way
 		offence_police_check_delay[3]: 0	# speeding (camera)
-		offence_police_check_delay[4]: 60	# no lights during night
+		offence_police_check_delay[4]: 7	# no lights during night
 		offence_police_check_delay[5]: 0	# red lights
-		offence_police_check_delay[6]: 0	# speeding
+		offence_police_check_delay[6]: 3	# speeding
 		offence_police_check_delay[7]: 0	# avoid weighing
 		offence_police_check_delay[8]: 300	# illegal trailer
 
-		offence_probabilty[0]: 0.8	# car crash
-		offence_probabilty[1]: 0.4	# avoid mandatory break
-		offence_probabilty[2]: 0.8	# wrong way
+		offence_probabilty[0]: 0.7	# car crash
+		offence_probabilty[1]: 0.3	# avoid mandatory break
+		offence_probabilty[2]: 0.6	# wrong way
 		offence_probabilty[3]: 1.0	# speeding (camera)
-		offence_probabilty[4]: 0.5	# no lights during night
-		offence_probabilty[5]: 1.0	# red lights
+		offence_probabilty[4]: 0.3	# no lights during night
+		offence_probabilty[5]: 0.7	# red lights
 		offence_probabilty[6]: 0.0	# speeding
 		offence_probabilty[7]: 1.0	# avoid weighing
 		offence_probabilty[8]: 0.0	# illegal trailer
@@ -70,14 +70,14 @@ SiiNunit
 		offence_probabilty[13]: 1.0	# illegal trailer (weight station)
 
 		offence_police_probabilty[0]: 1.0	# car crash
-		offence_police_probabilty[1]: 0.5	# avoid mandatory break
-		offence_police_probabilty[2]: 1.0	# wrong way
+		offence_police_probabilty[1]: 0.3	# avoid mandatory break
+		offence_police_probabilty[2]: 0.7	# wrong way
 		offence_police_probabilty[3]: 1.0	# speeding (camera)
-		offence_police_probabilty[4]: 1.0	# no lights during night
+		offence_police_probabilty[4]: 0.8	# no lights during night
 		offence_police_probabilty[5]: 1.0	# red lights
-		offence_police_probabilty[6]: 0.2	# speeding
+		offence_police_probabilty[6]: 0.9	# speeding
 		offence_police_probabilty[7]: 1.0	# avoid weighing
-		offence_police_probabilty[8]: 0.5	# illegal trailer
+		offence_police_probabilty[8]: 0.3	# illegal trailer
 		offence_police_probabilty[9]: 1.0	# avoid inspection
 		offence_police_probabilty[10]: 1.0	# illegal border crossing
 		offence_police_probabilty[11]: 1.0	# hard shoulder violation

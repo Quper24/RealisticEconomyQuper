@@ -1,9 +1,1 @@
-SiiNunit
-{
-ferry_connection : conn.calais.barnaul {
-	price: 805
-	time: 8021
-	distance: 4000
-}
-}
-
+SiiNunit{}

@@ -1,5 +1,6 @@
 SiiNunit
 {
+#quper
 tollgate: tollgate.custom
 {
 	# actual tollgate type and toll value must be set in map
@@ -17,7 +18,8 @@ tollgate: tollgate.autopass.custom
 
 	max_activation_speed: 200.0
 
-	trigger_distance: 3.0
+	trigger_length: 20.0
+	trigger_width: 6.0
 	
 	trigger_offset: -15.0
 }
@@ -64,6 +66,20 @@ tollgate: tollgate.autopass.ovs_disable
 	type: oversize_disabled
 
 	trigger_distance: 3.0
+	
+	trigger_offset: -15.0
+}
+
+tollgate: tollgate.autopass.ovs_disable.long
+{
+	# actual tollgate type and toll value must be set in map
+
+	max_activation_speed: 200.0
+
+	type: oversize_disabled
+
+	trigger_length: 40.0
+	trigger_width: 5.5
 	
 	trigger_offset: -15.0
 }

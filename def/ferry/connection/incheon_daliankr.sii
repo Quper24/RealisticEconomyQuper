@@ -1,9 +1,5 @@
 SiiNunit
 {
-ferry_connection : conn.incheon.daliankr{
-	price: 100
-	time: 967
-	distance: 473
-}
+
 }
 

@@ -1,9 +1,1 @@
-SiiNunit
-{
-ferry_connection : conn.helsinki.yakutsk {
-	price: 7
-	time: 23
-	distance: 1
-}
-}
-
+SiiNunit{}

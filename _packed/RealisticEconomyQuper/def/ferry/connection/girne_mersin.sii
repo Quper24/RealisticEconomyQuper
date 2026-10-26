@@ -1,8 +1,10 @@
 SiiNunit
 {
-ferry_connection : conn.girne.mersin {
-    price: 49
-    time: 461
-    distance: 220
+ferry_connection : conn.girne.mersin{
+	price: 46
+	time: 421
+	distance: 200
+
 }
 }
+
