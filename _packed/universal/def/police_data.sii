@@ -121,6 +121,6 @@ SiiNunit
 		police_nearby_fine_rate: 1.0
 
 		# how often can nearby police car impose a fine
-		police_nearby_offence_timer: 60.0
+		police_nearby_offence_timer: 15.0
 	}
 }
